@@ -16,5 +16,5 @@
 
 ## 致谢
 
-[gmt-china](https://github.com/gmt-china) 的开源项目 [GMT_docs](https://github.com/gmt-china/gmt-china.org)，对本手册的编写起到了很大的帮助作用。
+[gmt-china](https://github.com/gmt-china) 的开源项目 [gmt-chain.org](https://github.com/gmt-china/gmt-china.org)，对本手册的编写起到了很大的帮助作用。
 
