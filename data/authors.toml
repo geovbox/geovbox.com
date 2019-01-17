@@ -1,0 +1,51 @@
+#
+# key 必须唯一且不能是中文
+#
+[gmt]
+    name = "GMT中文社区"
+    avatar = "/avatars/GMT.jpg"
+    homepage = "https://gmt-china.org/"
+    count    = "1"
+[ZhangYingchun]
+    name = "张迎春"
+    avatar = "/avatars/zhangyingchun.png"
+    homepage = "https://github.com/riddlezyc/"
+
+[WangLiang]
+    name = "J.K. Morgan"
+    homepage="https://earthscience.rice.edu/directory/user/100"
+    count    = "1"
+
+[LiuChun]
+    name = "刘春"
+    count    = "1"
+
+[WangWei]
+    name = "汪伟"
+
+[WeiHuajing]
+    name = "魏华敬"
+
+[YinHongwei]
+    name = "尹宏伟"
+
+[YangGengxiong]
+    name = "杨庚兄"
+
+[FengYanjie]
+    name = "冯彦杰"
+    
+[XuWenjia]
+    name = "徐雯峤"
+
+[WuChuang]
+    name = "吴闯"
+
+[WuZhenyun]
+    name = "吴珍云"
+    
+[LinChuan]
+    name = "林川"
+
+
+

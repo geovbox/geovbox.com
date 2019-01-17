@@ -1,0 +1,106 @@
+baseURL = "http://geovbox.com/"
+#/home/lichangsheng/desktop/vbox1.3/doc/geovbox.com/public
+languageCode = "zh-cmn-Hans"
+title = "VBOX 官网"
+
+paginate = 10
+disablePathToLower = true
+preserveTaxonomyNames = true
+hasCJKLanguage = true
+defaultLayout = "news"
+ignoreFiles = ["vbox-users.dat",
+               "GeoJSON.pl",
+               "gmt.history",
+               "gmt.conf",
+               "\\.ps$",
+              ]
+rssLimit = 20
+resourceDir = ".resources"
+
+[blackfriday]
+    hrefTargetBlank = true
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    author = "authors"
+
+[permalinks]
+    blog = "/blog/:slug/"
+
+[author]
+    name = "苏ICP备：17006658号"
+    email = "geovbox@163.com"
+
+[params]
+    description = "面向 构造数值模拟 用户"
+    copyright = "Powered by [Hugo](https://gohugo.io) & Hosted by [GitHub](https://github.com/geovbox/geovbox.com)."
+    
+    # Format dates with Go's time formating
+    since = 2017
+    date_format = "2006年01月02日"
+
+    sectionsInGallery = ["example","blog","am"]
+
+    userMap = "vbox-users.json"
+
+
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+[[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "文档"
+    url = "/docs/"
+    weight = 2
+
+[[menu.main]]
+    name = "图库"
+    url = "/gallery/"
+    weight = 3
+
+[[menu.main]]
+    name = "示例"
+    url = "/example/"
+    weight = 4
+
+[[menu.main]]
+    name = "新闻与案例"
+    url = "/blog/"
+    weight = 5
+
+[[menu.main]]
+    name = "物理模拟"
+    url = "/am/"
+    weight = 6
+
+[[menu.main]]
+    name = "下载"
+    url = "/download/"
+    weight = 7
+
+
+[[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 8
+
+
+[[menu.icon]]
+    name = "qq"
+    url = "/images/qq-group.png"
+    weight = 9
+
+[[menu.icon]]
+    name = "github"
+    url = "https://github.com/geovbox"
+    weight = 10
+
+[[menu.icon]]
+    name = "envelope"
+    url = "mailto:geovbox@163.com"
+    weight = 11
+

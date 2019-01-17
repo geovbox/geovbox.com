@@ -1,0 +1,12 @@
+#
+# key 必须唯一且不能是中文
+#
+[LiChangSheng]
+    name = "李长圣"
+    avatar = "/about/lichangsheng/LiChangSheng.png"
+    homepage = "/about/lichangsheng/"
+    count    = "1"
+
+
+
+
