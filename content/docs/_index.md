@@ -7,9 +7,8 @@
             <h3 class="text-center"><i class="fa fa-book"></i> VBOX手册</h3>
             <p>介绍了VBOX的基本操作，是VBOX新手的推荐入门读物，同时也可以在VBOX日常使用时作为参考。</p>
             <div class="text-center">
-            <a href="https://docs.geovbox.com" class="btn btn-primary" role="button">主页</a>
-            <a href="https://github.com/geovbox/vbox_docs" class="btn btn-default" role="button">源码</a>
-            <a href="/download/" class="btn btn-default" role="button">下载</a>
+            <a href="http://doc.geovbox.com" class="btn btn-primary" role="button">主页</a>
+            <a href="https://github.com/geovbox/vbox_doc" class="btn btn-default" role="button">源码</a>
             </div>
             </div>
         </div>

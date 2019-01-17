@@ -1,6 +1,8 @@
 ---
 title: 一个实例学会VBOX
 date: 2019-01-14
+categories:
+    - 示例
 tags:
     - 挤压构造
 authors:

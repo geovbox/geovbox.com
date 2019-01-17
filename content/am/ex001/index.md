@@ -1,6 +1,8 @@
 ---
 title: 简单的挤压构造物理模拟
 date: 2019-01-14
+categories:
+    - 物理模拟
 tags:
     - 挤压构造
 authors:

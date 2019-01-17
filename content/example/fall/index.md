@@ -1,6 +1,8 @@
 ---
 title: 自由落体
 date: 2017-04-28
+categories:
+    - 示例
 tags:
     - 挤压构造
 authors:

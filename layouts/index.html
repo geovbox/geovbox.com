@@ -13,14 +13,15 @@
         <div class="col-md-6">
             <h4 class="article-title" itemprop="name">{{ with .Site.Data.l10n.global.recent_articles}}{{.}}{{end}}</h4>
             <ul>
-            {{ range first 7 (where .Data.Pages "Section" "!=" "about" ) }}
+            {{ range first 4 (where .Data.Pages "Section" "!=" "about" ) }}
             <li>
-                <h5>
-                <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-                </h5>
-                <h6>
-                <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
-                </h6>
+            
+            <article class="article article-type-post" itemscope="" itemprop="blogPost">
+                <div class="article-inner">
+                    {{ partial "article_header" . }}
+                </div>
+            <article>
+
             </li>
             {{ end }}
             </ul>
