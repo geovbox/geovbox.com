@@ -1,4 +1,4 @@
-baseURL = "http://geovbox.com/"
+baseURL = "https://geovbox.com/"
 #/home/lichangsheng/desktop/vbox1.3/doc/geovbox.com/public
 languageCode = "zh-cmn-Hans"
 title = "VBOX 官网"
