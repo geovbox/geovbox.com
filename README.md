@@ -11,7 +11,7 @@
 ## 相关链接
 
 - VBOX官网：https://geovbox.com/
-- VBOX手册项目源码：https://github.com/geovbox/vbox_doc
+- VBOX手册：https://doc.geovbox.com/
 
 
 ## 致谢
