@@ -11,7 +11,7 @@
     avatar = "/avatars/zhangyingchun.png"
     homepage = "https://github.com/riddlezyc/"
 
-[WangLiang]
+[Morgan]
     name = "J.K. Morgan"
     homepage="https://earthscience.rice.edu/directory/user/100"
     count    = "1"
@@ -47,5 +47,11 @@
 [LinChuan]
     name = "林川"
 
+[LiYong]
+    name = "李勇"
+
+[SunChuang]
+    name = "孙闯"
+    avatar = "/avatars/sunchuang.png"
 
 
