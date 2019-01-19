@@ -13,7 +13,7 @@
         <div class="col-md-6">
             <h4 class="article-title" itemprop="name">{{ with .Site.Data.l10n.global.recent_articles}}{{.}}{{end}}</h4>
             <ul>
-            {{ range first 4 (where .Data.Pages "Section" "!=" "about" ) }}
+            {{ range first 6 (where .Data.Pages "Section" "!=" "about" ) }}
             <li>
             
             <article class="article article-type-post" itemscope="" itemprop="blogPost">

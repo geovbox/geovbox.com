@@ -65,7 +65,7 @@ Nanjing University, Nanjing, Jiangsu 210023, P. R. China
 Mobile: +86-18205187511  
 Email: lichangsheng@smail.nju.edu.cn
 
-You can follow me in the [github](https://github.com/LI-Chang-Sheng), I will update the funny DEM codes in there. 
+You can follow me in the [github](https://github.com/LI-Chang-Sheng), I will update the funny DEM codes there. 
 
 > My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU).
 
