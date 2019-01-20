@@ -1,5 +1,5 @@
 ---
-title: 先存断层设置
+title: 断层设置
 date: 2019-01-20
 categories:
     - 示例
@@ -23,7 +23,7 @@ commands:
 这里是一个 `断层` 设置的实例，一般地，将断层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。
 
 ## 在终端或 `xshell` 中运行 `vboxdaily pre_struct.py` 
- [syn_erosion.py.py](/example/pre_struct/pre_struct.py) 中内容如下：
+ [pre_struct.py](/example/pre_struct/pre_struct.py) 中内容如下：
 
 {{< include-code "pre_struct.py" bash >}}
 

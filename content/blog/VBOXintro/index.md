@@ -7,6 +7,7 @@ authors:
     - 李长圣
 images:
     - VBOX_GUI.png
+    - 20171207-VBOX.png
 slug: VBOX-overview
 ---
 
@@ -27,4 +28,8 @@ VBOX可以完成休止角试验、直剪试验、双轴试验和构造模拟试�
 VBOX桌面版一直在开发中，预览版见下图：
 
 {{< figure src="VBOX_GUI.png" title="VBOX桌面版预览" >}}
+
+VBOX可以实现 ``休止角`` ``直剪试验`` ``双轴试验`` ``构造模拟`` ：
+
+{{< figure src="20171207-VBOX.png" title="VBOX概览" >}}
 
