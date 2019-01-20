@@ -1,5 +1,5 @@
 ---
-title: 一个实例学会VBOX
+title: 一个示例学会VBOX
 date: 2019-01-14
 categories:
     - 示例
@@ -14,7 +14,7 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：[VBOX命令脚本](/example/push/push.py)
+数据下载：[push.py](/example/push/push.py)
 [演化过程图](/example/push/shearSS.zip)
 {{% /notice %}}
 

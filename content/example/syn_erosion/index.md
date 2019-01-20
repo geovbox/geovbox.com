@@ -4,7 +4,7 @@ date: 2019-01-18
 categories:
     - 示例
 tags:
-    - 同构造剥蚀
+    - 剥蚀
 authors:
     - 李长圣
 images:
@@ -15,9 +15,9 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：[VBOX命令脚本](/example/syn_erosion/syn_erosion.py)
-[初始模型](/example/syn_erosion/0000046000.sav)
-[演化过程图](/example/syn_erosion/syn_erosion.gif)
+数据下载：[syn_erosion.py](/example/syn_erosion/syn_erosion.py)
+[0000046000.sav](/example/syn_erosion/0000046000.sav)
+[syn_erosion.gif](/example/syn_erosion/syn_erosion.gif)
 {{% /notice %}}
 
 

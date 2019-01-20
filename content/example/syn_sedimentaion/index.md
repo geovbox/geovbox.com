@@ -4,7 +4,7 @@ date: 2019-01-19
 categories:
     - 示例
 tags:
-    - 同构造沉积
+    - 沉积
 authors:
     - 李长圣
 images:
@@ -14,9 +14,9 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：[VBOX命令脚本](/example/syn_sedimentaion/syn_sedimentaion.py)
-[初始模型](/example/syn_sedimentaion/0000046000.sav)
-[演化过程图](/example/syn_sedimentaion/syn_sedimentaion.gif)
+数据下载：[syn_sedimentaion.py](/example/syn_sedimentaion/syn_sedimentaion.py)
+[0000046000.sav](/example/syn_sedimentaion/0000046000.sav)
+[syn_sedimentaion.gif](/example/syn_sedimentaion/syn_sedimentaion.gif)
 {{% /notice %}}
 
 
