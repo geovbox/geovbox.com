@@ -6,7 +6,7 @@ title:
 {{< row >}}
 {{% col 4 %}}
 ### Windows用户
-打开 [xshell](https://www.netsarang.com) ，登陆VBOX所在集群，运行
+打开 [Xshell](https://www.netsarang.com) ，登陆VBOX所在集群 ``hpcc.nju.edu.cn`` ，运行
 ```bash
 vboxdaily -v
 ```
@@ -25,7 +25,7 @@ vboxdaily -v
 
 {{% col 4 %}}
 ### Ubuntu用户
-打开终端，登陆VBOX所在集群，运行
+打开终端，登陆VBOX所在集群  ``hpcc.nju.edu.cn`` ，运行
 
 ```bash
 vboxdaily -v
@@ -42,6 +42,11 @@ vboxdaily -v
 {{< /row >}}
 
 ---
+
+{{% notice info %}}
+集群 ``hpcc.nju.edu.cn`` 开通账户的方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc.html)。  
+集群 ``hpcc.nju.edu.cn`` 登陆方法见 [Xshell中使用VBOX](https://geovbox.com/docs/)。
+{{% /notice %}}
 
 ### 相关文献
 

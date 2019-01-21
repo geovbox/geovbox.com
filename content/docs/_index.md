@@ -37,4 +37,16 @@
             </div>
         </div>
     </div>
+    <div class="clearfix visible-sm"></div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="thumbnail">
+            <div class="caption">
+            <h5 class="text-center"><i class="fa fa-image"></i> Xshell中使用VBOX</h5>
+            <h3 class="text-center"> <img src="/docs/usevbox.gif"  alt="使用VBOX" /> </h3>
+            <div class="text-center">
+<!--            <a href="/example/" class="btn btn-primary" role="button">主页</a>-->
+            </div>
+            </div>
+        </div>
+    </div>
 </div>
