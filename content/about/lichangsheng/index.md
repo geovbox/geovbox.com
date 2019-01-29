@@ -29,7 +29,7 @@ images:
 
 **2018**  
 
-- Changsheng LI, Lu Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)  
+- Changsheng LI, Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)  
 - Changsheng LI, Hongwei YIN*, Chuang WU, et al. Comparisons between a high resolution discrete  element model and analogue model. (in preparation)  
 - [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
 
@@ -87,7 +87,7 @@ My [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate
 
 **2018**
 
-- Changsheng LI, Lu Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)
+- Changsheng LI, Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)
 
 - Changsheng LI, Hongwei YIN*, Chuang WU, et al. Comparisons between a high resolution discrete  element model and analogue model. (in preparation)
 
