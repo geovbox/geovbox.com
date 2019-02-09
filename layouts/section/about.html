@@ -2,54 +2,79 @@
 <section id="main">
     <article>
         <div class="article-inner">
-              {{ .Content }}
-              <h4> 网站维护者 </h4>
-              <div class="row author-list">
-                {{ $authors := .Site.Data.maintainer }}
-                {{ range $authors }}
-                    <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
-                          {{ if .avatar }}
-                          <img src="{{ .avatar }}" alt="{{ .name }}" class="img-circle">
-                          {{ else }}
-                          <img src="https://www.gravatar.com/avatar/{{ md5 .name }}?s=200&d=identicon" class="img-circle">
-                          {{ end }}
-                          
-                          <a href="{{ .homepage }}">
-                          {{ if .homepage }}
-                          <div class="author-name"><h5> <font color="#0000FF">{{ .name }}</font></h5></div>
-                          {{ else }}
-                          <div class="author-name"><h5> {{ .name }}</h5></div>
-                          {{ end }}
-                          </a>
-                    </div>
+            {{ .Content }}
+            <h4> {{ i18n "web_maintainer" }} </h4>
+            <div class="row author-list">
+<!--            {{ $authors := .Site.Data.maintainer }}-->
+<!--            {{ range $authors }}-->
+<!--                <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">-->
+<!--                      {{ if .avatar }}-->
+<!--                      <img src="{{ .avatar }}" alt="{{ .name }}" class="img-circle">-->
+<!--                      {{ else }}-->
+<!--                      <img src="https://www.gravatar.com/avatar/{{ md5 .name }}?s=200&d=identicon" class="img-circle">-->
+<!--                      {{ end }}-->
+<!--                      -->
+<!--                      <a href="{{ .homepage }}">-->
+<!--                      {{ if .homepage }}-->
+<!--                      <div class="author-name"><h5> <font color="#0000FF">{{ .name }}</font></h5></div>-->
+<!--                      {{ else }}-->
+<!--                      <div class="author-name"><h5> {{ .name }}</h5></div>-->
+<!--                      {{ end }}-->
+<!--                      </a>-->
+<!--                </div>-->
+<!--            {{ end }}-->
+                {{ $.Scratch.Add "imageCount" 0 }}
+                {{ range (where .Site.Pages "Section" "in" "about" ) }}
+                {{ $post_permalink := .Permalink }}
+                {{ $post_title := .Title }}
+                {{ $images_to_show := .Params.images }}
+                {{ range .Resources.ByType "image" }} <!-- loop over resources -->
+                    {{ if in $images_to_show .Name }}
+                        {{ $.Scratch.Add "imageCount" 1 }}
+                            {{ $image := .Resize "100x" }}
+                            <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+                                <a href="{{ $post_permalink }}" >
+                                    <img src="{{ $image.RelPermalink }}" alt="{{ $post_title }}" class="img-circle">
+                                    <div class="author-name"> {{ $post_title }}</div>
+                                </a>
+                            </div>
+                        {{ end }}
+                        {{ if eq (mod ($.Scratch.Get "imageCount") 6) 0}}
+                            <div class="clearfix visible-lg visible-md"></div>
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
-              </div>
+            </div>
         </div>
     </article>
     
     <div class="article-inner">
-          <h4> 致谢 </h4>
-          <div class="row author-list">
-            {{ $authors := .Site.Data.authors }}
-            {{ range $authors }}
-                <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
-                      {{ if .homepage }}
-                          <a href="{{ .homepage }}">
-                      {{end}}
-                          {{ if .avatar }}
-                            <img src="{{ .avatar }}" alt="{{ .name }}" class="img-circle">
-                          {{ else }}
-                            <img src="https://www.gravatar.com/avatar/{{ md5 .name }}?s=200&d=identicon" class="img-circle">
-                          {{ end }}
-                     {{ if .homepage }}
-                        <div class="author-name"> <h5><font color="#0000FF">{{ .name }}</font></h5> </div>
-                        </a>
-                     {{ else }}
-                       <div class="author-name"><h5>{{ .name }}</h5></div>
-                     {{end}}
-                </div>
-            {{ end }}
-          </div>
+        <h4> {{ i18n "thanks" }} </h4>
+        <div class="row author-list">
+        {{ $authors := .Site.Data.authors }}
+        {{ $languageNow := .Site.Language.Lang }}
+        {{ range $authors }}
+            <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+                {{ if .avatar }}
+                    <img src="{{ .avatar }}" alt="{{ .name }}" class="img-circle">
+                {{ else }}
+                    <img src="https://www.gravatar.com/avatar/{{ md5 .name }}?s=200&d=identicon" class="img-circle">
+                {{ end }}
+                
+                {{ if .homepage }}
+                    <a href="{{ .homepage }}">
+                {{end}}
+                    {{if and (eq $languageNow "en") ( .nameEnglish ) }}
+                        <div class="author-name">{{ .nameEnglish }}</div>
+                    {{else}}
+                        <div class="author-name">{{ .name }}</div>
+                    {{end}}
+                {{ if .homepage }}
+                    </a>
+                {{end}}
+            </div>
+        {{ end }}
+        </div>
     </div>
 
 </section>

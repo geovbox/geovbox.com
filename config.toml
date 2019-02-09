@@ -2,6 +2,8 @@ baseURL = "https://geovbox.com/"
 #/home/lichangsheng/desktop/vbox1.3/doc/geovbox.com/public
 languageCode = "zh-cmn-Hans"
 title = "VBOX 官网"
+defaultContentLanguage = "zh-cn" # en / zh-CN / ... (This field determines which i18n file to use)
+defaultContentLanguageInSubdir= false
 
 paginate = 10
 disablePathToLower = true
@@ -45,62 +47,134 @@ resourceDir = ".resources"
     userMap = "vbox-users.json"
 
 
+[Languages]
+[Languages.zh-cn]
+title = "VBOX官网"
+weight = 0
+languageName = "中文"
+
+[Languages.zh-cn.params]
+    date_format = "2006年01月02日"
 # Navigation Links
 #   The weight parameter defines the order that the links will appear in.
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "首页"
     url = "/"
     weight = 1
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "文档"
     url = "/docs/"
     weight = 2
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "图库"
     url = "/gallery/"
     weight = 3
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "示例"
     url = "/example/"
     weight = 4
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "新闻与案例"
     url = "/blog/"
     weight = 5
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "物理模拟"
     url = "/am/"
     weight = 6
 
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "下载"
     url = "/download/"
     weight = 7
 
-
-[[menu.main]]
+[[Languages.zh-cn.menu.main]]
     name = "关于"
     url = "/about/"
     weight = 8
 
+#[[Languages.zh-cn.menu.icon]]
+#    name = "qq"
+#    url = "/images/qq-group.png"
+#    weight = 10
 
-[[menu.icon]]
-    name = "qq"
-    url = "/images/qq-group.png"
-    weight = 9
+#[[Languages.zh-cn.menu.icon]]
+#    name = "github"
+#    url = "https://github.com/geovbox"
+#    weight = 11
 
-[[menu.icon]]
-    name = "github"
-    url = "https://github.com/geovbox"
-    weight = 10
+#[[Languages.zh-cn.menu.icon]]
+#    name = "envelope"
+#    url = "mailto:geovbox@163.com"
+#    weight = 12
 
-[[menu.icon]]
-    name = "envelope"
-    url = "mailto:geovbox@163.com"
-    weight = 11
 
+[Languages.en]
+weight = 20
+languageName = "English"
+title = "VBOX"
+
+[Languages.en.params]
+    date_format = "2 Jan 2006"
+[Languages.en.author]
+    name = "VBOX"
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+[[Languages.en.menu.main]]
+    name = "Home"
+    url = "/en/"
+    weight = 21
+
+[[Languages.en.menu.main]]
+    name = "Document"
+    url = "/en/docs/"
+    weight = 22
+
+[[Languages.en.menu.main]]
+    name = "Gallery"
+    url = "/en/gallery/"
+    weight = 23
+
+[[Languages.en.menu.main]]
+    name = "Example"
+    url = "/en/example/"
+    weight = 24
+
+[[Languages.en.menu.main]]
+    name = "News"
+    url = "/en/blog/"
+    weight = 25
+
+[[Languages.en.menu.main]]
+    name = "Analog Model"
+    url = "/en/am/"
+    weight = 26
+
+[[Languages.en.menu.main]]
+    name = "Download"
+    url = "/en/download/"
+    weight = 27
+
+[[Languages.en.menu.main]]
+    name = "About"
+    url = "/en/about/"
+    weight = 28
+
+#[[Languages.en.menu.icon]]
+#    name = "qq"
+#    url = "/images/qq-group.png"
+#    weight = 29
+
+#[[Languages.en.menu.icon]]
+#    name = "github"
+#    url = "https://github.com/geovbox"
+#    weight = 30
+
+#[[Languages.en.menu.icon]]
+#    name = "envelope"
+#    url = "mailto:geovbox@163.com"
+#    weight = 31

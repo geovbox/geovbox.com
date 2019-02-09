@@ -235,7 +235,7 @@ img {
     padding-bottom: 20px;
 }
 .author-list img {
-    width: 70%;
+    width: 60%;
 }
 
 .author-list .col-xs-6, .author-list .col-md-2 {
@@ -245,6 +245,7 @@ img {
 .author-list .author-name {
 	text-align: center;
 	padding-top: 10px;
+	font-size: 14px;
 }
 
 .author-list .author-info .fa {

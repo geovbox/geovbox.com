@@ -3,11 +3,13 @@
 #
 [gmt]
     name = "GMT中文社区"
+    nameEnglish = "GMT-China"
     avatar = "/avatars/GMT.jpg"
     homepage = "https://gmt-china.org/"
     count    = "1"
 [ZhangYingchun]
     name = "张迎春"
+    nameEnglish = "ZHANG YingChun"
     avatar = "/avatars/zhangyingchun.png"
     homepage = "https://github.com/riddlezyc/"
 
@@ -18,42 +20,55 @@
 
 [LiuChun]
     name = "刘春"
+    nameEnglish = "LIU Chun"
     count    = "1"
 
 [WangWei]
     name = "汪伟"
+    nameEnglish = "WANG Wei"
 
 [WeiHuajing]
     name = "魏华敬"
+    nameEnglish = "WEI HuaJing"
 
 [YinHongwei]
     name = "尹宏伟"
+    nameEnglish = "YIN HongWei"
 
 [YangGengxiong]
     name = "杨庚兄"
+    nameEnglish = "YANG GengXiong"
 
 [FengYanjie]
     name = "冯彦杰"
+    nameEnglish = "FENG YanJie"
     
 [XuWenjia]
     name = "徐雯峤"
+    nameEnglish = "XU WenQiao"
 
 [WuChuang]
     name = "吴闯"
+    nameEnglish = "WU Chuang"
 
 [WuZhenyun]
     name = "吴珍云"
+    nameEnglish = "WU ZhenYun"
     
 [LinChuan]
     name = "林川"
+    nameEnglish = "LIN Chuan"
 
 [LiYong]
     name = "李勇"
+    nameEnglish = "LI Yong"
 
 [SunChuang]
     name = "孙闯"
+    nameEnglish = "SUN Chuang"
     avatar = "/avatars/sunchuang.png"
 
 [ZhangJiaxing]
     name = "张佳星"
+    nameEnglish = "ZHANG JiaXing"
 
