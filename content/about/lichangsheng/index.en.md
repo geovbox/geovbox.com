@@ -5,7 +5,7 @@ tags:
     -  Website Maintainer
     - VBOX Developer
 authors:
-    - LI C.S.
+    - LI ChangSheng
 images:
     - LiChangSheng.png
 ---
@@ -16,8 +16,6 @@ images:
     </div>
 </div>
 
-
-# LI ChangSheng
 
 School of Earth Sciences and Engineering  
 Nanjing University, Nanjing, Jiangsu 210023, P. R. China  
