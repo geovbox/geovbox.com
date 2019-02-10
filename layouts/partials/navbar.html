@@ -26,13 +26,15 @@
                         {{ end }}
 <!--                        <li><a href="{{ .Site.RSSLink }}"><i class="fa fa-rss-square fa-lg" aria-hidden="true"></i></a></li>-->
                         <!-- Language List -->
-                        <li class="list-inline text-center mb-0">
+                        
                         {{ if .IsTranslated }}
+                        <li class="list-inline text-center mb-0">
                             {{ range .Translations }}
                             <a class="text-dark" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
                             {{ end }}
-                        {{ end }}
                         </li>
+                        {{ end }}
+                        
                     </ul>
                 </div>
             </div>

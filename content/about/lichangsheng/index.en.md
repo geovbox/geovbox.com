@@ -11,7 +11,7 @@ images:
 ---
 
 <div class="row author-list">
-    <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+    <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
           <img src="LiChangSheng.png" alt="李长圣" class="img-circle">
     </div>
 </div>

@@ -10,21 +10,22 @@ images:
     - LiChangSheng.png
 ---
 
-
 <div class="row author-list">
-    <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+    <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
           <img src="LiChangSheng.png" alt="李长圣" class="img-circle">
     </div>
 </div>
 
-一生万物
-
+    南京大学 地球科学与工程学院 地质资源与地质工程 在读博士研究生
     2014~现在，主要做离散元并行计算（CPU/GPU）、岩土体及构造相关的数值模拟。  
     硕士期间主要做土石混合体，图像处理MATLAB，网格划分（有限元、有限差分FLAC3D）等方面的工作。
 
 
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn`  
-我的 [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)
+
+- [李长圣的个人主页](https://lichangsheng.geovbox.com)
+- [李长圣的GitHub](https://github.com/demsheng)  
+- [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
 
 ## 论文发表
 
