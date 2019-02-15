@@ -20,7 +20,7 @@ title: 关于
 
  - 官方QQ群：432511425 
  - 地址：南京市南京大学仙林校区地球科学与工程学院
- - 使用建议及投稿请联系： [geovbox@163.com](mailto:geovbox@163.com)
+ - 使用建议及投稿请联系： [sheng@geovbox.com](mailto:sheng@geovbox.com)
  
 {{% /col %}}
 {{< /row >}}

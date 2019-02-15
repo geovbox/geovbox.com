@@ -24,7 +24,7 @@ vboxdaily -v
 {{% /col %}}
 
 {{% col 4 %}}
-### Ubuntu Users
+### Linux Users
 Open terminal, login VBOX cluster ``hpcc.nju.edu.cn`` , run
 
 ```bash

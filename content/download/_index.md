@@ -24,7 +24,7 @@ vboxdaily -v
 {{% /col %}}
 
 {{% col 4 %}}
-### Ubuntu用户
+### Linux用户
 打开终端，登陆VBOX所在集群  ``hpcc.nju.edu.cn`` ，运行
 
 ```bash

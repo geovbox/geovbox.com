@@ -20,7 +20,7 @@ title: About
 
  - Official QQ group: 432511425 
  - Address: School of Earth Sciences and Engineering, Nanjing University, Nanjing, China
- - Suggestions and Contributions: [geovbox@163.com](mailto:geovbox@163.com)
+ - Suggestions and Contributions: [sheng@geovbox.com](mailto:sheng@geovbox.com)
  
 {{% /col %}}
 {{< /row >}}
