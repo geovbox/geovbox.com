@@ -28,6 +28,7 @@ My [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate
 
 ## Education
 
+- 2018.04~2018.06   Earth Observatory of Singapore, Nanyang Technologyical University  （ short visit ）  
 - 08.2014~Present    Ph.D. in Structural Geology, School of Earth Sciences and Engineering, Nanjing University, China
 
 

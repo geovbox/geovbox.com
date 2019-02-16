@@ -27,13 +27,22 @@ images:
 - [李长圣的GitHub](https://github.com/demsheng)  
 - [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
 
+## 软件著作权
+- 虚拟沙箱软件Vbox V1.0，2015
+
 ## 论文发表
+
+**2019**  
+
+- Li C.S., Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
+- Li C.S., Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
+- Li C.S., Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. Journal of Structural Geology. (under review)
 
 **2018**  
 
-- Changsheng LI, Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)  
-- Changsheng LI, Hongwei YIN*, Chuang WU, et al. Comparisons between a high resolution discrete  element model and analogue model. (in preparation)  
-- [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
+- [Li C.S., Yin H.W., Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
+- 李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. 2018中国地球科学联合学术年会论文集, 北京, 2018.（论文）
+- 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. 第一届构造地质学与地球动力学青年学术论坛，昆明，2018.（摘要）
 
 **2017**  
 
@@ -53,6 +62,7 @@ images:
 
 ## 教育经历
 
+- 2018.04~2018.06  南洋理工大学     新加坡地球观测研究所(EOS)       （短期访问）  
 - 2014~现在  南京大学                地质资源与地质工程 （博士）  
 - 2012~2014 南京大学                地质工程                  （硕士）  
 - 2008~2012 华北科技学院         地质工程                  （本科）  
