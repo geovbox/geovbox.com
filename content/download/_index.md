@@ -35,8 +35,9 @@ vboxdaily -v
 {{% col 4 %}}
 ### VBOX 参考手册
 
-- VBOX1.3：
-    [在线阅读](http://doc.geovbox.com)
+- VBOX1.3：  
+  - [在线阅读](http://doc.geovbox.com)  
+  - [PDF下载](VBOX手册v1.3.pdf)
 {{% /col %}}
 
 {{< /row >}}
@@ -50,10 +51,12 @@ vboxdaily -v
 
 ### 相关文献
 
-1. [李长圣,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试[J].南京大学学报(自然科学),2017(06):1161-1170.](共享内存式并行离散元程序的设计与测试_李长圣.pdf)
-2. [吴闯. 青海省木里地区天然气水合物构造成藏机制[D].南京大学,2017.](http://t.cn/RpLyDni)
-3. [林川. 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验[D].南京大学,2017.](http://t.cn/RpLUbiW)
-4. [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](li2017.pdf)
+1.李长圣. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.(知网待刊)  
+2.张佳星. 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学,2018.(知网待刊)  
+3. [李长圣,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试[J].南京大学学报(自然科学),2017(06):1161-1170.](共享内存式并行离散元程序的设计与测试_李长圣.pdf)  
+4. [吴闯. 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学,2017.](http://t.cn/RpLyDni)  
+5. [林川. 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学,2017.](http://t.cn/RpLUbiW)  
+6. [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](li2017.pdf)
 
 
 
