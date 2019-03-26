@@ -36,7 +36,8 @@ vboxdaily -v
 ### VBOX Manual
 
 - VBOX1.3：
-    [Online read](http://doc.geovbox.com)
+  - [Online read](http://doc.geovbox.com)
+  - [PDF download](vbox1.3manual.pdf)
 {{% /col %}}
 
 {{< /row >}}

@@ -37,7 +37,7 @@ vboxdaily -v
 
 - VBOX1.3：  
   - [在线阅读](http://doc.geovbox.com)  
-  - [PDF下载](VBOX手册v1.3.pdf)
+  - [PDF下载](vbox1.3manual.pdf)
 {{% /col %}}
 
 {{< /row >}}
