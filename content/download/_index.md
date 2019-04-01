@@ -38,7 +38,7 @@ vboxdaily -v
 - VBOX1.3：  
   - [在线阅读](http://doc.geovbox.com)  
   - [PDF下载](vbox1.3manual.pdf)
-  - [百度网盘下载](https://pan.baidu.com/s/1a0gKMrMvhEwCcsSO-4uApQ) 提取码：`nxws`  
+
 
 {{% /col %}}
 
