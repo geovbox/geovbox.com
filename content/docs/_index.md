@@ -9,6 +9,7 @@
             <div class="text-center">
             <a href="http://doc.geovbox.com" class="btn btn-primary" role="button">主页</a>
             <a href="https://github.com/geovbox/vbox_doc" class="btn btn-default" role="button">源码</a>
+            <a href="https://geovbox.com/download/" class="btn btn-default" role="button">下载</a>
             </div>
             </div>
         </div>
