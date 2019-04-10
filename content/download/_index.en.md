@@ -45,8 +45,8 @@ vboxdaily -v
 ---
 
 {{% notice info %}}
-How to open accounts in the cluster ``hpcc.nju.edu.cn``? See [Open Accounts in HPCC of Nanjing University](https://doc.geovbox.com/latest/hpc.html).  
-How to login the cluster ``hpcc.nju.edu.cn``? See [Run VBOX in Xshell](https://geovbox.com/docs/).
+How to open accounts in the cluster ``hpcc.nju.edu.cn``? See [Open Accounts in HPCC of Nanjing University](https://doc.geovbox.com/latest/hpc/).  
+How to use the cluster ``hpcc.nju.edu.cn``? See [Run VBOX in cluster ](https://doc.geovbox.com/latest/use/).
 {{% /notice %}}
 
 ### Reference

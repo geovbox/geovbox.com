@@ -46,8 +46,8 @@ vboxdaily -v
 ---
 
 {{% notice info %}}
-集群 ``hpcc.nju.edu.cn`` 开通账户的方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc.html)。  
-集群 ``hpcc.nju.edu.cn`` 登陆方法见 [Xshell中使用VBOX](https://geovbox.com/docs/)。
+集群 ``hpcc.nju.edu.cn`` 开通账户的方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc/)。  
+集群 ``hpcc.nju.edu.cn`` 使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
 {{% /notice %}}
 
 ### 相关文献
