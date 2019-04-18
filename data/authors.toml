@@ -20,6 +20,7 @@
 
 [LiuChun]
     name = "刘春"
+    homepage="http://es.nju.edu.cn/lc/list.htm"
     nameEnglish = "LIU Chun"
     count    = "1"
 
@@ -33,6 +34,7 @@
 
 [YinHongwei]
     name = "尹宏伟"
+    homepage="http://es.nju.edu.cn/yhw/list.htm"
     nameEnglish = "YIN HongWei"
 
 [YangGengxiong]

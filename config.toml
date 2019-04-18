@@ -63,7 +63,7 @@ languageName = "中文"
     weight = 1
 
 [[Languages.zh-cn.menu.main]]
-    name = "文档"
+    name = "手册"
     url = "https://doc.geovbox.com"
     weight = 2
 

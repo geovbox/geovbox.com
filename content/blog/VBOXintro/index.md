@@ -7,7 +7,6 @@ authors:
     - 李长圣
 images:
     - VBOX_GUI.png
-    - 20171207-VBOX.png
 slug: VBOX-overview
 ---
 

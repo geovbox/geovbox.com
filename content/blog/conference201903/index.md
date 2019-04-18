@@ -5,6 +5,9 @@ categories:
     - 新闻
 authors:
     - 李长圣
+images:
+    - 1.PNG
+    - 2.PNG
 slug: 201903
 ---
 
