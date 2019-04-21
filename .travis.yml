@@ -3,7 +3,7 @@
 language: generic
 
 install:
-  - curl -L https://raw.githubusercontent.com/seisman/install/master/install-hugo.sh | bash
+  - curl -L https://raw.githubusercontent.com/geovbox/geovbox.com/master/install-hugo.sh | bash
 
 script:
   - ./hugo 
