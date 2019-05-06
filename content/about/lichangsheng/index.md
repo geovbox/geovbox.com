@@ -24,7 +24,7 @@ images:
 
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn`  
 
-- [李长圣的个人网站](https://lichangsheng.geovbox.com)
+- [李长圣的个人网站](https://sheng.geovbox.com)
 - [李长圣的GitHub](https://github.com/demsheng)  
 - [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
 
@@ -33,31 +33,31 @@ images:
 
 ## 论文发表
 
-**2019**  
+- **2019**  
 
-- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
-- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
-- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. Journal of Structural Geology. (under review)
-- **李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.(知网待刊)  
+	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
+	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
+	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. Journal of Structural Geology. (under review)
+	- **李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.(知网待刊)  
 
-**2018**  
+- **2018**  
 
-- [**Li C.S.**, Yin H.W., Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
-
-
-**2017**  
-
-- [**李长圣**,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)
+	- [**Li C.S.**, Yin H.W., Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
 
 
-**2016**  
+- **2017**  
 
-- [**Li C.S.**, Zhang D., Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)
+	- [**李长圣**,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)
 
-**2014**  
 
-- [**李长圣**. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.**南京大学**,2014.](http://t.cn/E6kqz7M)
-- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)
+- **2016**  
+
+	- [**Li C.S.**, Zhang D., Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)
+
+- **2014**  
+
+	- [**李长圣**. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.**南京大学**,2014.](http://t.cn/E6kqz7M)
+	- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)
 
 ## 会议
 - 李长圣. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)  
@@ -82,4 +82,24 @@ images:
     - 2018.04~2018.06  南洋理工大学     新加坡地球观测研究所(EOS) Paul TAPPONNIER院士 （短期访学）  
 - 2012.09~2014.06  南京大学         地质工程                   （硕士）  
 - 2008.09~2012.07  华北科技学院      地质工程                  （本科）  
+
+## 科研项目
+
+- **博士阶段**
+
+	- <font color=#0099ff >多滑脱层挤压构造结构特征与变形机制的定量研究-以塔里木盆地库车坳陷深层构造为例，2015~，**国家自然科学基金**，主要参与</font>
+	- 琼东南盆地深水区构造差异化及构造动力学成因机制，**国家重大科技专项大型油气田及煤层气开发**，2016~，参与
+	- <font color=#0099ff >前陆盆地“顶蓬构造”物理模拟及数值模拟研究，**中石油 塔里木油田分公司勘探开发研究院**，2015~2016，主要参与</font>
+	- <font color=#0099ff >和田河玛东地区潜山及盐相关构造物理及数值模拟实验研究，**中石油 塔里木油田分公司勘探开发研究院**，2017~2018，主要参与</font>
+	- 西昆仑山北麓新生代前陆褶皱冲断带构造特征与变形机制定量研究，**国家自然科学基金**，2014~2016，参与
+	- 深层构造控藏作用的物理模拟与数值模拟及大型克拉通盆地基底结构研究，**国家科技重大专项**，2016~，参与
+	- 中国南方古生界页岩气赋存富集机理和资源潜力评价，**国家重点基础研究发展计划(973计划)** ，2014~2016，参与
+
+- **硕士阶段**
+
+	- <font color=#0099ff >库岸含砾滑带土的变形、强度特征与砾-土相互作用机制研究，**国家自然科学基金**，2014~2015，主要参与</font>
+	- 张集煤矿1611(3)采后覆岩破坏探测，**淮南矿业集团张集矿重点项目**，2012-2014,参与
+	- 潘一东矿煤层采动应力场变化规律现场探测与反演分析，**淮南矿业集团潘一东矿重点项目**，2012-2014,参与
+	- 王家岭煤矿高精度地质模型及重大危险源预警系统项目，**北京龙软科技股份有限公司**，2012.03-04，参与
+
 
