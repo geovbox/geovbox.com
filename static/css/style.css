@@ -231,21 +231,21 @@ img {
 
 /* authors */
 .author-list {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .author-list img {
-    width: 60%;
+    width: 100%;
 }
 
 .author-list .col-xs-6, .author-list .col-md-2 {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .author-list .author-name {
 	text-align: center;
-	padding-top: 10px;
-	font-size: 14px;
+	padding-top: 5px;
+	font-size: 18px;
 }
 
 .author-list .author-info .fa {

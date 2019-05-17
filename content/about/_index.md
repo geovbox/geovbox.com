@@ -20,9 +20,81 @@ title: 关于
 
  - 官方QQ群：432511425 
  - 地址：南京市南京大学仙林校区地球科学与工程学院
- - 使用建议及投稿请联系： [sheng@geovbox.com](mailto:sheng@geovbox.com)
+ - 使用建议及投稿请联系： [sheng0619@163.com](mailto:sheng0619@163.com)
  
 {{% /col %}}
 {{< /row >}}
 
-**特别致谢：[Julia Morgan](https://earthscience.rice.edu/directory/user/100) 和 Thomas Fournier提供的离散元后处理脚本(GMT和MATLAB脚本)，网站中的图片均基于该脚本绘制。其中涉及的应力应变计算方法见 [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full) (DOI: 10.1002/2014JB011455).**
+
+#### 软件开发与网站维护
+{{< row >}}
+{{% col 12 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+		<a href="/about/lichangsheng/" >
+			<img src="/about/lichangsheng/LiChangSheng.png" alt="李长圣" class="img-circle" >
+			<div class="author-name"> 李长圣</div>
+		</a>
+		
+	</div> 
+</div>
+{{% /col %}}
+{{< /row >}}
+
+
+#### 用户
+{{< row >}}
+{{% col 6 %}}
+
+- [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) 教授 课题组 **南京大学**
+
+	- 成员： 冯彦杰 徐雯峤 杨庚兄 魏华敬 汪伟 
+	- 已毕业：[李长圣](/about/lichangsheng/) 林川 吴闯 吴珍云 张佳星 
+
+{{% /col %}}
+
+{{% col 6 %}}
+
+- [**童亨茂**](http://www.cup.edu.cn/geosci/szdw/jiaoshou/50739.htm) 教授 课题组 **中国石油大学（北京）**
+
+	- 成员：肖坤泽
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+{{% col 6%}}
+
+- **吴珍云** **东华理工大学**
+
+{{% /col %}}
+{{< /row >}}
+
+
+
+#### 致谢
+{{< row >}}
+
+{{% col 2 %}}
+[GMT中文社区](https://gmt-china.org/)
+{{% /col %}}
+
+{{% col 4 %}}
+[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100) (Rice University)
+{{% /col %}}
+
+{{% col 2 %}}
+[刘春](http://es.nju.edu.cn/lc/list.htm) (南京大学)
+{{% /col %}}
+
+{{% col 2 %}}
+孙闯 (中山大学)
+{{% /col %}}
+
+{{% col 2 %}}
+[张迎春](https://github.com/riddlezyc/) (南京大学)
+{{% /col %}}
+
+{{< /row >}}
+
+**特别致谢：[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100) 和 Thomas Fournier提供的离散元后处理脚本(GMT和MATLAB脚本)，网站中的图片均基于该脚本绘制。其中涉及的应力应变计算方法见 [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full) (DOI: 10.1002/2014JB011455).**
