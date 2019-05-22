@@ -88,7 +88,7 @@ WANG Wei (Nanjing University)
 {{% /col %}}
 
 {{% col 6 %}}
-WU Zhunyun (East China University of Technology)
+[WU Zhunyun](/about/wuzhenyun/) (East China University of Technology)
 {{% /col %}}
 
 {{% col 6 %}}
