@@ -1,5 +1,5 @@
 ---
-title: 同构造剥蚀
+title: 剥蚀
 date: 2019-01-18
 categories:
     - 示例

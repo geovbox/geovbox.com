@@ -1,5 +1,5 @@
 ---
-title: 断层设置
+title: 断层
 date: 2019-01-20
 categories:
     - 示例

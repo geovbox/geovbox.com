@@ -1,5 +1,5 @@
 ---
-title: 同构造沉积
+title: 沉积
 date: 2019-01-19
 categories:
     - 示例
