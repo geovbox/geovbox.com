@@ -34,7 +34,7 @@ commands:
 - [palaeohigh.py](/example/ex6_palaeohigh/palaeohigh.py)
 - [init_xyr.dat](/example/ex6_palaeohigh/init_xyr.dat)
 
-## 进入 `ex5` 目录，在终端或 `xshell` 中运行 
+## 进入 `ex6` 目录，在终端或 `xshell` 中运行 
 
 ```
 $ bsub < lsf.sh   # 提交计算

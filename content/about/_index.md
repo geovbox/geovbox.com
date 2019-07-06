@@ -49,7 +49,7 @@ title: 关于
 - [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) **南京大学**
 
 	- 成员： 冯彦杰 徐雯峤 杨庚兄 魏华敬 汪伟 
-	- 已毕业：[李长圣](/about/lichangsheng/) 林川 吴闯 吴珍云 张佳星 
+	- 已毕业：[李长圣](/about/lichangsheng/) 林川 吴闯 [吴珍云](/about/wuzhenyun/) 张佳星 
 
 {{% /col %}}
 
