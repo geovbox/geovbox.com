@@ -82,7 +82,7 @@ title: 关于
 {{< row >}}
 {{% col 6%}}
 
-- [**陈汉林**](/about/wuzhenyun/) 教授 **浙江大学**
+- [**陈汉林**](https://person.zju.edu.cn/hlchentectonic) 教授 **浙江大学**
 
 	- 成员： 辛文 
 
