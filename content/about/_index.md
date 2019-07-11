@@ -46,7 +46,7 @@ title: 关于
 {{< row >}}
 {{% col 6 %}}
 
-- [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) **南京大学**
+- [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) 教授 **南京大学**
 
 	- 成员： 冯彦杰 徐雯峤 杨庚兄 魏华敬 汪伟 
 	- 已毕业：[李长圣](/about/lichangsheng/) 林川 吴闯 吴珍云 张佳星 
@@ -55,7 +55,7 @@ title: 关于
 
 {{% col 6 %}}
 
-- [**童亨茂**](http://www.cup.edu.cn/geosci/szdw/jiaoshou/50739.htm) **中国石油大学（北京）**
+- [**童亨茂**](http://www.cup.edu.cn/geosci/szdw/jiaoshou/50739.htm) 教授 **中国石油大学（北京）**
 
 	- 成员：肖坤泽
 
@@ -71,11 +71,24 @@ title: 关于
 
 {{% col 6%}}
 
-- [**王毛毛**](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm) 课题组 **河海大学**
+- [**王毛毛**](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm) 副教授 **河海大学**
 
 	- 成员： 封旺 蒋丹琦 宋功化 王毛毛 
 
 {{% /col %}}
+{{< /row >}}
+
+
+{{< row >}}
+{{% col 6%}}
+
+- [**陈汉林**](/about/wuzhenyun/) 教授 **浙江大学**
+
+	- 成员： 辛文 
+
+{{% /col %}}
+
+
 {{< /row >}}
 
 
