@@ -27,6 +27,7 @@ images:
 - [李长圣的个人网站](https://sheng.geovbox.com)
 - [李长圣的GitHub](https://github.com/demsheng)  
 - [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
+- 美国地球物理学会会员 中国地球物理学会会员
 
 ## 软件著作权
 - 虚拟沙箱软件Vbox V1.0.南京大学.**2015**
@@ -37,8 +38,8 @@ images:
 
 	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
 	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
-	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. Journal of Structural Geology. (under review)
-	- **李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.(知网待刊)  
+	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (in preparation)
+	- [**李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/16efVoNKUlWoYdujWWNcl_Q) 百度网盘提取码 `7vw4`  
 
 - **2018**  
 
@@ -60,11 +61,11 @@ images:
 	- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)
 
 ## 会议
-- 李长圣. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)  
-- 李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）
+- [李长圣. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)](/blog/201903/)  
+- [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）](http://t.cn/AiY2NMGq)
 - [Chang-Sheng LI, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. **2017 American Geophysical Union Fall Meeting**. (Poster+ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
 - 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. **第一届构造地质学与地球动力学青年学术论坛**，昆明，2018.（报告+海报+摘要）
-- [李长圣，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟[A]. **2017中国地球科学联合学术年会论文集**,2017:4. (海报+论文)](http://t.cn/E6k57Mg)
+- [李长圣，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟. **2017中国地球科学联合学术年会论文集**,2017:4. (海报+论文)](http://t.cn/E6k57Mg)
 
 ## 其他论文
 - 张佳星,尹宏伟,朱继田,熊小峰,汪伟,**李长圣**,吴珍云,刘绍文.基底性质对断裂构造的影响:以琼东南盆地为例[J].**高校地质学报, 2018**, 24(04):563-572.
@@ -85,9 +86,13 @@ images:
 
 ## 科研项目
 
+- **在研**
+	
+	- 构造演化数值模拟实验, 2019.06-, **中国地质大学（北京）**, **主持**
+
 - **博士阶段**
 
-	- 多滑脱层挤压构造结构特征与变形机制的定量研究-以塔里木盆地库车坳陷深层构造为例，2015~，**国家自然科学基金**，**主要参与**
+	- 多滑脱层挤压构造结构特征与变形机制的定量研究-以塔里木盆地库车坳陷深层构造为例，2015~2019.12，**国家自然科学基金**，**主要参与**
 	- 琼东南盆地深水区构造差异化及构造动力学成因机制，**国家重大科技专项大型油气田及煤层气开发**，2016~，参与
 	- 前陆盆地“顶蓬构造”物理模拟及数值模拟研究，**中石油 塔里木油田分公司勘探开发研究院**，2015~2016，**主要参与**
 	- 和田河玛东地区潜山及盐相关构造物理及数值模拟实验研究，**中石油 塔里木油田分公司勘探开发研究院**，2017~2018，**主要参与**

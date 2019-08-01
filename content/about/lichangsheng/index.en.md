@@ -54,7 +54,7 @@ My [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate
 
 **2017**
 
-- Changsheng LI, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. (2017 American Geophysical Union Fall Meeting, ABSTRACT)
+- [Changsheng LI, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. (2017 American Geophysical Union Fall Meeting, ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
 
 - [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
 
