@@ -1,6 +1,6 @@
 ---
 title: 李长圣
-date: 2019-09-21
+date: 2019-10-29
 tags:
     - 网站维护者
     - VBOX开发者
@@ -24,6 +24,8 @@ images:
 
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn`  
 
+- 南京大学 构造数值模拟集群管理员
+- 东华理工大学 并行计算实验室管理员
 - [李长圣的个人网站](https://sheng.geovbox.com)
 - [李长圣的GitHub](https://github.com/demsheng)  
 - [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
