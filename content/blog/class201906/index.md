@@ -6,7 +6,6 @@ categories:
 authors:
     - 李长圣
 images:
-    - vboxclass_201906.jpg
 slug: 201906
 ---
 
