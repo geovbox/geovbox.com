@@ -7,7 +7,7 @@ authors:
     - 李长圣
 images:
     - 6.png
-slug: 201910
+slug: 20191028
 ---
 
 {{% notice info %}}
