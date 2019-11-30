@@ -2,11 +2,16 @@
 title: 
 ---
 
+##### VBOX无需下载，安装在**[四个计算平台](/hpc/)**上，直接向管理员申请账户，即可使用，使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
+
+{{% notice info %}}
+账户申请方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc/)  
+{{% /notice %}}
 
 {{< row >}}
 {{% col 4 %}}
 ### Windows用户
-打开 [Xshell](https://www.netsarang.com) ，登陆VBOX所在集群 ``hpcc.nju.edu.cn`` ，运行
+打开 [Xshell](https://www.netsarang.com) ，登陆VBOX计算平台 ，运行
 ```bash
 vboxdaily -v
 ```
@@ -25,7 +30,7 @@ vboxdaily -v
 
 {{% col 4 %}}
 ### Linux用户
-打开终端，登陆VBOX所在集群  ``hpcc.nju.edu.cn`` ，运行
+打开终端，登陆VBOX计算平台 ，运行
 
 ```bash
 vboxdaily -v
@@ -35,7 +40,7 @@ vboxdaily -v
 {{% col 4 %}}
 ### VBOX 参考手册
 
-- VBOX1.3：  
+- VBOX1.3  
   - [在线阅读](http://doc.geovbox.com)  
   - [PDF下载](https://doc.geovbox.com/vbox_doc.pdf)
 
@@ -44,11 +49,6 @@ vboxdaily -v
 {{< /row >}}
 
 ---
-
-{{% notice info %}}
-集群 ``hpcc.nju.edu.cn`` 开通账户的方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc/)。  
-集群 ``hpcc.nju.edu.cn`` 使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
-{{% /notice %}}
 
 ### 相关文献
 

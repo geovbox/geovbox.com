@@ -86,16 +86,18 @@ languageName = "中文"
     name = "物理模拟"
     url = "/am/"
     weight = 6
-
+[[Languages.zh-cn.menu.main]]
+    name = "计算平台"
+    url = "/hpc/"
+    weight = 7
 [[Languages.zh-cn.menu.main]]
     name = "下载"
     url = "/download/"
-    weight = 7
-
+    weight = 8
 [[Languages.zh-cn.menu.main]]
     name = "关于"
     url = "/about/"
-    weight = 8
+    weight = 9
 
 #[[Languages.zh-cn.menu.icon]]
 #    name = "qq"
