@@ -4,9 +4,13 @@ title:
 
 ##### VBOX无需下载，安装在**[四个计算平台](/hpc/)**上，直接向管理员申请账户，即可使用，使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
 
-{{% notice info %}}
-账户申请方法，见 [南京大学高性能计算中心账户开通方法](https://doc.geovbox.com/latest/hpc/)  
-{{% /notice %}}
+
+```
+软件版本说明  
+vboxdaily　日常更新版，最近更新于　2019-12-02  
+vbox1.3　稳定版，正式发布日期　2019-08-11  
+```
+
 
 {{< row >}}
 {{% col 4 %}}
@@ -40,7 +44,7 @@ vboxdaily -v
 {{% col 4 %}}
 ### VBOX 参考手册
 
-- VBOX1.3  
+- VBOX1.3　(2019-08-11)  
   - [在线阅读](http://doc.geovbox.com)  
   - [PDF下载](https://doc.geovbox.com/vbox_doc.pdf)
 
@@ -49,6 +53,7 @@ vboxdaily -v
 {{< /row >}}
 
 ---
+
 
 ### 相关文献
 
