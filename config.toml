@@ -157,14 +157,19 @@ title = "VBOX"
     weight = 26
 
 [[Languages.en.menu.main]]
+    name = "HPC"
+    url = "/en/hpc/"
+    weight = 27
+    
+[[Languages.en.menu.main]]
     name = "Download"
     url = "/en/download/"
-    weight = 27
+    weight = 28
 
 [[Languages.en.menu.main]]
     name = "About"
     url = "/en/about/"
-    weight = 28
+    weight = 29
 
 #[[Languages.en.menu.icon]]
 #    name = "qq"
