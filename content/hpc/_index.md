@@ -34,7 +34,7 @@ title:
 - Rocks 6.2 (CentOS 6.6)
 - 曙光天阔 A620R-H
 - Quad-Core AMD Opteron(tm) Processor 2382 @ 2.66GHz
-- 用户：李长圣　李冬辉　黎光荣　吴珍云　叶启洋　邹少浩
+- 用户：毕晨洁　李长圣　李冬辉　黎光荣　王莉　吴珍云　叶启洋　邹少浩　
 {{% /col %}}
 
 {{% col 3 %}}
@@ -57,7 +57,7 @@ title:
 - Ubuntu 18.04
 - ThinkStation P930
 - Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz
-- 用户：李长圣、黄彤飞
+- 用户：管树巍、李长圣、黄彤飞
 {{% /col %}}
 
 {{< /row >}}
