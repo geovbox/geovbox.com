@@ -54,6 +54,9 @@ vboxdaily -v
 
 ---
 
+### 相关软件
+
+- `Xshell` `Xftp` `Paraview`　百度网盘[下载链接](https://pan.baidu.com/s/154Hkq-faUcnB4ihKG2s5UQ) 提取码：`r0o3` 
 
 ### 相关文献
 
