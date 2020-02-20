@@ -66,38 +66,43 @@ languageName = "中文"
     name = "手册"
     url = "https://doc.geovbox.com"
     weight = 2
-
+    
+[[Languages.zh-cn.menu.main]]
+    name = "视频教程"
+    url = "https://space.bilibili.com/31815571/channel/index"
+    weight = 3
+    
 [[Languages.zh-cn.menu.main]]
     name = "图库"
     url = "/gallery/"
-    weight = 3
+    weight = 4
 
 [[Languages.zh-cn.menu.main]]
     name = "示例"
     url = "/example/"
-    weight = 4
+    weight = 5
 
 [[Languages.zh-cn.menu.main]]
-    name = "新闻与案例"
+    name = "新闻案例"
     url = "/blog/"
-    weight = 5
+    weight = 6
 
 [[Languages.zh-cn.menu.main]]
     name = "物理模拟"
     url = "/am/"
-    weight = 6
+    weight = 7
 [[Languages.zh-cn.menu.main]]
     name = "计算平台"
     url = "/hpc/"
-    weight = 7
+    weight = 8
 [[Languages.zh-cn.menu.main]]
     name = "下载"
     url = "/download/"
-    weight = 8
+    weight = 9
 [[Languages.zh-cn.menu.main]]
     name = "关于"
     url = "/about/"
-    weight = 9
+    weight = 10
 
 #[[Languages.zh-cn.menu.icon]]
 #    name = "qq"
@@ -132,44 +137,49 @@ title = "VBOX"
     weight = 21
 
 [[Languages.en.menu.main]]
-    name = "Document"
-    url = "/en/docs/"
+    name = "Doc"
+    url = "https://doc.geovbox.com"
     weight = 22
-
+    
+[[Languages.en.menu.main]]
+    name = "Video"
+    url = "https://space.bilibili.com/31815571/channel/index"
+    weight = 23
+    
 [[Languages.en.menu.main]]
     name = "Gallery"
     url = "/en/gallery/"
-    weight = 23
+    weight = 24
 
 [[Languages.en.menu.main]]
     name = "Example"
     url = "/en/example/"
-    weight = 24
+    weight = 25
 
 [[Languages.en.menu.main]]
     name = "News"
     url = "/en/blog/"
-    weight = 25
+    weight = 26
 
 [[Languages.en.menu.main]]
     name = "Analog Model"
     url = "/en/am/"
-    weight = 26
+    weight = 27
 
 [[Languages.en.menu.main]]
     name = "HPC"
     url = "/en/hpc/"
-    weight = 27
+    weight = 28
     
 [[Languages.en.menu.main]]
     name = "Download"
     url = "/en/download/"
-    weight = 28
+    weight = 29
 
 [[Languages.en.menu.main]]
     name = "About"
     url = "/en/about/"
-    weight = 29
+    weight = 30
 
 #[[Languages.en.menu.icon]]
 #    name = "qq"

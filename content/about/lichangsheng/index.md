@@ -23,6 +23,7 @@ images:
 
 QQ：``836745132`` (Neo)  
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn` `lichangsheng@ecut.edu.cn`  
+VBOX视频教程见[我的哔哩哔哩](https://space.bilibili.com/31815571)
 
 - 南京大学 构造数值模拟集群管理员
 - 东华理工大学 并行计算实验室管理员
@@ -47,11 +48,13 @@ QQ：``836745132`` (Neo)
 
 ## 论文发表
 
-- **2019**  
-
+- **2020**  
 	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
 	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
 	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (in preparation)
+
+- **2019**  
+	- [张迎朝,**李长圣**,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)
 	- [**李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/16efVoNKUlWoYdujWWNcl_Q) 百度网盘提取码 `7vw4`  
 
 - **2018**  
