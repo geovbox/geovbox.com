@@ -15,6 +15,7 @@ commands:
 数据下载：[fall.py](fall.py)
 {{% /notice %}}
 
+- **视频教程**：[4自由落体和Paraview颜色配置](https://www.bilibili.com/video/av90485756/)
 
 执行脚本 `vboxdaily fall.py` 
 
@@ -32,5 +33,5 @@ commands:
 软件中所涉及的参数的单位均采用国际制标准单位（即千克kg，米m，秒s，牛N，帕Pa等）。
 {{% /notice %}}
 
-YADE手册中有一个类似的[实例](https://yade-dem.org/doc/tutorial-examples.html#bouncing-sphere)
+- YADE手册中有一个类似的[实例](https://yade-dem.org/doc/tutorial-examples.html#bouncing-sphere)
 
