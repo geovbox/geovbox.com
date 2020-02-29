@@ -127,4 +127,45 @@ title: 关于
 
 {{< /row >}}
 
-**特别致谢：[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100) 和 Thomas Fournier提供的离散元后处理脚本(GMT和MATLAB脚本)，网站中的图片均基于该脚本绘制。其中涉及的应力应变计算方法见 [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full) (DOI: 10.1002/2014JB011455).**
+{{< row >}}
+
+{{% col 2 %}}
+徐雯峤
+{{% /col %}}
+
+{{% col 4 %}}
+[吴珍云](/about/wuzhenyun/) 
+{{% /col %}}
+
+{{% col 2 %}}
+冯彦杰 
+{{% /col %}}
+
+{{% col 2 %}}
+叶启洋 
+{{% /col %}}
+
+{{% col 2 %}}
+王福远 
+{{% /col %}}
+
+{{< /row >}}
+
+{{< row >}}
+
+{{% col 2 %}}
+毕晨洁 
+{{% /col %}}
+
+{{% col 4 %}}
+王莉 
+{{% /col %}}
+
+{{% col 2 %}}
+次仁达瓦
+{{% /col %}}
+
+
+{{< /row >}}
+
+**特别致谢：[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100) 和 Thomas Fournier提供的离散元后处理脚本(GMT和MATLAB脚本)，网站中的图片均基于该脚本绘制。其中涉及的应力应变计算方法见 [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full).**

@@ -66,8 +66,9 @@ vboxdaily -v
 4. [李长圣，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟[A]. **2017中国地球科学联合学术年会论文集**,2017:4. ](http://t.cn/E6k57Mg)  
 5. [吴闯. 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学,2017.](http://t.cn/RpLyDni)  
 6. [林川. 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学,2017.](http://t.cn/RpLUbiW)  
-7. [Li, C., Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
-
+7. [Li, C., Yin, H., et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
+8. [Morgan J K. 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and
+contractional wedges: Discrete element simulations.**Journal of Geophysical Research: Solid Earth**, 120: 3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
 
 
 

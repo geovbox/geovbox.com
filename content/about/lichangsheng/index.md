@@ -23,7 +23,7 @@ images:
 
 QQ：``836745132`` (Neo)  
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn` `lichangsheng@ecut.edu.cn`  
-VBOX视频教程见[我的哔哩哔哩](https://space.bilibili.com/31815571)
+VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259173/)
 
 - 南京大学 构造数值模拟集群管理员
 - 东华理工大学 并行计算实验室管理员

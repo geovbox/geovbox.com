@@ -7,7 +7,7 @@ title = "VBOX官网"
 <center>[一个示例学会VBOX](/example/push/)</center>
 
 - [手册](https://doc.geovbox.com/) 可作为VBOX入门教程，持续更新完善中
-- [视频教程](https://space.bilibili.com/31815571/channel/index) 讲解VBOX使用方法，31815571@哔哩哔哩
+- [视频教程](https://www.bilibili.com/video/av91259173/) 讲解VBOX使用方法，geovbox@哔哩哔哩
 - [图库](/gallery/) 展示构造模拟实例，包括数值模拟和物理模拟
 - [示例](/example/) 发布VBOX数值模拟官方权威示例
 - [新闻与案例](/blog/) 发布VBOX相关新闻，同时发布的优秀实例

@@ -18,7 +18,7 @@ commands:
 [演化过程图](/example/push/shearSS.zip)
 {{% /notice %}}
 
-- **视频教程**：[6一个示例学会VBOX](https://space.bilibili.com/31815571/channel/index)
+- **视频教程**：[6一个示例学会VBOX](https://www.bilibili.com/video/av90752521/)
 
 ## 一个构造数值模拟试验的完整流程包括两个步骤：
 
