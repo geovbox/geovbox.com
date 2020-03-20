@@ -15,7 +15,7 @@ commands:
 数据下载：[fall.py](fall.py)
 {{% /notice %}}
 
-- **视频教程**：[4自由落体和Paraview颜色配置](https://www.bilibili.com/video/av90485756/)
+- **视频教程**：[4自由落体和Paraview颜色配置](https://www.bilibili.com/video/av91259173)
 
 执行脚本 `vboxdaily fall.py` 
 
