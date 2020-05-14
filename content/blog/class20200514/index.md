@@ -1,5 +1,5 @@
 ---
-title: 盆地构造解析和构造模拟课程(2020年5月15日17点)
+title: 盆地构造解析和构造模拟课程(2020年5月15日19点)
 date: 2020-05-14
 categories:
     - 课程
@@ -31,9 +31,9 @@ slug: 20200513
 
 ---
 
-{{< figure src="1.png" title="" width="600px">}}
-{{< figure src="2.png" title="" width="600px">}}
-{{< figure src="3.png" title="" width="600px">}}
-{{< figure src="4.png" title="" width="600px">}}
-{{< figure src="5.png" title="部分内容" width="600px">}}
+{{< figure src="1.png" title="" >}}
+{{< figure src="2.png" title="" >}}
+{{< figure src="3.png" title="" >}}
+{{< figure src="4.png" title="" >}}
+{{< figure src="5.png" title="部分内容" >}}
 
