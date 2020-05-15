@@ -1,5 +1,5 @@
 ---
-title: 盆地构造解析和构造模拟课程(2020年5月15日19点)
+title: 盆地构造解析和构造模拟课程(录播)
 date: 2020-05-14
 categories:
     - 课程
@@ -9,7 +9,11 @@ images:
 slug: 20200513
 ---
 
-### 进入腾讯会议（网络课程）  
+### 课程回放
+
+- 哔哩哔哩　https://www.bilibili.com/video/BV1AC4y1p7KJ/
+
+### 腾讯会议（已结束）  
 
 - **课程时间：2020/5/15　19:00-21:00**
 - 点击链接入会：https://meeting.tencent.com/s/QItAu0F7kUOG  

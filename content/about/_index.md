@@ -48,8 +48,8 @@ title: 关于
 
 - [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) 教授 **南京大学**
 
-	- 成员： 冯彦杰 徐雯峤 杨庚兄 魏华敬 汪伟 
-	- 已毕业：[李长圣](/about/lichangsheng/) 林川 吴闯 [吴珍云](/about/wuzhenyun/) 张佳星 
+	- 成员：  徐雯峤 杨庚兄 魏华敬 汪伟 
+	- 已毕业：冯彦杰 [李长圣](/about/lichangsheng/) 林川 吴闯 [吴珍云](/about/wuzhenyun/) 张佳星 
 
 {{% /col %}}
 
@@ -101,6 +101,19 @@ title: 关于
 
 {{< /row >}}
 
+{{< row >}}
+{{% col 6%}}
+
+- [**黎广荣**](https://dkxy.ecut.edu.cn/92/3d/c259a37437/page.htm) 副教授 **东华理工大学**
+
+	- 成员： 次仁达瓦 
+
+{{% /col %}}
+
+
+
+
+{{< /row >}}
 
 #### 致谢
 {{< row >}}
