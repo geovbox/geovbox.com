@@ -26,11 +26,12 @@ title: 关于
 {{< /row >}}
 
 
-#### 软件开发与网站维护
 {{< row >}}
-{{% col 12 %}}
+{{% col 6 %}}
+#### 软件开发与网站维护
 <div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+	<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+	
 		<a href="/about/lichangsheng/" >
 			<img src="/about/lichangsheng/LiChangSheng.png" alt="李长圣" class="img-circle" >
 			<div class="author-name"> 李长圣</div>
@@ -39,6 +40,27 @@ title: 关于
 	</div> 
 </div>
 {{% /col %}}
+
+{{% col 3 %}}
+#### 课题组成员
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-6 col-lg-6">
+		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋" class="img-circle" >
+		<div class="author-name"> 叶启洋</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 3 %}}
+####  .
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-6 col-lg-6">
+		<img src="/about/zhongjun/zhongjun.jpg" alt="钟军" class="img-circle" >
+		<div class="author-name"> 钟军</div>
+	</div> 
+</div>
+{{% /col %}}
+
 {{< /row >}}
 
 

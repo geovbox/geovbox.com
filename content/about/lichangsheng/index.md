@@ -55,7 +55,7 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 
 - **2019**  
 	- [张迎朝,**李长圣**,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)
-	- [**李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/16efVoNKUlWoYdujWWNcl_Q) 百度网盘提取码 `7vw4`  
+	- [**李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](链接：https://pan.baidu.com/s/12XNB_VtuqxOy8LDDEU4YRQ) 百度网盘提取码 `toie`  
 
 - **2018**  
 
