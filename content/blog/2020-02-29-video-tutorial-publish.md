@@ -2,6 +2,8 @@
 title: VBOX初级视频教程上线了！
 date: 2020-02-29
 categories:
+    - 课程
+    - 视频
     - 新闻
 authors:
     - 李长圣

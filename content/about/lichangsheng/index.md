@@ -12,7 +12,7 @@ images:
 
 <div class="row author-list">
     <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
-          <img src="LiChangSheng.png" alt="李长圣" class="img-circle">
+          <img src="lichangsheng.png" alt="李长圣" class="img-circle">
     </div>
 </div>
     
@@ -25,15 +25,16 @@ QQ：``836745132`` (Neo)
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn` `lichangsheng@ecut.edu.cn`  
 VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259173/)
 
-- 南京大学 构造数值模拟集群管理员
-- 东华理工大学 并行计算实验室管理员
-- [李长圣的个人网站](https://sheng.geovbox.com)
+- 南京大学 构造数值模拟集群管理员  
+- 东华理工大学 并行计算实验室管理员  
+- [李长圣的个人网站](https://sheng.geovbox.com)  
 - [李长圣的GitHub](https://github.com/demsheng)  
 - [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
-- 美国地球物理学会会员 中国地球物理学会会员
+- 美国地球物理学会会员 中国地球物理学会会员  
 
 ## 工作和教育经历
-- 2019.11~至今 中国石油勘探开发研究院 访问学者
+
+- 2019.11~至今 中国石油勘探开发研究院 访问学者  
 - 2019.03~至今 东华理工大学 地球科学学院  讲师  
 - 2014.09~2019.03  南京大学         地质资源与地质工程         （博士）  
     - 2018.04~2018.06  南洋理工大学     新加坡地球观测研究所(EOS) Paul TAPPONNIER院士 （短期访学）  
@@ -41,21 +42,24 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 - 2008.09~2012.07  华北科技学院      地质工程                  （本科）  
 
 ## 专利和软件著作权
-- 发明专利：基于离散元的裂谷盆地伸展过程模拟方法. 排名第一. 已受理
-- 软件著作权：覆岩变形分布式监测数据处理系统 V1.0. **2019** 排名第二. 
-- 软件著作权：虚拟沙箱软件 V1.0. 南京大学. **2015**
+
+- 发明专利：基于离散元的裂谷盆地伸展过程模拟方法. 排名第一. 已受理  
+- 软件著作权：覆岩变形分布式监测数据处理系统 V1.0. **2019** 排名第二.  
+- 软件著作权：虚拟沙箱软件 V1.0. 南京大学. **2015**  
 
 
 ## 论文发表
 
 - **2020**  
-	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)
-	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)
-	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (in preparation)
+
+	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)  
+	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)  
+	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (in preparation)  
 
 - **2019**  
-	- [张迎朝,**李长圣**,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)
-	- [**李长圣**. 基于离散元的褶皱冲断带构造变形定量分析与模拟.**博士论文**.南京大学,2019.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](链接：https://pan.baidu.com/s/12XNB_VtuqxOy8LDDEU4YRQ) 百度网盘提取码 `toie`  
+
+	- [张迎朝,**李长圣**,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)  
+	- [**李长圣** (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
 
 - **2018**  
 
@@ -64,24 +68,25 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 
 - **2017**  
 
-	- [**李长圣**,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)
+	- [**李长圣**,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
 
 
 - **2016**  
 
-	- [**Li C.S.**, Zhang D., Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)
+	- [**Li C.S.**, Zhang D., Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)  
 
 - **2014**  
 
-	- [**李长圣**. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.**南京大学**,2014.](http://t.cn/E6kqz7M)
-	- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)
+	- [**李长圣**. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.**南京大学**,2014.](http://t.cn/E6kqz7M)  
+	- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)  
 
 ## 会议
+
 - [李长圣. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)](/blog/201903/)  
-- [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）](http://t.cn/AiY2NMGq)
+- [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）](http://t.cn/AiY2NMGq)  
 - [Chang-Sheng LI, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. **2017 American Geophysical Union Fall Meeting**. (Poster+ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
-- 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. **第一届构造地质学与地球动力学青年学术论坛**，昆明，2018.（报告+海报+摘要）
-- [李长圣，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟. **2017中国地球科学联合学术年会论文集**,2017:4. (海报+论文)](http://t.cn/E6k57Mg)
+- 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. **第一届构造地质学与地球动力学青年学术论坛**，昆明，2018.（报告+海报+摘要）  
+- [李长圣，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟. **2017中国地球科学联合学术年会论文集**,2017:4. (海报+论文)](http://t.cn/E6k57Mg)  
 
 ## 科研项目
 
@@ -108,6 +113,7 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 	- 王家岭煤矿高精度地质模型及重大危险源预警系统项目，**北京龙软科技股份有限公司**，2012.03-04，参与
 
 ## 其他论文
+
 - [吴珍云,尹宏伟,**李长圣**,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].**南京大学学报(自然科学),2019**,55(05):869-878.](http://t.cn/AisBmv8f)  
 - 张佳星,尹宏伟,朱继田,熊小峰,汪伟,**李长圣**,吴珍云,刘绍文.基底性质对断裂构造的影响:以琼东南盆地为例[J].**高校地质学报, 2018**, 24(04):563-572.
 - 周鹏,尹宏伟,周露,唐雁刚,**李长圣**,朱文慧,谢亚妮,尚江伟.断背斜应变中和面张性段储层主控因素及预测方法——以克拉苏冲断带为例[J].**大地构造与成矿学,2018**,42(01):50-59.

@@ -29,22 +29,31 @@ title: 关于
 {{< row >}}
 {{% col 6 %}}
 #### 软件开发与网站维护
+{{% /col %}}
+
+{{% col 6 %}}
+#### 成员
+{{% /col %}}
+
+{{< /row >}}
+
+
+{{< row >}}
+{{% col 6 %}}
+
 <div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
-	
+	<div class="col-xs-6 col-sm-3 col-md-4 col-lg-4">
 		<a href="/about/lichangsheng/" >
-			<img src="/about/lichangsheng/LiChangSheng.png" alt="李长圣" class="img-circle" >
+			<img src="/about/lichangsheng/lichangsheng.png" alt="李长圣" class="img-circle" >
 			<div class="author-name"> 李长圣</div>
 		</a>
-		
 	</div> 
 </div>
 {{% /col %}}
 
 {{% col 3 %}}
-#### 课题组成员
 <div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-6 col-lg-6">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋" class="img-circle" >
 		<div class="author-name"> 叶启洋</div>
 	</div> 
@@ -52,9 +61,8 @@ title: 关于
 {{% /col %}}
 
 {{% col 3 %}}
-####  .
 <div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-6 col-lg-6">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/zhongjun/zhongjun.jpg" alt="钟军" class="img-circle" >
 		<div class="author-name"> 钟军</div>
 	</div> 
@@ -120,7 +128,6 @@ title: 关于
 	- 成员： 管树巍 
 
 {{% /col %}}
-
 {{< /row >}}
 
 {{< row >}}
@@ -131,10 +138,6 @@ title: 关于
 	- 成员： 次仁达瓦 
 
 {{% /col %}}
-
-
-
-
 {{< /row >}}
 
 #### 致谢

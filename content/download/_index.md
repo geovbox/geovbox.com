@@ -44,7 +44,7 @@ vboxdaily -v
 {{% col 4 %}}
 ### VBOX 参考手册
 
-- VBOX1.3　(2019-08-11)  
+- VBOX1.4　  
   - [在线阅读](http://doc.geovbox.com)  
   - [PDF下载](https://doc.geovbox.com/vbox_doc.pdf)
 
@@ -56,17 +56,18 @@ vboxdaily -v
 
 ### 相关软件
 
-- `Xshell` `Xftp` `Paraview`　百度网盘[下载链接](https://pan.baidu.com/s/1Lj-K0yF4I6yXCNDuwSS87A) 提取码：`x14j` 
+- `Xshell` `Xftp` `Paraview`　百度网盘 [下载链接](https://pan.baidu.com/s/1Lj-K0yF4I6yXCNDuwSS87A) 提取码：`x14j`  
 
 
 ### 入门文献
-1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/share/init?surl=2XNB_VtuqxOy8LDDEU4YRQ) 百度网盘提取码 `toie`  
-2. [Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896. ](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
-3. [Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. **Marine and Petroleum Geology** 26:232-248.](https://doi.org/10.1016/j.marpetgeo.2007.12.003)
+
+1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+2. [Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
+3. [Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. **Marine and Petroleum Geology** 26:232-248.](https://doi.org/10.1016/j.marpetgeo.2007.12.003)  
 
 ### 本硕博论文
 
-1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/share/init?surl=2XNB_VtuqxOy8LDDEU4YRQ) 百度网盘提取码 `toie`  
+1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
 2. 冯彦杰 (2019) 多滑脱层褶皱冲断构造分析模拟-以以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.  
 3. 张佳星 (2018) 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学.(知网待刊)  
 4. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  

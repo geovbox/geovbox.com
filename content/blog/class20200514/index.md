@@ -1,8 +1,9 @@
 ---
-title: 盆地构造解析和构造模拟课程(录播)
+title: 盆地构造解析和构造模拟课程(视频)
 date: 2020-05-14
 categories:
     - 课程
+    - 视频
 authors:
     - 吴珍云
 images:

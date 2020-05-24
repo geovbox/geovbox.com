@@ -31,7 +31,7 @@ title: About
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
 		<a href="/en/about/lichangsheng/" >
-			<img src="/about/lichangsheng/LiChangSheng.png" alt="LI ChangSheng" class="img-circle" >
+			<img src="/about/lichangsheng/lichangsheng.png" alt="LI ChangSheng" class="img-circle" >
 			<div class="author-name"> LI ChangSheng</div>
 		</a>
 		
