@@ -12,9 +12,9 @@ slug: 20200521
 
 ### 课程回放
 
-- geovbox@哔哩哔哩　https://www.bilibili.com/video/BV1st4y1C7b5/
+- geovbox@哔哩哔哩　https://www.bilibili.com/video/BV1st4y1C7b5?p=1
 
-### 腾讯会议  
+### 腾讯会议（已结束）  
 
 - **课程时间：2020/5/22　19:00-20:30**
 - 点击链接入会：https://meeting.tencent.com/s/pyFSCzTkJ1lk  

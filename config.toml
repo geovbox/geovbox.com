@@ -36,7 +36,7 @@ resourceDir = ".resources"
 
 [params]
     description = "面向 构造数值模拟 用户"
-    copyright = "Powered by [Hugo](https://gohugo.io) & Hosted by [GitHub](https://github.com/geovbox/geovbox.com)."
+    copyright = "Powered by [Hugo](https://gohugo.io) & Hosted by [Aliyun](https://www.aliyun.com/) and [GitHub](https://github.com/geovbox/geovbox.com)."
     
     # Format dates with Go's time formating
     since = 2017
@@ -69,7 +69,7 @@ languageName = "中文"
     
 [[Languages.zh-cn.menu.main]]
     name = "视频教程"
-    url = "https://www.bilibili.com/video/av91259173/"
+    url = "/video/"
     weight = 3
     
 [[Languages.zh-cn.menu.main]]
@@ -143,7 +143,7 @@ title = "VBOX"
     
 [[Languages.en.menu.main]]
     name = "Video"
-    url = "https://www.bilibili.com/video/av91259173/"
+    url = "/video/"
     weight = 23
     
 [[Languages.en.menu.main]]
