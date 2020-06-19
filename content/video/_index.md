@@ -26,6 +26,7 @@
             <a href="https://www.bilibili.com/video/BV1st4y1C7b5/" class="btn btn-primary" role="button">视频</a>
             <a href="/blog/20200521/" class="btn btn-default" role="button">第一节理论 详细介绍</a>
             <a href="/blog/20200528/" class="btn btn-default" role="button">第二节软件 详细介绍</a>
+            <a href="/blog/20200605/" class="btn btn-default" role="button">第三节应用 详细介绍</a>
             </div>
             </div>
         </div>
