@@ -67,19 +67,20 @@ vboxdaily -v
 
 ### 本硕博论文
 
-1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
-2. 冯彦杰 (2019) 多滑脱层褶皱冲断构造分析模拟-以以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.  
-3. 张佳星 (2018) 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学.(知网待刊)  
-4. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  
-5. [林川.(2017) 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学.](http://t.cn/RpLUbiW)  
+1. 次仁达瓦 (2020) 逆冲构造模拟-以阿尔卑斯构造带为例. **本科论文**. 东华理工大学.  
+2. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+3. [冯彦杰 (2019) 多滑脱层褶皱冲断构造分析模拟-以以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+4. 张佳星 (2018) 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学.(知网待刊)  
+5. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  
+6. [林川.(2017) 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学.](http://t.cn/RpLUbiW)  
 
 ### 期刊论文
 
-1. 张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. 实验室研究与探索, 2019, 38(11):78-82.  
-2. [LI Changsheng, YIN Hongwei*, et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
-3. [李长圣,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
-4. 徐雯峤，汪伟*，尹宏伟，等. 库车坳陷东西段盐下构造变形差异演化数值模拟分析. (投稿中)  
-5. 辛文，陈汉林*，安凯旋，等.基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究.(投稿中）  
+1. [徐雯峤,汪伟,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
+2. [辛文,陈汉林,安凯旋,张欲清,杨树锋,程晓敢,林秀斌.基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究.**地质学报**, 2020,94(06): 1704-1715.](http://t.cn/A6y6QKOG)  
+3. [张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. **实验室研究与探索**, 2019, 38(11):78-82.](http://t.cn/A6y6QntS)  
+4. [LI Changsheng, YIN Hongwei*, et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
+5. [**李长圣,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.**](http://t.cn/EiaL0Ad)  
 6. LI Changsheng, YIN Hongwei*, ZHANG Yingchun, WU Zhenyun. An Accurate Method for Measuring Surface Slope, Width, and Height of Thrust Wedge.(under review)  
 
 ### 会议论文和报告
