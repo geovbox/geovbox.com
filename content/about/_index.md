@@ -39,13 +39,25 @@ title: 关于
 
 
 {{< row >}}
-{{% col 6 %}}
+{{% col 3 %}}
 
 <div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-4 col-lg-4">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<a href="/about/lichangsheng/" >
 			<img src="/about/lichangsheng/lichangsheng.png" alt="李长圣" class="img-circle" >
 			<div class="author-name"> 李长圣</div>
+		</a>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 3 %}}
+
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<a href="/about/xuwenqiao/" >
+			<img src="/about/xuwenqiao/xuwenqiao.png" alt="徐雯峤" class="img-circle" >
+			<div class="author-name"> 徐雯峤</div>
 		</a>
 	</div> 
 </div>
