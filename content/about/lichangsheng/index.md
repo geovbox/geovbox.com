@@ -1,13 +1,13 @@
 ---
 title: 李长圣
-date: 2019-11-30
+date: 2020-07-24
 tags:
     - 网站维护者
     - VBOX开发者
 authors:
     - 李长圣
 images:
-    - LiChangSheng.png
+    - lichangsheng.png
 ---
 
 <div class="row author-list">
@@ -43,8 +43,8 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 
 ## 专利和软件著作权
 
-- 发明专利：基于离散元的裂谷盆地伸展过程模拟方法. 排名第一. 已受理  
-- 软件著作权：覆岩变形分布式监测数据处理系统 V1.0. **2019** 排名第二.  
+- 发明专利：[**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,2020-04-14. 实质审查的生效](https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN111008472A)  
+- 软件著作权：张丹,　**李长圣**. 覆岩变形分布式监测数据处理系统 V1.0. **2019**.  
 - 软件著作权：虚拟沙箱软件 V1.0. 南京大学. **2015**  
 
 
@@ -58,30 +58,31 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 
 - **2019**  
 
-	- [张迎朝,**李长圣**,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)  
+	- [张迎朝,**李长圣***,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)  
 	- [**李长圣** (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
 
 - **2018**  
 
-	- [**Li C.S.**, Yin H.W., Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
+	- [**Li C.S.**, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
 
 
 - **2017**  
 
-	- [**李长圣**,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
+	- [**李长圣**,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
 
 
 - **2016**  
 
-	- [**Li C.S.**, Zhang D., Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)  
+	- [**Li C.S.**, Zhang D.*, Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 2016, 73: 179-188.](https://www.sciencedirect.com/science/article/pii/S0266352X15002682)  
 
 - **2014**  
 
 	- [**李长圣**. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.**南京大学**,2014.](http://t.cn/E6kqz7M)  
-	- [**李长圣**,张丹,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)  
+	- [**李长圣**,张丹*,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. **岩土力学**,2014,35(09):2731-2736.](http://t.cn/E6kqIsW)  
 
 ## 会议
 
+- [李长圣*,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.**2019中国地球科学联合学术年会论文集**, 北京, 2019:60-61.（报告+论文）](http://t.cn/A6yeiXQz)
 - [李长圣. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)](/blog/201903/)  
 - [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）](http://t.cn/AiY2NMGq)  
 - [Chang-Sheng LI, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. **2017 American Geophysical Union Fall Meeting**. (Poster+ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  

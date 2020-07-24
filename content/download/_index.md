@@ -85,15 +85,16 @@ vboxdaily -v
 
 ### 会议论文和报告
 
-1. [Wang Maomao*, Yan Bin, Jiang Danqi, et al. Preexisting basin stratigraphic architecture control on geometry and evolution of the western Sichuan Cenozoic foreland basin: structural analysis and numerical modeling. American Geophysical Union Fall Meeting, San Francisco, California, USA. 2019.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/567189)  
-2. 李长圣*, 余一欣, 周心怀, 陈石, 吴珍云, 徐雯峤, 尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响, 中国地球科学联合学术年会论文集, 北京, 2019.  
-3. [李长圣，尹宏伟*，吴珍云，汪伟. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响.第二届构造地质学与地球动力学青年术论坛.南京,2019.](/blog/201903/)  
-4. 杨庚兄, 尹宏伟*, 汪伟, 李长圣. 塔里木盆地玛扎塔格构造带深层构造分析.第二届构造地质学与地球动力学青年术论坛.南京,2019.  
-5. 吴珍云*, 李长圣, 汪伟. 剥蚀及区域沉积负载对盆山耦合带断裂活动性影响的实验模拟研究-以龙门山褶皱冲断带为例.第二届构造地质学与地球动力学青年术论坛.南京,2019.  
-6. [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. 中国地球科学联合学术年会论文集, 北京, 2018.](http://t.cn/AiY2NMGq)  
-7. 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. 第一届构造地质学与地球动力学青年学术论坛，昆明，2018.  
-8. [李长圣，尹宏伟*. 滑脱层强度对挤压构造的影响:离散元数值模拟. 中国地球科学联合学术年会论文集,2017.](http://t.cn/E6k57Mg)   
-9. [Li Changsheng, YIN Hongwei*, et al. Comparisons between a high resolution discrete element model and analogue model. American Geophysical Union Fall Meeting. New Orleans, Louisiana, USA. 2017.](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
+1. [李长圣*,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.**2019中国地球科学联合学术年会论文集**, 北京, 2019:60-61.](http://t.cn/A6yeiXQz)
+2. [Wang Maomao*, Yan Bin, Jiang Danqi, et al. Preexisting basin stratigraphic architecture control on geometry and evolution of the western Sichuan Cenozoic foreland basin: structural analysis and numerical modeling. American Geophysical Union Fall Meeting, San Francisco, California, USA. 2019.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/567189)  
+3. 李长圣*, 余一欣, 周心怀, 陈石, 吴珍云, 徐雯峤, 尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响, 中国地球科学联合学术年会论文集, 北京, 2019.  
+4. [李长圣，尹宏伟*，吴珍云，汪伟. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响.第二届构造地质学与地球动力学青年术论坛.南京,2019.](/blog/201903/)  
+5. 杨庚兄, 尹宏伟*, 汪伟, 李长圣. 塔里木盆地玛扎塔格构造带深层构造分析.第二届构造地质学与地球动力学青年术论坛.南京,2019.  
+6. 吴珍云*, 李长圣, 汪伟. 剥蚀及区域沉积负载对盆山耦合带断裂活动性影响的实验模拟研究-以龙门山褶皱冲断带为例.第二届构造地质学与地球动力学青年术论坛.南京,2019.  
+7. [李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. 中国地球科学联合学术年会论文集, 北京, 2018.](http://t.cn/AiY2NMGq)  
+8. 李长圣，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. 第一届构造地质学与地球动力学青年学术论坛，昆明，2018.  
+9. [李长圣，尹宏伟*. 滑脱层强度对挤压构造的影响:离散元数值模拟. 中国地球科学联合学术年会论文集,2017.](http://t.cn/E6k57Mg)   
+10. [Li Changsheng, YIN Hongwei*, et al. Comparisons between a high resolution discrete element model and analogue model. American Geophysical Union Fall Meeting. New Orleans, Louisiana, USA. 2017.](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
 
 
 
