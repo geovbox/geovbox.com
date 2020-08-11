@@ -1,5 +1,5 @@
 ---
-title: 第二节 软件:VBOX简介与操作演示(视频)
+title: 第二节 软件:VBOX简介与操作演示
 date: 2020-05-28
 categories:
     - 课程

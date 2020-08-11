@@ -5,7 +5,7 @@ categories:
     - 示例
 tags:
     - 古隆起
-    - lsf
+    - load
 authors:
     - 李长圣
 images:

@@ -135,7 +135,7 @@ title: 关于
 
 {{% col 6%}}
 
-- **管树巍**　高级工程师(二级专家) **中国石油勘探开发研究院**
+- **管树巍**　高级工程师　**中国石油勘探开发研究院**
 
 	- 成员： 管树巍 
 
@@ -159,20 +159,24 @@ title: 关于
 [GMT中文社区](https://gmt-china.org/)
 {{% /col %}}
 
-{{% col 4 %}}
-[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100) (Rice University)
+{{% col 2 %}}
+[Julia K. Morgan](https://earthscience.rice.edu/directory/user/100)
 {{% /col %}}
 
 {{% col 2 %}}
-[刘春](http://es.nju.edu.cn/lc/list.htm) (南京大学)
+[王毛毛](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm)
 {{% /col %}}
 
 {{% col 2 %}}
-孙闯 (中山大学)
+[刘春](http://es.nju.edu.cn/lc/list.htm)
 {{% /col %}}
 
 {{% col 2 %}}
-[张迎春](https://github.com/riddlezyc/) (南京大学)
+孙闯
+{{% /col %}}
+
+{{% col 2 %}}
+[张迎春](https://github.com/riddlezyc/)
 {{% /col %}}
 
 {{< /row >}}
@@ -183,7 +187,7 @@ title: 关于
 徐雯峤
 {{% /col %}}
 
-{{% col 4 %}}
+{{% col 2 %}}
 [吴珍云](/about/wuzhenyun/) 
 {{% /col %}}
 
@@ -193,6 +197,10 @@ title: 关于
 
 {{% col 2 %}}
 叶启洋 
+{{% /col %}}
+
+{{% col 2 %}}
+辛文 
 {{% /col %}}
 
 {{% col 2 %}}

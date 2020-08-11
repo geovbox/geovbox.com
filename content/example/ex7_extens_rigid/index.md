@@ -11,7 +11,6 @@ authors:
 images:
     - 06.jpg
 commands:
-    - LOAD
     - BOND
     - bsub
     - bjobs

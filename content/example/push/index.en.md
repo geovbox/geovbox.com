@@ -16,6 +16,7 @@ commands:
 {{% notice info %}}
 数据下载：[push.py](/example/push/push.py)
 [演化过程图](/example/push/shearSS.zip)
+[init_xyr.dat](/example/ex6_palaeohigh/init_xyr.dat)
 {{% /notice %}}
 
 ## 一个构造数值模拟试验的完整流程包括两个步骤：
