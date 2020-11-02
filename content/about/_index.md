@@ -11,16 +11,19 @@ title: 关于
 
  - 提供优质的VBOX及离散元学习资料
  - 构建领先的构造数值模拟实验室 
-
-
-{{% /col %}}
-
-{{% col 6 %}}
+ 
 #### 联系方式
 
  - 官方QQ群：432511425 
  - 地址：南京市南京大学仙林校区地球科学与工程学院
  - 使用建议及投稿请联系： [sheng0619@163.com](mailto:sheng0619@163.com)
+
+{{% /col %}}
+
+{{% col 3 %}}
+#### 微信公众号 
+{{< figure src="qrcode_for_gh_476c8523e40a_258.jpg" alt="geovbox" title="" position="left" caption="geovbox" captionPosition="center" captionStyle="color: red;" >}}
+
  
 {{% /col %}}
 {{< /row >}}
@@ -215,7 +218,7 @@ title: 关于
 毕晨洁 
 {{% /col %}}
 
-{{% col 4 %}}
+{{% col 2 %}}
 王莉 
 {{% /col %}}
 
