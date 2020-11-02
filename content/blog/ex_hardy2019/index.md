@@ -27,7 +27,7 @@ slug: 20201102
 
 <h5> </h5>
 {{< figure src="normal_fault_synsed.gif" title="" width="600px" >}}
-<center><h5>单位 (km)<br><br>构造变形及应力应变的演化过程</h5></center>
+<center><h5>单位 (km)<br><br>构造演化过程</h5></center>
 
 {{< figure src="all_0000020000_ini.jpg" title="" width="600px" >}}
 {{< figure src="all_0000082000.jpg" title="" width="600px" >}}
