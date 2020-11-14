@@ -93,8 +93,8 @@ title: 关于
 
 - [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) 教授 **南京大学**
 
-	- 成员：  徐雯峤 杨庚兄 魏华敬 汪伟 
-	- 已毕业：冯彦杰 [李长圣](/about/lichangsheng/) 林川 吴闯 [吴珍云](/about/wuzhenyun/) 张佳星 
+	- 成员：  徐雯峤 杨庚兄 
+	- 已毕业：[吴珍云](/about/wuzhenyun/) 林川 吴闯 张佳星 冯彦杰 [李长圣](/about/lichangsheng/) 汪伟 魏华敬 
 
 {{% /col %}}
 
@@ -110,7 +110,7 @@ title: 关于
 {{< row >}}
 {{% col 6%}}
 
-- [**吴珍云**](/about/wuzhenyun/) **东华理工大学**
+- [**吴珍云**](/about/wuzhenyun/) 博士 **东华理工大学**
 
 	- 成员： 毕晨洁　王莉　吴珍云
 
@@ -159,6 +159,16 @@ title: 关于
 - [**裴仰文**](http://geori.upc.edu.cn/2019/0505/c10381a204727/page.htm) 副教授 **中国石油大学（华东）**
 
 	- 成员： 冯犇 
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+{{% col 6%}}
+
+- [**何登发**](https://www1.cugb.edu.cn/profAbout.action?zgh=2006012028) 教授 **中国地质大学（北京）**
+
+	- 成员： 张伟康　陈槚俊
 
 {{% /col %}}
 {{< /row >}}
