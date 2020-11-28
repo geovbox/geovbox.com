@@ -36,7 +36,7 @@ resourceDir = ".resources"
 
 [params]
     description = "面向 构造数值模拟 用户"
-    copyright = "Powered by [Hugo](https://gohugo.io) & Hosted by [Aliyun](https://www.aliyun.com/) and [GitHub](https://github.com/geovbox/geovbox.com)."
+    copyright = "Powered by [Hugo](https://gohugo.io) & Hosted by [GitHub](https://github.com/geovbox/geovbox.com)."
     
     # Format dates with Go's time formating
     since = 2017
