@@ -2,7 +2,7 @@
 title: 
 ---
 
-##### VBOX无需下载，安装在**[四个计算平台](/hpc/)**上，直接向管理员申请账户，即可使用，使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
+##### VBOX无需下载，安装在**[四个计算平台](/hpc/)**上，直接向管理员申请账户，即可使用．账户开通方法见[手册－开通账户](https://doc.geovbox.com/latest/hpc/)，使用方法见 [Windows下使用VBOX](https://doc.geovbox.com/latest/use/)。
 
 
 ```
