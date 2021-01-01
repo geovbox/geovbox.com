@@ -93,7 +93,7 @@ title: 关于
 
 - [**尹宏伟**](http://es.nju.edu.cn/yhw/list.htm) 教授 **南京大学**
 
-	- 成员：  徐雯峤 杨庚兄 
+	- 成员：  [徐雯峤](/about/xuwenqiao/) 杨庚兄 
 	- 已毕业：[吴珍云](/about/wuzhenyun/) 林川 吴闯 张佳星 冯彦杰 [李长圣](/about/lichangsheng/) 汪伟 魏华敬 
 
 {{% /col %}}
