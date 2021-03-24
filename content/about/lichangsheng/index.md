@@ -1,6 +1,6 @@
 ---
 title: 李长圣
-date: 2020-07-24
+date: 2021-03-24
 tags:
     - 网站维护者
     - VBOX开发者
@@ -23,14 +23,24 @@ images:
 
 QQ：``836745132`` (Neo)  
 邮箱： `sheng0619@163.com` `lichangsheng@smail.nju.edu.cn` `lichangsheng@ecut.edu.cn`  
-VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259173/)
 
+
+  
+- [geovbox@哔哩哔哩](https://space.bilibili.com/31815571)
+- [李长圣@个人网站](https://sheng.geovbox.com)  
+- [李长圣@GitHub](https://github.com/demsheng)  
+- [李长圣@ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
 - 南京大学 构造数值模拟集群管理员  
-- 东华理工大学 并行计算实验室管理员  
-- [李长圣的个人网站](https://sheng.geovbox.com)  
-- [李长圣的GitHub](https://github.com/demsheng)  
-- [李长圣的ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
+- 东华理工大学 并行计算实验室管理员
 - 美国地球物理学会会员 中国地球物理学会会员  
+
+## VBOX视频教程
+
+- 离散元数值模拟软件VBOX初级教程（DEM） [进入课程](https://www.bilibili.com/video/av91259173/)
+
+## 本科生课程
+
+- 地学计算机制图 [进入课程网站](https://mapgis.geovbox.com)
 
 ## 工作和教育经历
 
@@ -51,11 +61,17 @@ VBOX视频教程见[geovbox@哔哩哔哩](https://www.bilibili.com/video/av91259
 
 ## 论文发表
 
+- **2021**  
+
+	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (under review)  
+	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(under review)  
+	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (under review) 
+
+	- [Xu, W., Yin, H., Jia, D., **Li, C.**, Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+
 - **2020**  
 
-	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (in preparation)  
-	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(in preparation)  
-	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (in preparation)  
+	- [徐雯峤,汪伟*,尹宏伟,贾东,**李长圣**,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
 
 - **2019**  
 
