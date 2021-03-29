@@ -1,6 +1,6 @@
 ---
 title: 徐雯峤
-date: 2020-07-24
+date: 2021-03-29
 tags:
     - 网站维护者
     - VBOX开发者
@@ -38,6 +38,10 @@ QQ：``326306955`` (Ivy)
 
 
 ## 论文发表
+
+- **2021**  
+
+	- [**Xu, W.**, Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 
 - **2020**  
 
