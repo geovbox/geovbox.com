@@ -3,8 +3,8 @@
     <div class="col-sm-6 col-md-3 col-lg-12">
         <div class="thumbnail">
             <div class="caption">
-            <h3 class="text-left"><i class="fa fa-book"></i> 离散元数值模拟软件VBOX初级教程（DEM）</h3>
-            <p>2020年02月<br/>主讲人：李长圣 <br/>该视频教程共约２个小时，针对零基础用户。学习完该教程，用户可以用VBOX实现构造数值模拟。</p>
+            <h3 class="text-left"><i class="fa fa-book"></i> 离散元数值模拟软件初级教程</h3>
+            <p>2020年02月<br/>主讲人：李长圣 <br/>该视频教程共约２个小时，针对ZDEM和VBOX零基础用户。学习完该教程，用户可以实现构造数值模拟。</p>
             <div class="text-left">
             <a href="https://www.bilibili.com/video/av91259173/" class="btn btn-primary" role="button">视频</a>
             <a href="/blog/video-totorial-publish/" class="btn btn-default" role="button">详细介绍</a>

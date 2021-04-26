@@ -22,7 +22,6 @@ commands:
 
 这里是一个 `同构造沉积` 计算实例。
 
-## 运行 `vboxdaily syn_sedimentaion.py` 
 [syn_sedimentaion.py.py](/example/syn_sedimentaion/syn_sedimentaion.py) 中内容如下：
 
 {{< include-code "syn_sedimentaion.py" bash >}}

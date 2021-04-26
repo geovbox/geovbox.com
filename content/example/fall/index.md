@@ -17,8 +17,6 @@ commands:
 
 - **视频教程**：[4自由落体和Paraview颜色配置](https://www.bilibili.com/video/av91259173)
 
-执行脚本 `vboxdaily fall.py` 
-
 其中，`fall.py` 中内容如下：
 {{< include-code "fall.py" bash >}}
 

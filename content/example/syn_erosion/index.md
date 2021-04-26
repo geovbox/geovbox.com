@@ -23,7 +23,6 @@ commands:
 
 这里是一个 `同构造剥蚀` 计算实例。
 
-## 在终端或 `xshell` 中运行 `vboxdaily syn_erosion.py` 
  [syn_erosion.py.py](/example/syn_erosion/syn_erosion.py) 中内容如下：
 
 {{< include-code "syn_erosion.py" bash >}}

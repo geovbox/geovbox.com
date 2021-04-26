@@ -96,7 +96,7 @@ languageName = "中文"
     url = "/hpc/"
     weight = 8
 [[Languages.zh-cn.menu.main]]
-    name = "下载"
+    name = "软件"
     url = "/download/"
     weight = 9
 [[Languages.zh-cn.menu.main]]
