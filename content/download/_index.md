@@ -2,11 +2,11 @@
 title: 
 ---
 
-##### 软件无需下载，安装在**[四个计算平台](/hpc/)**上，直接向管理员申请账户，即可使用．账户开通方法见[手册开账](https://doc.geovbox.com/latest/hpc/)，使用方法见 [手册使用](https://doc.geovbox.com/latest/use/)。
+##### 软件无需下载，安装在高性能**[计算平台](/hpc/)**上，开通账户，即可使用。账户开通方法见[手册开户](https://doc.geovbox.com/latest/hpc/)，使用方法见 [手册使用](https://doc.geovbox.com/latest/use/)。
 
 {{< row >}}
 {{% col 4 %}}
-### 支持操作系统 
+### 支持的操作系统 
 - Windows Linux Mac
 - 登陆[计算平台](/hpc)运行  `zdem -v`
 - [后处理软件下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码`zdem`  

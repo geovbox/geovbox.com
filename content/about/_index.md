@@ -35,7 +35,7 @@ title: 关于
 {{% /col %}}
 
 {{% col 6 %}}
-#### 成员
+#### 课题组成员
 {{% /col %}}
 
 {{< /row >}}
@@ -66,7 +66,7 @@ title: 关于
 </div>
 {{% /col %}}
 
-{{% col 3 %}}
+{{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋" class="img-circle" >
@@ -75,11 +75,20 @@ title: 关于
 </div>
 {{% /col %}}
 
-{{% col 3 %}}
+{{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/zhongjun/zhongjun.jpg" alt="钟军" class="img-circle" >
 		<div class="author-name"> 钟军</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/huanghaozhuo/huanghaozhuo.jpg" alt="黄浩卓" class="img-circle" >
+		<div class="author-name"> 黄浩卓</div>
 	</div> 
 </div>
 {{% /col %}}

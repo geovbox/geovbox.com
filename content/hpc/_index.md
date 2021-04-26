@@ -11,42 +11,41 @@ title:
 | 3 | 东华理工大学并行计算实验室 | 8 | 15 | 校内教师和学生 | 免费　| 暂时关闭 |
 
 {{< row >}}
-{{% col 5 %}}
-### 1.并行超算云(开户请联系客户经理)
+{{% col 4 %}}
+### 1 并行超算云(开户请联系周凤)
 
-| 已安装软件 | zdem 2.0 |
-|------------|----------|
+|软件| zdem 2.0 |
+|----------|----------|
+|视频教程|[@哔哩哔哩](https://www.bilibili.com/video/av91259173/) |
+|用户手册|[@在线版](http://doc.geovbox.com/2.0)|
 |**客户经理**|**周凤**|
 |手机|18627783589|
 |邮箱|zhoufeng@paratera.com|
 |官网|www.paratera.com|
-|CPU|Intel Xeon Platinum 9242@2.3GHz|
-|作业调度| [Slurm](https://doc.geovbox.com/latest/clac/) |
+|CPU|Intel Xeon Platinum <br>9242@2.3GHz|
 |用户|李长圣 钟军|
+
 
 {{% /col %}}
 
 {{% col 4 %}}
-### 2.南京大学
-
-|已装软件|vbox1.4|
-|--------|-------|
-|CPU|Intel(R) Xeon(R) CPU <br> E5-2680 v3@2.50GHz|
-|作业调度| [LSF](https://doc.geovbox.com/1.4/clac/#lsf) |
-|用户|陈汉林　童亨茂　王毛毛 <br>　尹宏伟 何登发 裴仰文|
-
-{{% /col %}}
-
-{{% col 3 %}}
-### 3.东华理工大学
+### 2 南京大学
 
 |软件|vbox1.4|
 |--------|-------|
-|管理| [李长圣](https://geovbox.com/about/lichangsheng/) |
-|主机|曙光天阔 <br>A620R-H|
-|CPU|Quad-Core AMD  <br>Opteron(tm) <br>Processor 2382 @ 2.66GHz|
-|作业调度| [SGE](https://doc.geovbox.com/1.4/clac/#sge) |
-|用户|毕晨洁 李长圣 <br> 黎光荣 王莉 <br>吴珍云 叶启洋|
+|CPU|Intel(R) Xeon(R) CPU <br> E5-2680 v3@2.50GHz||
+|用户|陈汉林 童亨茂 王毛毛 <br>尹宏伟 何登发 裴仰文|
+
+{{% /col %}}
+
+{{% col 4 %}}
+### 3 东华理工大学
+
+|软件|vbox1.4|
+|--------|-------|
+|管理员| [李长圣](https://geovbox.com/about/lichangsheng/) |
+|CPU|Quad-Core AMD Opteron(tm) <br>Processor 2382@2.66GHz|
+|用户|毕晨洁 李长圣 黎光荣  <br>王莉 吴珍云 叶启洋|
 
 {{% /col %}}
 
@@ -56,7 +55,7 @@ title:
 
 
 {{% notice info %}}
-南洋理工大学　新加坡地球观测研究所(EOS) 集群　VBOX1.3(20180616)　永不更新。
+南洋理工大学　新加坡地球观测研究所(EOS) 集群　vbox 1.3(20180616)　永不更新。
 {{% /notice %}}
 
 
