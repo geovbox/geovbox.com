@@ -1,7 +1,7 @@
 baseURL = "https://geovbox.com/"
 #/home/lichangsheng/desktop/vbox1.3/doc/geovbox.com/public
 languageCode = "zh-cmn-Hans"
-title = "VBOX 官网"
+title = "构造模拟实验室"
 defaultContentLanguage = "zh-cn" # en / zh-CN / ... (This field determines which i18n file to use)
 defaultContentLanguageInSubdir= false
 
@@ -49,7 +49,7 @@ resourceDir = ".resources"
 
 [Languages]
 [Languages.zh-cn]
-title = "VBOX官网"
+title = "StructLab"
 weight = 0
 languageName = "中文"
 
