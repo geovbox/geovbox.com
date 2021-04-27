@@ -2,24 +2,23 @@
 title: 
 ---
 
-##### 软件无需下载，安装在高性能**[计算平台](/hpc/)**上，开通账户，即可使用。账户开通方法见[手册开户](https://doc.geovbox.com/latest/hpc/)，使用方法见 [手册使用](https://doc.geovbox.com/latest/use/)。
+##### [开通账户](https://doc.geovbox.com/latest/hpc/)，登陆**[并行超算云](https://cloud.paratera.com)**即可使用。
 
 {{< row >}}
-{{% col 4 %}}
-### 支持的操作系统 
-- Windows Linux Mac
-- 登陆[计算平台](/hpc)运行  `zdem -v`
-- [后处理软件下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码`zdem`  
-{{% /col %}}
-
 
 {{% col 4 %}}
 ### ZDEM 2.0
-
+- **登陆**[并行超算云](https://cloud.paratera.com/)
 - [视频教程](https://www.bilibili.com/video/av91259173/) 
 - [在线版手册](http://doc.geovbox.com/2.0) 
 - [PDF版手册](https://doc.geovbox.com/2.0/vbox_doc.pdf)
 
+{{% /col %}}
+
+{{% col 4 %}}
+### 后处理软件
+
+- [百度网盘下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码zdem
 {{% /col %}}
 
 {{% col 4 %}}
@@ -28,7 +27,6 @@ title:
 - [视频教程](https://www.bilibili.com/video/av91259173/) 
 - [在线版手册](http://doc.geovbox.com/1.4) 
 - [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)
-
 {{% /col %}}
 
 {{< /row >}}
