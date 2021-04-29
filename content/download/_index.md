@@ -24,7 +24,6 @@ title:
 {{% col 4 %}}
 ### VBOX 1.4 (停止更新)
 
-- [视频教程](https://www.bilibili.com/video/av91259173/) 
 - [在线版手册](http://doc.geovbox.com/1.4) 
 - [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)
 {{% /col %}}
