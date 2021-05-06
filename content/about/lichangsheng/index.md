@@ -36,7 +36,7 @@ QQ：``836745132`` (Neo)
 
 ## VBOX视频教程
 
-- 离散元数值模拟软件VBOX初级教程（DEM） [进入课程](https://www.bilibili.com/video/av91259173/)
+- 离散元数值模拟软件ZDEM初级教程（DEM） [进入课程](https://www.bilibili.com/video/av91259173/)
 
 ## 本科生课程
 

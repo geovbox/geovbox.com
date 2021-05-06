@@ -4,10 +4,6 @@ title = "构造模拟实验室"
 
 **欢迎来到构造数值模拟实验室**
 
-1. 申请 [开通账户](https://doc.geovbox.com/latest/hpc/)
-2. 登陆 [并行超算云](https://cloud.paratera.com/)
-3. 使用 `zdem -v`
-
 {{< figure src="/example/push/shearSS.gif" title=""  width="400px" >}}
 <center>[一个示例学会构造数值模拟](/example/push/)</center>
 
