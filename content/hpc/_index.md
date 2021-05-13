@@ -18,7 +18,7 @@ title:
 |管理员|[周凤18627783589](https://doc.geovbox.com/latest/hpc/)|
 |----------|----------|
 |CPU|Intel Xeon Platinum <br>9242@2.3GHz|
-|用户|[李长圣](https://geovbox.com/about/lichangsheng/) 李世超 赵宇斐 <br>徐雯峤 屈梦雪 龚艳萍等|
+|用户|[李长圣](https://geovbox.com/about/lichangsheng/) 李世超 赵斐宇 <br>徐雯峤 屈梦雪 龚艳萍 <br>吴珍云 等|
 
 
 {{% /col %}}
