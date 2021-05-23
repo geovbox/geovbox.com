@@ -5,7 +5,6 @@ categories:
     - 示例
 tags:
     - 滑脱层
-    - lsf
     - load
 authors:
     - 李长圣
@@ -20,8 +19,7 @@ commands:
 
 {{% notice info %}}
 数据下载：
-[detachment.py](/example/ex5_detachment/detachment.py)
-[pre_struct.gif](/example/ex5_detachment/detachment.gif)
+[detachment.py](/example/ex5_detachment/detachment.py) | [init_xyr.dat](/example/ex5_detachment/init_xyr.dat)
 {{% /notice %}}
 
 

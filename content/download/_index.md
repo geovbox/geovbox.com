@@ -2,33 +2,64 @@
 title: 
 ---
 
-##### [开通账户](https://doc.geovbox.com/latest/hpc/)，登陆**[并行超算云](https://cloud.paratera.com)**即可使用。
+### 软件产品
+
+| ZDEM 2.0 | 后处理软件　| VBOX 1.4 (停止更新)　|
+| ------------ | -------------- | ------ |
+| [并行超算云](https://cloud.paratera.com/) | [百度网盘下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码 `zdem` | 无 |
+| [视频教程](https://www.bilibili.com/video/av91259173/)  | 无 | 无 |
+| [在线版手册](http://doc.geovbox.com/2.0)  | 无 | [在线版手册](http://doc.geovbox.com/1.4)  |
+| [在线版手册](http://doc.geovbox.com/2.0)  | 无 | [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)  |
+
+---
+
+#### 超算平台
+
+软件安装在以下高性能计算平台上，申请[开通账户](https://doc.geovbox.com/latest/hpc/)，登陆[并行超算云](https://cloud.paratera.com/)即可使用。
+
+| 计算平台 | 单节点物理核数　| 节点数　| 开放权限　| 计算费　| 备注 |
+| ------------ | -------------- | ------ | -------- | ---------- | --------- |
+| [并行超算云](https://cloud.paratera.com/) | 96 | 200+ | 所有人 | 收费　| **开放申请** |
+| 南京大学高性能计算中心 | 24 | 906 | 所有人 | 收费　| 停止申请 |
+| 东华理工大学并行计算实验室 | 8 | 15 | 校内教师和学生 | 免费　| 暂时关闭 |
 
 {{< row >}}
-
 {{% col 4 %}}
-### ZDEM 2.0
-- **登陆**[并行超算云](https://cloud.paratera.com/)
-- [视频教程](https://www.bilibili.com/video/av91259173/) 
-- [在线版手册](http://doc.geovbox.com/2.0) 
-- [PDF版手册](https://doc.geovbox.com/2.0/vbox_doc.pdf)
+### [并行超算云](https://cloud.paratera.com/)
+
+|管理员|[周凤18627783589](https://doc.geovbox.com/latest/hpc/)|
+|----------|----------|
+|CPU|Intel Xeon Platinum <br>9242@2.3GHz|
+|用户|[李长圣](https://geovbox.com/about/lichangsheng/) 李世超 赵斐宇 <br>徐雯峤 屈梦雪 龚艳萍 <br>吴珍云 等|
+
 
 {{% /col %}}
 
 {{% col 4 %}}
-### 后处理软件
+### 南京大学
 
-- [百度网盘下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码zdem
+|管理员| |
+|--------|-------|
+|CPU|Intel(R) Xeon(R) CPU <br> E5-2680 v3@2.50GHz||
+|用户|陈汉林 童亨茂 王毛毛 <br>尹宏伟 何登发 裴仰文等|
+
 {{% /col %}}
 
 {{% col 4 %}}
-### VBOX 1.4 (停止更新)
+### 东华理工大学
 
-- [在线版手册](http://doc.geovbox.com/1.4) 
-- [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)
+|管理员| [李长圣](https://geovbox.com/about/lichangsheng/) |
+|--------|-------|
+|CPU|Quad-Core AMD Opteron(tm) <br>Processor 2382@2.66GHz|
+|用户|毕晨洁 李长圣 黎光荣  <br>王莉 吴珍云 叶启洋等|
+
 {{% /col %}}
 
 {{< /row >}}
+
+{{% notice info %}}
+南洋理工大学　新加坡地球观测研究所(EOS) 集群　vbox 1.3(20180616)　永不更新。
+{{% /notice %}}
 
 ---
 
@@ -38,15 +69,6 @@ title:
 2. [Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
 3. [Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. **Marine and Petroleum Geology** 26:232-248.](https://doi.org/10.1016/j.marpetgeo.2007.12.003)  
 
-### 本硕博论文
-
-1. 次仁达瓦 (2020) 逆冲构造模拟-以阿尔卑斯构造带为例. **本科论文**. 东华理工大学.  
-2. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
-3. [冯彦杰 (2019) 多滑脱层褶皱冲断构造分析模拟-以以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
-4. [张佳星 (2018) 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学.](https://doi.org/10.27235/d.cnki.gnjiu.2018.000274)  
-5. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  
-6. [林川.(2017) 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学.](http://t.cn/RpLUbiW)  
-
 ### 期刊论文
 
 1. [Xu, W., Yin, H., Jia, D., **Li, C.**, Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
@@ -55,6 +77,15 @@ title:
 - [张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. **实验室研究与探索**, 2019, 38(11):78-82.](http://t.cn/A6y6QntS)  
 - [LI Changsheng, YIN Hongwei*, et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
 - [**李长圣,尹宏伟,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.**](http://t.cn/EiaL0Ad)  
+
+### 本硕博论文
+
+1. 次仁达瓦 (2020) 逆冲构造模拟-以阿尔卑斯构造带为例. **本科论文**. 东华理工大学.  
+2. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
+3. [冯彦杰 (2019) 多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
+4. [张佳星 (2018) 裂陷盆地断裂构造分析和物理模拟—以琼东南盆地为例.**硕士论文**.南京大学.](https://doi.org/10.27235/d.cnki.gnjiu.2018.000274)  
+5. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  
+6. [林川.(2017) 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学.](http://t.cn/RpLUbiW)  
 
 ### 会议论文和报告
 

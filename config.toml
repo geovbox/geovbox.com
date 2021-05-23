@@ -91,12 +91,12 @@ languageName = "中文"
     name = "物理模拟"
     url = "/am/"
     weight = 7
+#[[Languages.zh-cn.menu.main]]
+#    name = "计算平台"
+#    url = "/hpc/"
+#    weight = 8
 [[Languages.zh-cn.menu.main]]
-    name = "计算平台"
-    url = "/hpc/"
-    weight = 8
-[[Languages.zh-cn.menu.main]]
-    name = "软件"
+    name = "软件论文"
     url = "/download/"
     weight = 9
 [[Languages.zh-cn.menu.main]]
@@ -166,10 +166,10 @@ title = "VBOX"
     url = "/en/am/"
     weight = 27
 
-[[Languages.en.menu.main]]
-    name = "HPC"
-    url = "/en/hpc/"
-    weight = 28
+#[[Languages.en.menu.main]]
+#    name = "HPC"
+#    url = "/en/hpc/"
+#    weight = 28
     
 [[Languages.en.menu.main]]
     name = "Download"
