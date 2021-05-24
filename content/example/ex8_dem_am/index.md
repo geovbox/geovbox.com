@@ -1,11 +1,13 @@
 ---
 title: 物理模拟和数值模拟对比实验(Excellent Important Nice)
-date: 2021-05-16
+date: 2021-05-24
 categories:
     - 文章
     - 脚本
 authors:
     - 李长圣
+images:
+    - dem_and_am16.jpg
 slug: ex8 
 ---
 

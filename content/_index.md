@@ -4,8 +4,8 @@ title = "构造模拟实验室"
 
 **欢迎来到构造数值模拟实验室**
 
-{{< figure src="/example/push/shearSS.gif" title=""  width="400px" >}}
-<center>[一个示例学会构造数值模拟](/example/push/)</center>
+{{< figure src="/example/ex1_push/shearSS.gif" title=""  width="400px" >}}
+<center>[一个示例学会构造数值模拟](/example/ex1_push/)</center>
 
 - [手册](https://doc.geovbox.com/) 可作为软件入门教程，持续更新完善中
 - [视频教程](/video/) 讲解软件使用方法，geovbox@哔哩哔哩

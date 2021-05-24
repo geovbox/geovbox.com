@@ -14,29 +14,29 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：[syn_sedimentaion.py](/example/syn_sedimentaion/syn_sedimentaion.py)
-[0000046000.sav](/example/syn_sedimentaion/0000046000.sav)
-[syn_sedimentaion.gif](/example/syn_sedimentaion/syn_sedimentaion.gif)
+数据下载：[syn_sedimentaion.py](syn_sedimentaion.py)
+[0000046000.sav](0000046000.sav)
+[syn_sedimentaion.gif](syn_sedimentaion.gif)
 {{% /notice %}}
 
 
 这里是一个 `同构造沉积` 计算实例。
 
 ## 运行 `vboxdaily syn_sedimentaion.py` 
-[syn_sedimentaion.py.py](/example/syn_sedimentaion/syn_sedimentaion.py) 中内容如下：
+[syn_sedimentaion.py.py](syn_sedimentaion.py) 中内容如下：
 
 {{< include-code "syn_sedimentaion.py" bash >}}
 
 <h5></h5>
 计算结束得到同构造沉积过程：
-{{< figure src="/example/syn_sedimentaion/syn_sedimentaion.gif" title="同构造沉积过程" width="600px" >}}
+{{< figure src="syn_sedimentaion.gif" title="同构造沉积过程" width="600px" >}}
 
-{{< figure src="/example/syn_sedimentaion/040.png" title="" width="600px" >}}
-{{< figure src="/example/syn_sedimentaion/050.png" title="" width="600px" >}}
-{{< figure src="/example/syn_sedimentaion/051.png" title="" width="600px" >}}
-{{< figure src="/example/syn_sedimentaion/053.png" title="" width="600px" >}}
-{{< figure src="/example/syn_sedimentaion/056.png" title="" width="600px" >}}
-{{< figure src="/example/syn_sedimentaion/100.png" title="" width="600px" >}}
+{{< figure src="040.png" title="" width="600px" >}}
+{{< figure src="050.png" title="" width="600px" >}}
+{{< figure src="051.png" title="" width="600px" >}}
+{{< figure src="053.png" title="" width="600px" >}}
+{{< figure src="056.png" title="" width="600px" >}}
+{{< figure src="100.png" title="" width="600px" >}}
 <center><h5>单位 (km)<br><br>同构造沉积示例</h5></center>
 
 ## 微观参数表

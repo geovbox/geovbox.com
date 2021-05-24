@@ -18,27 +18,27 @@ commands:
 
 {{% notice info %}}
 数据下载：
-[detachment.py](/example/ex5_detachment/detachment.py)
-[pre_struct.gif](/example/ex5_detachment/detachment.gif)
+[detachment.py](detachment.py)
+[pre_struct.gif](detachment.gif)
 {{% /notice %}}
 
 
 这里是一个 `滑脱层` 设置的实例，一般地，将滑脱层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。
 
-[detachment.py](/example/ex5_detachment/detachment.py) 和 [init_xyr.dat](/example/ex5_detachment/init_xyr.dat) 需放在同一目录。
+[detachment.py](detachment.py) 和 [init_xyr.dat](init_xyr.dat) 需放在同一目录。
 
- [detachment.py](/example/ex5_detachment/detachment.py) 中内容如下：
+ [detachment.py](detachment.py) 中内容如下：
 
 {{< include-code "detachment.py" bash >}}
 
 得到的演化过程如下：
 
 <h5></h5>
-{{< figure src="/example/ex5_detachment/detachment.gif" title="" width="600px" >}}
+{{< figure src="detachment.gif" title="" width="600px" >}}
 
-{{< figure src="/example/ex5_detachment/00.jpg" title="" width="600px" >}}
-{{< figure src="/example/ex5_detachment/05.jpg" title="" width="600px" >}}
-{{< figure src="/example/ex5_detachment/10.jpg" title="" width="600px" >}}
+{{< figure src="00.jpg" title="" width="600px" >}}
+{{< figure src="05.jpg" title="" width="600px" >}}
+{{< figure src="10.jpg" title="" width="600px" >}}
 
 <center><h5>单位 (km)<br><br>构造演化过程</h5></center>
 
