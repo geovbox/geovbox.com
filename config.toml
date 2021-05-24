@@ -96,28 +96,32 @@ languageName = "中文"
 #    url = "/hpc/"
 #    weight = 8
 [[Languages.zh-cn.menu.main]]
-    name = "软件论文"
+    name = "软件"
     url = "/download/"
     weight = 9
 [[Languages.zh-cn.menu.main]]
+    name = "论文"
+    url = "/paper/"
+    weight = 10
+[[Languages.zh-cn.menu.main]]
     name = "关于"
     url = "/about/"
-    weight = 10
+    weight = 11
 
 #[[Languages.zh-cn.menu.icon]]
 #    name = "qq"
 #    url = "/images/qq-group.png"
-#    weight = 10
+#    weight = 11
 
 #[[Languages.zh-cn.menu.icon]]
 #    name = "github"
 #    url = "https://github.com/geovbox"
-#    weight = 11
+#    weight = 12
 
 #[[Languages.zh-cn.menu.icon]]
 #    name = "envelope"
 #    url = "mailto:geovbox@163.com"
-#    weight = 12
+#    weight = 13
 
 
 [Languages.en]
@@ -177,21 +181,26 @@ title = "VBOX"
     weight = 29
 
 [[Languages.en.menu.main]]
+    name = "Paper"
+    url = "/en/paper/"
+    weight = 30
+
+[[Languages.en.menu.main]]
     name = "About"
     url = "/en/about/"
-    weight = 30
+    weight = 31
 
 #[[Languages.en.menu.icon]]
 #    name = "qq"
 #    url = "/images/qq-group.png"
-#    weight = 29
+#    weight = 32
 
 #[[Languages.en.menu.icon]]
 #    name = "github"
 #    url = "https://github.com/geovbox"
-#    weight = 30
+#    weight = 33
 
 #[[Languages.en.menu.icon]]
 #    name = "envelope"
 #    url = "mailto:geovbox@163.com"
-#    weight = 31
+#    weight = 34

@@ -64,9 +64,7 @@ QQ：``836745132`` (Neo)
 - **2021**  
 
 	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (under review)  
-	- **Li C.S.**, Yin H.W.*, et al. The quantitative method of the thrust wedge based on mesh.(under review)  
-	- **Li C.S.**, Yin H.W.*, et al. Calibration of discrete element parameters and modelling of push experiments based on discrete element model. (under review) 
-
+	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
 	- [Xu, W., Yin, H., Jia, D., **Li, C.**, Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 
 - **2020**  
