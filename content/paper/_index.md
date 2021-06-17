@@ -10,14 +10,15 @@ title:
 
 ### 期刊论文
 
-1. [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R.,. (2021) Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.](https://doi.org/10.3389/feart.2021.636512)
-- [Xu, W., Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
-- [邹玮,余一欣,刘金水,蒋一鸣,唐贤君,陈石,余浪.东海盆地西湖凹陷中央反转构造带发育主控因素及宁波背斜形成过程[J].石油学报,2021,42(02):176-185.](http://t.cn/A6Vov6Lc)
-- [徐雯峤,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
-- [辛文,陈汉林,安凯旋,张欲清,杨树锋,程晓敢,林秀斌.基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究.**地质学报**, 2020,94(06): 1704-1715.](http://t.cn/A6y6QKOG)  
-- [张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. **实验室研究与探索**, 2019, 38(11):78-82.](http://t.cn/A6y6QntS)  
-- [LI Changsheng, YIN Hongwei*, et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
-- [李长圣,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
+1. [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **(2021)** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+- [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R., **(2021)** Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+- [Xu, W., Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., **(2021)**. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+- [邹玮,余一欣,刘金水,蒋一鸣,唐贤君,陈石,余浪.东海盆地西湖凹陷中央反转构造带发育主控因素及宁波背斜形成过程[J].石油学报,**2021**,42(02):176-185.](http://t.cn/A6Vov6Lc)
+- [徐雯峤,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.地质学报, **2020**, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
+- [辛文,陈汉林,安凯旋,张欲清,杨树锋,程晓敢,林秀斌.基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究.地质学报, **2020**,94(06): 1704-1715.](http://t.cn/A6y6QKOG)  
+- [张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. 实验室研究与探索, **2019**, 38(11):78-82.](http://t.cn/A6y6QntS)  
+- [LI Changsheng, YIN Hongwei*, et al. **2018**. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
+- [李长圣,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.南京大学学报(自然科学),**2017**(06):1161-1170.](http://t.cn/EiaL0Ad)  
 
 ### 本硕博论文
 

@@ -38,7 +38,7 @@ QQ：``836745132`` (Neo)
 
 ## 本科生课程
 
-- 地学计算机制图 [进入课程网站](https://mapgis.geovbox.com)
+- 地学计算机制图 [进入课程](https://mapgis.geovbox.com)
 
 ## 工作和教育经历
 
@@ -55,7 +55,7 @@ QQ：``836745132`` (Neo)
 - 发明专利
 	- [**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,申请日：2019-12-02](https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN111008472A)  
 - 软件著作权：
-	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2019**.  
+	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2021**.  
 	- **覆岩变形分布式监测数据处理系统** V1.0. 张丹, **李长圣**. **2019**.  
 	- **虚拟沙箱软件** V1.0. 南京大学. **2015**  
 
@@ -65,8 +65,9 @@ QQ：``836745132`` (Neo)
 - **2021**  
 
 	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (under review)  
+	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
-	- [Xu, W., Yin, H., Jia, D., **Li, C.**, Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+	- [Xu, W.Q., Yin, H.W., Jia, D., **Li, C.S.**, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 
 - **2020**  
 
@@ -111,7 +112,7 @@ QQ：``836745132`` (Neo)
 
 - **在研**
 	
-	- 塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, **中国科学院地质与地球物理研究所**, 2019.06-至今, **主持**
+	- 塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, **中国科学院地质与地球物理研究所**, 2021.06-至今, **主持**
 	- 构造演化数值模拟实验, **中国地质大学（北京）**, 2019.06-至今, **主持**
 	- 克拉通盆地深层古隆起演变机制离散元数值模拟, 东华理工大学博士启动基金，2019-至今，**主持**
 	- 南天山库车坳陷盐下构造建模及变形机制分析, 东华理工大学博士启动基金，2019-至今，参与
