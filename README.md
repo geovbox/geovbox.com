@@ -1,6 +1,6 @@
 # 构造模拟实验室
 
-[![Build Status](https://travis-ci.org/geovbox/geovbox.com.svg?branch=master)](https://travis-ci.org/geovbox/geovbox.com)
+[![Build Status](https://travis-ci.com/geovbox/geovbox.com.svg?branch=master)](https://travis-ci.com/geovbox/geovbox.com)
 
 此项目是 [构造模拟实验室](https://geovbox.com) 主页的网站源码。
 
