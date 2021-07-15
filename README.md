@@ -1,12 +1,12 @@
 # 构造模拟实验室
 
-[![Build Status](https://travis-ci.com/geovbox/geovbox.com.svg?branch=master)](https://travis-ci.com/geovbox/geovbox.com)
+[![Deploy](https://github.com/geovbox/geovbox.comactions/workflows/deploy.yml/badge.svg)](https://github.com/geovbox/geovbox.com/actions/workflows/deploy.yml)
 
 此项目是 [构造模拟实验室](https://geovbox.com) 主页的网站源码。
 
 欢迎来到 [构造模拟实验室](https://geovbox.com/) 的世界，`ZDEM` 和 `VBOX` 是用于构造模拟的二维离散元软件。
 
-本项目开始于2017年，是由 VBOX 开发者 [李长圣](https://geovbox.com/about/lichangsheng/) 维护的 `VBOX` 官网，2019年初由阿里云迁移到 github pages 。
+本项目开始于2017年，是由 ZDEM、VBOX 开发者 [李长圣](https://geovbox.com/about/lichangsheng/) 维护的 软件官网，2019年初由阿里云迁移到 github pages 。
 
 ## 相关链接
 
