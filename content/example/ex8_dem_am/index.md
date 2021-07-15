@@ -104,9 +104,9 @@ The discrete element method (DEM) is becoming widely accepted as an effective me
 
     {{< include-code "gen.py" bash >}}
 
-2. 挤压过程。[imple.py](imple.py) 中内容如下：
+2. 挤压过程。[push.py](push.py) 中内容如下：
 
-    {{< include-code "imple.py" bash >}}
+    {{< include-code "push.py" bash >}}
 
 #### The quantitative method of the thrust wedge based on mesh (Data) 
 
