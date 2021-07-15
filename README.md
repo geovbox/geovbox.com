@@ -1,6 +1,6 @@
 # 构造模拟实验室
 
-[![Deploy](https://github.com/geovbox/geovbox.comactions/workflows/deploy.yml/badge.svg)](https://github.com/geovbox/geovbox.com/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/geovbox/geovbox.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/geovbox/geovbox.com/actions/workflows/deploy.yml)
 
 此项目是 [构造模拟实验室](https://geovbox.com) 主页的网站源码。
 
