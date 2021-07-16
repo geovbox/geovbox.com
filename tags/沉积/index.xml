@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>沉积 on StructLab</title>
+    <link>https://geovbox.com/tags/%E6%B2%89%E7%A7%AF/</link>
+    <description>Recent content in 沉积 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/%E6%B2%89%E7%A7%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>沉积</title>
+      <link>https://geovbox.com/example/ex3_syn_sedimentaion/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex3_syn_sedimentaion/</guid>
+      <description>数据下载：syn_sedimentaion.py | 0000046000.sav 这里是一个 同构造沉积 计算实例。 syn_sedimentaion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 # E-mail: sheng0619@163.com # more info,</description>
+    </item>
+    
+  </channel>
+</rss>

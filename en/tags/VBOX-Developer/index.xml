@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VBOX Developer on VBOX</title>
+    <link>https://geovbox.com/en/tags/VBOX-Developer/</link>
+    <description>Recent content in VBOX Developer on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/tags/VBOX-Developer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LI ChangSheng</title>
+      <link>https://geovbox.com/en/about/lichangsheng/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/about/lichangsheng/</guid>
+      <description>School of Earth Sciences and Engineering Nanjing University, Nanjing, Jiangsu 210023, P. R. China Mobile: +86-18205187511 Email: lichangsheng@smail.nju.edu.cn My GitHub ResearchGate My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU). Education 2018.04~2018.06 Earth Observatory of Singapore, Nanyang Technologyical University （ short visit ） 08.2014~Present Ph.D. in Structural Geology, School of Earth Sciences and Engineering, Nanjing University, China I</description>
+    </item>
+    
+  </channel>
+</rss>

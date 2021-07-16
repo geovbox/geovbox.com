@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="VBOX">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>古隆起 | VBOX</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">VBOX</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/en/">Home</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">Doc</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">Video</a></li>
+                        
+                        <li class="nav-item"><a href="/en/gallery/">Gallery</a></li>
+                        
+                        <li class="nav-item"><a href="/en/example/">Example</a></li>
+                        
+                        <li class="nav-item"><a href="/en/blog/">News</a></li>
+                        
+                        <li class="nav-item"><a href="/en/am/">Analog Model</a></li>
+                        
+                        <li class="nav-item"><a href="/en/download/">Download</a></li>
+                        
+                        <li class="nav-item"><a href="/en/paper/">Paper</a></li>
+                        
+                        <li class="nav-item"><a href="/en/about/">About</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/example/ex6_palaeohigh/">中文</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/en/example/ex6_palaeohigh/" class="permalink">古隆起</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E7%A4%BA%E4%BE%8B/">示例</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%8F%A4%E9%9A%86%E8%B5%B7/">古隆起</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/load/">load</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2019-06-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">29 Jun 2019</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                <div class="notices info" >
+<p>数据下载：
+<a href="palaeohigh.py" target="_blank">detachment.py</a> |
+<a href="init_xyr.dat" target="_blank">init_xyr.dat</a></p>
+
+</div>
+
+
+<p>这里是一个 <code>古隆起</code> 设置的实例，将古隆起的 x,y,spin（角速度）固定。</p>
+
+<p><a href="palaeohigh.py" target="_blank">palaeohigh.py</a> 和 <a href="init_xyr.dat" target="_blank">init_xyr.dat</a> 需放在同一目录。</p>
+
+<p><a href="palaeohigh.py" target="_blank">palaeohigh.py</a> 中内容如下：</p>
+
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">######################################
+# title: 古隆起设置方法
+# date: 2020-08-11 添加INI，初始化古隆起颗粒速度为零
+# date: 2019-06-29
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# more info, see www.geovbox.com
+#######################################
+#程序初始化
+LOAD init_xyr.dat
+#导入的颗粒命名为 ball_rand
+PROP GROUP ball_rand
+#关闭圆盘，颗粒设为球，计算颗粒体积用4/3*pi*r^3计算
+SET disk off
+#设置研究范围 
+BOX left 0.0 right 41000.0 bottom 0.0 height 11000.0 kn=0e10 ks=0e10 fric 0.00 
+#设置挡板墙，这里模型采用hertz接触模型，挡板墙的kn ks无效，计算时取颗粒的参数
+WALL ID 0, NODES (      0.0 ,     10.0 ) (  40000.0 ,     10.0 ), kn=0e10 ks=0e10 fric 0.0 COLOR black
+WALL ID 1, NODES (     10.0 ,  10000.0 ) (     10.0 ,     10.0 ), kn=0e10 ks=0e10 fric 0.0 COLOR blue
+WALL ID 2, NODES (  40000.0 ,     10.0 ) (  40000.0 ,  10000.0 ), kn=0e10 ks=0e10 fric 0.0 COLOR red
+#设置颗粒的微观参数
+PROP DENSITY 2.5e3, FRIC 0.0, SHEAR 2.9e9, POISS 0.2, DAMP 0.4, HERTZ
+#设置时间步及重力加速度
+SET  DT 5e-2,  GRAVITY  (0.0,  -9.8) 
+
+#设置bond粘结，使颗粒具有粘聚力
+PROP ebmod 2e8 gbmod 2e8  tstrength 0e7 sstrength 0e7 fric 0.3 
+#给地层赋上颜色
+PROP COLOR lg          range y    0.0   500.0
+PROP COLOR green       range y  500.0  1000.0
+PROP COLOR yellow      range y 1000.0  1500.0
+PROP COLOR white       range y 1500.0  2000.0
+PROP COLOR black       range y 2000.0  2500.0
+PROP COLOR mg          range y 2500.0  3000.0
+PROP COLOR blue        range y 3000.0  3500.0
+PROP COLOR gb          range y 3500.0  4000.0
+PROP COLOR violet      range y 4000.0  4500.0
+
+################################### 隆起设置 ####################################
+#用ellipse指定椭圆，椭圆的中心（2000.0, 0.0） 长轴 2000.0 短轴 1000.0
+PROP GROUP palaeohigh RANGE ellipse ( 20000.0,  0.0)  2000.0, 1000.0
+#用range P4 (point1) (point2) (point3) (point4) 命令，逆时针指定四个点
+#四个点组成的多边形，设置为组 palaeohigh
+PROP GROUP palaeohigh RANGE P4 ( 10000.0,  0.0) ( 12000.0,  0.0) ( 15000.0  0.0) ( 12500.0  1500.0)
+#打断palaeohigh组内的颗粒粘结
+BOND break RANGE GROUP palaeohigh
+#初始化古隆起颗粒速度为零
+INI xv 0.0 yv 0.0 spin 0.0 RANGE GROUP palaehigh
+#限制古隆起颗粒运动
+FIX x y spin RANGE GROUP palaeohigh
+#将palaeohigh组的颗粒颜色设置为黑色 
+PROP COLOR black  RANGE GROUP palaeohigh
+################################################################################
+
+#设置挡板墙摩擦系数
+WALL id 0 fric 0.0
+WALL id 1 fric 0.3
+WALL id 2 fric 0.3
+#设置墙的挤压速度 x方向速度为2.0
+WALL id 1 xv 2.0
+#设置墙的挤压量x方向推进10000.0，每挤压1000.0保存一次计算结果
+IMPLE WALL id 1 xmove 10000.0 save 1000.0 print 1000.0 ps 1000.0
+#计算停止
+STOP
+
+</code></pre>
+
+
+
+<p>得到的演化过程如下：</p>
+
+<p><h5></h5>
+<figure>
+    <img src="palaeohigh.gif" width="600px"/> 
+</figure>
+</p>
+
+<p><figure>
+    <img src="00.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="05.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="10.jpg" width="600px"/> 
+</figure>
+</p>
+
+<p><center><h5>单位 (km)<br><br>构造演化过程</h5></center></p>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/en/example/ex5_detachment/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">Set up Detachment</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/en/example/ex7_extens_rigid/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">刚性基底 伸展构造</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2021</span>
+
+        <span class="author" itemprop="copyrightHolder">VBOX</span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

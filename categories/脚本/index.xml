@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>脚本 on StructLab</title>
+    <link>https://geovbox.com/categories/%E8%84%9A%E6%9C%AC/</link>
+    <description>Recent content in 脚本 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>物理模拟和数值模拟对比实验(Excellent Important Nice)</title>
+      <link>https://geovbox.com/example/ex8_dem_am/ex8/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex8_dem_am/ex8/</guid>
+      <description>下载： gen.py | push.py ~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~3小时 完成计算。 单位 (cm) 离散元数值模拟结果 通过休止角试</description>
+    </item>
+    
+  </channel>
+</rss>

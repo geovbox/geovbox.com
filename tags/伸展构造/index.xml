@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>伸展构造 on StructLab</title>
+    <link>https://geovbox.com/tags/%E4%BC%B8%E5%B1%95%E6%9E%84%E9%80%A0/</link>
+    <description>Recent content in 伸展构造 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/%E4%BC%B8%E5%B1%95%E6%9E%84%E9%80%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>刚性基底 伸展构造</title>
+      <link>https://geovbox.com/example/ex7_extens_rigid/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex7_extens_rigid/</guid>
+      <description>数据下载： detachment.py | init_xyr.dat 这里是一个 刚性基底 伸展构造 设置的实例，使用上下两个刚性板完成。 extens_rigid.py 和 init_xyr.dat 需放在同一目录。 extens_rigid.py 中内容如下： #2019-06-29 #建议使用notepad</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on VBOX</title>
+    <link>https://geovbox.com/en/authors/</link>
+    <description>Recent content in Authors on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    
+	<atom:link href="https://geovbox.com/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LI ChangSheng</title>
+      <link>https://geovbox.com/en/authors/LI-ChangSheng/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/authors/LI-ChangSheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUN Chuang</title>
+      <link>https://geovbox.com/en/authors/SUN-Chuang/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/authors/SUN-Chuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/en/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

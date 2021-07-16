@@ -1,0 +1,2297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>构造模拟实验室 on StructLab</title>
+    <link>https://geovbox.com/</link>
+    <description>Recent content in 构造模拟实验室 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://geovbox.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</title>
+      <link>https://geovbox.com/blog/20210716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210716/</guid>
+      <description>
+
+&lt;p&gt;本文以龙门山褶皱冲断带为例，通过四个离散元数值模拟实验，揭示了：（1）剥蚀和沉积负载作用在活动褶皱冲断带新、老断层形成及其应力应变时空演化中具有重要影响作用；（2）研究区存在的差异性剥蚀和差异性同构造沉积负载作用可能是导致龙门山中段和南段形成差异性断裂活动及隆升的重要因素之一；（3）同构造沉积负载分布和发育（如成都平原的生长）对其腹部冲断楔中沿前缘断层面中的应力传播和应变汇聚有巨大的阻挡作用，导致应力汇聚主要发生在冲断楔体内部的主要活动断层上，进而在某种程度上解释了相比较龙门山北段，为什么其中段和南段更有利于地震的产生 &lt;a href=&#34;#refer-wu2021&#34;&gt;(Wu et al.,2021)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-wu2021&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.3389/feart.2021.659682&#34; target=&#34;_blank&#34;&gt;Wu Z, Yin H, Li C, Yang X, Wang L, Wang F, Dong S and Jia D (2021) Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts:
+Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold- Thrust Belt. Front. Earth Sci. 9:659682. doi: 10.3389/feart.2021.659682&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts: Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold-Thrust Belt&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Wu Z&lt;sup&gt;1,2&lt;/sup&gt;, Yin H&lt;sup&gt;3&lt;/sup&gt;, Li C&lt;sup&gt;1,2&lt;/sup&gt;, Yang X&lt;sup&gt;2&lt;/sup&gt;, Wang L&lt;sup&gt;2&lt;/sup&gt;, Wang F&lt;sup&gt;2&lt;/sup&gt;, Dong S&lt;sup&gt;3&lt;/sup&gt; and Jia D&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;Four groups of discrete element models (DEMs) were set-up to simulate and analyze the influence of regional erosion and sedimentary loading on the formation and spatial-temporal evolution of faults in the southern and central Longmen Shan (LMS) active fold-thrust belt. The interior characteristics of faults in the southern and central LMS fold-thrust belt were also evaluated during the interaction of tectonic processes and surface processes according to the stress-strain analysis from DEM results. The results showed that synkinematic erosion promoted the reactivation of pre-existing faults in thrust wedges and also retarded the formation and development of new incipient faults in the pre-wedge regions. Meanwhile, synkinematic sedimentation also delayed the development of new incipient faults in the pre-wedge regions by promoting the development of thrust faults in the front of thrust wedges, causing these thrust wedges in supercritical stages with relatively narrow wedge lengths. According to these DEM results, we infer that: 1) The characteristics of erosion and sedimentation in the central and southern LMS have important influences on the activities of large faults which are extended into the deep detachment layer; 2) Besides differential erosion, the differential sedimentary loading may also be one of the important factors for the along-strike differential evolution of the LMS fold-thrust belt. This kind of differential deposition may lead to differential fault activity and uplift in the interior thrust wedge and pre-wedge region in the central and southern LMS; 3) Compared to the northern LMS, the central LMS and southern LMS is more conducive to the occurrence of earthquakes, because of synkinematic sedimentation (such as the growth of Chengdu plain) has a greater blocking effect on the stress propagation and strain convergence on the fault planes of front faults of an active thrust wedge.&lt;/p&gt;
+
+&lt;h5&gt; &lt;/h5&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;figure1.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;FIGURE 1 | Regional map of the LMS fold-thrust belt (A) and its geological structure map (B) (modified from &lt;a href=&#34;#refer-sun2016&#34;&gt;(Sun et al.,2016)&lt;/a&gt;, Co-seismic rupture zones from &lt;a href=&#34;#refer-xu2009&#34;&gt;(Xu et al.,2009)&lt;/a&gt;. &amp;copy; shows the thickness contour lines (100 m interval) of the Upper Pliocene and Quaternary (syntectonic sedimentary strata) beneath the Chengdu plain (cited from &lt;a href=&#34;#refer-li2018&#34;&gt;(Li et al.,2018)&lt;/a&gt;. JTF, Jintang Fault; WLF, Wulong Fault; WMF, Wenxian-Maoxian Fault; SDF, Shuangshi-Dachuan Fault; PGF, Pengxian-Guanxian Fault; YBF, Yingxiu-Beichuan Fault; YAF, Yaan Fault; LQF, Longquanshan Fault; QCF, Qingchuan Fault; MJF, Minjiang Fault; HYF, Huya Fault; RFBT, Range Front Blind Thrust. &lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;figure10.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt; FIGURE 10 | Stress analysis of DEM simulations in Model 1 (A), Model 2 (B), Model 3 &amp;copy;, and Model 4 (D). Mean stress (upper figure) and maximum shear stress (lower figure) are presented after every 2 units shortening. The main fault shapes (shades of black) are assigned to the stress maps.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;figure13.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;FIGURE 13 | The DEM results in this paper (A) and the conceptual model modified from Liu et al., 2020(B) present the occurrence of recess and salient in the front of thrust wedges.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-li2018&#34;&gt;&lt;/div&gt;
+Li, Z., Zhang, P., Zheng, W., Jia, D., Hubbard, J., Almeida, R., et al. (2018b). Oblique Thrusting and Strain Partitioning in the Longmen Shan Fold-Andthrust belt, Eastern Tibetan Plateau. J. Geophys. Res. Solid Earth 123, 4431-4453. doi:10.1029/2018JB015529&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-sun2016&#34;&gt;&lt;/div&gt;
+Sun, C., Jia, D., Yin, H., Chen, Z., Li, Z., Shen, L., et al. (2016). Sandbox Modeling of Evolving Thrust Wedges with Different Preexisting Topographic Relief: Implications for the Longmen Shan Thrust belt, Eastern Tibet. J. Geophys. Res. Solid Earth 121, 4591–4614. doi:10.1002/2016jb013013&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., et al. (2009). Coseismic Reverse- and Oblique-Slip Surface Faulting Generated by the 2008 Mw 7.9 Wenchuan Earthquake, China. Geology 37 (6), 515–518. doi:10.1130/g25462a.1&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/about/lichangsheng/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/lichangsheng/</guid>
+      <description>
+
+&lt;div class=&#34;row author-list&#34;&gt;
+    &lt;div class=&#34;col-xs-6 col-sm-3 col-md-3 col-lg-3&#34;&gt;
+          &lt;img src=&#34;lichangsheng.png&#34; alt=&#34;李长圣&#34; class=&#34;img-circle&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    
+
+&lt;pre&gt;&lt;code&gt;东华理工大学 地球科学学院  讲师
+2014~现在，主要做离散元并行计算（CPU/GPU）、岩土体及构造相关的数值模拟。  
+博士期间开发了用于构造变形研究的高性能离散元数值模拟软件，旨在将构造变形研究从定性推向定量。  
+硕士期间主要做土石混合体，图像处理MATLAB，网格划分（有限元、有限差分FLAC3D）等方面的工作。  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;QQ：&lt;code&gt;836745132&lt;/code&gt; (Neo)&lt;br /&gt;
+邮箱： &lt;code&gt;sheng0619@163.com&lt;/code&gt; &lt;code&gt;lichangsheng@smail.nju.edu.cn&lt;/code&gt; &lt;code&gt;lichangsheng@ecut.edu.cn&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://space.bilibili.com/31815571&#34; target=&#34;_blank&#34;&gt;geovbox@哔哩哔哩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sheng.geovbox.com&#34; target=&#34;_blank&#34;&gt;李长圣@个人网站&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/demsheng&#34; target=&#34;_blank&#34;&gt;李长圣@GitHub&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Li_Changsheng2&#34; target=&#34;_blank&#34;&gt;李长圣@ResearchGate&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;南京大学 构造数值模拟集群管理员&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;zdem视频教程&#34;&gt;zdem视频教程&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;离散元数值模拟软件ZDEM初级教程（DEM） &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;本科生课程&#34;&gt;本科生课程&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;地学计算机制图 &lt;a href=&#34;https://mapgis.geovbox.com&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;工作和教育经历&#34;&gt;工作和教育经历&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019.03~至今 东华理工大学 地球科学学院  讲师&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019.11~2020.11 中国石油勘探开发研究院 访问学者&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2014.09~2019.03  南京大学         地质资源与地质工程         （博士）&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018.04~2018.06  南洋理工大学     新加坡地球观测研究所(EOS) Paul TAPPONNIER院士 （短期访学）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2012.09~2014.06  南京大学         地质工程                   （硕士）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2008.09~2012.07  华北科技学院      地质工程                  （本科）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;专利和软件著作权&#34;&gt;专利和软件著作权&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;发明专利
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&amp;amp;dbname=SCPD2020&amp;amp;filename=CN111008472A&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,申请日：2019-12-02&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;软件著作权：
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;离散元数值模拟后处理系统&lt;/strong&gt; V1.0. 东华理工大学, 钟军, &lt;strong&gt;李长圣&lt;/strong&gt;, 徐雯峤, 魏华敬, 吴珍云. &lt;strong&gt;2021&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆岩变形分布式监测数据处理系统&lt;/strong&gt; V1.0. 张丹, &lt;strong&gt;李长圣&lt;/strong&gt;. &lt;strong&gt;2019&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;虚拟沙箱软件&lt;/strong&gt; V1.0. 南京大学. &lt;strong&gt;2015&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;论文发表&#34;&gt;论文发表&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Li C.S.&lt;/strong&gt;, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (under review)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.659682&#34; target=&#34;_blank&#34;&gt;WU Z.Y.*, &lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34;&gt;Xu, W.Q., Yin, H.W., Jia, D., &lt;strong&gt;Li, C.S.&lt;/strong&gt;, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6y6QcwC&#34; target=&#34;_blank&#34;&gt;徐雯峤,汪伟*,尹宏伟,贾东,&lt;strong&gt;李长圣&lt;/strong&gt;,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.&lt;strong&gt;地质学报&lt;/strong&gt;, 2020, 94(06): 1740-1751. &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6hj2FNU&#34; target=&#34;_blank&#34;&gt;张迎朝,&lt;strong&gt;李长圣&lt;/strong&gt;*,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt; (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. &lt;strong&gt;博士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w&#34; target=&#34;_blank&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;dgyc&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/AisBmv8f&#34; target=&#34;_blank&#34;&gt;吴珍云,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].&lt;strong&gt;南京大学学报(自然科学),2019&lt;/strong&gt;,55(05):869-878.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Li C.S.&lt;/strong&gt;, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. &lt;strong&gt;International Journal of Geomechanics&lt;/strong&gt; 18, 06018011.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.&lt;strong&gt;南京大学学报(自然科学)&lt;/strong&gt;,2017(06):1161-1170.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0266352X15002682&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Li C.S.&lt;/strong&gt;, Zhang D.*, Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. &lt;strong&gt;Computers and Geotechnics&lt;/strong&gt;, 2016, 73: 179-188.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kX4lk&#34; target=&#34;_blank&#34;&gt;蔡申阳,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,贾东,汪伟,陈竹新,魏东涛.基于离散元数值模拟的应变分析和裂缝预测技术[J].高校地质学报, &lt;strong&gt;2016&lt;/strong&gt;, 22(01): 183-193.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2014&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kqz7M&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.&lt;strong&gt;南京大学&lt;/strong&gt;,2014.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kqIsW&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,张丹*,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. &lt;strong&gt;岩土力学&lt;/strong&gt;,2014,35(09):2731-2736.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;会议&#34;&gt;会议&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6yeiXQz&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.&lt;strong&gt;2019中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2019:60-61.（报告+论文）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/blog/201903/&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. &lt;strong&gt;第二届构造地质学与地球动力学青年术论坛&lt;/strong&gt;.南京,2019.03.(报告+摘要)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/AiY2NMGq&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. &lt;strong&gt;2018中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2018.（报告+论文）&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Chang-Sheng LI&lt;/strong&gt;, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. &lt;strong&gt;2017 American Geophysical Union Fall Meeting&lt;/strong&gt;. (Poster+ABSTRACT)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. &lt;strong&gt;第一届构造地质学与地球动力学青年学术论坛&lt;/strong&gt;，昆明，2018.（报告+海报+摘要）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6k57Mg&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟. &lt;strong&gt;2017中国地球科学联合学术年会论文集&lt;/strong&gt;,2017:4. (海报+论文)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;科研项目&#34;&gt;科研项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;在研&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, &lt;strong&gt;中国科学院地质与地球物理研究所&lt;/strong&gt;, 2021.06-至今, &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;构造演化数值模拟实验, &lt;strong&gt;中国地质大学（北京）&lt;/strong&gt;, 2019.06-至今, &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;克拉通盆地深层古隆起演变机制离散元数值模拟, 东华理工大学博士启动基金，2019-至今，&lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;南天山库车坳陷盐下构造建模及变形机制分析, 东华理工大学博士启动基金，2019-至今，参与&lt;/li&gt;
+&lt;li&gt;塔里木盆地南华纪-震旦纪大地构造环境研究, 东华理工大学博士启动基金，2019-至今，参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;结题&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;克拉通盆地深层古裂陷与隆起演变机制模拟，&lt;strong&gt;中国石油勘探开发研究院&lt;/strong&gt;，2019-2020，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;博士阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;多滑脱层挤压构造结构特征与变形机制的定量研究-以塔里木盆地库车坳陷深层构造为例，&lt;strong&gt;国家自然科学基金&lt;/strong&gt;，2015~2019.12，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;琼东南盆地深水区构造差异化及构造动力学成因机制，&lt;strong&gt;国家重大科技专项大型油气田及煤层气开发&lt;/strong&gt;，2016~2019，参与&lt;/li&gt;
+&lt;li&gt;前陆盆地“顶蓬构造”物理模拟及数值模拟研究，&lt;strong&gt;中石油 塔里木油田分公司勘探开发研究院&lt;/strong&gt;，2015~2016，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;和田河玛东地区潜山及盐相关构造物理及数值模拟实验研究，&lt;strong&gt;中石油 塔里木油田分公司勘探开发研究院&lt;/strong&gt;，2017~2018，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;西昆仑山北麓新生代前陆褶皱冲断带构造特征与变形机制定量研究，&lt;strong&gt;国家自然科学基金&lt;/strong&gt;，2014~2016，参与&lt;/li&gt;
+&lt;li&gt;深层构造控藏作用的物理模拟与数值模拟及大型克拉通盆地基底结构研究，&lt;strong&gt;国家科技重大专项&lt;/strong&gt;，2016~2019，参与&lt;/li&gt;
+&lt;li&gt;中国南方古生界页岩气赋存富集机理和资源潜力评价，&lt;strong&gt;国家重点基础研究发展计划(973计划)&lt;/strong&gt; ，2014~2016，参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;硕士阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;库岸含砾滑带土的变形、强度特征与砾-土相互作用机制研究，&lt;strong&gt;国家自然科学基金&lt;/strong&gt;，2014~2015，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;张集煤矿1611(3)采后覆岩破坏探测，&lt;strong&gt;淮南矿业集团张集矿重点项目&lt;/strong&gt;，2012-2014,参与&lt;/li&gt;
+&lt;li&gt;潘一东矿煤层采动应力场变化规律现场探测与反演分析，&lt;strong&gt;淮南矿业集团潘一东矿重点项目&lt;/strong&gt;，2012-2014,参与&lt;/li&gt;
+&lt;li&gt;王家岭煤矿高精度地质模型及重大危险源预警系统项目，&lt;strong&gt;北京龙软科技股份有限公司&lt;/strong&gt;，2012.03-04，参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;其他论文&#34;&gt;其他论文&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;徐雯峤,尹宏伟,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;. 库车坳陷西段构造变形演化的数值模拟[A]. 2020年中国地球科学联合学术年会论文集,2020:1.&lt;/li&gt;
+&lt;li&gt;杨庚兄,尹宏伟,汪伟,贾东,王斌,&lt;strong&gt;李长圣&lt;/strong&gt;.塔里木盆地玛扎塔格构造带深层构造分析[J].大地构造与成矿学,2020,44(05):819-830.&lt;/li&gt;
+&lt;li&gt;杨庚兄,尹宏伟,朱继田,汪伟,熊小峰,&lt;strong&gt;李长圣&lt;/strong&gt;.三维扫描技术在构造物理模拟中的应用——以琼东南盆地为例[J].实验室研究与探索,2020,39(05):8-11+45.&lt;/li&gt;
+&lt;li&gt;徐雯峤,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,汪伟. 构造转换带变形特征与变形机制：基于离散元数值模拟的认识[A].2019年中国地球科学联合学术年会论文集.2019:2.&lt;/li&gt;
+&lt;li&gt;王斌,汪伟,朱礼春,尹宏伟,屈洋,贾东,&lt;strong&gt;李长圣&lt;/strong&gt;.断层相关褶皱在塔里木盆地玛东地区的应用[J].高校地质学报,2019,25(02):268-275.&lt;/li&gt;
+&lt;li&gt;张佳星,尹宏伟,朱继田,熊小峰,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;,吴珍云,刘绍文.基底性质对断裂构造的影响:以琼东南盆地为例[J].&lt;strong&gt;高校地质学报, 2018&lt;/strong&gt;, 24(04):563-572.&lt;/li&gt;
+&lt;li&gt;周鹏,尹宏伟,周露,唐雁刚,&lt;strong&gt;李长圣&lt;/strong&gt;,朱文慧,谢亚妮,尚江伟.断背斜应变中和面张性段储层主控因素及预测方法——以克拉苏冲断带为例[J].&lt;strong&gt;大地构造与成矿学,2018&lt;/strong&gt;,42(01):50-59.&lt;/li&gt;
+&lt;li&gt;林川,尹宏伟,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;,能源,周鹏,周露.临界角库伦楔在盐下楔状体的应用:以库车坳陷克拉苏构造带为例[J].&lt;strong&gt;高校地质学报, 2017&lt;/strong&gt;, 23(03):491-498.&lt;/li&gt;
+&lt;li&gt;周鹏,唐雁刚,尹宏伟,赵双丰,莫涛,张星,朱文慧,&lt;strong&gt;李长圣&lt;/strong&gt;.塔里木盆地克拉苏构造带克深2气藏储层裂缝带发育特征及与产量关系[J].&lt;strong&gt;天然气地球科学,2017&lt;/strong&gt;,28(01):135-145.&lt;/li&gt;
+&lt;li&gt;Wang W , Yin H , Jia D , &lt;strong&gt;Changsheng Li&lt;/strong&gt;. A sub-salt structural model of the Kelasu structure in the Kuqa foreland basin, northwest China[J]. &lt;strong&gt;Marine &amp;amp; Petroleum Geology, 2017&lt;/strong&gt;, 88.&lt;/li&gt;
+&lt;li&gt;季婷媛,张丹,&lt;strong&gt;李长圣&lt;/strong&gt;,施斌,陈晓雪. 土石混合体砾-土接触面参数的敏感性分析[A]. &lt;strong&gt;2016年全国工程地质学术年会论文集[C],2016&lt;/strong&gt;:8.&lt;/li&gt;
+&lt;li&gt;张丹,张平松,施斌,王宏宪,&lt;strong&gt;李长圣&lt;/strong&gt;.采场覆岩变形与破坏的分布式光纤监测与分析[J].&lt;strong&gt;岩土工程学报,2015&lt;/strong&gt;,37(05):952-957.&lt;/li&gt;
+&lt;li&gt;王宏宪,张丹,&lt;strong&gt;李长圣&lt;/strong&gt;,独莎莎.基于PPP-BOTDA的膨胀土裂隙发育特征的分析与表征方法研究[J].&lt;strong&gt;工程地质学报,2014&lt;/strong&gt;,22(02):210-217.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;奖励&#34;&gt;奖励&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2009年国家励志奖学金&lt;/li&gt;
+&lt;li&gt;2009年第二十六届全国部分地区（北京）大学生物理竞赛非物理B三等奖&lt;/li&gt;
+&lt;li&gt;2010年优秀学生一等奖学金&lt;/li&gt;
+&lt;li&gt;2011年优秀学生三等奖学金&lt;/li&gt;
+&lt;li&gt;2011年第二届全国部分地区（北京）大学生数学竞赛二等奖&lt;/li&gt;
+&lt;li&gt;2012年学习竞赛单项奖&lt;/li&gt;
+&lt;li&gt;2013年研究生国家奖学金&lt;/li&gt;
+&lt;li&gt;2013年南京大学优秀研究生&lt;/li&gt;
+&lt;li&gt;2014年南京大学优秀毕业生&lt;/li&gt;
+&lt;li&gt;2016年南京大学英才奖学金&lt;/li&gt;
+&lt;li&gt;2017年南京大学优秀博士研究生创新能力提升计划（B）项目资助&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>物理模拟和数值模拟对比实验(Excellent Important Nice)</title>
+      <link>https://geovbox.com/example/ex8_dem_am/ex8/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex8_dem_am/ex8/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;下载：
+&lt;a href=&#34;gen.py&#34; target=&#34;_blank&#34;&gt;gen.py&lt;/a&gt; |
+&lt;a href=&#34;push.py&#34; target=&#34;_blank&#34;&gt;push.py&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;notices note&#34; &gt;
+&lt;p&gt;~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~&lt;strong&gt;3小时&lt;/strong&gt; 完成计算。&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;dem_am.gif&#34; width=&#34;800px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;单位 (cm)&lt;br&gt;&lt;strong&gt;离散元数值模拟结果&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;通过休止角试验和双轴试验标定了石英砂颗粒的细观参数，构建了一个典型的构造物理模拟(AM)和离散元数值模拟(DEM)试验，对比两种方法在构造变形研究中的差异与相似点，通过定性和定量（如坡角、断层倾角等）的方法，分析了两种方法的异同点。DEM与AM模拟结果较为一致，基本反映了AM中石英砂的变形行为。AM中材料选取有限（如硅胶、粘土、微玻璃珠等），而DEM材料选取范围大，但其模拟结果依赖参数选取。AM和DEM作为两种独立的方法，有很好的互补性 &lt;a href=&#34;#李长圣2019&#34;&gt;(李长圣,2019;&lt;/a&gt; &lt;a href=&#34;#refer-li2021&#34;&gt;Li et al.,2021)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-li2021&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;评审意见-font-color-red-excellent-font-font-color-red-important-font-font-color-red-nice-font&#34;&gt;评审意见 &lt;font color=red&gt;&lt;strong&gt;Excellent&lt;/strong&gt;&lt;/font&gt; &lt;font color=red&gt;&lt;strong&gt;Important&lt;/strong&gt;&lt;/font&gt; &lt;font color=red&gt;&lt;strong&gt;Nice&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jonny Wu(Guest Associate Editor):&lt;/strong&gt; The manuscript is an &lt;font color=red&gt;&lt;strong&gt;excellent work&lt;/strong&gt;&lt;/font&gt; and  &lt;font color=red&gt;&lt;strong&gt;important to publish&lt;/strong&gt;&lt;/font&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stuart Hardy:&lt;/strong&gt; This is an &lt;font color=red&gt;&lt;strong&gt;important paper&lt;/strong&gt;&lt;/font&gt; from a methodological point of view - &lt;font color=red&gt;&lt;strong&gt;a reference almost&lt;/strong&gt;&lt;/font&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amanda Hughes:&lt;/strong&gt; This study does a &lt;font color=red&gt;&lt;strong&gt;nice job&lt;/strong&gt;&lt;/font&gt; filling an existing need in modeling based studies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Calibration of the discrete element method and modelling of shortening experiments&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Changsheng Li &lt;sup&gt;1,2,3,4&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;3*&lt;/sup&gt;, Chuang Wu&lt;sup&gt;3&lt;/sup&gt;, Yingchun Zhang&lt;sup&gt;3&lt;/sup&gt;, Jiaxing Zhang&lt;sup&gt;3&lt;/sup&gt;,
+Zhenyun Wu&lt;sup&gt;1,2&lt;/sup&gt;, Wei Wang&lt;sup&gt;3&lt;/sup&gt;, Dong Jia &lt;sup&gt;3&lt;/sup&gt;, Shuwei Guan&lt;sup&gt;4&lt;/sup&gt; and Rong Ren&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, PetroChina, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The discrete element method (DEM) is becoming widely accepted as an effective method for addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analog model (AM). However, the previous experiments also pointed to variability among DEM models and AMs in the number of fault zones, their dip angle and spacing, and the evolution of the surface slope of a thrust wedge. The accuracy of the DEM depends on the input parameter values, so the calibration of the discrete element method is very important. Microscopic properties of particles and macroscopic properties of loose quartz sand were calibrated through a series of repose angle and biaxial tests. Furthermore, an AM was constructed to simulate the evolution of the thrust wedge to compare with DEM results. DEM and AM results indicate an encouraging overall agreement in model evolution. Based on a new automated wedge quantification method, DEM results were systematically compared with AM results on the number of fault zones, their dip angle and spacing, the evolution of the surface slope of a thrust wedge, and other parameters. &lt;strong&gt;Our study provides a necessary comparison between commonly applied modeling approaches, which is important for more confidently applying these methods to understand real fold and thrust belt systems.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;休止角试验&#34;&gt;休止角试验&lt;/h4&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.1.jpg&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;a）室内试验三维视图 b）室内试验正视图 c）当 μ=0.3时，离散元模拟结果。&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;休止角试验&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.2.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;strong&gt;颗粒集合体的休止角 θ与颗粒间摩擦系数 μ的关系&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;双轴剪切试验&#34;&gt;双轴剪切试验&lt;/h4&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.3.jpg&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;a）随机生成颗粒，颗粒直径较小，为 0.1 0.2 0.25和 0.3 mm b）半径膨胀颗粒之间变为 0.2 0.4 0.5和 0.6 mm；；c) 删除虚线外颗粒；d）设置颜色 ；e)颗粒的应变 20%时的形变；f)试样的变形应变场，颜色深浅表征剪切应变的大小，红色 表示 顺时针剪切，蓝色 表示 逆时针剪切，计算方法见 &lt;a href=&#34;#Morgan2015&#34;&gt;Morgan(2015)&lt;/a&gt;。&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;双轴试验过程&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.4.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;a）不同围压下，试样的应力应变曲线 b）双轴试样的莫尔强度包络线。&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;当颗粒间摩擦系数 μ=0.3时，双轴试验。&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.6.jpg&#34; width=&#34;500px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;其中，圆点是 &lt;a href=&#34;#Klinkmüller2021&#34;&gt;Klinkmüller et al.(2016)&lt;/a&gt;给出的环剪试验的结果 ，五角星为本文DEM计算结果。&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;室内试验测得的内摩擦角与粘聚力与DEM计算结果对比&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;演化过程&#34;&gt;演化过程&lt;/h4&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;dem_and_am02.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;dem_and_am04.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;dem_and_am08.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;dem_and_am12.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;dem_and_am16.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;strong&gt;第一幅(AM)构造物理模拟；第二幅(DEM)离散元数值模拟；第三幅DEM变形应变图。&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;定量对比&#34;&gt;定量对比&lt;/h4&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Fig.12.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;a）楔体坡角、宽度和高度测量方法示意图；b）物理模拟坡角；c) 楔体宽度演化；d) 楔体高度演化。&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;AM和DEM的楔体坡角、宽度和高度演化过程对比图&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;zdem-script&#34;&gt;ZDEM script:&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;表 1  颗粒微观参数表.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;em&gt;d&lt;/em&gt;(mm) &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;k&lt;/em&gt;(N·m&lt;sup&gt;−1&lt;/sup&gt;) &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;ρ&lt;/em&gt;(kg·m&lt;sup&gt;−2&lt;/sup&gt;) &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;g&lt;/em&gt;(m·s&lt;sup&gt;−2&lt;/sup&gt;) &amp;nbsp;&amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;f&lt;/em&gt;&amp;nbsp;&amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;μ&lt;/em&gt;&amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;η&lt;/em&gt;(N·s·m&lt;sup&gt;−1&lt;/sup&gt;) &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;&lt;em&gt;υ&lt;/em&gt;(m·s&lt;sup&gt;−1&lt;/sup&gt;) &amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0.6&lt;/td&gt;
+&lt;td&gt;7.5e3&lt;/td&gt;
+&lt;td&gt;1.3e3&lt;/td&gt;
+&lt;td&gt;10.0&lt;/td&gt;
+&lt;td&gt;0.4&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;0.3&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;0.04&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;0.04&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The particle packing consists of four particle sizes, with diameters and quantity ratio of 0.2 mm, 0.4 mm, 0.5 mm, and 0.6 mm and 2:2:1:1, respectively. &lt;em&gt;d&lt;/em&gt;, largest particle diameter. &lt;em&gt;ρ&lt;/em&gt;, particle density. &lt;em&gt;g&lt;/em&gt;, gravitational acceleration. &lt;em&gt;f&lt;/em&gt;, safety factor of the time step. &lt;em&gt;k&lt;/em&gt;, stiffness of the contact. &lt;em&gt;μ&lt;/em&gt;, friction coefficient. &lt;em&gt;η&lt;/em&gt;, dynamic viscosity. &lt;em&gt;υ&lt;/em&gt;, velocity of the mobile wall.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;沉积过程。&lt;a href=&#34;gen.py&#34; target=&#34;_blank&#34;&gt;gen.py&lt;/a&gt; 中内容如下：&lt;/p&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title: 离散元数值模拟与构造物理模拟对比试验:1 沉积
+# date: 2021-05-16
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512
+# more info, see www.geovbox.com
+#######################################
+start
+set disk hex
+BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 kn=1.5e4 ks=1.5e4 fric 0.3 
+
+wall id 4, nodes (     5e-3  158.0e-3) (  5.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+wall id 5, nodes (     5e-3    5.0e-3) (605.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+wall id 6, nodes ( 605.0e-3    5.0e-3) (605.0e-3   158.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+
+gen grid idmin 0 rad discrete 0.1e-3 0.1e-3 0.2e-3 0.2e-3 0.25e-3 0.3e-3,  x (5.0e-3,  605.0e-3), y (5.0e-3, 155.0e-3), GROUP ball_rand 
+
+PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.4
+FIX spin
+
+SET frac 0.4
+SET GRAVITY ( 0.0,  -10.0 )
+SET  stepbar 1000
+SET  save  20000
+SET  print 20000
+SET  ps    20000
+HIST ID 1 INTERVAL 1000 , kinetic
+HIST ID 2 INTERVAL 1000 , step
+PLOT hist 2 1
+
+CYC 60000
+DEL range x (4.0e-3, 606.0e-3), y (30.0e-3, 1.0),
+CYC 20000
+#save 2del.sav
+EXP ini_xyr.dat
+STOP
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;挤压过程。&lt;a href=&#34;push.py&#34; target=&#34;_blank&#34;&gt;push.py&lt;/a&gt; 中内容如下：&lt;/p&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title: 离散元数值模拟与构造物理模拟对比试验:2 挤压
+# date: 2021-05-16
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512
+# more info, see www.geovbox.com
+#######################################
+LOAD  ini_xyr.dat
+SET disk hex
+BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 kn=1.5e4 ks=1.5e4 fric 0.3 
+
+WALL id 4, nodes (     5e-3  110.0e-3) (  5.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+WALL id 5, nodes (     5e-3    5.0e-3) (605.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+WALL id 6, nodes ( 605.0e-3    5.0e-3) (605.0e-3   110.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+
+PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.0
+FIX spin
+
+SET frac 0.4
+SET GRAVITY ( 0.0,  -10.0 )
+SET  stepbar 10000
+HIST ID 1 INTERVAL 1000 , kinetic
+HIST ID 2 INTERVAL 1000 , step
+PLOT  2 1
+
+SET damp lsm 0.04
+PROP fric 0.30 
+PROP color lg
+PROP color  red , range x 0.0  615.0e-3 y   9.0e-3  10.0e-3  
+PROP color  blue, range x 0.0  615.0e-3 y  14.0e-3  15.0e-3  
+PROP color  red , range x 0.0  615.0e-3 y  19.0e-3  20.0e-3  
+PROP color  blue, range x 0.0  615.0e-3 y  24.0e-3  25.0e-3  
+PROP color  red , range x 0.0  615.0e-3 y  29.0e-3  30.0e-3  
+
+wall id 4 fric 0.30 xv 40e-3
+wall id 5 fric 0.30
+wall id 6 fric 0.30
+
+CYC 1
+imple wall id 4 xmove 160e-3 save 20e-3 print 10e-3 ps 10e-3  vtk 10e-3
+stop
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;the-quantitative-method-of-the-thrust-wedge-based-on-mesh-data&#34;&gt;The quantitative method of the thrust wedge based on mesh (Data)&lt;/h4&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;Download：&lt;a href=&#34;analog model.7z&#34; target=&#34;_blank&#34;&gt;analog model.7z&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The images of the analog model.&lt;/p&gt;
+
+&lt;h4 id=&#34;参考文献&#34;&gt;参考文献&lt;/h4&gt;
+
+&lt;p&gt;&lt;div id=&#34;Hardy2009&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.marpetgeo.2007.12.003&#34; target=&#34;_blank&#34;&gt;Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. &lt;strong&gt;Marine and Petroleum Geology&lt;/strong&gt; 26:232-248.&lt;/a&gt;&lt;br /&gt;
+&lt;div id=&#34;Klinkmüller2021&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.tecto.2016.01.017&#34; target=&#34;_blank&#34;&gt;Klinkmüller, M., Schreurs, G., Rosenau, M., and Kemnitz, H. (2016). Properties of Granular Analogue Model Materials: A Community Wide Survey. Tectonophysics 684, 23–38. doi:10.1016/j.tecto.2016.01.017&lt;/a&gt;
+&lt;div id=&#34;Morgan2015&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full&#34; target=&#34;_blank&#34;&gt;Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. &lt;strong&gt;Journal of Geophysical Research: Solid Earth&lt;/strong&gt; 120:3870-3896.&lt;/a&gt;&lt;br /&gt;
+&lt;div id=&#34;李长圣2019&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34;&gt;李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. &lt;strong&gt;博士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;zdem&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素的离散元数值模拟（地质学报）</title>
+      <link>https://geovbox.com/blog/20210410/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210410/</guid>
+      <description>
+
+&lt;p&gt;本文主要揭示滑脱层、先存断裂等因素对冲断带变形的影响，认为西南天山山前冲断带发育堆垛构造主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂&lt;a href=&#34;#refer-xin2020&#34;&gt;(辛文 等.,2020)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-xin2020&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.19762/j.cnki.dizhixuebao.2020078&#34; target=&#34;_blank&#34;&gt;辛文，陈汉林，安凯旋，张欲清，杨树锋，程晓敢，林秀斌. 2020. 基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究. 地质学报, 94(6): 1704-1715. &lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;辛文&lt;sup&gt;1,2&lt;/sup&gt;, 陈汉林&lt;sup&gt;1,2&lt;/sup&gt;*, 安凯旋&lt;sup&gt;1,2&lt;/sup&gt;, 张欲清&lt;sup&gt;1,2&lt;/sup&gt;, 杨树锋&lt;sup&gt;1,2&lt;/sup&gt;, 程晓敢&lt;sup&gt;1,2&lt;/sup&gt;,
+林秀斌&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;浙江大学地球科学学院, 杭州, 310027&lt;/li&gt;
+&lt;li&gt;教育部含油气盆地构造研究中心, 杭州, 310027&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;西南天山山前褶皱冲断带的变形与其东侧的柯坪冲断带的大规模薄皮滑脱明显不同，它以发育“堆垛”构造和基底卷入逆冲构造为特征，是什么因素控制了该冲断带的变形。本文基于地震解释剖面，采用离散元数值模拟研究手段，单因素变量控制方法，设计了先存断裂模型，滑脱层模型和先存断裂与不同内聚力的滑脱层组合模型共5组数值模拟实验,分析西南天山山前褶皱冲断带的构造变形的控制因素。实验结果表明：滑脱层岩石强度控制了其下先存断裂向上突破的难易程度，滑脱层内聚力较强时，沿先存薄弱带易突破滑脱层形成逆冲推覆构造；滑脱层内聚力较弱时，滑脱层将发育成逆冲体系的顶板断裂，阻碍滑脱层之下单元中先存断裂后期活动向上传播，易形成相互叠覆的逆冲片。弱内聚力滑脱层发育的地区，变形前锋向前陆方向传播得更快、更远,变形主要发生在滑脱层之上单元，易形成冲起构造和三角带，滑脱层之下单元构造变形相对较弱。通过对比分析，认为西南天山山前冲断带发育堆垛构造和基底卷入逆冲构造变形，主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure11.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;初始模型设置 &lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure2.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;不同初始条件模型数值模拟结果对比 &lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure3.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;不同强度滑脱层模型数值模拟结果对比 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;本文模拟实验使用的是由东华理工大学李长圣自主研发的离散元数值模拟软件VBOX，在此表示感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>库车坳陷东西段盐下构造变形差异演化的离散元数值模拟（地质学报）</title>
+      <link>https://geovbox.com/blog/20210409/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210409/</guid>
+      <description>
+
+&lt;p&gt;本文主要揭示先存断裂会影响褶皱冲断带构造传播的方式，导致盐下楔体形态、断裂数量和盐上构造样式的差异。同构造沉积会增强盐上和盐下的分层差异变形，滑脱层强度增强会减弱盐上和盐下的分层变形。通过将模拟结果与库车坳陷东、西段构造特征进行对比分析，我们认为先存断层可能是影响库车坳陷东、西段盐下构造差异演化的重要因素&lt;a href=&#34;#refer-xu2020&#34;&gt;(徐雯峤 等.,2020)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-xu2020&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.19762/j.cnki.dizhixuebao.2020083&#34; target=&#34;_blank&#34;&gt;徐雯峤,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.&lt;strong&gt;地质学报&lt;/strong&gt;, 2020, 94(06): 1740-1751. &lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;库车坳陷东西段盐下构造变形差异演化数值模拟分析&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;徐雯峤&lt;sup&gt;1&lt;/sup&gt;, 汪伟&lt;sup&gt;1&lt;/sup&gt;*, 尹宏伟&lt;sup&gt;1&lt;/sup&gt;, 贾东&lt;sup&gt;1&lt;/sup&gt;, 李长圣&lt;sup&gt;2&lt;/sup&gt;, 杨庚兄&lt;sup&gt;1&lt;/sup&gt;,
+李刚&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;南京大学地球科学与工程学院, 南京, 211046&lt;/li&gt;
+&lt;li&gt;东华理工大学地球科学学院, 南昌, 330013&lt;/li&gt;
+&lt;li&gt;塔里木油田公司资源勘察处, 新疆库尔勒, 841000&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;库车坳陷东、西段盐下构造在北部构造带以南出现明显的差异构造变形特征，在西段的克拉苏构造带盐下发育由一系列逆冲断裂组成的叠瓦构造，而在东段的东秋构造带盐下发育一个大型的断背斜构造。本文基于地震资料构造解析，采用离散元数值模拟方法，设计了５组数值模拟实验来探究先存断层、同构造沉积和滑脱层强度对褶皱冲断带构造形态及演化的影响，进而分析库车坳陷东、西段构造特征差异的成因机制。模拟结果表明含盐褶皱冲断带往往发育垂向分层构造变形。先存断裂会影响褶皱冲断带构造传播的方式，导致盐下楔体形态、断裂数量和盐上构造样式的差异。同构造沉积会增强盐上和盐下的分层差异变形，滑脱层强度增强会减弱盐上和盐下的分层变形。通过将模拟结果与库车坳陷东、西段构造特征进行对比分析，我们认为先存断层可能是影响库车坳陷东、西段盐下构造差异演化的重要因素。库车坳陷东段的东秋构造带受先存断裂影响，在先存断裂的位置优先变形，形成东秋断裂和上覆东秋背斜，同时先存断裂既有助于应力释放，又阻拦应力向前传递，形成乱序式变形传播。库车坳陷西段的克拉苏构造带，没有先存断裂的影响，盐下主要发育前展式构造变形，形成由一系列逆冲断层组成的叠瓦构造楔体。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure1.png&#34; width=&#34;800px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;五组实验挤压11km时构造形变图和变形应变图 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;数值模拟采用离散元数值模拟软件VBOX（www.geovbox.com），感谢Rice大学Julia Morgan教授在离散元模拟及应力应变分析中提供的帮助。感谢编辑及审稿专家对本文认真而专业的审阅，并提出具有启发和指导意义的意见与建议，极大地提高了本文的质量，谨致衷心感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>川西北双层滑脱体系构造变形过程离散元数值模拟</title>
+      <link>https://geovbox.com/blog/20210329/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210329/</guid>
+      <description>
+
+&lt;p&gt;本文主要揭示双滑脱层模型在剥蚀和挤压条件下的构造演化过程。从腹陆端到挤压前缘，依次形成堆垛构造、被动顶板构造等，揭露
+埋藏深部的隐伏薄皮构造样式，重塑新生代以来川西北剥蚀和挤压条件下的演化过程 &lt;a href=&#34;#refer-xu2021&#34;&gt;(Xu et al.,2021)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-xu2021&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34;&gt;Xu, W., Yin, H., Jia, D., &lt;strong&gt;Li, C.&lt;/strong&gt;, Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*, Dong Jia&lt;sup&gt;1&lt;/sup&gt;, Changsheng Li&lt;sup&gt;2&lt;/sup&gt;, Wei Wang&lt;sup&gt;1&lt;/sup&gt;, Gengxiong Yang&lt;sup&gt;1&lt;/sup&gt;,
+Wanhui He&lt;sup&gt;1&lt;/sup&gt;, Zhuxin Chen&lt;sup&gt;3&lt;/sup&gt; and Rong Ren&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Science, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The northwestern Sichuan Basin has experienced Meso-Cenozoic intracontinental compressional tectonic processes and formed multi-detachment stratigraphic distribution of foreland basins and fold-thrust belts, which have caused complicated structural deformations in the deep buried layers. Rapid uplift with accelerated erosion and two sets of detachments in the Lower Triassic and Lower Cambrian controlled the multilevel deformation structure. We conducted discrete numerical simulations with double weak detachments and erosion under extrusion conditions in order to examine the mechanics and kinematics of the frontal piedmont zones of the NW Sichuan Basin. The following findings were made. (1) With continuous compression, the weak detachments promoted the decoupled and ladder-like deformation of the thrust belt, where the deformation above the slip layer extended further than it did below it. Rapid uplift and erosion at the thrust front contributed to the formation of a passive roof fault and a monocline in the upper layer, a series of forward and backward thin-skinned thrust-buried structures in the middle layer sandwiched between two weak detachments and stacking structures in the lower layer. (2) Erosion effectively prevents the deformation from propagating above the upper detachment, but can advance a horizontal transition in the deformation style generated within the middle brittle layer: from oblique and tight fault propagation folds to symmetrical, wide, and gentle detachment folds. (3) The model results consistent with tectonic deformation in the NW Sichuan Basin indicate a possible evolutionary mechanism under compression. There is hierarchical deformation of uncoordinated contraction controlled by the Lower Triassic and Early Cambrian weak layers, with the characteristics of the shallow monocline, the middle thin-skinned thrusts, and the deeper basement-involved folds. Continuous compression contributed a sequential pattern of steps as a whole, from the frontal piedmont zones to the foreland basin, autochthonous stacking thrusts, and the huge buried structure in the NW Sichuan Basin. During the Himalayan period, syntectonic erosion along with the uplifted thrust front maintained the development of a passive-roof duplex and a huge forward buried structure.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure4-1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments due to the left-wall displacement &lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure6-1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments and erosions due to the left-wall displacement&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure8-2.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Comparison of the slope angle versus shortening for the two models&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>徐雯峤</title>
+      <link>https://geovbox.com/about/xuwenqiao/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/xuwenqiao/</guid>
+      <description>
+
+&lt;div class=&#34;row author-list&#34;&gt;
+    &lt;div class=&#34;col-xs-6 col-sm-3 col-md-3 col-lg-3&#34;&gt;
+          &lt;img src=&#34;xuwenqiao.png&#34; alt=&#34;徐雯峤&#34; class=&#34;img-circle&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    
+
+&lt;pre&gt;&lt;code&gt;南京大学 硕士研究生
+2019~现在，主要做岩土体及构造相关的离散元数值模拟。    
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;QQ：&lt;code&gt;326306955&lt;/code&gt; (Ivy)&lt;br /&gt;
+邮箱： &lt;code&gt;mg1929066@smail.nju.edu.cn&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;南京大学 构造数值模拟集群管理员&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiao.geovbox.com&#34; target=&#34;_blank&#34;&gt;徐雯峤的个人网站&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Ivyxwq&#34; target=&#34;_blank&#34;&gt;徐雯峤的GitHub&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;教育经历&#34;&gt;教育经历&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019.09~至今  南京大学         地球探测与信息技术               （硕士）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2015.09~2019.07  中国石油大学（华东）      理科实验班（数理)                  （本科）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;专利和软件著作权&#34;&gt;专利和软件著作权&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;发明专利：&lt;a href=&#34;https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&amp;amp;dbname=SCPD2020&amp;amp;filename=CN111008472A&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟,吴珍云,贾东,&lt;strong&gt;徐雯峤&lt;/strong&gt;,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,2020-04-14. 实质审查的生效&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;论文发表&#34;&gt;论文发表&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xu, W.&lt;/strong&gt;, Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6y6QcwC&#34; target=&#34;_blank&#34;&gt;徐雯峤,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.&lt;strong&gt;地质学报&lt;/strong&gt;, 2020, 94(06): 1740-1751. &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;徐雯峤&lt;/strong&gt; (2019) 基于离散元数值模拟方法研究构造转换带变形特征与变形机制. &lt;strong&gt;本科论文&lt;/strong&gt;. 南京大学.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;会议&#34;&gt;会议&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;徐雯峤，尹宏伟*，李长圣，汪伟. 构造转换带变形特征与变形机制：基于离散元数值模拟的认识. &lt;strong&gt;2019中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2019.（报告+论文）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;科研项目&#34;&gt;科研项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;克拉通盆地深层古裂陷与隆起演变机制模拟，&lt;strong&gt;中国石油勘探开发研究院&lt;/strong&gt;，2019-至今，&lt;strong&gt;参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;构造演化数值模拟实验, 2019.06-2019.08, &lt;strong&gt;中国地质大学（北京）&lt;/strong&gt;, &lt;strong&gt;参与&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;其他论文&#34;&gt;其他论文&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&amp;amp;dbname=CJFDLAST2019&amp;amp;filename=YZYF201901013&amp;amp;uid=WEEvREcwSlJHSldRa1FhcTdnTnhYWU9LejJJZHpTOExQTFljMlM2U1JmST0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&amp;amp;v=Mjg0OTZXNzNMUERmU2FMRzRIOWpNcm85RVo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWU9kdEZDcms=&#34; target=&#34;_blank&#34;&gt;周广旭,张楚楚,徐雯峤,董开拓,朱海丰,刘鹏.低压氢等离子体发光光谱.原子与分子物理学报,2019,36(01):73-81.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;奖励&#34;&gt;奖励&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019年中国石油大学优秀本科毕业生&lt;/li&gt;
+&lt;li&gt;2018年国家奖学金&lt;/li&gt;
+&lt;li&gt;2018年美国大学生数学建模大赛Finalist特等奖提名奖&lt;/li&gt;
+&lt;li&gt;2017年国家奖学金&lt;/li&gt;
+&lt;li&gt;2016年国家奖学金&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>正态分布钉板实验</title>
+      <link>https://geovbox.com/blog/20210323/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210323/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;脚本及数据下载：&lt;br /&gt;
+钉子坐标：&lt;a href=&#34;init_xyr.dat&#34; target=&#34;_blank&#34;&gt;init_xyr.dat&lt;/a&gt;&lt;br /&gt;
+VBOX脚本：&lt;a href=&#34;normal_distribution.py&#34; target=&#34;_blank&#34;&gt;normal_distribution.py&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;这是一个基于离散元数值模拟完成的正态分布钉板实验。&lt;/p&gt;
+
+&lt;p&gt;如下图中，每一个灰点表示一颗钉子，它们彼此的距离均相等，上一层的每一颗的水平位置恰好位于下一层的两颗正中间。在钉子区域上方生成一定数量的直径小于两颗钉子之间距离的小球，在入口处向下降落。小球在钉板区域向下传播，直到落在底板内为止。许许多多同样大小的小球不断从入口处下落，只要球的数目相当大，它们在底板将堆成近似于正态的密度函数图形（即：中间高，两头低，呈左右对称的古钟型）。&lt;/p&gt;
+
+&lt;h2 id=&#34;strong-动态图-strong&#34;&gt;&lt;strong&gt;动态图&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;normal_distribution.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;strong-静态过程-strong&#34;&gt;&lt;strong&gt;静态过程&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;4.png&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;vbox脚本源码-normal-distribution-py-normal-distribution-py&#34;&gt;VBOX脚本源码 &lt;a href=&#34;normal_distribution.py&#34; target=&#34;_blank&#34;&gt;normal_distribution.py&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title:正态分布钉板实验
+# date:2021-02-26
+# authors:钟军 李长圣
+# E-mail:sheng0619@163.com
+# more info, see www.geovbox.com
+#######################################
+#程序初始化
+LOAD init_xyr.dat
+PROP GROUP _ball
+PROP COLOR lg RANGE GROUP _ball
+#颗粒设为球，计算颗粒体积用4/3*pi*r^3计算
+SET disk off
+#设置研究范围
+BOX left 0.0 right 11000.0 bottom 0.0 height 21000.0 kn=0e10 ks=0e10 fric 0.00
+#设置挡板墙，这里模型采用hertz接触模型，挡板墙的kn ks无效，计算时取颗粒的参数
+WALL ID 0, NODES ( 1000.0 , 19000.0  )  ( 5260.0 , 16000.0  ), kn=0e10 ks=0e10 fric 0.3 COLOR black
+WALL ID 1, NODES ( 5740.0 , 16000.0 )  ( 10000.0,  19000.0  ), kn=0e10 ks=0e10 fric 0.3 COLOR black
+
+#限制运动
+FIX x y spin RANGE group _ball
+#底部挡板钉
+GLINE RAD=40 P1 ( 1000.0  1000.0 ) P2 ( 10000.0  1000.0 ),     color=black GROUP=bom
+GLINE RAD=40 P1 ( 1000.0  1000.0 ) P2 ( 1000.0  21000.0 ),     color=black GROUP=bom
+GLINE RAD=40 P1 ( 2000.0  1000.0 ) P2 ( 2000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 3000.0  1000.0 ) P2 ( 3000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 4000.0  1000.0 ) P2 ( 4000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 5000.0  1000.0 ) P2 ( 5000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 6000.0  1000.0 ) P2 ( 6000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 7000.0  1000.0 ) P2 ( 7000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 8000.0  1000.0 ) P2 ( 8000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 9000.0  1000.0 ) P2 ( 9000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 10000.0  1000.0 ) P2 ( 10000.0  21000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 1000.0  21000.0 ) P2 ( 10000.0  21000.0 ),  color=black GROUP=bom
+FIX x y spin RANGE group bom
+#在矩形范围内生成颗粒
+GEN NUM 35000 rad discrete 60.0 60.0,  x (2800.0, 8200.0), y ( 18000.0, 21000.0), COLOR blue GROUP _ball
+PROP density 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.4, hertz
+#设置时间步及重力加速度
+SET  DT 5e-2,  GRAVITY  0.0,  -9.8
+#设置每1000步保存一次vtk格式的计算结果
+SET  vtk 300
+#设置每1000步保存一次ps格式的计算结果
+SET  ps 300
+#设置每1000步保存一次dat格式的计算结果
+SET  print 300
+#计算5000步
+CYC  25000
+#停止
+STOP
+&lt;/code&gt;&lt;/pre&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</title>
+      <link>https://geovbox.com/blog/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201111/</guid>
+      <description>
+
+&lt;h3 id=&#34;第十二届全国石油地质实验技术学术会议-简介&#34;&gt;第十二届全国石油地质实验技术学术会议 简介&lt;/h3&gt;
+
+&lt;p&gt;石油地质实验技术在油气勘探开发中具有重要的作用。近年来，我国油气勘探开发面临一些新的挑战，对石油地质实验技术的发展提出更高要求。为了进一步推动我国石油地质实验技术的创新发展，促其在我国油气勘探开发中发挥更好的作用，中国石油学会石油地质专业委员会、中国石油学会石油科技装备专业委员会、中国地质学会石油地质专业委员会和石油地质勘探专业标准化委员会联合发起召开“第十二届全国石油地质实验技术学术会议”，初步决定于2020年11月11-13日召开，现将会议具体事项通知如下：&lt;/p&gt;
+
+&lt;p&gt;一、主办单位：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;中国石油学会石油地质专业委员会&lt;/li&gt;
+&lt;li&gt;中国石油学会石油科技装备专业委员会&lt;/li&gt;
+&lt;li&gt;中国地质学会石油地质专业委员会&lt;/li&gt;
+&lt;li&gt;石油地质勘探专业标准化委员会&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;二、承办单位：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;中国石油勘探开发研究院&lt;/li&gt;
+&lt;li&gt;中国石油油气地球化学重点实验室&lt;/li&gt;
+&lt;li&gt;中国石油油气储层重点实验室&lt;/li&gt;
+&lt;li&gt;中国石油盆地构造与油气成藏重点实验室&lt;/li&gt;
+&lt;li&gt;陆相页岩油气成藏及高效开发教育部重点实验室&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;三、会议主题及专题内容&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;会议主题：石油地质实验新技术、新方法及应用&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;专题内容：
+
+&lt;ol&gt;
+&lt;li&gt;地球化学实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;储层与地层实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;油气成藏实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;非常规油气地质实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发地质、实验装备、大数据及实验管理&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;报告题目-基于离散元的构造变形数值模拟实验技术&#34;&gt;报告题目：基于离散元的构造变形数值模拟实验技术&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第五分会场：开发地质、实验装备、大数据及实验管理&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;时  间：2020年11月13日周五8:40-8:55&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;地点：江西省南昌市 江西省委滨江宾馆 11号楼四层会议厅&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;报告人：&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;&lt;/a&gt; 中国石油勘探开发研究院&lt;br /&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;内容简要：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;研究背景：构造模拟的意义；&lt;/li&gt;
+&lt;li&gt;理论方法：离散元理论；&lt;/li&gt;
+&lt;li&gt;软件开发：离散元软件VBOX的开发；&lt;/li&gt;
+&lt;li&gt;应用案例：
+
+&lt;ul&gt;
+&lt;li&gt;基于离散元的构造定量分析方法&lt;/li&gt;
+&lt;li&gt;伸展断层传播褶皱&lt;/li&gt;
+&lt;li&gt;川西北地区双鱼石区块膝折褶皱离散元数值模拟&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;结论：
+
+&lt;ul&gt;
+&lt;li&gt;教学：帮助学生理解构造过程，提高构造地质的学习兴趣。&lt;/li&gt;
+&lt;li&gt;科研：定量分析构造变形的主控因素，揭示构造演化过程明确构造发育的时间。&lt;/li&gt;
+&lt;li&gt;优化构造解释方案：限于地震资料精度、地质构造复杂性，作为一种实验方法，指导、优化构造解释方案。&lt;/li&gt;
+&lt;li&gt;双鱼石：负载抑制断层发育，膝折褶皱形成于燕山期或者喜山期。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;摘要&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;数值模拟与理论分析和科学实验并称为现代科学研究的三大支柱，在构造地质学领域，从超大陆裂解的地球动力学到盆地构造变形的几何学与运动学研究，数值模拟都已成为重要的手段。&lt;/p&gt;
+
+&lt;p&gt;近年来，随着离散元理论和计算机技术的发展，离散元方法(&lt;a href=&#34;#refer-anchor-1&#34;&gt;Cundall and Strack, 1979&lt;/a&gt;)已经广泛应用到不同尺度的构造模拟中。相较于传统的沙箱模拟方法，离散元可以更精确地控制实验的边界条件，定量的分析构造变形过程，有助于从细观尺度深入认识地层力学性质及变形机制。离散元方法采用离散颗粒表征符合实际物理力学性质的岩石，能有效分析含有大量间断的问题。二十世纪九十年代以来，离散元被广泛应用于解决构造相关的地质问题。例如，分析盐刺穿过程中沉积盖层的破裂机制，研究地层内聚力对构造形态及应力应变分布的影响(&lt;a href=&#34;#refer-anchor-3&#34;&gt;Morgan,2015&lt;/a&gt;)。，揭示水平挤压环境下滑脱层的对构造变形过程中的应变分布变化与裂缝生成规律，解析裂陷盆地演化过程中分层伸展叠加变形的动力学演化过程，分析茅东断裂带作为断陷盆地在现今区域应力场作用下反转构造特性及正断层反转控震机制，揭示纯走滑拉分盆地发育过程中的断裂扩展和连接过程, 探讨库车前陆冲断带西部盐构造形成的控制因素及其形成机理等(&lt;a href=&#34;#refer-anchor-1&#34;&gt;李长圣,2019&lt;/a&gt;)。&lt;/p&gt;
+
+&lt;p&gt;Schreurs et al.&lt;a href=&#34;#refer-Schreurs-2016&#34;&gt;2016&lt;/a&gt;对比了全球多个物理模拟实验室的挤压构造实验，结果显示在采用相同的实验条件和方法下，不同的实验模拟结果无法完全一致。而，离散元在相同的初始条件（初始模型颗粒位置和半径一样）和边界条件下，试验结果均具有可重复性。其中，离散元的材料属性通过细观参数标定，可选择的材料较多。并且，所有的变量都可以实时监测，如位移、应力、应变、速递和能量等信息。在物理模拟中，变形需要通过图像分析（如粒子图像测速法）、激光扫描（微型激光测高）、利用计算机x射线断层扫描技术进行体扫描。如果没有这些设备，则只能通过对模型侧面进行拍照来观察模型侧面形变，或切割模型观察其内部形变。而离散元则可以给出每个变形阶段的所有信息，用这些信息可以计算出系统的应力应变场。同时，同一初始模型，模拟结果一致，利于单因素变量（如挤压速率、古隆起、先存断层等）研究。&lt;/p&gt;
+
+&lt;p&gt;综上，离散元数值模拟方法在构造形态、断裂预测及应力应变的定量分析上存在明显的优势。众多学者已经将离散元引入构造变形的模拟中，但分析的重点多集中于构造几何形态的定性解析。本文结合一个典型的挤压构造离散元数值模拟试验，模拟水平挤压环境下构造的形成过程，对变形过程中的应力、应变分布变化与裂缝生成规律进行分析。结果表明：（1）裂缝与断层形成有密切关系，局部区域内聚集的大量裂缝是产生断层的诱因。（2）体积应变可以表征裂缝类型（拉张或压缩），变形应变可以区分正向和反向逆冲断层。（3）平均应力大小与地形起伏呈正相关，最大剪切应力持续在将要形成的新断层处累积，直至该新断层形成，剪切应力开始消散，继续往前传播，在下一个将要形成的新断层处累积。该成果表明离散元方法在应力应变分析与裂缝预测研究中具有巨大潜力。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;5.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;13.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;27.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;31.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;34.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;37.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分PPT&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+
+&lt;p&gt;其中，应力应变分析代码修改自 RICE 大学Julia K. Morgan教授提供的计算脚本，在此感谢。&lt;/p&gt;
+
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34;&gt;李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. &lt;strong&gt;博士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w&#34; target=&#34;_blank&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;dgyc&lt;/code&gt;&lt;br /&gt;
+&lt;div id=&#34;refer-li-2017&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟,刘春,蔡申阳.(2017)共享内存式并行离散元程序的设计与测试.南京大学学报(自然科学),53(06):1161-1170.&lt;/a&gt;&lt;br /&gt;
+&lt;div id=&#34;refer-liang-2019&#34;&gt;&lt;/div&gt;
+梁瀚,冉崎,狄贵东,等.(2019)川西北地区双鱼石区块栖霞组膝折褶皱的发现及其油气意义.天然气勘探与开发,42(04):1-7&lt;br /&gt;
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.&lt;br /&gt;
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full&#34; target=&#34;_blank&#34;&gt;Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. &lt;strong&gt;Journal of Geophysical Research: Solid Earth&lt;/strong&gt; 120:3870-3896.&lt;/a&gt;&lt;br /&gt;
+&lt;div id=&#34;refer-Schreurs-2016&#34;&gt;&lt;/div&gt;
+Schreurs G, Buiter S J, Boutelier J, et al. Benchmarking analogue models of brittle thrust wedges. Journal of structural geology, 2016,92:116-139.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>伸展、生长、断层传播褶皱的离散元模拟(Basin Research)</title>
+      <link>https://geovbox.com/blog/20201102/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201102/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;实例参考自&lt;a href=&#34;#refer-hardy2019&#34;&gt;(Hardy,2019)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;伸展断层传播褶皱是伸展环境中重要的一种褶皱类型，是由于隐伏基底正断层活化向上传播而引起上覆地层发生的弯曲&lt;a href=&#34;#refer-qi2009&#34;&gt;(祁鹏等,2009)&lt;/a&gt;。&lt;a href=&#34;#refer-hardy2019&#34;&gt;(Hardy,2019)&lt;/a&gt;基于离散元模拟了伸展断层传播褶皱的演化过程。&lt;/p&gt;
+
+&lt;p&gt;这里通过一个离散元数值模拟&lt;a href=&#34;#refer-code-1&#34;&gt;(脚本源码)&lt;/a&gt;再现了伸展、生长、断层传播褶皱演化过程。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;normal_fault_synsed.gif&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;单位 (km)&lt;br&gt;&lt;br&gt;构造演化过程&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;all_0000020000_ini.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000082000.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000140000_ini.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000200000_ini.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000260000_ini.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;div id=&#34;refer-code-1&#34;&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;vbox脚本源码-normal-fault-synsed-py-normal-fault-synsed-py&#34;&gt;VBOX脚本源码 &lt;a href=&#34;normal_fault_synsed.py&#34; target=&#34;_blank&#34;&gt;normal_fault_synsed.py&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title: 正断层
+# date: 2020-10-30
+# authors: 李长圣，徐雯峤
+# E-mail: sheng0619@163.com
+# 正断层上盘向右下角45度方向移动
+# more info, see www.geovbox.com
+#######################################
+start
+SET disk 0
+BOX left 1.0e-3 right 25000.0 bottom 1.0e-3 height 20000.0 kn=4e10 ks=4e10 fric 0.30 
+
+WALL id 0, nodes ( 1000.0 ,   4000.0 ) (   9000.0 ,  4000.0 ), kn=0e10 ks=0e10 fric 0.3 color black
+WALL id 1, nodes ( 9000.0 ,   4000.0 ) (  21000.0 ,  4000.0 ), kn=0e10 ks=0e10 fric 0.3 color blue
+WALL id 2, nodes ( 9000.0 ,   4000.0 ) (  13000.0 ,     0.0 ), kn=0e10 ks=0e10 fric 0.0 color blue
+
+WALL id 3, nodes (  1000.0 ,   18000.0 ) (   1000.0 ,  4000.0 ), kn=0e10 ks=0e10 fric 0.3 color black
+WALL id 4, nodes ( 21000.0 ,   4000.0 ) (  21000.0 ,  18000.0 ), kn=0e10 ks=0e10 fric 0.3 color black
+
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21000.0, y 4000.0, 18000.0, GROUP ball_rand
+prop color black den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz
+
+SET STEPBAR  1000
+set print 5000
+SET DT 5e-2,     
+SET GRAVITY ( 0.0,  -10.0 )
+
+CYC  10000
+DEL  range y 10000.0, 20000.0
+CYC  5000
+DEL  range y 10000.0, 20000.0
+CYC  5000
+exp  initxyr.dat range group ball_rand
+SAV  initxyr.sav
+
+prop color mg     range group ball_rand
+prop color green  range y  4000.0  5000.0
+prop color green  range y  6000.0  7000.0
+prop color green  range y  8000.0  9000.0
+prop color green  range y  10000.0 99999.0
+
+prop fric 0.3 range group ball_rand
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+
+################################### sed1-1 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21200.0, y 8000.0, 10000.0, GROUP sed1
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+set print -1
+CYC  10000
+prop fric 0.3 range group sed1
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+################################### sed1-2 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21400.0, y 8000.0, 10000.0, GROUP sed1
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+set print -1
+CYC  10000
+prop fric 0.3 range group sed1
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+################################### sed1-3 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21600.0, y 8000.0, 10000.0, GROUP sed1
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+set print -1
+CYC  10000
+prop fric 0.3 range group sed1
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+################################### sed1-4 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21800.0, y 8000.0, 10000.0, GROUP sed1
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+set print -1
+CYC  10000
+prop fric 0.3 range group sed1
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+################################### sed1-5 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22000.0, y 8000.0, 10000.0, GROUP sed1
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+set print -1
+CYC  10000
+prop fric 0.3 range group sed1
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0 
+
+
+################################### sed2-1 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22200.0, y 8000.0, 10000.0, GROUP sed2
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+set print -1
+CYC  10000
+prop fric 0.3 range group sed2
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed2-2 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22400.0, y 8000.0, 10000.0, GROUP sed2
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+set print -1
+CYC  10000
+prop fric 0.3 range group sed2
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed2-3 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22600.0, y 8000.0, 10000.0, GROUP sed2
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+set print -1
+CYC  10000
+prop fric 0.3 range group sed2
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed2-4 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22800.0, y 8000.0, 10000.0, GROUP sed2
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+set print -1
+CYC  10000
+prop fric 0.3 range group sed2
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed2-5 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23000.0, y 8000.0, 10000.0, GROUP sed2
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+set print -1
+CYC  10000
+prop fric 0.3 range group sed2
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+
+################################### sed3-1 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23200.0, y 8000.0, 10000.0, GROUP sed3
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+set print -1
+CYC  10000
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed3-2 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23400.0, y 8000.0, 10000.0, GROUP sed3
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+set print -1
+CYC  10000
+prop fric 0.3 range group sed3
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed3-3 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23600.0, y 8000.0, 10000.0, GROUP sed3
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+set print -1
+CYC  10000
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed3-4 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23800.0, y 8000.0, 10000.0, GROUP sed3
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+set print -1
+CYC  10000
+prop fric 0.3 range group sed3
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed3-5 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24000.0, y 8000.0, 10000.0, GROUP sed3
+prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+set print -1
+CYC  10000
+prop fric 0.3 range group sed3
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+
+
+################################### sed4-1 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24200.0, y 8000.0, 10000.0, GROUP sed4
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+set print -1
+CYC  10000
+prop fric 0.3 range group sed4
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed4-2 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24400.0, y 8000.0, 10000.0, GROUP sed4
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+set print -1
+CYC  10000
+prop fric 0.3 range group sed4
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed4-3 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24600.0, y 8000.0, 10000.0, GROUP sed4
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+set print -1
+CYC  10000
+prop fric 0.3 range group sed4
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed4-4 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24800.0, y 8000.0, 10000.0, GROUP sed4
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+set print -1
+CYC  10000
+prop fric 0.3 range group sed4
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+################################### sed4-5 ######################################
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 25000.0, y 8000.0, 10000.0, GROUP sed4
+prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+set print -1
+CYC  10000
+prop fric 0.3 range group sed4
+wall id 1 xv 2.0, yv -2.0  
+wall id 4 xv 2.0, yv -2.0
+imple wall id 4 xmove 200.0 print 100.0
+
+wall id 1 xv 0.0, yv -0.0  
+wall id 4 xv 0.0, yv -0.0
+CYC 5000
+STOP
+
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-qi2009&#34;&gt;&lt;/div&gt;
+[1] &lt;a href=&#34;http://t.cn/A6GL9zes&#34; target=&#34;_blank&#34;&gt;祁鹏 和 张俊霞.(2009).伸展断层传播褶皱研究现状. 高校地质学报(03),351-357.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-hardy2019&#34;&gt;&lt;/div&gt;
+[2] &lt;a href=&#34;https://doi.org/10.1111/bre.12335&#34; target=&#34;_blank&#34;&gt;Hardy, S. (2019). Discrete element modelling of extensional, growth, fault‐propagation folds. Basin Research, 31(3), 584-599.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>龙门山新生代构造变形与模拟</title>
+      <link>https://geovbox.com/blog/20200724/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200724/</guid>
+      <description>
+
+&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　&lt;a href=&#34;https://www.bilibili.com/video/BV1si4y137DX/&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1si4y137DX/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;时  间：2020年7月25日周六14:30-16:00&lt;br /&gt;
+Zoom会议ID：3059179425&lt;br /&gt;
+网址：&lt;a href=&#34;https://zoom.com.cn/j/3059179425&#34; target=&#34;_blank&#34;&gt;https://zoom.com.cn/j/3059179425&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;构造网络论坛第十四期-造山带构造演化-龙门山&#34;&gt;构造网络论坛第十四期：造山带构造演化—龙门山&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;报告1: 龙门山符合逆冲带构造解析 中国地质大学（北京）颜丹平教授&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;报告2：龙门山新生代构造变形与模拟&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;报告人：&lt;a href=&#34;http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;王毛毛&lt;/strong&gt;&lt;/a&gt; 河海大学 海洋学院&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;内容简要：
+
+&lt;ul&gt;
+&lt;li&gt;青藏高原东缘：下地壳流VS上地壳缩短争论；&lt;/li&gt;
+&lt;li&gt;龙门山褶皱冲断带新生代构造变形；&lt;/li&gt;
+&lt;li&gt;新生代构造变形模拟的研究进展。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;报告中的数值模拟采用VBOX完成；&lt;/li&gt;
+&lt;li&gt;模拟结果很好的解释了龙门山新生代前陆冲断带构造应变的差异性分布；&lt;/li&gt;
+&lt;li&gt;实验设计及边界条件控制值得学习。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;构造物理模拟及数值模拟可以通过准确的边界条件和参数设置，定量的分析褶皱冲断带构造变形特征，是定量研究褶皱冲断带构造变形过程与变形机制的重要方法。与构造物理模拟相比，数值模拟可以得到更多的系统内部的信息（如应力、应变等） ，并且可重复性高，边界条件设置更容易(&lt;a href=&#34;#refer-anchor-1&#34;&gt;李长圣,2019&lt;/a&gt;)。二十世纪七十年代，Cundall and Strack(&lt;a href=&#34;#refer-anchor-1&#34;&gt;1979&lt;/a&gt;)提出了基于非连续介质力学的离散元法（Discrete Element Method，简称DEM） ，用于研究岩土体的各种力学行为。该方法将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于构造变形研究，是未来的构造变形研究的主要方向之一(&lt;a href=&#34;#refer-anchor-3&#34;&gt;Morgan,2015&lt;/a&gt;)。&lt;/p&gt;
+
+&lt;p&gt;王毛毛副教授将在构造网络论坛中，介绍他的最新研究成果＂龙门山新生代构造变形与模拟＂。&lt;strong&gt;其中，数值模拟部分采用离散元数值模拟软件VBOX完成。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;海报&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+
+&lt;p&gt;其中，应力应变分析代码修改自 RICE 大学Julia K. Morgan教授提供的计算脚本，在此感谢。&lt;/p&gt;
+
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34;&gt;李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. &lt;strong&gt;博士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w&#34; target=&#34;_blank&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;dgyc&lt;/code&gt;&lt;br /&gt;
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.&lt;br /&gt;
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full&#34; target=&#34;_blank&#34;&gt;Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. &lt;strong&gt;Journal of Geophysical Research: Solid Earth&lt;/strong&gt; 120:3870-3896.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第三节 应用：基于离散元的构造模拟</title>
+      <link>https://geovbox.com/blog/20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200605/</guid>
+      <description>
+
+&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　&lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5?p=3&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1st4y1C7b5?p=3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;腾讯会议-已结束&#34;&gt;腾讯会议（已结束）&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程时间：2020/06/05 19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;点击链接入会：&lt;a href=&#34;https://meeting.tencent.com/s/QmMCiJSHewVj&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/s/QmMCiJSHewVj&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议 ID：731 904 875&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;课程简介-共3个报告&#34;&gt;课程简介（共3个报告）&lt;/h3&gt;
+
+&lt;p&gt;本节课邀请了南京大学研究生徐雯峤和浙江大学研究生辛文讲解他们发表在《地质学报》上研究成果。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;应用：基于离散元的构造模拟&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主讲人：李长圣&lt;/li&gt;
+&lt;li&gt;内容简要：
+
+&lt;ul&gt;
+&lt;li&gt;褶皱冲断构造主控因素&lt;/li&gt;
+&lt;li&gt;双滑脱层的挤压构造：库车&lt;/li&gt;
+&lt;li&gt;深浅构造耦合及多期构造叠加：塔西南
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;库车坳陷东西段盐下构造变形差异演化数值模拟分析&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主讲人：徐雯峤&lt;/li&gt;
+&lt;li&gt;内容简要：
+
+&lt;ul&gt;
+&lt;li&gt;库车坳陷区域地质概况
+
+&lt;ul&gt;
+&lt;li&gt;东西分段&lt;/li&gt;
+&lt;li&gt;南北分带&lt;/li&gt;
+&lt;li&gt;上下分层&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;初始模型设置：
+
+&lt;ul&gt;
+&lt;li&gt;实验1：无先存断层-无同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验2：弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验3：无先存断层-同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验4：先存断层-同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验5：强盐岩层模型。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;模拟结果及分析：
+
+&lt;ul&gt;
+&lt;li&gt;先存断裂会影响褶皱冲断带构造传播的方式，造成盐下楔体的形态、断裂数量和盐上构造样式的差异；&lt;/li&gt;
+&lt;li&gt;同构造沉积和差异滑脱层性质主要影响含盐褶皱冲断带垂向分层解耦合变形的程度，同构造沉积会增强盐上和盐下的解耦合变形，滑脱层性质增强会减弱盐上和盐下的解耦合变形。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主讲人：辛文&lt;/li&gt;
+&lt;li&gt;内容简要：
+
+&lt;ul&gt;
+&lt;li&gt;地质背景介绍：新疆喀什地区西北缘褶皱冲断带分布图和测线位置。&lt;/li&gt;
+&lt;li&gt;初始模型设置：
+
+&lt;ul&gt;
+&lt;li&gt;实验1：先存断裂初始模型；&lt;/li&gt;
+&lt;li&gt;实验2：弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验3：先存断裂-弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验4：先存断裂-中等内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验5：先存断裂-强内聚力滑脱层初始模型。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;模拟结果及分析：
+
+&lt;ul&gt;
+&lt;li&gt;先存断裂和滑脱层对冲断带构造变形的影响；&lt;/li&gt;
+&lt;li&gt;滑脱层强度对研究区构造变形的影响。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本次课程为中国石油勘探开发研究院管树巍专家和中国地质大学（北京）能源学院何登发教授推荐开设，共三节课&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第一节 理论：构造模拟与离散元（第一周）&lt;/li&gt;
+&lt;li&gt;第二节 软件：VBOX简介与操作演示（第二周）&lt;/li&gt;
+&lt;li&gt;第三节 应用：基于离散元的构造模拟（第三周）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;4.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;5.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;应用：基于离散元的构造模拟　部分内容&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6-1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6-2.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6-3.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;库车坳陷东西段盐下构造变形差异演化数值模拟分析　部分内容&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;7-1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;7-2.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;7-3.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;7-4.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究　部分内容&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第二节 软件:VBOX简介与操作演示</title>
+      <link>https://geovbox.com/blog/20200528/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200528/</guid>
+      <description>
+
+&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　&lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5?p=2&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1st4y1C7b5?p=2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;腾讯会议-已结束&#34;&gt;腾讯会议（已结束）&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程时间：2020/5/29(周五)　19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;点击链接入会：&lt;a href=&#34;https://meeting.tencent.com/s/CFsbRmi3f9Pt&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/s/CFsbRmi3f9Pt&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议 ID：519 383 830&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;课程简介&#34;&gt;课程简介&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;报告题目: 第二节 软件：VBOX简介与操作演示&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;主讲人：李长圣&lt;br /&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;内容简要：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/push/&#34;&gt;一个示例学会VBOX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/syn_erosion/&#34;&gt;剥蚀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/syn_sedimentaion/&#34;&gt;沉积&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/pre_struct/&#34;&gt;断层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex5_detachment/&#34;&gt;滑脱层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex6_palaeohigh/&#34;&gt;古隆起&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex7_extens_rigid/&#34;&gt;刚性基底 伸展构造&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;伸展构造 韧性基底 &lt;a href=&#34;http://t.cn/A6hj2FNU&#34; target=&#34;_blank&#34;&gt;见论文&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;本次课程为中国石油勘探开发研究院管树巍专家和中国地质大学（北京）能源学院何登发教授推荐开设，共三节课&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第一节 理论：构造模拟与离散元　&lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5/&#34; target=&#34;_blank&#34;&gt;完结回放&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第二节 软件：VBOX简介与操作演示（第二周）&lt;/li&gt;
+&lt;li&gt;第三节 应用：基于离散元的构造模拟（第三周）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TRUBAL &lt;a href=&#34;https://hmakse.ccny.cuny.edu/software-and-data/&#34; target=&#34;_blank&#34;&gt;https://hmakse.ccny.cuny.edu/software-and-data/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DICE2D   &lt;a href=&#34;http://www.dembox.org/&#34; target=&#34;_blank&#34;&gt;http://www.dembox.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;YADE &lt;a href=&#34;https://yade-dem.org/doc/&#34; target=&#34;_blank&#34;&gt;https://yade-dem.org/doc/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/example/push/colorbar.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/example/push/shearSS.gif&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;单位 (km)&lt;br&gt;&lt;br&gt;构造变形及应力应变的演化过程&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/example/ex5_detachment/detachment.gif&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;滑脱层&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/example/ex6_palaeohigh/palaeohigh.gif&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;古隆起&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/example/ex7_extens_rigid/extens_rigid.gif&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;刚性基底 伸展构造&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;下周将邀请南京大学徐雯峤和浙江大学辛文讲解他们发表在《地质学报》上研究成果。&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;如需使用VBOX，按照 &lt;a href=&#34;https://doc.geovbox.com/latest/hpc/&#34; target=&#34;_blank&#34;&gt;南京大学高性能计算中心账户开通方法&lt;/a&gt; 申请账户。&lt;/p&gt;
+
+&lt;p&gt;南京大学高性能计算中心集群2009年入选中国高性能计算机高校系统第一位。在2017年6月发布的全球超级计算机Top500排行榜中列第284位。在南京大学高性能计算中心 &lt;a href=&#34;http://hpcc.nju.edu.cn&#34; target=&#34;_blank&#34;&gt;http://hpcc.nju.edu.cn&lt;/a&gt; ，不仅仅可以使用VBOX做构造数值模拟，还可以为各相关学科的科研工作提供高性能科学计算服务。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第一节 理论:构造模拟与离散元</title>
+      <link>https://geovbox.com/blog/20200521/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200521/</guid>
+      <description>
+
+&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　&lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;腾讯会议-已结束&#34;&gt;腾讯会议（已结束）&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程时间：2020/5/22　19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;点击链接入会：&lt;a href=&#34;https://meeting.tencent.com/s/pyFSCzTkJ1lk&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/s/pyFSCzTkJ1lk&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议 ID：430321816&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议直播: &lt;a href=&#34;https://meeting.tencent.com/l/59NskmlQGIRC&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/l/59NskmlQGIRC&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;课程简介&#34;&gt;课程简介&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;报告题目: 第一节 理论：构造模拟与离散元&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;主讲人：李长圣&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;内容简要：&lt;br /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;构造模拟的意义&lt;/li&gt;
+&lt;li&gt;构造物理模拟&lt;/li&gt;
+&lt;li&gt;离散元原理&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;本次课程为中国石油勘探开发研究院管树巍专家和中国地质大学（北京）能源学院何登发教授推荐开设，共三节课&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第一节 理论：构造模拟与离散元（第一周）&lt;/li&gt;
+&lt;li&gt;第二节 软件：VBOX简介与操作演示（第二周）&lt;/li&gt;
+&lt;li&gt;第三节 应用：基于离散元的构造模拟（第三周）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;allprocess.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;单位 (km)&lt;br&gt;&lt;br&gt;沉积、剥蚀、隆起、先存断层&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;4.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;5.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;7.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;8.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;9.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分内容&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>盆地构造解析和构造模拟课程</title>
+      <link>https://geovbox.com/blog/20200513/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200513/</guid>
+      <description>
+
+&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;哔哩哔哩　&lt;a href=&#34;https://www.bilibili.com/video/BV1AC4y1p7KJ/&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1AC4y1p7KJ/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;腾讯会议-已结束&#34;&gt;腾讯会议（已结束）&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程时间：2020/5/15　19:00-21:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;点击链接入会：&lt;a href=&#34;https://meeting.tencent.com/s/QItAu0F7kUOG&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/s/QItAu0F7kUOG&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议 ID：397 756 829&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议直播: &lt;a href=&#34;https://meeting.tencent.com/l/nhCMLpFYjLeF&#34; target=&#34;_blank&#34;&gt;https://meeting.tencent.com/l/nhCMLpFYjLeF&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会议密码：200515&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;课程简介&#34;&gt;课程简介&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;报告题目: 盆地构造解析和构造模拟&amp;ndash;以库车坳陷盐构造为例&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;主讲人：吴珍云&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;内容简要：&lt;br /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;介绍盆地（盐）构造及其研究意义；&lt;/li&gt;
+&lt;li&gt;如何开展盆地（盐）构造解析及其关键技术介绍；&lt;/li&gt;
+&lt;li&gt;介绍构造物理模拟及数值模拟技术；&lt;/li&gt;
+&lt;li&gt;介绍库车坳陷盐构造当前研究进展。&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;该课程为东华理工大学地球科学学院的研究生课程“地质资源与地质工程研究进展”。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;4.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;5.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分内容&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>加入三行代码实现传染病传播过程模拟（离散元）</title>
+      <link>https://geovbox.com/blog/20200317/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200317/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;不符合传染病传播模型，仅作学习离散元用。&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;１-限制行动&#34;&gt;１. 限制行动&lt;/h3&gt;
+
+&lt;p&gt;在离散元的Hertz接触模型中，接触的刚度系数与颗粒叠合量有关，所以每个时步都需要更新，在计算接触刚度系数的时候，加入如下三行伪代码，修改接触颗粒的颜色，可实现传染病传播过程模拟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;红：传染源　&lt;/li&gt;
+&lt;li&gt;蓝：易感颗粒　接触红色就被传染&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-c&#34;&gt;	if ((spheres[index_o].color == red) || (spheres[index_a].color == red))
+	{
+		spheres[index_o].color = red;
+		spheres[index_a].color = red;
+	}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;假设：密闭空间有200个健康的蓝色颗粒，所有颗粒自动运动，接触就感染，永远治不好。&lt;/li&gt;
+&lt;li&gt;边界条件：一个编号为0的颗粒突然感染红色病毒，10%(20个)的颗粒开始活动，并带动其他颗粒活动。&lt;/li&gt;
+&lt;li&gt;模拟结果：
+
+&lt;ul&gt;
+&lt;li&gt;都是从第一个病例向外逐渐扩散，离0号红色颗粒越近，感染越快。&lt;/li&gt;
+&lt;li&gt;无阻尼自由移动的时候，仅幸存一颗粒。&lt;/li&gt;
+&lt;li&gt;有阻尼自由移动的时候，左边一半颗粒尚未感染。
+&lt;figure&gt;
+    &lt;img src=&#34;damp0.0.gif&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;实验１　阻尼=0.0&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;damp0.2.gif&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;实验２　阻尼=0.2&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-群体免疫&#34;&gt;2. 群体免疫&lt;/h3&gt;
+
+&lt;p&gt;中国地质大学（武汉）张老师建议让60%的颗粒获得免疫&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;红：传染源&lt;/li&gt;
+&lt;li&gt;蓝：易感颗粒　接触红色就被传染&lt;/li&gt;
+&lt;li&gt;绿：免疫颗粒　不会被红色颗粒传染，也不会传染别人。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-c&#34;&gt;	// 都不是绿色，才考虑彼此是否感染
+	if ((spheres[index_o].color != green) &amp;amp;&amp;amp; (spheres[index_a].color != green))
+	{
+		if ((spheres[index_o].color == red) || (spheres[index_a].color == red))
+		{
+			spheres[index_o].color = red;
+			spheres[index_a].color = red;
+		}
+	}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;实验３：密闭空间有200个健康的蓝色颗粒，(60%)120个已获得免疫的绿色颗粒，所有颗粒自动运动，蓝色接触红色就感染，永远变成红色。&lt;/li&gt;
+&lt;li&gt;边界条件：一个编号为0的颗粒突然感染红色病毒，10%(20个)的颗粒开始活动，并带动其他颗粒活动。&lt;/li&gt;
+&lt;li&gt;模拟结果：
+
+&lt;ul&gt;
+&lt;li&gt;都易感染时，&lt;strong&gt;199&lt;/strong&gt;个颗粒感染红色。&lt;/li&gt;
+&lt;li&gt;60％获得免疫，&lt;strong&gt;14&lt;/strong&gt;个颗粒感染红色。
+&lt;figure&gt;
+    &lt;img src=&#34;damp0.0.gif&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;实验１　所有人都易感染&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;immune60.gif&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;实验３　60%获得了免疫&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VBOX初级视频教程上线了！</title>
+      <link>https://geovbox.com/blog/video-totorial-publish/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/video-totorial-publish/</guid>
+      <description>
+
+&lt;p&gt;经过近半个月（2020/02/18-2020/02/29）精心制作，今天VBOX初级视频教程终于上线了！&lt;/p&gt;
+
+&lt;p&gt;该视频教程共约２个小时，针对零基础用户。相信学完该教程，您肯定可以用VBOX实现构造数值模拟。
+VBOX命令脚本参考了颗粒离散元数值模拟软件 &lt;em&gt;PFC4.0&lt;/em&gt; 的规范， PFC4.0的用户基本无需学习，可直接上手。&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;视频教程发布在geovbox@哔哩哔哩，详见&lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34;&gt;离散元数值模拟软件VBOX初级教程（DEM）&lt;/a&gt;。&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;教程目录&#34;&gt;教程目录&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;离散元原理及VBOX简介（字幕：李长圣）&lt;/li&gt;
+&lt;li&gt;VBOX学习方法（字幕：李长圣）&lt;/li&gt;
+&lt;li&gt;十分钟入门VBOX（字幕：毕晨洁，徐雯峤）&lt;/li&gt;
+&lt;li&gt;自由落体和Paraview颜色配置 (字幕：次仁达瓦，李长圣）&lt;/li&gt;
+&lt;li&gt;linux命令行 （字幕：吴珍云）&lt;/li&gt;
+&lt;li&gt;一个示例学会VBOX （字幕：叶启洋）&lt;/li&gt;
+&lt;li&gt;VBOX的文件格式（字幕：徐雯峤，王莉）&lt;/li&gt;
+&lt;li&gt;生成jgp gif和dat文件解析 （字幕：冯彦杰）&lt;/li&gt;
+&lt;li&gt;用LSF提交计算任务（字幕：王福远）&lt;/li&gt;
+&lt;li&gt;用SGE提交计算任务 （字幕：徐雯峤）&lt;/li&gt;
+&lt;li&gt;错误排除（字幕：李长圣）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;注：视频由李长圣录制并剪辑，字幕由　&lt;strong&gt;徐雯峤　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;吴珍云&lt;/a&gt;　冯彦杰　叶启洋　王福远　毕晨洁　王莉　次仁达瓦&lt;/strong&gt; 帮助校订，李长圣最终整理定稿。&lt;/p&gt;
+
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+
+&lt;p&gt;徐雯峤　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;吴珍云&lt;/a&gt;　冯彦杰　叶启洋　王福远　毕晨洁　王莉　次仁达瓦&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>欢迎参加第三次构造数值模拟实战课程(2019年12月19日-20日)</title>
+      <link>https://geovbox.com/blog/20191219/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20191219/</guid>
+      <description>
+
+&lt;p&gt;本次课程分两次进行，第一天讲授理论，第二天上机实践。&lt;/p&gt;
+
+&lt;p&gt;VBOX安装在&lt;a href=&#34;https://geovbox.com/hpc/&#34; target=&#34;_blank&#34;&gt;四个高性能计算平台&lt;/a&gt;，课程中将提供计算平台一天的免费使用权。&lt;br /&gt;
+如需继续使用VBOX，按照 &lt;a href=&#34;https://doc.geovbox.com/latest/hpc/&#34; target=&#34;_blank&#34;&gt;南京大学高性能计算中心账户开通方法&lt;/a&gt; 申请账户。&lt;/p&gt;
+
+&lt;h3 id=&#34;第一天-理论&#34;&gt;第一天　理论&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;题目：基于离散元的构造变形定量分析与模拟&lt;/li&gt;
+&lt;li&gt;时间：&lt;strong&gt;2019年12月19日（周四) 上午8点-10点&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;地点：东华理工大学（南昌校区） 第3教学楼 518&lt;/li&gt;
+&lt;li&gt;主讲人：李长圣 博士&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;内容：离散元理论　应用实例&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;第二天-实践&#34;&gt;第二天　实践&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;题目：一个示例学会VBOX&lt;/li&gt;
+&lt;li&gt;时间：&lt;strong&gt;2019年12月20日（周五） 下午2点-5点&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;地点：东华理工大学（南昌校区） 地学楼 A509&lt;/li&gt;
+&lt;li&gt;主讲人：VBOX开发者 李长圣&lt;/li&gt;
+&lt;li&gt;对象：构造数值模拟 零基础科研人员&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重要提示&lt;/strong&gt;：该课程为上机实战课程，需要自备笔记本电脑。计算资源有限，如您打算参加该上机实战课程，请提前联系 &lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34;&gt;李长圣&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;vboxclass_201912.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;第三次构造数值模拟实战课程海报&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2019CGU报告:基底性质差异对东海陆架盆地构造特征和演化的影响</title>
+      <link>https://geovbox.com/blog/20191029/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20191029/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;第33专题 沉积盆地矿产资源综合勘察&lt;br /&gt;
+地  点：北京 北京国际会议中心&lt;br /&gt;
+时  间：2019年10月29日&lt;br /&gt;
+题  目：基底性质差异对东海陆架盆地构造特征和演化的影响&lt;br /&gt;
+报告人：&lt;strong&gt;李长圣 1&lt;/strong&gt;，余一欣 2，周心怀3 ，陈石 2&lt;br /&gt;
+1. 东华理工大学 地球科学学院&lt;br /&gt;
+2. 中国石油大学（北京）地球科学学院&lt;br /&gt;
+3. 中海石油（中国）有限公司上海分公司&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;东海陆架盆地位于东亚大陆边缘，自西向东可分为3大构造带，即西部坳陷带、中部隆起带和东部坳陷带(侯方辉,2014)。其垂向结构鲜明：西部坳陷带主要为箕状断陷结构，东断西超，盆地平均深度约为3000~4000 m，构造以半地堑为特征；东部坳陷带为对称多断层地堑式结构，盆地平均深度达7000~9000 m。本文选取西部坳陷带的丽水凹陷和东部坳陷带的西湖凹陷为主要研究对象。两个凹陷典型地震剖面显示两者构造特征存在明显差异性：丽水凹陷断裂发育整体呈不对称样式，凹陷内断裂主要向西倾斜；西湖凹陷则表现为双断式的对称地堑结构。为了进一步探讨引起东海陆架盆地东西段构造特征存在明显差异性的原因，本文选择使用构造模拟方法开展工作。&lt;/p&gt;
+
+&lt;p&gt;近二十年来，数值模拟及定量化迅速发展，使得伸展区断裂构造由单纯定性构造研究向定量分析的转变(李三忠等,2003)。为了研究东海陆架盆地东西部基底强度差异性对盆地东西部坳陷带构造特征的影响，设置了一组离散元数值模拟实验。颗粒细观参数见李长圣(2019)，左侧基底为刚性基底，随着拉张进行，速度不连续点（断点）会随蓝色基底一起移动；红色基底模拟韧性基底，有相互叠合的颗粒组成，青色基底固定不动，青色基底和蓝色基底与红色基底连接处为粘结点，随着右侧蓝色基底向右边移动，红色的韧性基底逐渐被拉长，模拟韧性基底的伸展作用。&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;图1 数值模拟实验&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;实验模拟结果表明，当基底设置为刚性基底时（见图1a），伸展作用下凹陷构造特征表现为不对称式半地堑特征，控凹断裂倾向向东，根部位于刚性基底速度不连续点处，导致沉积中心位于凹陷西侧，以沉积中心为界，凹陷东侧断裂发育数量明显多于西侧，主要断裂倾向向西（见图1b左侧凹陷）；当基底设置为韧性基底时（见图1a），伸展作用下凹陷构造特征表现为对称式地堑结构，双断式控凹断裂根部均位于韧性基底内部，凹陷内断裂以沉积中心为界，东西两侧倾向相反的断裂发育数量基本一致（见图1b左侧凹陷）。&lt;/p&gt;
+
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+
+&lt;p&gt;实验模拟结果与研究区剖面主要构造特征相似，表明受基底强度的影响，东海陆架盆地西部坳陷带（丽水凹陷）和东部坳陷带（西湖凹陷）构造演化存在明显的差异性，导致区域“东西分带”特征。&lt;/p&gt;
+
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+
+&lt;p&gt;感谢 RICE 大学Julia K. Morgan教授提供的离散元软件RICEBAL (v. 5.4, 修改自Peter Cundall的TRUBAL v. 1.51) 。本文数值模拟基于课题组自主研发的离散元程序VBOX完成，更多构造模拟实例见www.geovbox.com。&lt;/p&gt;
+
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;侯方辉.2014.东海陆架盆地南部中生代地层分布及构造特征研究.博士学位论文.中国海洋大学.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;李长圣.2019.基于离散元的褶皱冲断带构造变形定量分析与模拟.博士学位论文.南京大学.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;李三忠,岳云福,高振平等. 2003. 伸展盆地区断裂构造特征与成因.华南地质与矿产, (02):1-8.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019CGU报告:我国东部茅东断裂带反转构造特征及控震机制探讨</title>
+      <link>https://geovbox.com/blog/20191028/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20191028/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;第27专题：区域地震构造及其地震危险性与地震地质灾害&lt;br /&gt;
+地  点：北京 北京国际会议中心 第10会议室(三楼301)&lt;br /&gt;
+时  间：&lt;strong&gt;2019年10月28日 14:55-15:10&lt;/strong&gt;&lt;br /&gt;
+题  目：我国东部茅东断裂带反转构造特征及控震机制探讨：来自离散元数值模拟的启示&lt;br /&gt;
+报告人：&lt;em&gt;吴珍云 ，尹宏伟，李长圣&lt;/em&gt; 东华理工大学 南京大学&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;摘  要：通过分析茅东断裂带地质构造和历史地震特征，结合离散元模拟实验，分析了挤压应力下断陷盆地构造反转及断裂活动特征，探讨了茅东断裂带作为断陷盆地在现今区域应力场作用下反转构造特性及正断层反转控震机制。结果表明：（1）挤压应力下，断陷盆地发生构造反转，促使盆地中先存正断层再活化以及浅部地层褶皱变形，但盆地中先存断层总体仍保持正断形态；&lt;strong&gt;（2）构造反转过程中，应力应变汇聚易优先发生在基底断层面上，并逐渐向沉积地层中传播，最终在浅表触发构造形变；&lt;/strong&gt;（3）茅东断裂带属于活动断裂群，以茅东断裂等控盆边界断裂（基底断裂）活动为主，沿着该类断裂，应力应变汇聚明显，具备中、大地震的发震构造条件；断陷内其他隐伏的次级先存断裂也存在活动可能性，且断块间地层在压扭应力场下存在应力应变汇聚，同样具备浅源小震的发震构造条件。
+&lt;strong&gt;关键词：断陷盆地；离散元模拟；茅东断裂带；构造反转；断裂活动性&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我国东部受来自太平洋板块向西部欧亚大陆下俯冲和菲律宾板块向北西朝欧亚大陆下俯冲的联合作用的影响，现代构造应力场的主体特征表现为北东东-南西西向的挤压（图1a）。而受郯庐断裂带右旋走滑和东南沿海断裂带右旋走滑等新构造运动的影响，东部下扬子地块基本处于两者之间的压扭转换带区域（图1a），下扬子地块区域内现代构造应力场具有明显压扭特性，导致区域内断陷盆地中正反转构造发育（图1b）。&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;图1 研究区区域位置图及历史地震分布图&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;茅东断陷盆地&#34;&gt;茅东断陷盆地&lt;/h2&gt;
+
+&lt;p&gt;在断陷盆地内部（如直溪桥凹陷），分布有高角度倾角断裂，这些断裂整体具有正断层构造样式（图2a）。在凹陷西侧，断裂倾向SE（SEE）；凹陷东侧，断裂倾向NW（NWW）（图2a）。前人沿茅东断裂走向开展了较为详细的路线勘探工作，获得了具有代表性的茅东断陷盆地地表地质剖面（图2b至图2d）。这些地质剖面均表明沿茅东断裂，地层发生了不同程度的褶皱构造变形。此外，沿着茅东断裂，断陷盆地中部分第四纪沉积地层已遭受到了断裂的破坏（图2b）或者发生同构造变形（图2d），这些也表明了茅东断裂逆冲活动时间已经延续到了第四纪。&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;图2 茅东断陷盆地勘探剖面图&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;模型设计&#34;&gt;模型设计&lt;/h2&gt;
+
+&lt;p&gt;本文离散元模拟实验初始模型见图5。模型中代表岩石颗粒的基本粒子有两种，其半径分别设置为40 m和60 m。所有粒子被随机地分布在封闭的方形箱子里，并允许它们在重力作用下沉积压实。在实验设计中，定义了盆地中的先存正断层（弱化断层），并允许断层上下盘能够自由的变形，以便观察挤压反转过程中，反转断层上下盘的变形样式。为了便于观察，粒子被不同颜色标记，其中红色代表先存正断层，灰色代表基底地层，蓝色、紫色和黄色代表沉积地层。模型左边界和底边界固定，右边界向左推移以产生挤压效应。
+本实验中实验模型参数设置参照了前人设计，其中基底岩石层的颗粒密度为2500 kg·m-3，盖层岩石层的颗粒密度为2200 kg·m-3。同时，设定各地层的摩擦系数为0.3，并且颗粒之间具有粘结作用力，先存弱化断层之间的摩擦系数为0，并且与任何颗粒之间均无粘结作用力。模型中所有颗粒的泊松比设定为0.2。&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;图3 断陷盆地构造反转的离散元数值模拟实验模型设计图&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;实验初始阶段，模型没有发生明显的构造形变（图4a1），但是通过模型应变分析分别可以看到模型中产生了体积应变和剪切应变，且主要沿先存基底断裂面分布，说明这个阶段挤压应力主要在先存基底断裂面上汇聚，而在沉积地层（盖层）中应力汇聚较小，以致基本无应变分布（图4a2至图4a3）。当挤压应力持续作用时（如挤压量达4%时），模型内部构造形变和应变分布依然在基底断裂面上，沉积地层（盖层）中只是开始在浅部地层中产生轻微体积应变（图4b）。直到挤压量达到6.5%时，模型内基底先存断裂开始反转活化并产生位移（断裂整体保持为正断型），应变开始由基底断裂面向沉积盖层中逐渐扩展，模型内地表地形发生轻微起伏（图4c），表明应力作用已传播到达地表，并引起地表轻微形变。&lt;/p&gt;
+
+&lt;h2 id=&#34;实验结果&#34;&gt;实验结果&lt;/h2&gt;
+
+&lt;p&gt;当挤压量持续增大时（8.5%-13%），模型内部凹陷程度开始增大，基底先存断裂反转位移量增加不明显，整体构造形态也几乎无明显变化（图4d至图4e）。在靠近挤压端一侧，隐伏先存基底断裂上端沉积地层（盖层）中，形成了一个三角应变区域（图4d2至图4d3），该区域内体积应变和剪切应变随挤压量增大逐渐增大，表明沿着基底先存断裂挤压应力在此区域内逐渐汇聚。此外，沿着左侧基底边界大断裂，应变也逐渐向浅部地层中扩展，断层反转位移量也开始逐渐增大。
+当挤压量持续增大到15.5%后，沿左侧基底边界大断裂，断层产生明显的位移，并开始发育反转断层相关褶皱（图4g1至图4i1）。在基底地垒断陷盆地内的先存断裂则由于挤压应力作用导致发生了一定程度的旋转、扭曲。在这个阶段，各基底先存断裂与沉积地层中的先存断裂一致活动，导致沉积地层（盖层）中体积应变和剪切应变仍然在持续增大。当模型挤压量达到20%后，在基底边界大断层上方沉积地层中则产生明显的拖曳褶皱构造形变，同时断陷内部盖层则总体呈褶皱样式，形成“上褶下断”和“上凸下凹”的构造形态。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;4.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;5.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;图4 基于离散元实验模拟的断陷盆地构造正反转演化图&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;研究结果对茅东断陷带的启示&#34;&gt;研究结果对茅东断陷带的启示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;茅东断陷盆地具有正反转构造特征&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;正断层反转控制了该区域地震发生&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;致 谢  本文数值模拟实验是据美国Rice大学Julia Morgan 教授提供的RICEBAL离散元计算程序及后续应力应变分析代码开展。两位匿名审稿专家在论文评审中提供了具有建设性的修改意见。在此一并表示感谢&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;采用VBOX同样可以完成上述实验&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;吴珍云,尹宏伟,李长圣,等. 断陷盆地正反转构造实验模拟及对茅东断裂带的启示.&lt;strong&gt;南京大学学报（自然科学）&lt;/strong&gt;,2019,5(55):869-878.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

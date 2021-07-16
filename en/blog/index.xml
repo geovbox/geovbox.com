@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on VBOX</title>
+    <link>https://geovbox.com/en/blog/</link>
+    <description>Recent content in Blogs on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New VBOX website has been published</title>
+      <link>https://geovbox.com/en/blog/new-vbox-web-publish/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/new-vbox-web-publish/</guid>
+      <description>VBOX的用户们，大家好，我是VBOX官网维护者及VBOX软件开发者 李长圣 。 经过半个多月的迁移，VBOX官网全新改版，今天正式上线了！ VBO</description>
+    </item>
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/en/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/international-journal-of-geomechanics/</guid>
+      <description>Download：MATLAB codes Solve_T1_T2_T3_T4.m Fs.m PFC codes Fn_T1_T2final.txt Fs_T3_T4final.txt
+ The stability of a single contact system in discrete element model was tested from the analytical solution, see Full Paper。</description>
+    </item>
+    
+  </channel>
+</rss>

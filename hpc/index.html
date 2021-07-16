@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](http://www.beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title> | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="StructLab" href="https://geovbox.com/index.xml" />
+<link rel="feed" type="application/rss+xml" title="StructLab" href="https://geovbox.com/index.xml" />
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/en/hpc/">English</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/hpc/" class="permalink"></a>
+    </h1>
+
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+<h4 id="软件已安装在以下高性能计算平台上-申请-开通账户-https-doc-geovbox-com-latest-hpc-登陆-并行超算云-https-cloud-paratera-com-即可使用">软件已安装在以下高性能计算平台上，申请<a href="https://doc.geovbox.com/latest/hpc/" target="_blank">开通账户</a>，登陆<a href="https://cloud.paratera.com/" target="_blank">并行超算云</a>即可使用。</h4>
+
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>计算平台</th>
+<th>单节点物理核数　</th>
+<th>节点数　</th>
+<th>开放权限　</th>
+<th>计算费　</th>
+<th>备注</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>并行超算云</strong></td>
+<td>96</td>
+<td>200+</td>
+<td>所有人</td>
+<td>收费　</td>
+<td><strong>开放申请</strong></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>南京大学高性能计算中心</td>
+<td>24</td>
+<td>906</td>
+<td>所有人</td>
+<td>收费　</td>
+<td>停止申请</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>东华理工大学并行计算实验室</td>
+<td>8</td>
+<td>15</td>
+<td>校内教师和学生</td>
+<td>免费　</td>
+<td>暂时关闭</td>
+</tr>
+</tbody>
+</table>
+
+<div class="row">
+
+<div class="col-md-4">
+<h3 id="1-并行超算云">1 并行超算云</h3>
+
+<table>
+<thead>
+<tr>
+<th>管理员</th>
+<th><a href="https://doc.geovbox.com/latest/hpc/" target="_blank">周凤18627783589</a></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>CPU</td>
+<td>Intel Xeon Platinum <br>9242@2.3GHz</td>
+</tr>
+
+<tr>
+<td>用户</td>
+<td><a href="https://geovbox.com/about/lichangsheng/" target="_blank">李长圣</a> 李世超 赵斐宇 <br>徐雯峤 屈梦雪 龚艳萍 <br>吴珍云 等</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+<div class="col-md-4">
+<h3 id="2-南京大学">2 南京大学</h3>
+
+<table>
+<thead>
+<tr>
+<th>管理员</th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>CPU</td>
+<td>Intel&reg; Xeon&reg; CPU <br> E5-2680 v3@2.50GHz</td>
+</tr>
+
+<tr>
+<td>用户</td>
+<td>陈汉林 童亨茂 王毛毛 <br>尹宏伟 何登发 裴仰文等</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+<div class="col-md-4">
+<h3 id="3-东华理工大学">3 东华理工大学</h3>
+
+<table>
+<thead>
+<tr>
+<th>管理员</th>
+<th><a href="https://geovbox.com/about/lichangsheng/" target="_blank">李长圣</a></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>CPU</td>
+<td>Quad-Core AMD Opteron&trade; <br>Processor 2382@2.66GHz</td>
+</tr>
+
+<tr>
+<td>用户</td>
+<td>毕晨洁 李长圣 黎光荣  <br>王莉 吴珍云 叶启洋等</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+
+</div>
+
+
+<hr />
+
+<div class="notices info" >
+<p>南洋理工大学　新加坡地球观测研究所(EOS) 集群　vbox 1.3(20180616)　永不更新。</p>
+
+</div>
+
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2021</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="http://www.beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

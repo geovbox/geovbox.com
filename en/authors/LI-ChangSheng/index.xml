@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LI ChangSheng on VBOX</title>
+    <link>https://geovbox.com/en/authors/LI-ChangSheng/</link>
+    <description>Recent content in LI ChangSheng on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/authors/LI-ChangSheng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calibration of the discrete element method and modelling of shortening experiments (Data)</title>
+      <link>https://geovbox.com/en/example/ex8_dem_am/li2021en/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex8_dem_am/li2021en/</guid>
+      <description>LI Changsheng, YIN Hongwei*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512 Original Research: The discrete element method (DEM) is becoming widely accepted as an effective method of addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analogue model (AM). However, the previous experiments &amp;hellip; Accepted on 05 May 2021 演化过</description>
+    </item>
+    
+    <item>
+      <title>Set up Detachment</title>
+      <link>https://geovbox.com/en/example/ex5_detachment/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex5_detachment/</guid>
+      <description>数据下载： detachment.py pre_struct.gif 这里是一个 滑脱层 设置的实例，一般地，将滑脱层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 detachment.py 和 init_xyr.dat 需放在同一目录。</description>
+    </item>
+    
+    <item>
+      <title>Set up Fault</title>
+      <link>https://geovbox.com/en/example/ex4_pre_struct/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex4_pre_struct/</guid>
+      <description>数据下载：pre_struct.py 这里是一个 断层 设置的实例，一般地，将断层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 在终</description>
+    </item>
+    
+    <item>
+      <title>Syntectonic sedimentation</title>
+      <link>https://geovbox.com/en/example/ex3_syn_sedimentaion/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex3_syn_sedimentaion/</guid>
+      <description>数据下载：syn_sedimentaion.py 0000046000.sav syn_sedimentaion.gif 这里是一个 同构造沉积 计算实例。 运行 vboxdaily syn_sedimentaion.py syn_sedimentaion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 # E-mail:</description>
+    </item>
+    
+    <item>
+      <title>Syntectonic denudation</title>
+      <link>https://geovbox.com/en/example/ex2_syn_erosion/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex2_syn_erosion/</guid>
+      <description>数据下载：syn_erosion.py 0000046000.sav syn_erosion.gif 这里是一个 同构造剥蚀 计算实例。 在终端或 xshell 中运行 vboxdaily syn_erosion.py syn_erosion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 #</description>
+    </item>
+    
+    <item>
+      <title>New VBOX website has been published</title>
+      <link>https://geovbox.com/en/blog/new-vbox-web-publish/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/new-vbox-web-publish/</guid>
+      <description>VBOX的用户们，大家好，我是VBOX官网维护者及VBOX软件开发者 李长圣 。 经过半个多月的迁移，VBOX官网全新改版，今天正式上线了！ VBO</description>
+    </item>
+    
+    <item>
+      <title>The first example to learn VBOX</title>
+      <link>https://geovbox.com/en/example/ex1_push/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex1_push/</guid>
+      <description>数据下载：push.py 演化过程图 init_xyr.dat 一个构造数值模拟试验的完整流程包括两个步骤： 生成初始模型。生成颗粒集合体，定义颗粒的材料参数，让其在重力</description>
+    </item>
+    
+    <item>
+      <title>LI ChangSheng</title>
+      <link>https://geovbox.com/en/about/lichangsheng/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/about/lichangsheng/</guid>
+      <description>School of Earth Sciences and Engineering Nanjing University, Nanjing, Jiangsu 210023, P. R. China Mobile: +86-18205187511 Email: lichangsheng@smail.nju.edu.cn My GitHub ResearchGate My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU). Education 2018.04~2018.06 Earth Observatory of Singapore, Nanyang Technologyical University （ short visit ） 08.2014~Present Ph.D. in Structural Geology, School of Earth Sciences and Engineering, Nanjing University, China I</description>
+    </item>
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/en/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/international-journal-of-geomechanics/</guid>
+      <description>Download：MATLAB codes Solve_T1_T2_T3_T4.m Fs.m PFC codes Fn_T1_T2final.txt Fs_T3_T4final.txt
+ The stability of a single contact system in discrete element model was tested from the analytical solution, see Full Paper。</description>
+    </item>
+    
+  </channel>
+</rss>

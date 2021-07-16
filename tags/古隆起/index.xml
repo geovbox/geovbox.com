@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>古隆起 on StructLab</title>
+    <link>https://geovbox.com/tags/%E5%8F%A4%E9%9A%86%E8%B5%B7/</link>
+    <description>Recent content in 古隆起 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/%E5%8F%A4%E9%9A%86%E8%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>古隆起</title>
+      <link>https://geovbox.com/example/ex6_palaeohigh/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex6_palaeohigh/</guid>
+      <description>数据下载： detachment.py | init_xyr.dat 这里是一个 古隆起 设置的实例，将古隆起的 x,y,spin（角速度）固定。 palaeohigh.py 和 init_xyr.dat 需放在同一目录。 palaeohigh.py 中内容如下： ###################################### # title: 古隆起设置方</description>
+    </item>
+    
+  </channel>
+</rss>

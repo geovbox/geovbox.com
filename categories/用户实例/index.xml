@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>用户实例 on StructLab</title>
+    <link>https://geovbox.com/categories/%E7%94%A8%E6%88%B7%E5%AE%9E%E4%BE%8B/</link>
+    <description>Recent content in 用户实例 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E7%94%A8%E6%88%B7%E5%AE%9E%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>正态分布钉板实验</title>
+      <link>https://geovbox.com/blog/20210323/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210323/</guid>
+      <description>脚本及数据下载： 钉子坐标：init_xyr.dat VBOX脚本：normal_distribution.py 这是一个基于离散元数值模拟完成的</description>
+    </item>
+    
+    <item>
+      <title>伸展、生长、断层传播褶皱的离散元模拟(Basin Research)</title>
+      <link>https://geovbox.com/blog/20201102/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201102/</guid>
+      <description>实例参考自(Hardy,2019) 伸展断层传播褶皱是伸展环境中重要的一种褶皱类型，是由于隐伏基底正断层活化向上传播而引起上覆地层发生的弯曲(</description>
+    </item>
+    
+  </channel>
+</rss>

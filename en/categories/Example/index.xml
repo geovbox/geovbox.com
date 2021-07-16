@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on VBOX</title>
+    <link>https://geovbox.com/en/categories/Example/</link>
+    <description>Recent content in Example on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/categories/Example/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Set up Detachment</title>
+      <link>https://geovbox.com/en/example/ex5_detachment/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex5_detachment/</guid>
+      <description>数据下载： detachment.py pre_struct.gif 这里是一个 滑脱层 设置的实例，一般地，将滑脱层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 detachment.py 和 init_xyr.dat 需放在同一目录。</description>
+    </item>
+    
+    <item>
+      <title>Set up Fault</title>
+      <link>https://geovbox.com/en/example/ex4_pre_struct/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex4_pre_struct/</guid>
+      <description>数据下载：pre_struct.py 这里是一个 断层 设置的实例，一般地，将断层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 在终</description>
+    </item>
+    
+    <item>
+      <title>Syntectonic sedimentation</title>
+      <link>https://geovbox.com/en/example/ex3_syn_sedimentaion/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex3_syn_sedimentaion/</guid>
+      <description>数据下载：syn_sedimentaion.py 0000046000.sav syn_sedimentaion.gif 这里是一个 同构造沉积 计算实例。 运行 vboxdaily syn_sedimentaion.py syn_sedimentaion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 # E-mail:</description>
+    </item>
+    
+    <item>
+      <title>Syntectonic denudation</title>
+      <link>https://geovbox.com/en/example/ex2_syn_erosion/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex2_syn_erosion/</guid>
+      <description>数据下载：syn_erosion.py 0000046000.sav syn_erosion.gif 这里是一个 同构造剥蚀 计算实例。 在终端或 xshell 中运行 vboxdaily syn_erosion.py syn_erosion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 #</description>
+    </item>
+    
+    <item>
+      <title>The first example to learn VBOX</title>
+      <link>https://geovbox.com/en/example/ex1_push/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex1_push/</guid>
+      <description>数据下载：push.py 演化过程图 init_xyr.dat 一个构造数值模拟试验的完整流程包括两个步骤： 生成初始模型。生成颗粒集合体，定义颗粒的材料参数，让其在重力</description>
+    </item>
+    
+  </channel>
+</rss>

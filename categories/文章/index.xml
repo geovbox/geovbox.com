@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章 on StructLab</title>
+    <link>https://geovbox.com/categories/%E6%96%87%E7%AB%A0/</link>
+    <description>Recent content in 文章 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</title>
+      <link>https://geovbox.com/blog/20210716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210716/</guid>
+      <description>本文以龙门山褶皱冲断带为例，通过四个离散元数值模拟实验，揭示了：（1）剥蚀和沉积负载作用在活动褶皱冲断带新、老断层形成及其应力应变时空演化中</description>
+    </item>
+    
+    <item>
+      <title>物理模拟和数值模拟对比实验(Excellent Important Nice)</title>
+      <link>https://geovbox.com/example/ex8_dem_am/ex8/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex8_dem_am/ex8/</guid>
+      <description>下载： gen.py | push.py ~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~3小时 完成计算。 单位 (cm) 离散元数值模拟结果 通过休止角试</description>
+    </item>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素的离散元数值模拟（地质学报）</title>
+      <link>https://geovbox.com/blog/20210410/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210410/</guid>
+      <description>本文主要揭示滑脱层、先存断裂等因素对冲断带变形的影响，认为西南天山山前冲断带发育堆垛构造主要受控于发育上白垩统-古近系的膏盐层和前新生代的先</description>
+    </item>
+    
+    <item>
+      <title>库车坳陷东西段盐下构造变形差异演化的离散元数值模拟（地质学报）</title>
+      <link>https://geovbox.com/blog/20210409/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210409/</guid>
+      <description>本文主要揭示先存断裂会影响褶皱冲断带构造传播的方式，导致盐下楔体形态、断裂数量和盐上构造样式的差异。同构造沉积会增强盐上和盐下的分层差异变形</description>
+    </item>
+    
+    <item>
+      <title>川西北双层滑脱体系构造变形过程离散元数值模拟</title>
+      <link>https://geovbox.com/blog/20210329/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](http://www.beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210329/</guid>
+      <description>本文主要揭示双滑脱层模型在剥蚀和挤压条件下的构造演化过程。从腹陆端到挤压前缘，依次形成堆垛构造、被动顶板构造等，揭露 埋藏深部的隐伏薄皮构造样</description>
+    </item>
+    
+  </channel>
+</rss>

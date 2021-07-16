@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](http://www.beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>西南天山山前冲断带构造变形控制因素的离散元数值模拟（地质学报） | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20210410/" class="permalink">西南天山山前冲断带构造变形控制因素的离散元数值模拟（地质学报）</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%A0%86%E5%9E%9B%E6%9E%84%E9%80%A0/">堆垛构造</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%85%88%E5%AD%98%E6%96%AD%E8%A3%82/">先存断裂</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%A5%BF%E5%8D%97%E5%A4%A9%E5%B1%B1/">西南天山</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E8%BE%9B%E6%96%87/">辛文</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2021-04-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021年04月10日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<p>本文主要揭示滑脱层、先存断裂等因素对冲断带变形的影响，认为西南天山山前冲断带发育堆垛构造主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂<a href="#refer-xin2020">(辛文 等.,2020)</a>。</p>
+
+<p><div id="refer-xin2020"></div>
+<a href="https://doi.org/10.19762/j.cnki.dizhixuebao.2020078" target="_blank">辛文，陈汉林，安凯旋，张欲清，杨树锋，程晓敢，林秀斌. 2020. 基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究. 地质学报, 94(6): 1704-1715. </a></p>
+
+<h4 id="题目">题目</h4>
+
+<p>基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究</p>
+
+<h4 id="作者">作者</h4>
+
+<p>辛文<sup>1,2</sup>, 陈汉林<sup>1,2</sup>*, 安凯旋<sup>1,2</sup>, 张欲清<sup>1,2</sup>, 杨树锋<sup>1,2</sup>, 程晓敢<sup>1,2</sup>,
+林秀斌<sup>1,2</sup></p>
+
+<ol>
+<li>浙江大学地球科学学院, 杭州, 310027</li>
+<li>教育部含油气盆地构造研究中心, 杭州, 310027</li>
+</ol>
+
+<h4 id="摘要">摘要</h4>
+
+<p>西南天山山前褶皱冲断带的变形与其东侧的柯坪冲断带的大规模薄皮滑脱明显不同，它以发育“堆垛”构造和基底卷入逆冲构造为特征，是什么因素控制了该冲断带的变形。本文基于地震解释剖面，采用离散元数值模拟研究手段，单因素变量控制方法，设计了先存断裂模型，滑脱层模型和先存断裂与不同内聚力的滑脱层组合模型共5组数值模拟实验,分析西南天山山前褶皱冲断带的构造变形的控制因素。实验结果表明：滑脱层岩石强度控制了其下先存断裂向上突破的难易程度，滑脱层内聚力较强时，沿先存薄弱带易突破滑脱层形成逆冲推覆构造；滑脱层内聚力较弱时，滑脱层将发育成逆冲体系的顶板断裂，阻碍滑脱层之下单元中先存断裂后期活动向上传播，易形成相互叠覆的逆冲片。弱内聚力滑脱层发育的地区，变形前锋向前陆方向传播得更快、更远,变形主要发生在滑脱层之上单元，易形成冲起构造和三角带，滑脱层之下单元构造变形相对较弱。通过对比分析，认为西南天山山前冲断带发育堆垛构造和基底卷入逆冲构造变形，主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂。</p>
+
+<p><h5> </h5>
+<figure>
+    <img src="figure11.png" width="600px"/> 
+</figure>
+
+<center><h5>初始模型设置 </h5></center>
+<figure>
+    <img src="figure2.png" width="600px"/> 
+</figure>
+
+<center><h5>不同初始条件模型数值模拟结果对比 </h5></center>
+<figure>
+    <img src="figure3.png" width="600px"/> 
+</figure>
+
+<center><h5>不同强度滑脱层模型数值模拟结果对比 </h5></center></p>
+
+<h4 id="致谢">致谢</h4>
+
+<p>本文模拟实验使用的是由东华理工大学李长圣自主研发的离散元数值模拟软件VBOX，在此表示感谢。</p>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/blog/20210409/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">库车坳陷东西段盐下构造变形差异演化的离散元数值模拟（地质学报）</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/blog/20210716/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2021</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="http://www.beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>
