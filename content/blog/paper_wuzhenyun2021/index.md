@@ -27,9 +27,6 @@ Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Act
 #### 作者
 Wu Z<sup>1,2</sup>, Yin H<sup>3</sup>, Li C<sup>1,2</sup>, Yang X<sup>2</sup>, Wang L<sup>2</sup>, Wang F<sup>2</sup>, Dong S<sup>3</sup> and Jia D<sup>3</sup>
 
-Wu Z<sup>1,2</sup>, Hongwei Yin<sup>1</sup>*, Dong Jia<sup>1</sup>, Changsheng Li<sup>2</sup>, Wei Wang<sup>1</sup>, Gengxiong Yang<sup>1</sup>,
-Wanhui He<sup>1</sup>, Zhuxin Chen<sup>3</sup> and Rong Ren<sup>3</sup>
-
 1. State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China
 2. School of Earth Sciences, East China University of Technology, Nanchang, China
 3. School of Earth Sciences and Engineering, Nanjing University, Nanjing, China
