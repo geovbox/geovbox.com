@@ -9,12 +9,12 @@ title:
 
 ### 软件产品
 
-| ZDEM 2.0 | 后处理软件　| VBOX 1.4 (停止更新)　|
+| ZDEM 2.x | 后处理软件　| VBOX 1.4 (停止更新)　|
 | ------------ | -------------- | ------ |
 | [并行超算云](https://cloud.paratera.com/) | [百度网盘下载](https://pan.baidu.com/s/1fWjvBPKvayAhWxfij-gAnw) 提取码 `zdem` | 无 |
 | [视频教程](https://www.bilibili.com/video/av91259173/)  | 无 | 无 |
-| [在线版手册](http://doc.geovbox.com/2.0)  | 无 | [在线版手册](http://doc.geovbox.com/1.4)  |
-| [PDF版手册](http://doc.geovbox.com/2.0/zdem_doc.pdf)  | 无 | [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)  |
+| [在线版手册](http://doc.geovbox.com/2.x)  | 无 | [在线版手册](http://doc.geovbox.com/1.4)  |
+| [PDF版手册](http://doc.geovbox.com/2.x/zdem_doc.pdf)  | 无 | [PDF版手册](https://doc.geovbox.com/1.4/vbox_doc.pdf)  |
 
 ---
 
