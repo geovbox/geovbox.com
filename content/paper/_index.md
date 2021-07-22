@@ -10,7 +10,9 @@ title:
 
 ### 期刊论文
 
-1. [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **(2021)** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+1. **李长圣**, 尹宏伟*,等.**(2021)** 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学. (录用待刊)
+- [Li, C.S., Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+- [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **(2021)** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 - [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R., **(2021)** Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.](https://doi.org/10.3389/feart.2021.636512)
 - [Xu, W., Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., **(2021)**. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 - [邹玮,余一欣,刘金水,蒋一鸣,唐贤君,陈石,余浪.东海盆地西湖凹陷中央反转构造带发育主控因素及宁波背斜形成过程[J].石油学报,**2021**,42(02):176-185.](http://t.cn/A6Vov6Lc)

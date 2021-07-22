@@ -1,6 +1,6 @@
 ---
 title: 李长圣
-date: 2021-06-18
+date: 2021-07-21
 tags:
     - 网站维护者
     - zdem开发者
@@ -53,6 +53,7 @@ QQ：``836745132`` (Neo)
 ## 专利和软件著作权
 
 - 发明专利
+	- **李长圣**,任荣,管树巍,尹宏伟. 一种基于离散元的古隆起隆升过程模拟方法及装置[P]. 申请日：2021. (待公开)
 	- [**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,申请日：2019-12-02](https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN111008472A)  
 - 软件著作权：
 	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2021**.  
@@ -64,7 +65,8 @@ QQ：``836745132`` (Neo)
 
 - **2021**  
 
-	- **Li C.S.**, Yin H.W.*, et al. Effects of salt thickness on the structural deformation in the Kuqa depression, Tarim basin: Insights from seismic profiles and discrete element method. (under review)  
+    - **李长圣**, 尹宏伟*,等.**(2021)** 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学. (录用待刊)
+    - [**Li, C.S.**, Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
 	- [Xu, W.Q., Yin, H.W., Jia, D., **Li, C.S.**, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
