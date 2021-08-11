@@ -31,7 +31,7 @@ resourceDir = ".resources"
     blog = "/blog/:slug/"
 
 [author]
-    name = "[苏ICP备：17006658号](http://www.beian.miit.gov.cn)"
+    name = "[苏ICP备：17006658号](https://beian.miit.gov.cn)"
     email = "geovbox@163.com"
 
 [params]

@@ -2,11 +2,11 @@
 title: 自由落体
 date: 2017-04-28
 categories:
-    - 示例
+    - Example
 tags:
-    - 自由落体
+    - Fall
 authors:
-    - 李长圣
+    - LI ChangSheng
 commands:
     - start
 ---
