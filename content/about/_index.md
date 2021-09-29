@@ -78,8 +78,10 @@ title: 关于
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/zhongjun/zhongjun.jpg" alt="钟军" class="img-circle" >
-		<div class="author-name"> 钟军</div>
+		<a href="https://jun.geovbox.com" >
+			<img src="/about/zhongjun/zhongjun.jpg" alt="钟军" class="img-circle" >
+			<div class="author-name"> 钟军</div>
+		</a>
 	</div> 
 </div>
 {{% /col %}}
