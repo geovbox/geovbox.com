@@ -31,7 +31,6 @@ slug: 20211019
 {{< figure src="38.PNG" title=""  >}}
 {{< figure src="39.PNG" title=""  >}}
 {{< figure src="40.PNG" title=""  >}}
-{{< figure src="41.PNG" title=""  >}}
 {{< figure src="42.PNG" title="PPT快递"  >}}
 
 - 2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 https://hpcchina.ccf.org.cn/
