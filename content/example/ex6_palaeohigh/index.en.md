@@ -1,13 +1,13 @@
 ---
-title: 古隆起
+title: palaeohigh
 date: 2019-06-29
 categories:
-    - 示例
+    - examples
 tags:
-    - 古隆起
+    - palaeohigh
     - load
 authors:
-    - 李长圣
+    - Li ChangSheng
 images:
     - 10.jpg
 commands:
@@ -16,21 +16,21 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：
+download：
 [detachment.py](palaeohigh.py) | 
 [init_xyr.dat](init_xyr.dat)
 {{% /notice %}}
 
 
-这里是一个 `古隆起` 设置的实例，将古隆起的 x,y,spin（角速度）固定。
+The linear velocity and angular velocity (x,y,spin=0) of palaeohigh is fixed.
 
-[palaeohigh.py](palaeohigh.py) 和 [init_xyr.dat](init_xyr.dat) 需放在同一目录。
+[palaeohigh.py](palaeohigh.py) and [init_xyr.dat](init_xyr.dat) need to be in the same directory.
 
- [palaeohigh.py](palaeohigh.py) 中内容如下：
+The contents of [palaeohigh.py](palaeohigh.py) are as follows:
 
 {{< include-code "palaeohigh.py" bash >}}
 
-得到的演化过程如下：
+The tectonic evolution process is shown below:
 
 <h5></h5>
 {{< figure src="palaeohigh.gif" title="" width="600px" >}}
@@ -39,7 +39,7 @@ commands:
 {{< figure src="05.jpg" title="" width="600px" >}}
 {{< figure src="10.jpg" title="" width="600px" >}}
 
-<center><h5>单位 (km)<br><br>构造演化过程</h5></center>
+<center><h5>Unit (km)<br><br>Tectonic evolution process</h5></center>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 自由落体
+title: Free fall
 date: 2017-04-28
 categories:
     - Example
@@ -12,7 +12,7 @@ commands:
 ---
 
 {{% notice info %}}
-数据下载：[fall.py](fall.py)
+download：[fall.py](fall.py)
 {{% /notice %}}
 
 - **视频教程**：[4自由落体和Paraview颜色配置](https://www.bilibili.com/video/av91259173)
