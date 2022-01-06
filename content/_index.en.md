@@ -2,7 +2,7 @@
 title = "VBOX"
 +++
 
-`VBOX`, named as`Virtual sandBOX`, is a discrete element software to study the structural deformation.
+`VBOX`, named as`Virtual sandBOX`, is a discrete element software to study the structural deformation. It is a non-commercial software, developed from TRUBAL (Peter Cundall), TRUDEC(WANG YongJia), RICEBAL (Juli Morgan), CDEM(Stuart Hardy) and [YADE](https://yade-dem.org/) for academic purpose. See [details here](/en/download).
 {{< figure src="/example/ex1_push/shearSS.gif" title=""  width="400px" >}}
 <center>[The first example to learn VBOX ](/en/example/ex1_push/)</center>
 

@@ -9,7 +9,7 @@ mermaid: true
 ### Windows Users
 Open [Xshell](https://www.netsarang.com), login VBOX cluster ``hpcc.nju.edu.cn``, run
 ```bash
-vboxdaily -v
+vbox -v
 ```
 <!--- **xshell xftp 下载**：-->
 <!--    [xshell xftp](https://www.netsarang.com)-->
@@ -29,7 +29,7 @@ vboxdaily -v
 Open terminal, login VBOX cluster ``hpcc.nju.edu.cn`` , run
 
 ```bash
-vboxdaily -v
+vbox -v
 ```
 {{% /col %}}
 
@@ -45,14 +45,7 @@ vboxdaily -v
 
 ---
 
-{{% notice info %}}
-How to open accounts in the cluster ``hpcc.nju.edu.cn``? See [Open Accounts in HPCC of Nanjing University](https://doc.geovbox.com/1.4/hpc/).  
-How to use the cluster ``hpcc.nju.edu.cn``? See [Run VBOX in cluster ](https://doc.geovbox.com/1.4/use/).
-{{% /notice %}}
-
----
-
-{{< figure src="dems-history.png" title="Important nodes of DEM papers and programs" width="800px" >}}
+{{< figure src="dems-history.png" title="Series and milestones of DEM papers and programs" width="800px" >}}
 
 **During the development of VBOX, We referred to a large number of materials, i.e., Linear model ([Cundall et al.,1979](https://doi.org/10.1680/geot.1979.29.1.47))，Lattice Solid Model ([Hardy et al.,2009](https://doi.org/10.1016/j.marpetgeo.2007.12.003); [Liu et al.,2013]((https://doi.org/10.1029/2012jb009615)) ), and Hertz-Mindlin [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full), [TRUBAL](https://hmakse.ccny.cuny.edu/software-and-data/), [RICEBAL](https://earthscience.rice.edu/directory/user/100), PFC2D users’ manual (Itasca,2004), [YADE](https://yade-dem.org/doc/). If you are using VBOX for numerical simulations, you need to properly cite the appropriate literature.**
 

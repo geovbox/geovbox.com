@@ -176,7 +176,7 @@ title = "VBOX"
 #    weight = 28
     
 [[Languages.en.menu.main]]
-    name = "Download"
+    name = "Software"
     url = "/en/download/"
     weight = 29
 
