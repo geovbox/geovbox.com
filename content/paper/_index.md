@@ -10,8 +10,8 @@ title:
 
 ### 期刊论文
 
-
-1. **李长圣**, 尹宏伟*,等.**2022**. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学. (录用待刊)
+1. [屈梦雪,程晓敢,田禾丰,陈汉林,于洪洲,陈昌锦,孙思瑶.双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟.地球科学:1-14（录用定稿）网络首发时间：2022-06-24.](http://kns.cnki.net/kcms/detail/42.1874.P.20220623.1802.006.html)
+- **李长圣**, 尹宏伟*,等.**2022**. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学. (录用待刊)
 - [Chen, J., He, D.*, Tian, F., Huang, C., Ma, D., Zhang, W., **2022**. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
 - [Li, C.S., Yin, H.W.*, et al.**2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 - [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **2021** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)

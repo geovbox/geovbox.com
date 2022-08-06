@@ -33,11 +33,6 @@ title: 关于
 {{% col 6 %}}
 #### 软件开发与网站维护
 {{% /col %}}
-
-{{% col 6 %}}
-#### 课题组成员
-{{% /col %}}
-
 {{< /row >}}
 
 
@@ -65,17 +60,16 @@ title: 关于
 	</div> 
 </div>
 {{% /col %}}
+{{< /row >}}
 
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋" class="img-circle" >
-		<div class="author-name"> 叶启洋</div>
-	</div> 
-</div>
+{{< row >}}
+{{% col 6 %}}
+#### 课题组成员
 {{% /col %}}
+{{< /row >}}
 
-{{% col 2 %}}
+{{< row >}}
+{{% col 3 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<a href="https://jun.geovbox.com" >
@@ -86,7 +80,7 @@ title: 关于
 </div>
 {{% /col %}}
 
-{{% col 2 %}}
+{{% col 3 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/huanghaozhuo/huanghaozhuo.jpg" alt="黄浩卓" class="img-circle" >
@@ -95,6 +89,23 @@ title: 关于
 </div>
 {{% /col %}}
 
+{{% col 3 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/zhangzhao/zhangzhao.jpg" alt="张召" class="img-circle" >
+		<div class="author-name"> 张召</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 3 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋[已毕业]" class="img-circle" >
+		<div class="author-name"> 叶启洋[已毕业]</div>
+	</div> 
+</div>
+{{% /col %}}
 {{< /row >}}
 
 
@@ -142,7 +153,7 @@ title: 关于
 
 - [**陈汉林**](https://person.zju.edu.cn/hlchentectonic) 教授 **浙江大学**
 
-	- 成员： 辛文 
+	- 成员： 屈梦雪 辛文 
 
 {{% /col %}}
 
@@ -218,7 +229,7 @@ title: 关于
 {{< row >}}
 {{% col 6%}}
 
-- **杨克基**  **河北地质大学地球科学学院**
+- [**杨克基**](https://zyxy.hgu.edu.cn/szdw/dzx.htm) **河北地质大学**
 
 	- 成员： 杨克基
 
@@ -226,9 +237,9 @@ title: 关于
 
 {{% col 6%}}
 
-- [**周维维**](https://gzy.kmust.edu.cn/info/1072/1672.htm)  **昆明理工大学国土资源工程学院**
+- [**周维维**](https://gzy.kmust.edu.cn/info/1072/1672.htm)  **昆明理工大学**
 
-	- 成员： 周维维
+	- 成员： 周维维 胡星蕾
 
 {{% /col %}}
 
