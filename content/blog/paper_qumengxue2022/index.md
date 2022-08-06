@@ -38,7 +38,7 @@ slug: 20220805
 {{< figure src="figure2.jpg" title="" width="600px" >}}
 <center><h5>图2 研究区典型剖面图</h5></center>
 {{< figure src="figure3.jpg" title="" width="600px" >}}
-<center><h5>图3 不同初始条件模型数值模拟结果对比</h5></center>
+<center><h5>图3 初始模型设计</h5></center>
 {{< figure src="figure4.jpg" title="" width="600px" >}}
 <center><h5>图4 模拟结果及体积应变对比 </h5></center>
 
