@@ -74,7 +74,7 @@ QQ：``836745132`` (Neo)
 
 - **2021**  
 
-    - **李长圣**, 尹宏伟*,等.**(2021)** 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学. (录用待刊)
+    - [**李长圣**,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
     - [**Li, C.S.**, Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
