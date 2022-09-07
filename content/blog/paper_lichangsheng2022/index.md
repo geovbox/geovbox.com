@@ -51,29 +51,29 @@ slug: 20220901
 <center><h5>图3  初始模型</h5></center>
 
 {{< figure src="fig4.jpg" title="" width="600px" >}}
-<center><h5>图 4 模型收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时楔体的构造解释</h5></center>
+<center><h5>图 4 模型收缩量为1 km (a)、4 km (b)、9 km \(c)、16 km (d)、20 km (e)时楔体的构造解释</h5></center>
 
 {{< figure src="fig6.jpg" title="" width="600px" >}}
-<center><h5>图 6 收缩量 1 km (a), 4 km (b), 9 km (c), 16 km (d), 20 km (e)时, 粘结力链分布(蓝色为粘结力链, 黄色为无粘结的接触)</h5></center>
+<center><h5>图 6 收缩量 1 km (a), 4 km (b), 9 km \(c), 16 km (d), 20 km (e)时, 粘结力链分布(蓝色为粘结力链, 黄色为无粘结的接触)</h5></center>
 
 {{< figure src="fig8.jpg" title="" width="400px" >}}
 <center><h5>图8  断层的滑移曲线随收缩量的变化(断层F1、 F2、 F3和F4见图 4, 断层滑移值选取绿色层测量)</h5></center>
 
 {{< figure src="fig9.jpg" title="" width="600px" >}}
 <center>图a中4个点分别选取自绿色标志层中的断层F1、F2、F3和F4内部的四个颗粒, 为便于识别, 这四个颗粒半径放大3倍, 蓝色力链为监测点周围1 km范围内的粘结力链。</center>
-<center><h5>图9 点PF1、PF2、PF3和PF4的运动路径(a), 随着模型收缩, 点PF1、PF2、PF3和PF4累计位移量(b), 点PF1、PF2、PF3和PF4的周围1 km范围内, 模型每收缩1 km, 新断开的粘结力链数(c) 
+<center><h5>图9 点PF1、PF2、PF3和PF4的运动路径(a), 随着模型收缩, 点PF1、PF2、PF3和PF4累计位移量(b), 点PF1、PF2、PF3和PF4的周围1 km范围内, 模型每收缩1 km, 新断开的粘结力链数\(c) 
 </h5></center>
 
 {{< figure src="fig10.jpg" title="" width="600px" >}}
 <center>其中, 蓝色表示体压缩, 红色表示体膨胀, 颜色深浅表征体积变化的大小。其中, (e)中半透明黑色为标志层。</center>
 <center><h5>
-图10  收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时, 模型内的累积体积应变
+图10  收缩量为1 km (a)、4 km (b)、9 km \(c)、16 km (d)、20 km (e)时, 模型内的累积体积应变
 </h5></center>
 
 {{< figure src="fig15.jpg" title="" width="600px" >}}
 <center>黑色线条为应力等值线, 黑色点为|变形应变|>4的点, 表征了断层的位置。图(e)中, 绿色层为标志层。</center>
 <center><h5>
-图15  收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时, 最大剪切应力分布
+图15  收缩量为1 km (a)、4 km (b)、9 km \(c)、16 km (d)、20 km (e)时, 最大剪切应力分布
 </h5></center>
 
 #### 致谢
