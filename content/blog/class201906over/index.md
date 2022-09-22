@@ -22,10 +22,10 @@ slug: 2019061
 课程首先讲解离散元原理，介绍VBOX使用方法。实战中，讲解8个示例，并提供了示例脚本。
 8示例为：
 
-- [一个示例学会VBOX](/example/push/) 
-- [剥蚀](/example/syn_erosion/) 
-- [沉积](/example/syn_sedimentaion/) 
-- [断层](/example/pre_struct/) 
+- [一个示例学会VBOX](/example/ex1_push/) 
+- [剥蚀](/example/ex2_syn_erosion/) 
+- [沉积](/example/ex3_syn_sedimentaion/) 
+- [断层](/example/ex4_pre_struct/) 
 - [滑脱层](/example/ex5_detachment/) 
 - [古隆起](/example/ex6_palaeohigh/) 
 - [刚性基底 伸展构造](/example/ex7_extens_rigid/)
