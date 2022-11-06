@@ -2,23 +2,26 @@
 title: 
 ---
 
-### 入门文献
+### Classic articles
 
-1. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
+1. [LI ChangSheng (2019) Quantitative Analysis and Simulation of Structural Deformation inthe Fold and Thrust belt Based on Discrete Element Method. **Doctor Thesis**. Nanjing University. (in Chinese with English abstract). ](http://t.cn/Ai9ruJY5) **Recommended download** [The latest Revision](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) Fetch Code `zdem`  
 2. [Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
 3. [Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. **Marine and Petroleum Geology** 26:232-248.](https://doi.org/10.1016/j.marpetgeo.2007.12.003)  
 
-### 期刊论文
+### journal articles
 
-1. [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R.,. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
-- [Xu, W., Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+1. [Chen, J., He, D.*, Tian, F., Huang, C., Ma, D., Zhang, W., **2022**. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
+- [Li, C.S., Yin, H.W.*, et al.**2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+- [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **2021** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+- [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R., **2021** Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+- [Xu, W., Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., **2021**. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 - [徐雯峤,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
 - [辛文,陈汉林,安凯旋,张欲清,杨树锋,程晓敢,林秀斌.基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究.**地质学报**, 2020,94(06): 1704-1715.](http://t.cn/A6y6QKOG)  
 - [张迎朝,李长圣,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例. **实验室研究与探索**, 2019, 38(11):78-82.](http://t.cn/A6y6QntS)  
 - [LI Changsheng, YIN Hongwei*, et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.7.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)  
 - [**李长圣,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.**](http://t.cn/EiaL0Ad)  
 
-### 本硕博论文
+### Undergraduate master's and doctoral dissertations
 
 1. 次仁达瓦 (2020) 逆冲构造模拟-以阿尔卑斯构造带为例. **本科论文**. 东华理工大学.  
 2. [李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
@@ -27,7 +30,7 @@ title:
 5. [吴闯 (2017) 青海省木里地区天然气水合物构造成藏机制.**硕士论文**.南京大学.](http://t.cn/RpLyDni)  
 6. [林川.(2017) 盐下临界角库伦楔在库车坳陷克拉苏构造带的应用及模拟实验.**硕士论文**.南京大学.](http://t.cn/RpLUbiW)  
 
-### 会议论文和报告
+### Conference papers and presentations
 
 1. [李长圣*,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.**2019中国地球科学联合学术年会论文集**, 北京, 2019:60-61.](http://t.cn/A6yeiXQz)
 2. [Wang Maomao*, Yan Bin, Jiang Danqi, et al. Preexisting basin stratigraphic architecture control on geometry and evolution of the western Sichuan Cenozoic foreland basin: structural analysis and numerical modeling. American Geophysical Union Fall Meeting, San Francisco, California, USA. 2019.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/567189)  

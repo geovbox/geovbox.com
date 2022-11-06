@@ -160,9 +160,7 @@ title: 关于
 
 {{% col 6%}}
 
-- **管树巍**　高级工程师　**中国石油勘探开发研究院**
-
-	- 成员： 管树巍 
+- **管树巍**　高级工程师　**中国石油勘探开发研究院** 
 
 {{% /col %}}
 {{< /row >}}
@@ -198,8 +196,6 @@ title: 关于
 
 - [**赵斐宇**](https://sgmt.ecut.edu.cn/6e/b1/c3800a93873/page.htm) 博士 **东华理工大学**
 
-	- 成员： 赵斐宇
-
 {{% /col %}}
 
 {{< /row >}}
@@ -209,16 +205,12 @@ title: 关于
 
 - **申方乐**  **河北地质大学**
 
-	- 成员： 申方乐
-
 {{% /col %}}
 
 
 {{% col 6%}}
 
 - [**李世超**](https://teachers.jlu.edu.cn/Li/zh_CN/index.htm) 教授 **吉林大学**
-
-	- 成员： 李世超
 
 {{% /col %}}
 
@@ -229,15 +221,13 @@ title: 关于
 {{< row >}}
 {{% col 6%}}
 
-- [**杨克基**](https://zyxy.hgu.edu.cn/szdw/dzx.htm) **河北地质大学**
-
-	- 成员： 杨克基
+- [**杨克基**](https://zyxy.hgu.edu.cn/szdw/dzx.htm) 博士 **河北地质大学**
 
 {{% /col %}}
 
 {{% col 6%}}
 
-- [**周维维**](https://gzy.kmust.edu.cn/info/1072/1672.htm)  **昆明理工大学**
+- [**周维维**](https://gzy.kmust.edu.cn/info/1072/1672.htm)  博士 **昆明理工大学**
 
 	- 成员： 周维维 胡星蕾
 
@@ -249,14 +239,40 @@ title: 关于
 {{< row >}}
 {{% col 6%}}
 
-- **王彦奇**  **中国石油勘探开发研究院**
+- **王彦奇** 博士 **中国石油勘探开发研究院**
 
-	- 成员： 王彦奇
+{{% /col %}}
+
+{{% col 6%}}
+
+- **杨欣**  **成都理工大学**
 
 {{% /col %}}
 {{< /row >}}
 
 
+{{< row >}}
+{{% col 6%}}
+
+- [**陈正乐**](http://edu.cags.ac.cn/teachercontent.php?iid=514)  研究员 **中国地质科学院地质力学研究所**
+	- 成员： 闵壮
+
+{{% /col %}}
+
+{{% col 6%}}
+
+- [**余养里**](https://www.swpu.edu.cn/dky/szdw/jsml/jcdzjys/js1/yyl.htm) 博士 **西南石油大学**
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+{{% col 6%}}
+
+- [**饶刚**](https://www.swpu.edu.cn/dky/szdw/jsml/jcdzjys/js/rg.htm)  教授 **西南石油大学**
+
+{{% /col %}}
+{{< /row >}}
 
 #### 致谢
 {{< row >}}
