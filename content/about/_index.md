@@ -69,7 +69,46 @@ title: 关于
 {{< /row >}}
 
 {{< row >}}
-{{% col 3 %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/wangziheng/wangziheng.jpg" alt="王子恒" class="img-circle" >
+		<div class="author-name"> 王子恒</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<a href="https://liang.geovbox.com" >
+			<img src="/about/zouzongliang/zouzongliang.jpg" alt="邹宗良" class="img-circle" >
+			<div class="author-name"> 邹宗良</div>
+		</a>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/zhangzhao/zhangzhao.jpg" alt="张召" class="img-circle" >
+		<div class="author-name"> 张召</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/huanghaozhuo/huanghaozhuo.jpg" alt="黄浩卓" class="img-circle" >
+		<div class="author-name"> 黄浩卓</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<a href="https://jun.geovbox.com" >
@@ -80,29 +119,11 @@ title: 关于
 </div>
 {{% /col %}}
 
-{{% col 3 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/huanghaozhuo/huanghaozhuo.jpg" alt="黄浩卓" class="img-circle" >
-		<div class="author-name"> 黄浩卓</div>
-	</div> 
-</div>
-{{% /col %}}
-
-{{% col 3 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/zhangzhao/zhangzhao.jpg" alt="张召" class="img-circle" >
-		<div class="author-name"> 张召</div>
-	</div> 
-</div>
-{{% /col %}}
-
-{{% col 3 %}}
+{{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋[已毕业]" class="img-circle" >
-		<div class="author-name"> 叶启洋[已毕业]</div>
+		<div class="author-name"> 叶启洋</div>
 	</div> 
 </div>
 {{% /col %}}
@@ -142,7 +163,7 @@ title: 关于
 
 - [**王毛毛**](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm) 副教授 **河海大学**
 
-	- 成员： 封旺 蒋丹琦 宋功化 王毛毛 
+	- 成员： 王明 封旺 蒋丹琦 宋功化 王毛毛 
 
 {{% /col %}}
 {{< /row >}}

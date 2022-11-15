@@ -10,7 +10,8 @@ title:
 
 ### journal articles
 
-1. [Chen, J., He, D.*, Tian, F., Huang, C., Ma, D., Zhang, W., **2022**. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
+1. Wang, M., Wang, M., Feng, W., Yan, B., & Jia, D. **2022**. Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. **Tectonics**, 41, e2022TC007515. [https://doi.org/10.1029/2022TC007515](https://doi.org/10.1029/2022TC007515)
+- [Chen, J., He, D.*, Tian, F., Huang, C., Ma, D., Zhang, W., **2022**. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
 - [Li, C.S., Yin, H.W.*, et al.**2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 - [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **2021** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 - [Li, C., Yin, H.*, Wu, C., Zhang, Y., Zhang, J., Wu, Z., Wang, W., Jia, D., Guan, S., Ren, R., **2021** Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.](https://doi.org/10.3389/feart.2021.636512)
