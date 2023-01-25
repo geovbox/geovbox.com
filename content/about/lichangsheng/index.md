@@ -52,6 +52,11 @@ QQ：``836745132`` (Neo)
 
 - 地学计算机制图 [进入课程](https://mapgis.geovbox.com)，推荐关注（ZYL-GLUT） https://space.bilibili.com/514503809
 - 地图学与计算机制图  [进入课程](https://gmt.geovbox.com/)
+- 面向对象程序设计(C++版)  [进入课程](https://cpp.geovbox.com/)
+
+## 研究生课程
+
+- 地质工程研究进展（2020、2022年参与教学）
 
 ## 工作和教育经历
 
@@ -66,8 +71,8 @@ QQ：``836745132`` (Neo)
 ## 专利和软件著作权
 
 - 发明专利
-	- **李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置[P]. 申请日：2019-12-02 （受理）
-	- [**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. CN111008472A,申请日：2019-12-02](https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN111008472A)  
+	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置[P]. 北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)
+	- [**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472A,2020-04-14.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0ManZHCyoNk-lwS3y-OLIR0jkpLUobRbf1bS1mV7lVm0MbHhvhU93NbegZGA6PYlB&uniplatform=NZKPT)  
 - 软件著作权：
 	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2021**.  
 	- **覆岩变形分布式监测数据处理系统** V1.0. 张丹, **李长圣**. **2019**.  
@@ -76,9 +81,10 @@ QQ：``836745132`` (Neo)
 
 ## 论文发表
 
-- **2021**  
+- **2022**  
 
     - [**李长圣**,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
+- **2021** 
     - [**Li, C.S.**, Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
@@ -126,6 +132,9 @@ QQ：``836745132`` (Neo)
 ## 科研项目
 
 - **2019-至今**
+	- 中石化开放基金： 走滑模拟，2022-2024， **主持**
+	- 横向课题： 库车构造模拟,  2022-2022, **主持**
+	- 横向课题： 川南页岩层系变形模拟，2022-2022， **主持**
 	- 横向课题： 走滑断裂数值模拟，2021-2022， **主持**
 	- **国家自然科学基金面上项目**：四川盆地南部高应变构造变形与诱发地震的相关性研究, 2022.01.01-2025.12.31, 参与
 	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**
