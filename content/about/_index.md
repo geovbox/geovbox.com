@@ -68,13 +68,22 @@ title: 关于
 {{% /col %}}
 {{< /row >}}
 
+
 {{< row >}}
+{{% col 6 %}}
+##### 研究生
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+
+
 
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/wangziheng/wangziheng.jpg" alt="王子恒" class="img-circle" >
-		<div class="author-name"> 王子恒</div>
+		<img src="/about/chiyu/chiyu.jpg" alt="池禹" class="img-circle" >
+		<div class="author-name"> 池禹</div>
 	</div> 
 </div>
 {{% /col %}}
@@ -82,10 +91,17 @@ title: 关于
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<a href="https://liang.geovbox.com" >
-			<img src="/about/zouzongliang/zouzongliang.jpg" alt="邹宗良" class="img-circle" >
-			<div class="author-name"> 邹宗良</div>
-		</a>
+		<img src="/about/zhusuqin/zhusuqin.jpg" alt="朱素芹" class="img-circle" >
+		<div class="author-name"> 朱素芹</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/zhangxinsong/zhangxinsong.jpg" alt="张新松" class="img-circle" >
+		<div class="author-name"> 张新松</div>
 	</div> 
 </div>
 {{% /col %}}
@@ -102,8 +118,96 @@ title: 关于
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/wangziheng/wangziheng.jpg" alt="王子恒" class="img-circle" >
+		<div class="author-name"> 王子恒</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{< /row >}}
+
+<!-- new col-->
+{{< row >}}
+{{% col 6 %}}
+##### 本科生
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/liyunhao/liyunhao.jpg" alt="李云豪" class="img-circle" >
+			<div class="author-name"> 李云豪</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/meiqiang/meiqiang.jpg" alt="梅强" class="img-circle" >
+		<div class="author-name"> 梅强</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/pengxin/pengxin.jpg" alt="彭鑫" class="img-circle" >
+		<div class="author-name"> 彭鑫</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/wangyue/wangyue.jpg" alt="王悦" class="img-circle" >
+			<div class="author-name"> 王悦</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<a href="https://liang.geovbox.com" >
+			<img src="/about/zouzongliang/zouzongliang.jpg" alt="邹宗良" class="img-circle" >
+			<div class="author-name"> 邹宗良</div>
+		</a>
+	</div> 
+</div>
+{{% /col %}}
+
+{{< /row >}}
+
+<!-- new col-->
+{{< row >}}
+{{% col 6 %}}
+##### 毕业生
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<img src="/about/huanghaozhuo/huanghaozhuo.jpg" alt="黄浩卓" class="img-circle" >
 		<div class="author-name"> 黄浩卓</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋[已毕业]" class="img-circle" >
+		<div class="author-name"> 叶启洋</div>
 	</div> 
 </div>
 {{% /col %}}
@@ -119,16 +223,7 @@ title: 关于
 </div>
 {{% /col %}}
 
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/yeqiyang/yeqiyang.jpg" alt="叶启洋[已毕业]" class="img-circle" >
-		<div class="author-name"> 叶启洋</div>
-	</div> 
-</div>
-{{% /col %}}
 {{< /row >}}
-
 
 #### 用户
 {{< row >}}
@@ -293,7 +388,58 @@ title: 关于
 - [**饶刚**](https://www.swpu.edu.cn/dky/szdw/jsml/jcdzjys/js/rg.htm)  教授 **西南石油大学**
 
 {{% /col %}}
+
+{{% col 6%}}
+
+- **郑津杭 中国石油大学（华东）**
+
+{{% /col %}}
 {{< /row >}}
+
+
+{{< row >}}
+{{% col 6%}}
+
+- **赵怀博** **中国石油大学（北京）**
+
+{{% /col %}}
+
+{{% col 6%}}
+
+- **周超**  **中国科学院大学**
+
+{{% /col %}}
+{{< /row >}}
+
+
+{{< row >}}
+{{% col 6%}}
+
+- **郭泊洋** **中国石油集团东方地球物理勘探有限责任公司**
+
+{{% /col %}}
+
+{{% col 6%}}
+
+- [**李伟**](https://geori.upc.edu.cn/_s46/2018/0620/c10381a156239/page.psp)  副教授 **中国石油大学（华东）**
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+{{% col 6%}}
+
+- [**姚琪**](https://www.ief.ac.cn/dsdw/info/2022/69589.html)  副研究员 **中国地震局地震预测研究所**
+
+{{% /col %}}
+
+{{% col 6%}}
+
+- **冯昌** **东北石油大学**
+
+{{% /col %}}
+{{< /row >}}
+
 
 #### 致谢
 {{< row >}}
