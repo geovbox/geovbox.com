@@ -10,9 +10,12 @@ title:
 
 ### 期刊论文
 
-1. Wang, M., Wang, M., Feng, W., Yan, B., & Jia, D. **2022**. Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. **Tectonics**, 41, e2022TC007515. [https://doi.org/10.1029/2022TC007515](https://doi.org/10.1029/2022TC007515)
+1. [Yang, K., Qi, J., Shen, F., Sun, T., Duan, Z., Cui, M., ... & Lv, J. **2024**. Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China. Journal of Structural Geology, 178, 105005.](https://doi.org/10.1016/j.jsg.2023.105005)
+- [尹宏伟,贾东,汪伟,李长圣,徐雯峤,杨庚兄 & 贺婉慧.**2023**.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报(09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.)
+- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟... & 李长圣.**2023**.川东南泸州地区多滑脱层构造特征及变形机制. 高校地质学报(05),726-734.](https://doi.org/10.16108/j.issn1006-7493.2022029.)
+- [屈梦雪,程晓敢,田禾丰,陈汉林,于洪洲,陈昌锦 & 孙思瑶.**2023**.双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟. 地球科学(04),1366-1378.](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00Lxt-kRzfAYWcsWitd5UucpYNuQE1EMRSEmjM1kJIA7O4mIPuNq5WXpleY3EvABxLrnJcv9YisUA5fToby0v31otfGT6qTMjFvpP9kZ4XaPEIKyg1VzTUbZhJkUHAXvVzQ=&uniplatform=NZKPT&flag=copy)
+- [Wang, M., Wang, M., Feng, W., Yan, B., & Jia, D. **2022**. Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. **Tectonics**, 41, e2022TC007515.](https://doi.org/10.1029/2022TC007515)
 - [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣. **2022**. 基于离散元的挤压构造定量分析与模拟. **大地构造与成矿学**, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
-- [屈梦雪,程晓敢,田禾丰,陈汉林,于洪洲,陈昌锦,孙思瑶.双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟.**地球科学**:1-14（录用定稿）网络首发时间：2022-06-24.](http://kns.cnki.net/kcms/detail/42.1874.P.20220623.1802.006.html)
 - [Chen, J., He, D.*, Tian, F., Huang, C., Ma, D., Zhang, W., **2022**. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
 - [Li, C.S., Yin, H.W.*, et al.**2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 - [WU Z.Y.*, LI C.S., YIN H.W., WANG L., YANG X., JIA D., **2021** Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
@@ -27,7 +30,8 @@ title:
 
 ### 本硕博论文
 
-1. [辛文. **2021**. 西南天山山前冲断带构造变形控制因素研究. **硕士论文**. 浙江大学.](https://doi.org/10.27461/d.cnki.gzjdx.2021.002791)
+1. [刘璐霄. **2022**. 基底构造对盐构造变形的影响分析.**硕士论文**. 河北地质大学.](https://doi.org/10.27752/d.cnki.gsjzj.2022.000204) 
+- [辛文. **2021**. 西南天山山前冲断带构造变形控制因素研究. **硕士论文**. 浙江大学.](https://doi.org/10.27461/d.cnki.gzjdx.2021.002791)
 - 次仁达瓦. **2020**. 逆冲构造模拟-以阿尔卑斯构造带为例. **本科论文**. 东华理工大学.  
 - [李长圣. **2019**. 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  
 - [冯彦杰. **2019**. 多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例. **本科论文**. 南京大学.](https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ) 提取码 `zdem`  

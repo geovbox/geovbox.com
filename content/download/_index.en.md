@@ -7,7 +7,7 @@ mermaid: true
 {{< row >}}
 {{% col 4 %}}
 ### Windows Users
-Open [Xshell](https://www.netsarang.com), login VBOX cluster ``hpcc.nju.edu.cn``, run
+Open [Xshell](https://www.netsarang.com), login VBOX(ZDEM) cluster ``hpcc.nju.edu.cn``, run
 ```bash
 vbox -v
 ```
@@ -26,7 +26,7 @@ vbox -v
 
 {{% col 4 %}}
 ### Linux Users
-Open terminal, login VBOX cluster ``hpcc.nju.edu.cn`` , run
+Open terminal, login VBOX(ZDEM) cluster ``hpcc.nju.edu.cn`` , run
 
 ```bash
 vbox -v
@@ -34,9 +34,9 @@ vbox -v
 {{% /col %}}
 
 {{% col 4 %}}
-### VBOX Manual
+### VBOX(ZDEM) Manual
 
-- VBOX1.4：
+- VBOX (ZDEM) 1.4：
   - [Online read](http://doc.geovbox.com/1.4)
   - [PDF download](https://doc.geovbox.com/1.4/vbox_doc.pdf)
 {{% /col %}}
@@ -47,9 +47,9 @@ vbox -v
 
 {{< figure src="dems-history.png" title="Series and milestones of DEM papers and programs" width="800px" >}}
 
-**During the development of VBOX, We referred to a large number of materials, i.e., Linear model ([Cundall et al.,1979](https://doi.org/10.1680/geot.1979.29.1.47))，Lattice Solid Model ([Hardy et al.,2009](https://doi.org/10.1016/j.marpetgeo.2007.12.003); [Liu et al.,2013]((https://doi.org/10.1029/2012jb009615)) ), and Hertz-Mindlin [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full), [TRUBAL](https://hmakse.ccny.cuny.edu/software-and-data/), [RICEBAL](https://earthscience.rice.edu/directory/user/100), PFC2D users’ manual (Itasca,2004), [YADE](https://yade-dem.org/doc/). If you are using VBOX for numerical simulations, you need to properly cite the appropriate literature.**
+**During the development of VBOX(ZDEM), We referred to a large number of materials, i.e., Linear model ([Cundall et al.,1979](https://doi.org/10.1680/geot.1979.29.1.47))，Lattice Solid Model ([Hardy et al.,2009](https://doi.org/10.1016/j.marpetgeo.2007.12.003); [Liu et al.,2013]((https://doi.org/10.1029/2012jb009615)) ), and Hertz-Mindlin [Morgan (2015)](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full), [TRUBAL](https://hmakse.ccny.cuny.edu/software-and-data/), [RICEBAL](https://earthscience.rice.edu/directory/user/100), PFC2D users’ manual (Itasca,2004), [YADE](https://yade-dem.org/doc/). If you are using VBOX for numerical simulations, you need to properly cite the appropriate literature.**
 
-- Reference materials of VBOX:
+- Reference materials of VBOX (ZDEM):
 	- **Script format:** TRUBAL; RICEBAL; Lian et al.,1994; PFC2D users’ manual
 	- **Linear model:** TRUBAL; YADE; PFC2D users’ manual; Cundall et al.,1979
 	- **Lattice Solid Model:** Hardy et al.,2009; Liu et al.,2013; Li et al.,2021
