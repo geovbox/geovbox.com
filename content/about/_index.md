@@ -100,8 +100,10 @@ title: 关于
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/zhangxinsong/zhangxinsong.jpg" alt="张新松" class="img-circle" >
-		<div class="author-name"> 张新松</div>
+		<a href="https://song.geovbox.com" >
+			<img src="/about/zhangxinsong/zhangxinsong.jpg" alt="张新松" class="img-circle" >
+			<div class="author-name"> 张新松</div>
+		</a>
 	</div> 
 </div>
 {{% /col %}}
