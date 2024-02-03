@@ -75,7 +75,8 @@ QQ：``836745132`` (Neo)
 	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置[P]. 北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)
 	- [**李长圣**,尹宏伟,吴珍云,贾东,徐雯峤,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472A,2020-04-14.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0ManZHCyoNk-lwS3y-OLIR0jkpLUobRbf1bS1mV7lVm0MbHhvhU93NbegZGA6PYlB&uniplatform=NZKPT)   (授权)
 - 软件著作权：
-	1. **基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统** V1.0. 东华理工大学, 钟军, **李长圣**, 张召，邹宗良. **2023**.  
+	1. **地质三维可视化软件** V1.0. 东华理工大学;邹宗良;**李长圣**;吴珍云;梅强. **2024**.  
+	- **基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统** V1.0. 东华理工大学, 钟军, **李长圣**, 张召，邹宗良. **2023**.  
 	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2021**.  
 	- **覆岩变形分布式监测数据处理系统** V1.0. 张丹, **李长圣**. **2019**.  
 	- **虚拟沙箱软件** V1.0. 南京大学. **2015**  
