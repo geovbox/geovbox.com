@@ -7,9 +7,7 @@ categories:
     - 文章
 
 tags:
-    - 多滑脱层
-    - 薄皮 
-    - 川东
+    - Journal_of_Structural_Geology
 
 authors:
     - 徐雯峤

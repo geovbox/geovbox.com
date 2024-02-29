@@ -8,9 +8,7 @@ categories:
     - 文章
 
 tags:
-    - 先存构造
-    - 盐构造
-    - 库车
+    - Basin_Research
 
 authors:
     - 杨克基
