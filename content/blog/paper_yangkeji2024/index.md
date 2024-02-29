@@ -10,7 +10,7 @@ categories:
 tags:
     - 先存构造
     - 盐构造
-    - 川东
+    - 库车
 
 authors:
     - 杨克基
