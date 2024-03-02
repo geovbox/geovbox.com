@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extensional tectonics on VBOX</title>
+    <link>https://geovbox.com/en/tags/Extensional-tectonics/</link>
+    <description>Recent content in Extensional tectonics on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/tags/Extensional-tectonics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rigid basement, Extensional tectonics</title>
+      <link>https://geovbox.com/en/example/ex7_extens_rigid/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex7_extens_rigid/</guid>
+      <description>download： detachment.py | init_xyr.dat There are the upper and lower rigid plates in this examples. extens_rigid.py and init_xyr.dat need to be in the same directory. The contents of extens_rigid.py are as follows: #2019-06-29 #建议使用notepad&amp;#43;&amp;#43;查看本文件 #LI ChangSheng</description>
+    </item>
+    
+  </channel>
+</rss>

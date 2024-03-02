@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>自由落体 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/en/example/ex0_fall/">English</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/example/ex0_fall/" class="permalink">自由落体</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E7%A4%BA%E4%BE%8B/">示例</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%87%AA%E7%94%B1%E8%90%BD%E4%BD%93/">自由落体</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2017-04-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">2017年04月28日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                <div class="notices info" >
+<p>数据下载：<a href="fall.py" target="_blank">fall.py</a></p>
+
+</div>
+
+
+<ul>
+<li><strong>视频教程</strong>：<a href="https://www.bilibili.com/video/av91259173" target="_blank">4自由落体和Paraview颜色配置</a></li>
+</ul>
+
+<p>其中，<code>fall.py</code> 中内容如下：
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">######################################
+# title: 自由落体
+# date: 2017-04-28
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# more info, see www.geovbox.com
+#######################################
+START ; 开始计算
+BALL  ID=0  X=2.0  Y=0.5  RAD=0.5  COLOR=blue ;生成一个蓝色颗粒，圆心(2.0,0.5)，半径0.5
+BALL  ID=1  X=2.0  Y=2.5  RAD=0.5  COLOR=red
+PROP  DEN=1e3  FRIC=0.0  KN=10e6  KS=10e6  DAMP=0.1;密度DEM，摩擦系数FRIC，法向刚度KN，切向刚度KS，阻尼DAMP
+FIX   x y spin      RANGE id=(0, 0) ;固定id=0的颗粒的x和y方向的运动，并且固定其角速度spin
+SET   DT=2.5e-04  GRAVTIY=(0.0, -9.81) ; 时间步DT，GRAVITY重力加速度
+SET   vtk 100 ; 设置每100步保存一次vtk格式(使用Paraview打开)的计算结果
+CYC   20000 ; 计算20000步
+STOP ;　结束计算
+</code></pre>
+
+</p>
+
+<p>程序必须以START、RESTORE和LOAD开始一个计算，上面的实例是以start开始的，生成了两个颗粒，固定蓝色颗粒，红色颗粒作自由落体运动。</p>
+
+<ul>
+<li>动态图如下：</li>
+</ul>
+
+<p><img src="fall.gif" align="left"  />
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/></p>
+
+<div class="notices info" >
+<p>软件中所涉及的参数的单位均采用国际制标准单位（即千克kg，米m，秒s，牛N，帕Pa等）。</p>
+
+</div>
+
+
+<ul>
+<li>YADE手册中有一个类似的<a href="https://yade-dem.org/doc/tutorial-examples.html#bouncing-sphere" target="_blank">实例</a></li>
+</ul>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/example/ex1_push/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">一个示例学会构造数值模拟</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2024</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

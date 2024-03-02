@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syn-tectonic deposition on VBOX</title>
+    <link>https://geovbox.com/en/tags/syn-tectonic-deposition/</link>
+    <description>Recent content in syn-tectonic deposition on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/tags/syn-tectonic-deposition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt:Insights From Discrete-Element Modeling(Tectonics)</title>
+      <link>https://geovbox.com/en/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20221110/</guid>
+      <description>本文VBOX(ZDEM)实验脚本下载： The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, https://osf.io/tz2qg; Model I-2, with surface processes, https://osf.io/pa9sy). Wang, M., Wang, M., Feng, W., Yan, B., &amp;amp; Jia, D. (2022). Influence of surface processes on strain localization and seismic activity in the Longmen Shan</description>
+    </item>
+    
+  </channel>
+</rss>

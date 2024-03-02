@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>刚性基底 伸展构造 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/en/example/ex7_extens_rigid/">English</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/example/ex7_extens_rigid/" class="permalink">刚性基底 伸展构造</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E7%A4%BA%E4%BE%8B/">示例</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E4%BC%B8%E5%B1%95%E6%9E%84%E9%80%A0/">伸展构造</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2019-06-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019年06月29日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<div class="notices info" >
+<p>数据下载：
+<a href="extens_rigid.py" target="_blank">detachment.py</a> |
+<a href="init_xyr.dat" target="_blank">init_xyr.dat</a></p>
+
+</div>
+
+
+<p>这里是一个 <code>刚性基底 伸展构造</code> 设置的实例，使用上下两个刚性板完成。</p>
+
+<p><a href="extens_rigid.py" target="_blank">extens_rigid.py</a> 和 <a href="init_xyr.dat" target="_blank">init_xyr.dat</a> 需放在同一目录。</p>
+
+<p><a href="extens_rigid.py" target="_blank">extens_rigid.py</a> 中内容如下：</p>
+
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">#2019-06-29
+#建议使用notepad&#43;&#43;查看本文件
+#LI ChangSheng @ NanJing Uninversity 
+#E-mail: sheng0619@163.com
+#more info, see www.geovbox.com
+######################################
+# title: 刚性基底伸展构造实例
+#括号内参数可根据模型大小及个人需要修改
+#脚本命令不区分大小写
+#该计算在南京大学高性能计算中心
+#######################################
+#程序初始化
+START
+#颗粒设为球，计算颗粒体积用4/3*pi*r^3计算
+SET DISK off
+#设置研究范围 
+BOX LEFT 1.0e-3 RIGHT (51000.0) BOTTOM 1.0e-3 HEIGHT (26000.0) kn=4e10 ks=4e10 fric 0.30 
+#设置挡板墙，这里模型采用hertz接触模型，挡板墙的kn ks无效，计算时取颗粒的参数
+WALL ID 0, NODES (  10000.0 ,  26000.0 ) ( 10000.0 ,    1080.0 ), kn=0e10 ks=0e10 fric 0.0 COLOR black
+WALL ID 1, NODES (  40000.0 ,   1080.0 ) ( 40000.0 ,   26000.0 ), kn=0e10 ks=0e10 fric 0.0 COLOR blue
+#设置基底
+GLINE P1 (   10000.0 , 1160.0 ) P2 ( 20000.0 ,   1160.0 ) RAD 80.0 GROUP bom_wall1
+GLINE P1 (   10000.0 , 1000.0 ) P2 ( 40000.0 ,   1000.0 ) RAD 80.0 GROUP bom_wall2
+PROP COLOR blue  RANGE GROUP bom_wall1
+PROP COLOR red   RANGE GROUP bom_wall2
+#限制颗粒位移和转动
+FIX x y spin RANGE GROUP bom_wall1
+FIX x y spin RANGE GROUP bom_wall2
+#在矩形范围内生成颗粒
+GEN NUM 100000, RAD DISCRETE (60.0 80.0)  x (10000.0, 40000.0) y (1000.0, 26000.0) GROUP ball_rand
+PROP COLOR black RANGE GROUP ball_rand
+PROP DEN 2.5e3 FRIC 0.0 SHEAR 2.9e9 POISS 0.2 DAMP 0.4 HERTZ
+
+SET  STEPBAR  1000
+SET  SAVE    20000
+set  PRINT   10000
+set  PS      10000
+
+SET DT 5e-2     
+SET GRAVITY ( 0.0,  -10.0 )
+
+CYC  50000
+#删除10000米以上的颗粒，可实现剥蚀
+DEL  RANGE y (11000.0, 25000.0)
+CYC  10000
+EXP  initxyr.dat RANGE GROUP ball_rand
+SAV  initxyr.sav
+################################ 设置颜色 #########################################
+prop color lg  RANGE GROUP ball_rand
+prop color mg  RANGE  x 101.0 59999.0 y   261.0 1000.0
+prop color mg  RANGE  x 101.0 59999.0 y 2000.0  3000.0
+prop color mg  RANGE  x 101.0 59999.0 y 4000.0  5000.0
+prop color mg  RANGE  x 101.0 59999.0 y 6000.0  7000.0
+prop color mg  RANGE  x 101.0 59999.0 y 8000.0  9000.0
+prop color mg  RANGE  x 101.0 59999.0 y 10000.0  11000.0
+PROP FRIC 0.3 RANGE GROUP bom_wall1
+prop FRIC 0.3 RANGE GROUP bom_wall2
+#设置粘结
+PROP ebmod 2e8 gbmod 2e8 tstrength 2e7 sstrength 4e7 fric 0.3 RANGE GROUP ball_rand
+#开始伸展
+INI  XV 2.0 RANGE GROUP bom_wall2
+WALL ID 1 XV 2.0
+IMPLE WALL ID 1 XMOVE 2000.0 SAVE 2000.0 PRINT 1000.0 PS 1000.0
+
+################################# 沉积1 #########################################
+gen NUM 200000, rad discrete 60.0 80.0 , x( 10000.0, 42000.0)   y (10000.0, 14000.0 )  GROUP ballsed1
+PROP COLOR blue DEN 2.5e3 FRIC 0.3 SHEAR 2.9e9 POISS 0.2  DAMP 0.0  HERTZ RANGE GROUP ballsed1 
+#新沉积的颗粒粘结（胶结）在一起
+#prop ebmod 2e8 gbmod 2e8 tstrength 2e7 sstrength 4e7 fric 0.3 range group ballsed1 
+INI  XV 0.0 RANGE GROUP bom_wall2
+WALL ID 1 XV 0.0
+set ps    1000
+set print 1000
+CYC 5000
+DEL RANGE y 11000.0 16000.0
+CYC 2000
+#开始伸展
+INI  XV 2.0 RANGE GROUP bom_wall2
+wall id 1 xv 2.0
+IMPLE WALL ID 1 XMOVE 2000.0 SAVE 2000.0 PRINT 1000.0 PS 1000.0
+
+################################# 沉积2 #########################################
+gen NUM 200000, rad discrete 60.0 80.0 , x( 10000.0, 44000.0)  y (10000.0, 14000.0 ),  GROUP ballsed2
+PROP color red den 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.0, hertz  range group ballsed2 
+INI  XV 0.0 RANGE GROUP bom_wall2
+WALL ID 1 XV 0.0
+set ps    1000
+set print 1000
+CYC 5000
+DEL RANGE y 11000.0 16000.0
+CYC 2000
+
+#开始伸展
+INI  XV 2.0 RANGE GROUP bom_wall2
+wall id 1 xv 2.000
+IMPLE WALL ID 1 XMOVE 2000.0 SAVE 2000.0 PRINT 1000.0 PS 1000.0
+
+################################# 沉积3 #########################################
+gen NUM 200000, rad discrete 60.0 80.0 , x( 10000.0, 46000.0)   y (10000.0, 14000.0 ),  GROUP ballsed3
+PROP color mg den 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.0, hertz  range group ballsed3 
+INI  XV 0.0 RANGE GROUP bom_wall2
+WALL ID 1 XV 0.0
+set ps    1000
+set print 1000
+CYC 5000
+DEL RANGE y 11000.0 16000.0
+CYC 2000
+
+#开始伸展
+INI  XV 2.0 RANGE GROUP bom_wall2
+wall id 1 xv 2.000
+IMPLE WALL ID 1 XMOVE 2000.0 SAVE 2000.0 PRINT 1000.0 PS 1000.0
+
+################################# 沉积4 #########################################
+gen NUM 200000, rad discrete 60.0 80.0 , x( 10000.0, 48000.0)   y (10000.0, 14000.0 ),  GROUP ballsed4
+PROP color gb den 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.0, hertz  range group ballsed4 
+INI  XV 0.0 RANGE GROUP bom_wall2
+WALL ID 1 XV 0.0
+set ps    1000
+set print 1000
+CYC 5000
+DEL RANGE y 11000.0 16000.0
+CYC 2000
+
+#结束计算
+STOP
+</code></pre>
+
+
+
+<p>得到的演化过程如下：</p>
+
+<p><h5></h5>
+<figure>
+    <img src="extens_rigid.gif" width="600px"/> 
+</figure>
+</p>
+
+<p><figure>
+    <img src="00.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="02.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="04.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="06.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="08.jpg" width="600px"/> 
+</figure>
+</p>
+
+<p><center><h5>单位 (km)<br><br>构造演化过程</h5></center></p>
+
+<h2 id="参考文献">参考文献</h2>
+
+<ul>
+<li><a href="http://t.cn/AiY2NMGq" target="_blank">李长圣，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. <strong>2018中国地球科学联合学术年会论文集</strong>, 北京, 2018.</a><br /></li>
+</ul>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/example/ex6_palaeohigh/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">古隆起</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/example/ex8_dem_am/ex8/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">物理模拟和数值模拟对比实验(Excellent Important Nice)</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2024</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

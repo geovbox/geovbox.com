@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li ChangSheng on VBOX</title>
+    <link>https://geovbox.com/en/authors/Li-ChangSheng/</link>
+    <description>Recent content in Li ChangSheng on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/authors/Li-ChangSheng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rigid basement, Extensional tectonics</title>
+      <link>https://geovbox.com/en/example/ex7_extens_rigid/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex7_extens_rigid/</guid>
+      <description>download： detachment.py | init_xyr.dat There are the upper and lower rigid plates in this examples. extens_rigid.py and init_xyr.dat need to be in the same directory. The contents of extens_rigid.py are as follows: #2019-06-29 #建议使用notepad&amp;#43;&amp;#43;查看本文件 #LI ChangSheng</description>
+    </item>
+    
+    <item>
+      <title>palaeohigh</title>
+      <link>https://geovbox.com/en/example/ex6_palaeohigh/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex6_palaeohigh/</guid>
+      <description>download： detachment.py | init_xyr.dat
+ The linear velocity and angular velocity (x,y,spin=0) of palaeohigh is fixed.
+palaeohigh.py and init_xyr.dat need to be in the same directory.
+The contents of palaeohigh.py are as follows:
+###################################### # title: 古隆起设置方法 # date: 2020-08-11 添加INI，初始化古隆起颗粒速度为零 # date: 2019-06-29 # authors: 李长圣 # E-mail: sheng0619@163.com # more info, see www.geovbox.com ####################################### #程序初始化 LOAD init_xyr.dat #导入的颗粒命名为 ball_rand PROP GROUP ball_rand #关闭圆盘，颗粒设为球，计算颗粒体积用4/3*pi*r^3计算 SET disk off #设置研究范围 BOX left 0.</description>
+    </item>
+    
+  </channel>
+</rss>

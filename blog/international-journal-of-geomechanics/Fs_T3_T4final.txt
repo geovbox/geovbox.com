@@ -1,0 +1,73 @@
+;2015/09/21 lichangsheng@nju
+;E-mail : sheng0619@163.com
+;-----------------------------
+new
+call fishcall.FIS ; load in the FISHCALL macros
+
+set disk on
+def ini_set
+	;change den to the model in our manuscript, 
+	;so that we used the same mass in the simulation
+	;PFC2D     , mass=den*pi*rad^2
+	;ref.
+	;[1]Itasca (2004). "PFC2D Users�� Manual (version3.10)." Minnesota: Itasca Consulting Group Inc.
+	;our model , mass=den*2*sqrt(3)*rad^2    
+	;ref.
+	;[1]Place, D., Lombard, F., Mora, P., and Abe, S. (2002). "Simulation of the micro-physics of rocks using LSMearth." Earthquake Processes: Physical Modelling, Numerical Simulation and Data Analysis Part I, Springer, 1911-1932.
+	;[2]Liu, C., Pollard, D. D., and Shi, B. (2013). "Analytical solutions and ;numerical tests of elastic and failure behaviors of close-packed lattice for brittle rocks and crystals." Journal of Geophysical Research: Solid Earth, ;118(1), 71-82.
+	den=2500
+	realden=den*(2*sqrt(3))/pi
+	;viscosity=0e8 ; T3 0.0
+	viscosity=3e8 ; T4 3e8
+end
+ini_set
+
+def apply_vis
+	;
+	; ----- If initial ball (bp1) falls below the 5-m level, then
+	; split this ball into two balls, each of half the original radius.
+	;
+	bp = ball_head
+	loop while bp # null
+		bid = b_id(bp)
+		b_xfvis  = - viscosity * b_xvel(bp)
+		b_yfvis  = - viscosity * b_yvel(bp) 
+		command
+			prop xforce b_xfvis yforce b_yfvis range id bid
+		end_command
+		bp = b_next(bp)
+	end_loop
+	
+end
+def printdt
+	printdt = tdel
+end
+;----------------------------------------------------------------
+ball rad 50.0 id 4 x 50.0 y 0.0
+wall id 1 ks 11e9 kn 11e9 fric 0.1 nodes (0.220573 100.0) (0.220573 -100.0)
+
+set fishcall FC_CYC_MOT apply_vis ; call [apply_vis] just before motion calculation
+
+prop density realden kn 11e9 ks 11e9 fric 0.1 damping 0.0 ; contact stiffness = 11e9 * 11e9 / (11e9 + 11e9) = 5.5e9
+prop yv 1.0 range id 4
+set dt max 1e-3
+
+fix x spin 
+set grav 0.0 0.0
+
+hist id=1 nstep=1 ball ypos id=4
+hist id=2 nstep=1 printdt 
+
+set pinterval 100
+plot add axes black
+plot add ball yellow id=on angle on
+plot add con blue
+plot add hist 1
+plot add wall
+plot add cforce
+plot show
+
+cyc 400
+;print particle4's y-position
+hist write 1  file T4particle4_y_position.dat
+;hist write 2  file dt.dat

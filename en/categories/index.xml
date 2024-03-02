@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on VBOX</title>
+    <link>https://geovbox.com/en/categories/</link>
+    <description>Recent content in Categories on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AM</title>
+      <link>https://geovbox.com/en/categories/AM/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/AM/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://geovbox.com/en/categories/Data/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/Data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://geovbox.com/en/categories/Example/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/Example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://geovbox.com/en/categories/News/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/News/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://geovbox.com/en/categories/Paper/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/Paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>https://geovbox.com/en/categories/Script/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/Script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>examples</title>
+      <link>https://geovbox.com/en/categories/examples/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/categories/examples/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

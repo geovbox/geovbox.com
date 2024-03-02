@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>示例 on StructLab</title>
+    <link>https://geovbox.com/categories/%E7%A4%BA%E4%BE%8B/</link>
+    <description>Recent content in 示例 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>刚性基底 伸展构造</title>
+      <link>https://geovbox.com/example/ex7_extens_rigid/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex7_extens_rigid/</guid>
+      <description>数据下载： detachment.py | init_xyr.dat 这里是一个 刚性基底 伸展构造 设置的实例，使用上下两个刚性板完成。 extens_rigid.py 和 init_xyr.dat 需放在同一目录。 extens_rigid.py 中内容如下： #2019-06-29 #建议使用notepad</description>
+    </item>
+    
+    <item>
+      <title>古隆起</title>
+      <link>https://geovbox.com/example/ex6_palaeohigh/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex6_palaeohigh/</guid>
+      <description>数据下载： detachment.py | init_xyr.dat 这里是一个 古隆起 设置的实例，将古隆起的 x,y,spin（角速度）固定。 palaeohigh.py 和 init_xyr.dat 需放在同一目录。 palaeohigh.py 中内容如下： ###################################### # title: 古隆起设置方</description>
+    </item>
+    
+    <item>
+      <title>滑脱层</title>
+      <link>https://geovbox.com/example/ex5_detachment/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex5_detachment/</guid>
+      <description>数据下载： detachment.py | init_xyr.dat 这里是一个 滑脱层 设置的实例，一般地，将滑脱层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 detachment.py 和 init_xyr.dat 需放在同一目录</description>
+    </item>
+    
+    <item>
+      <title>断层</title>
+      <link>https://geovbox.com/example/ex4_pre_struct/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex4_pre_struct/</guid>
+      <description>数据下载：pre_struct.py 这里是一个 断层 设置的实例，一般地，将断层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 pre_struct.py 中</description>
+    </item>
+    
+    <item>
+      <title>沉积</title>
+      <link>https://geovbox.com/example/ex3_syn_sedimentaion/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex3_syn_sedimentaion/</guid>
+      <description>数据下载：syn_sedimentaion.py | 0000046000.sav 这里是一个 同构造沉积 计算实例。 syn_sedimentaion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 # E-mail: sheng0619@163.com # more info,</description>
+    </item>
+    
+    <item>
+      <title>剥蚀</title>
+      <link>https://geovbox.com/example/ex2_syn_erosion/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex2_syn_erosion/</guid>
+      <description>数据下载：syn_erosion.py 0000046000.sav syn_erosion.gif 这里是一个 同构造剥蚀 计算实例。 syn_erosion.py.py 中内容如下： ###################################### # title: 同构造沉积 # date: 2019-01-19 # authors: 李长圣 # E-mail: sheng0619@163.com # more info, see www.geovbox.com ####################################### #从</description>
+    </item>
+    
+    <item>
+      <title>一个示例学会构造数值模拟</title>
+      <link>https://geovbox.com/example/ex1_push/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex1_push/</guid>
+      <description>数据下载：push.py 演化过程图 init_xyr.dat 视频教程：6一个示例学会构造数值模拟 一个构造数值模拟试验的完整流程包括两个步骤： 生成初始模型。生成颗粒集</description>
+    </item>
+    
+    <item>
+      <title>自由落体</title>
+      <link>https://geovbox.com/example/ex0_fall/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex0_fall/</guid>
+      <description>数据下载：fall.py 视频教程：4自由落体和Paraview颜色配置 其中，fall.py 中内容如下： ###################################### # title: 自由落体 # date: 2017-04-28 # authors: 李长圣 # E-mail: sheng0619@163.com #</description>
+    </item>
+    
+  </channel>
+</rss>
