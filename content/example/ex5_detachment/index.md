@@ -27,6 +27,8 @@ commands:
 
 [detachment.py](detachment.py) 和 [init_xyr.dat](init_xyr.dat) 需放在同一目录。
 
+其中， `init_xyr.dat` 由 [一个示例学会构造数值模拟](/example/ex1_push/) 生成。
+
  [detachment.py](detachment.py) 中内容如下：
 
 {{< include-code "detachment.py" bash >}}

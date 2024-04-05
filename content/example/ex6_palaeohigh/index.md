@@ -17,7 +17,7 @@ commands:
 
 {{% notice info %}}
 数据下载：
-[detachment.py](palaeohigh.py) | 
+[palaeohigh.py](palaeohigh.py) | 
 [init_xyr.dat](init_xyr.dat)
 {{% /notice %}}
 
@@ -25,6 +25,8 @@ commands:
 这里是一个 `古隆起` 设置的实例，将古隆起的 x,y,spin（角速度）固定。
 
 [palaeohigh.py](palaeohigh.py) 和 [init_xyr.dat](init_xyr.dat) 需放在同一目录。
+
+其中， `init_xyr.dat` 由 [一个示例学会构造数值模拟](/example/ex1_push/) 生成。
 
  [palaeohigh.py](palaeohigh.py) 中内容如下：
 

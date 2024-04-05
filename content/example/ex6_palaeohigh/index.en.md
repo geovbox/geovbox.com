@@ -17,7 +17,7 @@ commands:
 
 {{% notice info %}}
 download：
-[detachment.py](palaeohigh.py) | 
+[palaeohigh.py](palaeohigh.py) | 
 [init_xyr.dat](init_xyr.dat)
 {{% /notice %}}
 

@@ -15,7 +15,7 @@ commands:
 
 {{% notice info %}}
 数据下载：
-[detachment.py](extens_rigid.py) | 
+[extens_rigid.py](extens_rigid.py) | 
 [init_xyr.dat](init_xyr.dat)
 {{% /notice %}}
 

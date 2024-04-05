@@ -30,7 +30,7 @@ title:
 |--------|----------|
 |配置|CPU：Intel Xeon Platinum 9242@2.3GHz <br>单节点物理核数: 96 <br> 节点数：200+ |
 |费用| 按CPU使用时间收费，详询管理员 |
-|用户|[李长圣](https://geovbox.com/about/lichangsheng/) [李世超](https://teachers.jlu.edu.cn/Li/zh_CN/index.htm) [赵斐宇](https://sgmt.ecut.edu.cn/6e/b1/c3800a93873/page.htm) [徐雯峤](https://geovbox.com/about/xuwenqiao/) 屈梦雪 [吴珍云](https://geovbox.com/about/wuzhenyun/) 等|
+|用户|[李长圣](https://geovbox.com/about/lichangsheng/) [李世超](https://teachers.jlu.edu.cn/Li/zh_CN/index.htm) [赵斐宇](https://sgmt.ecut.edu.cn/6e/b1/c3800a93873/page.htm) [徐雯峤](https://geovbox.com/about/xuwenqiao/) [吴珍云](https://geovbox.com/about/wuzhenyun/) 等|
 
 
 {{% /col %}}
