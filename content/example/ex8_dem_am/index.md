@@ -100,13 +100,13 @@ The discrete element method (DEM) is becoming widely accepted as an effective me
 
 >**Note:** The particle packing consists of four particle sizes, with diameters and quantity ratio of 0.2 mm, 0.4 mm, 0.5 mm, and 0.6 mm and 2:2:1:1, respectively. _d_, largest particle diameter. _ρ_, particle density. _g_, gravitational acceleration. _f_, safety factor of the time step. _k_, stiffness of the contact. _μ_, friction coefficient. _η_, dynamic viscosity. _υ_, velocity of the mobile wall.
 
-1. 沉积过程。[gen.py](gen.py) 中内容如下：
+1. 沉积过程。[ex8_dem_am_gen.py](ex8_dem_am_gen.py) 中内容如下：
 
-    {{< include-code "gen.py" bash >}}
+    {{< include-code "ex8_dem_am_gen.py" bash >}}
 
-2. 挤压过程。[push.py](push.py) 中内容如下：
+2. 挤压过程。[ex8_dem_am_push.py](ex8_dem_am_push.py) 中内容如下：
 
-    {{< include-code "push.py" bash >}}
+    {{< include-code "ex8_dem_am_push.py" bash >}}
 
 #### The quantitative method of the thrust wedge based on mesh (Data) 
 

@@ -65,7 +65,7 @@ IMPLE WALL ID 1 XMOVE 2000.0 SAVE 2000.0 PRINT 1000.0 PS 1000.0
 ################################# 沉积1 #########################################
 gen NUM 200000, rad discrete 60.0 80.0 , x( 10000.0, 42000.0)   y (10000.0, 14000.0 )  GROUP ballsed1
 PROP COLOR blue DEN 2.5e3 FRIC 0.3 SHEAR 2.9e9 POISS 0.2  DAMP 0.0  HERTZ RANGE GROUP ballsed1 
-#新沉积的颗粒粘结（胶结）在一起
+#新沉积的颗粒粘结（胶结）在一起，用户根据区域岩层力学属性设置
 #prop ebmod 2e8 gbmod 2e8 tstrength 2e7 sstrength 4e7 fric 0.3 range group ballsed1 
 INI  XV 0.0 RANGE GROUP bom_wall2
 WALL ID 1 XV 0.0

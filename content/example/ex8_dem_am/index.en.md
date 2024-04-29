@@ -29,13 +29,13 @@ Accepted on 05 May 2021
 
 ## ZDEM script: 
 
-1. Generate. [gen.py](gen.py) ：
+1. Generate. [ex8_dem_am_gen.py](ex8_dem_am_gen.py) ：
 
-    {{< include-code "gen.py" bash >}}
+    {{< include-code "ex8_dem_am_gen.py" bash >}}
 
-2. Push. [push.py](push.py) ：
+2. Push. [ex8_dem_am_push.py](ex8_dem_am_push.py) ：
 
-    {{< include-code "push.py" bash >}}
+    {{< include-code "ex8_dem_am_push.py" bash >}}
 
 ## The quantitative method of the thrust wedge based on mesh (Data) 
 
