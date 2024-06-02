@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件 on StructLab</title>
+    <link>https://geovbox.com/categories/%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 软件 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VBOX1.3教育版发布!</title>
+      <link>https://geovbox.com/blog/VBOX1.3%E6%95%99%E8%82%B2%E7%89%88%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/VBOX1.3%E6%95%99%E8%82%B2%E7%89%88%E5%8F%91%E5%B8%83/</guid>
+      <description>若要使用，请首先先联系软件开发者 李长圣。 软件托管在南京大学高性能计算中心，需要在南京大学高性能计算中心开户。 VBOX1.3教育版免费，计算产</description>
+    </item>
+    
+    <item>
+      <title>VBOX概览</title>
+      <link>https://geovbox.com/blog/VBOX-overview/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/VBOX-overview/</guid>
+      <description>下载：VBOX简介 VBOX全称virtual sandbox,即虚拟沙箱软件，是一个用于构造变形研究的二维离散元（DEM）软件。2014年开发</description>
+    </item>
+    
+  </channel>
+</rss>

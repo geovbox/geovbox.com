@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>侵蚀 on StructLab</title>
+    <link>https://geovbox.com/tags/%E4%BE%B5%E8%9A%80/</link>
+    <description>Recent content in 侵蚀 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/%E4%BE%B5%E8%9A%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识(Tectonics)</title>
+      <link>https://geovbox.com/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221110/</guid>
+      <description>本文VBOX(ZDEM)实验脚本下载： The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, https://osf.io/tz2qg; Model I-2, with surface processes, https://osf.io/pa9sy). 本文研究了位于青藏高原东缘的龙门山褶皱冲断带及其毗邻</description>
+    </item>
+    
+  </channel>
+</rss>

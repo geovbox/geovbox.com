@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>应力应变 on StructLab</title>
+    <link>https://geovbox.com/tags/%E5%BA%94%E5%8A%9B%E5%BA%94%E5%8F%98/</link>
+    <description>Recent content in 应力应变 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/%E5%BA%94%E5%8A%9B%E5%BA%94%E5%8F%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>基于离散元的挤压构造定量分析与模拟 (大地构造与成矿学)</title>
+      <link>https://geovbox.com/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220901/</guid>
+      <description>下载： 李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,46(04)</description>
+    </item>
+    
+  </channel>
+</rss>

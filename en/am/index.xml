@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AM on VBOX</title>
+    <link>https://geovbox.com/en/am/</link>
+    <description>Recent content in AM on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/am/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple analog experiment on the compressional tectonic</title>
+      <link>https://geovbox.com/en/am/ex001/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/am/ex001/</guid>
+      <description>材料参数 实验材料 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 颗粒直径 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; d (μm) 堆积密度 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ρ (kg∙m-3) 粘聚力 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Co(Pa) 内摩擦角 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; φ(°) 缩短速率 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>
