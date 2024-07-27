@@ -36,7 +36,7 @@ slug: 20240726
 Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus
 
 #### 作者
-Chao Zhou<sup>1,2</sup>, Jiankun He<sup>1,2</sup>,, Hao Su<sup>3</sup>,, Weimin Wang<sup>1</sup>,, Xinguo Wang<sup>1</sup>,, Youjia Zhao<sup>1,2</sup>,, Yong Jiang<sup>1,2</sup>,
+Chao Zhou<sup>1,2</sup>, Jiankun He<sup>1,2</sup>, Hao Su<sup>3</sup>, Weimin Wang<sup>1</sup>, Xinguo Wang<sup>1</sup>, Youjia Zhao<sup>1,2</sup>, Yong Jiang<sup>1,2</sup>
 
 1. State Key Laboratory of Tibetan Plateau Earth System, Environment and Resources (TPESER), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China
 2. University of Chinese Academy of Sciences, Beijing 100049, China
