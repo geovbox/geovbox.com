@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on VBOX</title>
+    <link>https://geovbox.com/en/categories/Paper/</link>
+    <description>Recent content in Paper on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/categories/Paper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin:insights from numerical modeling</title>
+      <link>https://geovbox.com/en/blog/20240214/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20240214/</guid>
+      <description>Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.
+Title Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: insights from numerical modeling
+Authors Wenqiao Xu1, Hongwei Yin1*,Shengxian Zhao2, Chenglin Zhang2, Bo Li2, Dong Jia1, Changsheng Li3 and Wei Wang1</description>
+    </item>
+    
+    <item>
+      <title>Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt:Insights From Discrete-Element Modeling(Tectonics)</title>
+      <link>https://geovbox.com/en/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20221110/</guid>
+      <description>本文VBOX(ZDEM)实验脚本下载： The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, https://osf.io/tz2qg; Model I-2, with surface processes, https://osf.io/pa9sy). Wang, M., Wang, M., Feng, W., Yan, B., &amp;amp; Jia, D. (2022). Influence of surface processes on strain localization and seismic activity in the Longmen Shan</description>
+    </item>
+    
+    <item>
+      <title>Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China(Tectonophysics)</title>
+      <link>https://geovbox.com/en/blog/20220406/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20220406/</guid>
+      <description>Chen, J., He, D., Tian, F., Huang, C., Ma, D., Zhang, W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. Tectonophysics 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 Title Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China Authors Jiajun Chen1, 2， Dengfa He1, 2, Fanglei Tian1, 2, Cheng</description>
+    </item>
+    
+    <item>
+      <title>Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression</title>
+      <link>https://geovbox.com/en/blog/20210824/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20210824/</guid>
+      <description>Download Li C, Yin H, Wu Z, Zhou P, Wang W, Ren R, Guan S, Li X, Luo H and Jia D (2021) Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models. Front. Earth Sci. 9:655173.
+Title Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models</description>
+    </item>
+    
+    <item>
+      <title>Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</title>
+      <link>https://geovbox.com/en/blog/20210716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20210716/</guid>
+      <description>Wu Z, Yin H, Li C, Yang X, Wang L, Wang F, Dong S and Jia D (2021) Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts: Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold- Thrust Belt. Front. Earth Sci. 9:659682. doi: 10.3389/feart.2021.659682
+Title Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts: Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold-Thrust Belt</description>
+    </item>
+    
+    <item>
+      <title>Calibration of the discrete element method and modelling of shortening experiments (Data)</title>
+      <link>https://geovbox.com/en/example/ex8_dem_am/li2021en/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex8_dem_am/li2021en/</guid>
+      <description>LI Changsheng, YIN Hongwei*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512
+Original Research: The discrete element method (DEM) is becoming widely accepted as an effective method of addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analogue model (AM). However, the previous experiments &amp;hellip;
+Accepted on 05 May 2021
+evolutionary process     Unit (cm)</description>
+    </item>
+    
+    <item>
+      <title>Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations</title>
+      <link>https://geovbox.com/en/blog/20210329/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/20210329/</guid>
+      <description>Xu, W., Yin, H., Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.
+Title Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations
+Authors Wenqiao Xu1, Hongwei Yin1*, Dong Jia1, Changsheng Li2, Wei Wang1, Gengxiong Yang1, Wanhui He1, Zhuxin Chen3 and Rong Ren3</description>
+    </item>
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/en/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/blog/international-journal-of-geomechanics/</guid>
+      <description>Download：MATLAB codes Solve_T1_T2_T3_T4.m Fs.m PFC codes Fn_T1_T2final.txt Fs_T3_T4final.txt
+ The stability of a single contact system in discrete element model was tested from the analytical solution, see Full Paper。</description>
+    </item>
+    
+  </channel>
+</rss>

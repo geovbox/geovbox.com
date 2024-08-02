@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图库 on StructLab</title>
+    <link>https://geovbox.com/gallery/</link>
+    <description>Recent content in 图库 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>投稿须知</title>
+      <link>https://geovbox.com/gallery/authors_notice/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/gallery/authors_notice/</guid>
+      <description>VBOX官网欢迎用户投稿，投稿者请将稿件发送至 geovbox@163.com 。 实例的要求 实例是讲授用 VBOX 做一个构造数值模拟的简短文章。 投稿的实例，应包含如下内容： VBOX</description>
+    </item>
+    
+  </channel>
+</rss>

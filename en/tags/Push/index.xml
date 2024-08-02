@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Push on VBOX</title>
+    <link>https://geovbox.com/en/tags/Push/</link>
+    <description>Recent content in Push on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/tags/Push/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple analog experiment on the compressional tectonic</title>
+      <link>https://geovbox.com/en/am/ex001/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/am/ex001/</guid>
+      <description>材料参数 实验材料 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 颗粒直径 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; d (μm) 堆积密度 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ρ (kg∙m-3) 粘聚力 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Co(Pa) 内摩擦角 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; φ(°) 缩短速率 &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>The first example to learn VBOX</title>
+      <link>https://geovbox.com/en/example/ex1_push/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex1_push/</guid>
+      <description>数据下载：push.py 演化过程图 init_xyr.dat 一个构造数值模拟试验的完整流程包括两个步骤： 生成初始模型。生成颗粒集合体，定义颗粒的材料参数，让其在重力</description>
+    </item>
+    
+  </channel>
+</rss>

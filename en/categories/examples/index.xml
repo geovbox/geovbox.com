@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>examples on VBOX</title>
+    <link>https://geovbox.com/en/categories/examples/</link>
+    <description>Recent content in examples on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/categories/examples/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ductile basement, Extensional tectonics</title>
+      <link>https://geovbox.com/en/example/ex9_extens_ductile_patent/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex9_extens_ductile_patent/</guid>
+      <description>download： extens_ductile_patent.py
+ #2024-04-04 #建议使用notepad&amp;#43;&amp;#43;查看本文件 #LI ChangSheng @ NanJing Uninversity #E-mail: sheng0619@163.com #more info, see www.geovbox.com ###################################### # title: 韧性基底伸展构造实例 #详细解释见发明专利：李长圣,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472B,2023-11-21. #本示例初始叠合率cratio=临时半径缩放系数rext=0.4，取值范围0.0-1.0 #括号内参数可根据模型大小及个人需要修改 #脚本命令不区分大小写 ####################################### START SET disk 0 BOX left 1.0e-3 right 40000.0 bottom 1.0e-3 height 12000.0 kn=4e10 ks=4e10 fric 0.30 ###################################################################################################### #初始叠合率 cratio=|AO|/(rA&amp;#43;rO),即圆心距离(|AO|)与平衡距离(rA&amp;#43;rO)的比值 GLINE p1 ( 10000.0 , 1000.0 ) p2 ( 25000.0 , 1000.0 ), rad 80.0 cratio 0.4 color=red GROUP wall_bom ###################################################################################################### GLINE p1 ( 10000.</description>
+    </item>
+    
+    <item>
+      <title>Rigid basement, Extensional tectonics</title>
+      <link>https://geovbox.com/en/example/ex7_extens_rigid/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex7_extens_rigid/</guid>
+      <description>download： extens_rigid.py | init_xyr.dat There are the upper and lower rigid plates in this examples. extens_rigid.py and init_xyr.dat need to be in the same directory. The contents of extens_rigid.py are as follows: #2019-06-29 #建议使用notepad&amp;#43;&amp;#43;查看本文件 #LI ChangSheng</description>
+    </item>
+    
+    <item>
+      <title>palaeohigh</title>
+      <link>https://geovbox.com/en/example/ex6_palaeohigh/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex6_palaeohigh/</guid>
+      <description>download： palaeohigh.py | init_xyr.dat
+ The linear velocity and angular velocity (x,y,spin=0) of palaeohigh is fixed.
+palaeohigh.py and init_xyr.dat need to be in the same directory.
+The contents of palaeohigh.py are as follows:
+###################################### # title: 古隆起设置方法 # date: 2020-08-11 添加INI，初始化古隆起颗粒速度为零 # date: 2019-06-29 # authors: 李长圣 # E-mail: sheng0619@163.com # more info, see www.geovbox.com ####################################### #程序初始化 LOAD init_xyr.dat #导入的颗粒命名为 ball_rand PROP GROUP ball_rand #关闭圆盘，颗粒设为球，计算颗粒体积用4/3*pi*r^3计算 SET disk off #设置研究范围 BOX left 0.</description>
+    </item>
+    
+  </channel>
+</rss>

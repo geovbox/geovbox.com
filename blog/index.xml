@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新闻与案例 on StructLab</title>
+    <link>https://geovbox.com/blog/</link>
+    <description>Recent content in 新闻与案例 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>褶皱-冲断楔内部远端变形传递的离散元模拟及其对青藏高原北部和伊朗高原北部早期变形的启示（Journal of Structural Geology）</title>
+      <link>https://geovbox.com/blog/20240726/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240726/</guid>
+      <description>经典的库仑临界楔理论（Coulomb critical wedge）是解释冲断楔体生长过程的基本理论（Chapple, 1978; Dahlen, 1990; Davis and Engelder, 1985; Davis et al., 1983）。该理论认</description>
+    </item>
+    
+    <item>
+      <title>库车坳陷西部阿瓦特—博孜地区构造变形差异及数值模拟分析（地质科学）</title>
+      <link>https://geovbox.com/blog/20240721/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240721/</guid>
+      <description>本文基于最新的三维地震资料和离散元数值模拟方法，对该区域进行了精细的地质建模，模拟了其形成演化过程，讨论了差异变形的控制因素(谢会文等,20</description>
+    </item>
+    
+    <item>
+      <title>边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</title>
+      <link>https://geovbox.com/blog/20240720/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240720/</guid>
+      <description>本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探讨断层几何发育特征的控制因素，为东海盆地构造演化机制及边缘海盆地的形成提供了思路</description>
+    </item>
+    
+    <item>
+      <title>基底滑脱层强度对川西南褶皱冲断带形成演化的影响:基于离散元模拟的认识</title>
+      <link>https://geovbox.com/blog/20240601/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240601/</guid>
+      <description>摘要：川西南褶皱冲断带（The southwestern Sichuan fold-thrust belt，简写SWSB）是一个具有两套滑脱层的双重滑脱体系，其滑脱层分别为深度约15-17 km的基底前寒</description>
+    </item>
+    
+    <item>
+      <title>塔里木盆地库车坳陷先存构造对盐构造变形的影响:来自地震资料和数值模拟的启示</title>
+      <link>https://geovbox.com/blog/20240228/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240228/</guid>
+      <description>库车坳陷为中国西部地区重要的含油气盆地，盐构造变形十分复杂，在不同的构造带和同一构造带的不同位置均有较大差异，其中基底先存构造在盐构造变形过</description>
+    </item>
+    
+    <item>
+      <title>挤压环境下盐刺穿构造的形成机制：以塔里木盆地库车坳陷为例</title>
+      <link>https://geovbox.com/blog/20240227/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240227/</guid>
+      <description>刺穿构造的形成机理比隐刺穿构造更为复杂，目前对该问题的研究较少。本文在野外地质露头调查和地震资料精细解释的基础上，结合构造-沉积环境演化和生</description>
+    </item>
+    
+    <item>
+      <title>多滑脱层对川东薄皮褶皱冲断带构造倾向的影响及其演化：来自数值模拟的启示</title>
+      <link>https://geovbox.com/blog/20240214/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240214/</guid>
+      <description>本文揭示了多滑脱层对川东薄皮褶皱冲断带构造倾向的影响及其演化。在川东薄皮褶皱构造中发育一系列后倾为主的滑脱褶皱，这在自然界中十分罕见，并且无</description>
+    </item>
+    
+    <item>
+      <title>CGU报告-离散元数值模拟在含油气盆地构造变形定量分析中的应用(2023-10-16)</title>
+      <link>https://geovbox.com/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20231015/</guid>
+      <description>2023年中国地球科学联合学术年会 97专题：含油气盆地构造理论、技术与实践新进展 时 间：10月16日 地 点：珠海 珠海国际会展中心 展览中心二层vi</description>
+    </item>
+    
+    <item>
+      <title>会议报告-离散元数值模拟在沉积盆地构造变形定量分析中的应用-研究现状、应用实例、优势挑战(2023-04-16)</title>
+      <link>https://geovbox.com/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20230413/</guid>
+      <description>第六届全国矿田构造与深部找矿预测学术研讨会 （一）矿田构造理论、实验与技术方法 时 间：4 月16 日 11:55-12:15 地 点：长沙 长沙华晨豪生大酒店 5 楼多功能厅5 题 目</description>
+    </item>
+    
+    <item>
+      <title>地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识(Tectonics)</title>
+      <link>https://geovbox.com/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221110/</guid>
+      <description>本文VBOX(ZDEM)实验脚本下载： The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, https://osf.io/tz2qg; Model I-2, with surface processes, https://osf.io/pa9sy). 本文研究了位于青藏高原东缘的龙门山褶皱冲断带及其毗邻</description>
+    </item>
+    
+    <item>
+      <title>第七次构造数值模拟实战课程在河海大学海洋学院成功举办</title>
+      <link>https://geovbox.com/blog/20220922/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220922/</guid>
+      <description>2022年09月22日第七次数值模拟实战课程在河海大学海洋学院成功举办，河海大学王毛毛老师、7位河海大学和3位南京大学的研究生参加了培训，感</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的挤压构造定量分析与模拟 (大地构造与成矿学)</title>
+      <link>https://geovbox.com/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220901/</guid>
+      <description>下载： 李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,46(04)</description>
+    </item>
+    
+    <item>
+      <title>双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟（地球科学）</title>
+      <link>https://geovbox.com/blog/20220805/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220805/</guid>
+      <description>本文主要研究先存构造和不同内聚力强度的双滑脱层组合对褶皱冲断带构造变形的影响，实验结果表明存在两套同等内聚力强度滑脱层的情况下，应力优先沿上</description>
+    </item>
+    
+    <item>
+      <title>力学分层对塔里木克拉通内走滑断裂分层样式的控制作用(Tectonophysics)</title>
+      <link>https://geovbox.com/blog/20220406/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220406/</guid>
+      <description>力学分层（Mechanical stratigraphy）是一种常见的地质现象，指岩层在垂向序列上表现出明显的力学性质差异(Willis, 1893 ;</description>
+    </item>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟</title>
+      <link>https://geovbox.com/blog/20230315/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20230315/</guid>
+      <description>论文下载： 辛文 (2021). 西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟. 硕士论文. 浙江大学. 题目：西南天山山前冲断带构造变形控制因素研</description>
+    </item>
+    
+    <item>
+      <title>离散元后处理技术及其在构造模拟中的应用（预告）</title>
+      <link>https://geovbox.com/blog/20221031/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221031/</guid>
+      <description>近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理方面的研究成果 DEMpost ，感兴趣的老师同学可以先下载魏华敬的硕士论文学习，报告时间另行通</description>
+    </item>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>原文见： https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA 2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在</description>
+    </item>
+    
+    <item>
+      <title>ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</title>
+      <link>https://geovbox.com/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211019/</guid>
+      <description>CCF HPC China 2021 第八届“国产应用软件”专题论坛 简介 工业软件是中国从制造大国向设计大国转变的核心关键技术，如何实现在研发、设计等高端领域的自主创新突破</description>
+    </item>
+    
+    <item>
+      <title>Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression</title>
+      <link>https://geovbox.com/blog/20210824/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210824/</guid>
+      <description>下载： Li C, Yin H, Wu Z, Zhou P, Wang W, Ren R, Guan S, Li X, Luo H and Jia D (2021) Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models. Front. Earth Sci. 9:655173. 题目 Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression,</description>
+    </item>
+    
+    <item>
+      <title>多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例</title>
+      <link>https://geovbox.com/blog/20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210724/</guid>
+      <description>论文下载： 冯彦杰 (2019). 多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例. 本科论文. 南京大学. 提取码 zdem 题目：多滑脱层褶皱冲断构造分析模拟-</description>
+    </item>
+    
+  </channel>
+</rss>
