@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fault on VBOX</title>
+    <link>https://geovbox.com/en/tags/Fault/</link>
+    <description>Recent content in Fault on VBOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/en/tags/Fault/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Set up Detachment</title>
+      <link>https://geovbox.com/en/example/ex5_detachment/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex5_detachment/</guid>
+      <description>数据下载： detachment.py pre_struct.gif 这里是一个 滑脱层 设置的实例，一般地，将滑脱层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 detachment.py 和 init_xyr.dat 需放在同一目录。</description>
+    </item>
+    
+    <item>
+      <title>Set up Fault</title>
+      <link>https://geovbox.com/en/example/ex4_pre_struct/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geovbox.com/en/example/ex4_pre_struct/</guid>
+      <description>数据下载：pre_struct.py 这里是一个 断层 设置的实例，一般地，将断层设置为没有粘结，类似松散石英砂，摩擦系数则可以设置为 0.0。 在终</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>吴珍云 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/about/wuzhenyun/" class="permalink">吴珍云</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E7%94%A8%E6%88%B7/">用户</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E5%90%B4%E7%8F%8D%E4%BA%91/">吴珍云</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2019-05-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019年05月22日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<div class="row author-list">
+    <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+          <img src="WuZhenYun.jpg" alt="吴珍云" class="img-circle">
+    </div>
+</div>
+
+<pre><code>东华理工大学 地球科学学院 硕士生导师
+</code></pre>
+
+<ul>
+<li>邮箱： <code>zyw5918@163.com</code> <code>zhenyun_wu@ecut.cn</code><br /></li>
+<li><a href="https://dkxy.ecut.edu.cn/0e/27/c259a69159/page.htm" target="_blank">东华理工大学官网个人主页</a></li>
+<li><a href="https://www.researchgate.net/profile/Wu_Zhenyun" target="_blank">吴珍云的ResearchGate</a></li>
+</ul>
+
+<p>吴珍云，男，1986年2月生，博士，硕导。2008年本科毕业于东华理工大学勘查技术与工程专业，2011年硕士毕业于南京大学地球探测与信息技术专业。2014年博士毕业于南京大学地球探测与信息技术专业。2013年10至2014年1月赴瑞典乌普萨拉大学（Uppsala University）地球科学系及HRTL实验室（Hemin Koyi教授团队）开展短期访学。2014年12月至2019年3月任职于江苏省地震局，从事地震地质、信息技术和地震应急等相关科研和管理工作。2019年3月调入东华理工大学地球科学学院开展教学科研工作。目前主要兼任江苏省地球物理学会理事、江苏省地震学会地震地质与地球物理专业委员会委员，地震应急专业委员会委员及青年科技工作委员会秘书委员。</p>
+
+<p>作为负责人或主要技术人员，承担或参加了国家自然科学基金项目、国家科技重大专项等多项项目，其中主持4项，参与8项。至今以第一作者、通讯作者和共同作者发表了SCI、EI和中文核心等期刊论文24篇、会议论文7篇，参与英文专著出版1本。获得软件著作权1项。</p>
+
+<p>主要研究兴趣和研究方向有：①盆地构造解析、建模及构造实验模拟；②活断层及新构造研究；③盐构造研究；④ GIS应用</p>
+
+<h2 id="工作经历">工作经历</h2>
+
+<ul>
+<li>东华理工大学 地球科学学院（2019.03~至今）</li>
+<li>江苏省地震局 应急救援中心（2014.12-2019.03）</li>
+</ul>
+
+<h2 id="学习经历">学习经历</h2>
+
+<ul>
+<li>南京大学 地球科学与工程学院 博士研究生（2011.09-2014.12）
+
+<ul>
+<li>乌普萨拉大学（Uppsala University） 地球科学系 博士短期访学（2013.10-2014.01）</li>
+</ul></li>
+<li>南京大学 地球科学与工程学院 硕士研究生（2008.09-2011.06）</li>
+<li>东华理工大学 核工程技术学院 本科 （2004.09-2008.06）</li>
+</ul>
+
+<h2 id="参与社会团体">参与社会团体</h2>
+
+<ul>
+<li>2017年6月被聘为江苏省地震学会第八届地震应急专业委员会委员</li>
+<li>2017年8月被聘为江苏省地震学会第八届地震地质与地球物理专业委员会委员</li>
+<li>2017年9月被聘为江苏省地球物理学会理事</li>
+<li>2017年12月被聘为江苏省地震学会第一届青年科技工作委员会秘书委员。</li>
+</ul>
+
+<h2 id="软件著作权">软件著作权</h2>
+
+<ul>
+<li>有感地震应急信息检索及数据管理软件 V1.0.江苏省地震局.<strong>2016</strong></li>
+</ul>
+
+<h2 id="期刊论文"><strong>期刊论文</strong></h2>
+
+<ul>
+<li><p><strong>2019</strong></p>
+
+<ul>
+<li><p><a href="http://t.cn/AisBmv8f" target="_blank"><strong>吴珍云</strong>,尹宏伟,李长圣,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].<strong>南京大学学报(自然科学)</strong>,2019,55(05):869-878.</a></p></li>
+
+<li><p><a href="6月待刊" target="_blank"><strong>吴珍云</strong>,尹宏伟,汪伟,等. 断层倾角和剥蚀对裂陷盆地中正反转构造演化影响的实验模拟——以中非Bongor盆地为例.<strong>石油物探</strong>，2019.</a></p></li>
+</ul></li>
+
+<li><p><strong>2018</strong></p>
+
+<ul>
+<li><a href="http://t.cn/E99oHO2" target="_blank"><strong>吴珍云</strong>,尹宏伟,汪伟,等. 乍得Bongor盆地反转构造特征及形成机制—来自地震剖面及沙箱模拟实验的证据.<strong>高校地质学报</strong> 2018,24(6):918-929.</a></li>
+<li><a href="http://t.cn/E99agWc" target="_blank"><strong>吴珍云</strong>,章熙海,李佳,等. 江苏农居建筑结构特征及抗震性能分析.<strong>防灾减灾工程学报</strong> 2018,38(4):753-762.</a></li>
+</ul></li>
+
+<li><p><strong>2017</strong></p>
+
+<ul>
+<li><a href="http://t.cn/E999UTw" target="_blank"><strong>吴珍云</strong>,尹宏伟,张涛,等.帕米尔突刺东缘冲断带构造形成机制:物理模拟及讨论.<strong>大地构造与成矿学</strong>,2017,41(04):663-677.</a></li>
+</ul></li>
+
+<li><p><strong>2015</strong></p>
+
+<ul>
+<li><a href="https://doi.org/10.1016/j.marpetgeo.2015.01.010" target="_blank"><strong>Zhenyun Wu</strong>,Hongwei Yin,Xin Wang,et al. The structural styles and formation mechanism of salt structures in the Southern Precaspian Basin: Insights from seismic data and analog modeling.<strong>Marine and Petroleum Geology</strong>,2015(62):58-76.</a></li>
+<li><a href="http://t.cn/E990zrA" target="_blank"><strong>吴珍云</strong>,尹宏伟,汪新,等.库车坳陷西段褶皱-冲断带前缘盐底辟构造特征及形成机制.<strong>南京大学学报(自然科学)</strong>,2015,51(03):612-625.</a></li>
+<li><a href="http://t.cn/E99Wmz9" target="_blank"><strong>吴珍云</strong>,尹宏伟,Hemin A.Koyi.剥蚀及同构造沉积作用对断层活动性影响的实验模拟研究.<strong>国际地震动态</strong>,2015(09):75.</a></li>
+</ul></li>
+
+<li><p><strong>2014</strong></p>
+
+<ul>
+<li><a href="https://doi.org/10.1016/j.tecto.2013.11.040" target="_blank"><strong>Zhenyun Wu</strong>, Hongwei Yin, Xin Wang. Characteristics and deformation mechanism of salt-related structures in the western Kuqa depression, Tarim basin: Insights from scaled sandbox modeling.<strong>Tectonophysics</strong>,2014(612-613),81-96.</a></li>
+<li><a href="http://www.syxb-cps.com.cn/CN/Y2014/V35/I5/879" target="_blank"><strong>吴珍云</strong>,尹宏伟，汪新,等.裂谷盆地盐构造形成演化及油气成藏地质意义—以苏丹红海盆地为例.<strong>石油学报</strong>,2014，35(5): 879-889.</a></li>
+<li><a href="http://t.cn/E99smeK" target="_blank">谢会文,<strong>吴珍云</strong>,能源,等.同构造沉积速率对含盐褶皱冲断带构造演化的影响：物理模拟和讨论—以库车坳陷西秋里塔格构造带为例.<strong>高校地质学报</strong>,2014, 20(4): 611-622. <strong>通讯作者</strong></a></li>
+</ul></li>
+</ul>
+
+<h2 id="会议论文"><strong>会议论文</strong></h2>
+
+<ol>
+<li><strong>吴珍云，李长圣，尹宏伟，等</strong>.剥蚀及区域沉积负载对盆山耦合带断裂活动性影响的实验模拟研究&ndash;以龙门山褶皱冲断带为例.第二届构造地质与地球动力学青年学术论坛，<strong>口头报告</strong>.</li>
+<li><strong>Zhenyun Wu</strong>, Chang-Sheng LI, Hongwei Yin, Wang Wei, Yicheng He,Hang Du,2017. The influence of Erosion and Sedimentary loading on the activity of the faults in the fold and thrust belt: insight from the analog and numerical modeling. AGU Falling meeting Abstract in session interactions between Active Tectonics and Surface Processes in South and East Asia and Implications for Future Geological Hazards.</li>
+<li><strong>吴珍云</strong>，尹宏伟，张涛，吴闯，范小平. 帕米尔东缘盆山耦合带构造变形特征与变形机制：来自物理模拟和数值模拟的启示. 中国地球科学联合学术年会（CGU）, 2016 , 中国，北京，2016年10月15日-18日. <strong>口头报告</strong></li>
+<li><strong>吴珍云</strong>, 尹宏伟, Hemin A.Koyi. 剥蚀及同构造沉积作用对断层活动性影响的实验模拟研究. 中国地震学会第15次学术大会, 2015，中国，兰州，2015年9月20日-24日.<strong>口头报告</strong></li>
+<li><strong>吴珍云</strong>，尹宏伟，H. Koyi，汪新，N. Faramarz. 库车坳陷西秋构造带米斯坎塔克盐背斜构造演化机制探讨：来自物理模拟和数值模拟实验的启示. 第七届构造地质与地球动力学学术研讨会，2014，中国海洋大学，中国，青岛,2014年4月17日-20日.</li>
+<li><strong>吴珍云</strong>，尹宏伟，赵博，汪新. 滨里海盆地南部区块盐构造特征及其实验模拟初探. 第六届构造地质与地球动力学学术研讨会,2013，吉林大学，中国，长春, 2013年4月12日-14日.<strong>研究生优秀口头报告</strong></li>
+<li><strong>吴珍云</strong>，尹宏伟，赵博，汪新，龚艳萍. 库车坳陷西段拜城-吐孜阿瓦特凹陷盐构造物理模拟. 第五届全国构造地质与地球动力学学术研讨会，2012，中国地质大学，中国，武汉，2012年3月29日-4月1日.<strong>口头报告</strong></li>
+</ol>
+
+<h2 id="其他论文"><strong>其他论文</strong></h2>
+
+<ol>
+<li>Wang Wei, Yin Hongwei, Jia Dong, <strong>Wu Zhenyun</strong>, Wu Chuang, Zhou Peng, 2018. Calculating detachment depth and dip angle in sedimentary wedges using the area–depth graph. Journal of Structural Geology, 107:1-11.</li>
+<li>吴闯, 尹宏伟, 于常青, 皮金云, <strong>吴珍云</strong>, 汪伟, 张佳星, 2017. 青海省木里地区天然气水合物构造成藏机制——来自物理模拟实验的启示. 天然气地球科学, 28(5):771-784.</li>
+<li>谢会文, 尹宏伟, 唐雁刚, 汪伟, 魏红兴, <strong>吴珍云</strong>，李伟. 基于面积深度法对克拉苏构造带中部盐下构造的研究. 大地构造与成矿学, 2015, 39(6), 1033-1040.</li>
+<li>Yin Hongwei, Zheng Mianping，Zhang Zhen, <strong>Wu Zhenyun</strong>, Wang Xingyuan, 2014. Mechanism of Salt Migration Driven by Tectonic Processes: Insights from Physical and Numerical Modeling. Acta Geologica Sinica (English Edition), 88(supp. 1): 273–274.</li>
+<li>欧阳海军，廖绍平，<strong>吴珍云</strong>，董少春，尹宏伟，2014. 龙南县地质灾害发育特征及形成机制分析. 资源环境与工程, 28(1): 45-48.</li>
+<li>尹宏伟, 王哲, 汪新，<strong>吴珍云</strong>, 2011. 库车前陆盆地新生代盐构造特征及形成机制:物理模拟和讨论. 高校地质学报, 17(2):308-317.</li>
+</ol>
+
+<h2 id="专著收录"><strong>专著收录</strong></h2>
+
+<ul>
+<li><strong>Wu zhenyun</strong>, Yin Hongwei, Hemin Koyi. Compressional salt-related structures in western Quele area, Kuqa depression, Tarim basin, China. In Atlas of Structural Geological Interpretation on Seismic Images, Chapter31. Wiley Blackwell Press，2018.（专著独立章节，2018年2月在线，4月出版）</li>
+<li><strong>Wu zhenyun</strong>, Yin Hongwei, Zheng Junzhang. Reactive salt diapir, Southern PreCaspian basin, Middle Asia. In Atlas of Structural Geological Interpretation on Seismic Images, Chapter32. Wiley Blackwell Press,2018. （专著独立章节，2018年2月在线，4月出版）</li>
+</ul>
+
+<h2 id="科研项目">科研项目</h2>
+
+<ul>
+<li><p><strong>主持</strong></p>
+
+<ul>
+<li>塔里木盆地库车坳陷秋里塔格构造带盐构造变形特征与变形机制，2017.01~2019.12，<strong>国家自然科学基金青年基金(41602208)</strong></li>
+<li>剥蚀及同构造沉积作用对断层活动性影响的实验模拟研究，2016.01~2017.12，<strong>江苏省地震局青年基金重点项目(201602)</strong></li>
+</ul></li>
+
+<li><p><strong>参与</strong></p>
+
+<ul>
+<li>西昆仑山北麓新生代前陆褶皱冲断带构造特征与变形机制定量研究,2013.01~2016.12，<strong>国家自然科学基金面上项目(41272227)</strong></li>
+<li>海相沉积盆地膏岩层热效应的定量研究-以塔里木盆地为例,2013.01~2016.12，<strong>国家自然科学基金面上项目(41272143)</strong></li>
+<li>海外重点含盐盆地油气成藏规律及目标优选,2009.08~2015.08，<strong>国家科技重大专项(2011ZX05029-002)</strong></li>
+<li>基于构造模拟实验的大北-克深三维区构造应力场及应变研究,2013.08~2014.08，<strong>国家科技重大专项(2011ZX05003-004)</strong></li>
+</ul></li>
+</ul>
+
+<h2 id="获得学术奖励">获得学术奖励</h2>
+
+<ul>
+<li><strong>吴珍云,尹宏伟，杜业波，汪伟</strong>,乍得Bongor盆地反转构造特征及形成机制&ndash;来自地震剖面及沙箱模拟实验的证据.江苏省地球物理学会优秀论文奖，2018.（厅局级）</li>
+<li><strong>吴珍云</strong>, The structural styles and formation mechanism of salt structures in the Southern Precaspian Basin: insights from 3D seismic data and analogue modeling. 江苏省地震学会青年优秀地震科技论文奖，一等奖，2017.（厅局级）</li>
+<li><strong>吴珍云</strong>，帕米尔突刺东缘冲断带构造形成机制: 物理模拟及讨论. 江苏省地震学会青年优秀地震科技论文奖，二等奖，2017.（厅局级）</li>
+</ul>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/about/lichangsheng/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">李长圣</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2024</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>库车坳陷西部阿瓦特—博孜地区构造变形差异及数值模拟分析（地质科学） | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240721/" class="permalink">库车坳陷西部阿瓦特—博孜地区构造变形差异及数值模拟分析（地质科学）</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%BA%93%E8%BD%A6%E5%9D%B3%E9%99%B7%E8%A5%BF%E9%83%A8/">库车坳陷西部</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%8F%A4%E9%9A%86%E8%B5%B7/">古隆起</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E7%9B%90%E5%BA%95%E8%BE%9F/">盐底辟</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E8%B0%A2%E4%BC%9A%E6%96%87/">谢会文</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-07-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年07月21日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<p>本文基于最新的三维地震资料和离散元数值模拟方法，对该区域进行了精细的地质建模，模拟了其形成演化过程，讨论了差异变形的控制因素<a href="#refer-xie2024">(谢会文等,2024)</a>。</p>
+
+<div id="refer-xie2024"></div>
+
+<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRRi7fujE_AssCVWBhqBabl2gCjhDlt1XjI-6be3UEAzT2tcDeae4pkOKJikbgxn9E-qfBj5-qjXNH1Hil3nmR9P6ksIWGhiutp9glhU8uTMTTSqt4EbtJV1nF-6VbTOwRqBZvsXVKxEGvnQW-Ol-Ouw&amp;uniplatform=NZKPT" target="_blank">谢会文,陈龙,吴超,等.库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析[J].地质科学,<strong>2024</strong>,59(04):1082-1097.</a></p>
+
+<h4 id="题目">题目</h4>
+
+<p>库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析</p>
+
+<h4 id="作者">作者</h4>
+
+<p>谢会文<sup>1</sup>，陈龙<sup>2,3</sup>，吴超<sup>1</sup>，陈汉林<sup>2,3</sup>，顾成龙<sup>1</sup>，程晓敢<sup>2,3</sup></p>
+
+<ol>
+<li>中国石油塔里木油田公司</li>
+<li>浙江大学地球科学学院</li>
+<li>教育部含油气盆地构造研究中心</li>
+</ol>
+
+<h4 id="摘要">摘要</h4>
+
+<p>库车坳陷西部的阿瓦特—博孜地区位于构造挤压转换区，沿走向构造变形差异显著。本文基于最新的三维地震资料和离散元数值模拟方法，对该区域进行了精细的地质建模，模拟了其形成演化过程，讨论了差异变形的控制因素。阿瓦特地区盐下沿克深断裂远距离逆冲推覆，形成上下叠置的两套沿侏罗系煤层滑脱的逆冲体系；盐上发育厚度较小的阿瓦特凹陷；盐构造以不整合型为主。博孜地区盐下在克深断裂以北为高角度基底卷入变形，以南为沿煤层的滑脱，整体为楔形叠瓦冲断构造；盐上发育厚度巨大的拜城凹陷；盐构造以整合型为主。模拟结果表明，温宿古隆起限制了中生界至古近系的沉积范围，阻碍了变形的向前传递，是造成阿瓦特—博孜地区变形差异性的最主要原因。先存盐底辟构造和南天山的差异挤压作用对该区域的差异变形也具有一定的控制作用。综合地震剖面解释和数值模拟结果的演化过程表明，该区域构造活动具有由弱到强的变化趋势，构造变形开始于早中新世吉迪克组沉积时期，在上新世早期康村组沉积之后发生显著的构造加速事件。</p>
+
+<p><h5> </h5>
+<figure>
+    <img src="%e5%9b%be4.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图4 实验一（a）及实验二（b）初始模型设计</h5></center></p>
+
+<p><figure>
+    <img src="%e5%9b%be5.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图5 剖面AA&rsquo;解释方案</h5></center></p>
+
+<p><figure>
+    <img src="%e5%9b%be6.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图6 剖面BB&rsquo;解释方案</h5></center></p>
+
+<p><figure>
+    <img src="%e5%9b%be7.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图7 剖面CC&rsquo;解释方案</h5></center></p>
+
+<p><figure>
+    <img src="%e5%9b%be8.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图8 实验一模拟结果与构造解释</h5></center></p>
+
+<p><figure>
+    <img src="%e5%9b%be9.jpg" width="600px"/> 
+</figure>
+
+<center><h5>图9 实验二模拟结果与构造解释</h5></center></p>
+
+<h3 id="结论">结论</h3>
+
+<p>通过精细化的三维地震解释，明确了库车坳陷西部阿瓦特地区和博孜地区的构造变形样式，对比了两者之间的相似性和差异性。通过离散元数值模拟方法，模拟了两者的构造演化过程，并讨论了导致其构造变形差异的控制因素。主要结论如下：
+1. 阿瓦特地区盐下变形表现为沿克深断裂的远距离逆冲推覆，形成上下叠置的两套滑脱逆冲体系；盐构造以不整合型的盐丘、盐舌和盐推覆为主；盐上发育厚度较小的阿瓦特凹陷。
+2. 博孜地区盐下变形表现为克深断裂以北的高角度基底卷入和以南的沿煤层滑脱，整体为楔形叠瓦冲断构造；盐构造以整合型的盐背斜、盐枕和盐焊接为主；盐上发育巨厚的拜城凹陷。
+3. 温宿古隆起限制了中生界至古近系的沉积范围，阻碍了变形的向前传递，是造成阿瓦特和博孜地区变形差异的最主要因素。先存盐底辟构造、南天山的差异挤压作用对差异变形也起到一定的控制作用。
+4. 提出了阿瓦特和博孜地区的构造演化过程：构造活动从早中新世吉迪克组沉积时期开始，整体由造山带向盆地内前展式扩展，至上新世早期康村组沉积之后发生构造加速事件，形成区域性的角度不整合。</p>
+
+<h4 id="致谢">致谢</h4>
+
+<p>本文模拟实验使用的软件为李长圣博士研发的离散元数值模拟软件VBOX（www.geovbox.com），在此表示感谢。</p>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/blog/20240720/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/blog/20240726/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">褶皱-冲断楔内部远端变形传递的离散元模拟及其对青藏高原北部和伊朗高原北部早期变形的启示（Journal of Structural Geology）</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2024</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

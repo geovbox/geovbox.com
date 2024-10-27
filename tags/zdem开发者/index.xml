@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zdem开发者 on StructLab</title>
+    <link>https://geovbox.com/tags/zdem%E5%BC%80%E5%8F%91%E8%80%85/</link>
+    <description>Recent content in zdem开发者 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/tags/zdem%E5%BC%80%E5%8F%91%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/about/lichangsheng/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/lichangsheng/</guid>
+      <description>东华理工大学 地球科学学院 讲师 硕士生导师 2019年博士毕业于南京大学地球科学与工程学院 2014~现在，主要做离散元并行计算（CPU/GPU）、</description>
+    </item>
+    
+  </channel>
+</rss>

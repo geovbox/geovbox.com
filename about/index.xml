@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于 on StructLab</title>
+    <link>https://geovbox.com/about/</link>
+    <description>Recent content in 关于 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>徐雯峤</title>
+      <link>https://geovbox.com/about/xuwenqiao/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/xuwenqiao/</guid>
+      <description>南京大学 博士研究生 2019~现在，主要做构造演化及活动构造相关的离散元数值模拟。 QQ：326306955 (Ivy) 邮箱： Ivyxwq@smail.nju.edu.cn 南京大学 构造数值模拟集群管</description>
+    </item>
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/about/lichangsheng/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/lichangsheng/</guid>
+      <description>东华理工大学 地球科学学院 讲师 硕士生导师 2019年博士毕业于南京大学地球科学与工程学院 2014~现在，主要做离散元并行计算（CPU/GPU）、</description>
+    </item>
+    
+    <item>
+      <title>吴珍云</title>
+      <link>https://geovbox.com/about/wuzhenyun/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/wuzhenyun/</guid>
+      <description>东华理工大学 地球科学学院 硕士生导师 邮箱： zyw5918@163.com zhenyun_wu@ecut.cn 东华理工大学官网个人主页 吴珍云的ResearchGate 吴珍云，男，1986年2月生，博士，硕导</description>
+    </item>
+    
+  </channel>
+</rss>
