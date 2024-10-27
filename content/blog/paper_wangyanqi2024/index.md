@@ -27,7 +27,7 @@ slug: 20240601
 <div id="refer-wang2024"></div>[Wang Y, Wang L, Ren R, Wei G, Chen Z,Su N and Zhang Y (2023), The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations. Front. Earth Sci. 11:1251417.](https://doi.org/10.3389/feart.2023.1251417)
 #### 题目
 
-Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China
+The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations
 
 Yanqi Wang, Lining Wang*, Rong Ren, Guoqi Wei, Zhuxin Chen, Nan Su and Yuqing Zhang
 

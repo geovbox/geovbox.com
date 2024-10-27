@@ -25,12 +25,12 @@ images:
 
 **东华理工大学地球科学学学院官网李长圣简历：**  https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm
 
-**2024年硕士研究生招生，优先考虑对 ```构造地质学``` 感兴趣的学生，其次考虑对 ```应用软件开发``` 感兴趣的学生，2024年9月入学后科研项目为：**
+**2025年硕士研究生招生，优先考虑对 ```构造地质``` 感兴趣的学生，其次考虑对 ```软件开发``` 感兴趣的学生，2025年9月入学后科研项目为：**
 
 - 构造变形数值模拟
-- 离散元数值模拟软件开发
+- 数值模拟软件开发
 
-**每年拟招硕士研究生一名，欢迎地质、计算机、岩土、力学、数学等相关专业学生报考，可选研究方向如下：**  
+**每年拟招硕士研究生一名，欢迎地质、计算机、岩土等相关专业学生报考，可选研究方向如下：**  
 
 - 数值模拟软件研发：``GPU`` | ``MPI`` | ``OpenMP`` 并行、云端CAE、离散元 | 有限元 | 物质点法软件开发
 - **构造变形**数值模拟：褶皱冲断带、多层滑脱、诱发地震等（应用研究）
@@ -76,9 +76,12 @@ QQ：``836745132`` (Neo)
 ## 专利和软件著作权
 
 - 发明专利
-	1. [**李长圣**,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&uniplatform=NZKPT&src=copy) (授权)
-	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置[P]. 北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)
-	- [**李长圣**,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472B,2023-11-21.](https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&uniplatform=NZKPT&flag=copy)  (授权)
+	1. [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.] (https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
+	- [马德波,**李长圣**,赵喆,等.基于三维离散元的走滑断裂模拟方法、装置、设备和介质.北京市:CN202310147610.3,2024-08-20.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4Srm8Qb3L4ZObGgVTRiMZmbooOk0N5__QhtWP3tfmAaG4aWt6G-vPnCayEBzhJczi-wmquaIpqwTjqIIAr0r30U-TAVb_k-qiwIZZRRFgPq77Arhkbx0eUeIKE93YG8N4VmTIzMXilloobUjaFcSKfDk4td80-y1JS-L1FEx5eoB7iX5tgI_OYL&uniplatform=NZKPT&language=CHS)(公开)
+	- [**李长圣**,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&uniplatform=NZKPT&src=copy) (授权)
+	- [**李长圣**,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法.江西省：CN111008472B,2023-11-21.](https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&uniplatform=NZKPT&flag=copy)  (授权)
+	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置.北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)(公开)
+	
 - 软件著作权：
 	1. **地质三维可视化软件** V1.0. 东华理工大学;邹宗良;**李长圣**;吴珍云;梅强. **2024**.  
 	- **基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统** V1.0. 东华理工大学, 钟军, **李长圣**, 张召，邹宗良. **2023**.  
@@ -135,7 +138,12 @@ QQ：``836745132`` (Neo)
 
 ## 会议
 
-1. [**李长圣**,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.**2019中国地球科学联合学术年会论文集**, 北京, 2019:60-61.（报告+论文）](http://t.cn/A6yeiXQz)
+1. 第七届全国颗粒材料计算力学会议暨第四届计算颗粒技术国际研讨会. 基于深度学习的颗粒材料应力应变曲线预测. 南京.2024-05
+- 2023年中国地球科学联合学术年会.离散元数值模拟在含油气盆地构造变形定量分析中的应用.珠海.2023-10.特邀报告
+- 第六届全国矿田构造与深部找矿预测学术研讨会.离散元数值模拟在沉积盆地构造变形定量分析中的应用.长沙.2023-04.报告
+- 第五届全国颗粒材料计算力学会议 （CMGM 2021）.用于构造变形研究的离散元软件开发与试验验证.武汉.2021-03.摘要
+- 2021年全国高性能计算学术年会，HPCChina2021主题论坛 第八届“国产应用软件”专题论坛，用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用. 珠海. 2021-10. 特邀报告，
+- [**李长圣**,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.**2019中国地球科学联合学术年会论文集**, 北京, 2019:60-61.（报告+论文）](http://t.cn/A6yeiXQz)
 - [**李长圣**. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. **第二届构造地质学与地球动力学青年术论坛**.南京,2019.03.(报告+摘要)](/blog/201903/)  
 - [**李长圣**，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. **2018中国地球科学联合学术年会论文集**, 北京, 2018.（报告+论文）](http://t.cn/AiY2NMGq)  
 - [**Chang-Sheng LI**, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. **2017 American Geophysical Union Fall Meeting**. (Poster+ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
@@ -145,13 +153,14 @@ QQ：``836745132`` (Neo)
 ## 科研项目
 
 - **2019-至今**
-	1. **江西省自然科学基金青年基金**: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, **主持**
+	1. **国家自然科学基金地区基金**：克拉通盆地内小位移走滑断裂分层变形的三维离散元定量模拟研究——以塔里木盆地顺北5号断裂为例, 2025.01.01-2028.12.31, **主持**
+	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**
+	- **江西省自然科学基金青年基金**: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, **主持**
 	- 中石化开放基金： 走滑模拟，2022-2024， **主持**
 	- 横向课题： 库车构造模拟, 中国科学院地质与地球物理研究所,  2022-2022, **主持**, 结题
 	- 横向课题： 川南页岩层系变形模拟，2022-2022， **主持**,结题
 	- 横向课题： 走滑断裂数值模拟，中国石油勘探开发研究院，2021-2022， **主持**，结题
 	- **国家自然科学基金面上项目**：四川盆地南部高应变构造变形与诱发地震的相关性研究, 2022.01.01-2025.12.31, 参与
-	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**
 	- 横向课题：塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, 中国科学院地质与地球物理研究所, 2021.06-2021.09, **主持**, 结题
 	- **国家自然科学基金面上项目**：城市地面塌陷发育过程的分布式声学感知与表征, 2021.01.01-2024.12.31, 参与
 	- **江西省教育厅科学技术研究项目**：东海陆架盆地构造特征定量分析与模拟, 2021.01-2023.12, **主持**, 结题
