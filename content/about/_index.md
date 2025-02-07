@@ -131,6 +131,42 @@ title: 关于
 <!-- new col-->
 {{< row >}}
 {{% col 6 %}}
+
+
+
+
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+
+
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/baoxianjun/baoxianjun.jpg" alt="包羡均" class="img-circle" >
+		<div class="author-name"> 包羡均</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/ouyanliujuan/ouyanliujuan.jpg" alt="欧阳柳娟" class="img-circle" >
+		<div class="author-name"> 欧阳柳娟</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{< /row >}}
+
+<!-- new col-->
+{{< row >}}
+{{% col 6 %}}
+
 ##### 本科生
 {{% /col %}}
 {{< /row >}}
@@ -190,6 +226,60 @@ title: 关于
 <!-- new col-->
 {{< row >}}
 {{% col 6 %}}
+
+
+
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row >}}
+
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/dengyue/dengyue.jpg" alt="邓玥" class="img-circle" >
+			<div class="author-name"> 邓玥</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/raojingzhi/raojingzhi.jpg" alt="饶景芷" class="img-circle" >
+		<div class="author-name"> 饶景芷</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/wangtingrui/wangtingrui.jpg" alt="王庭睿" class="img-circle" >
+		<div class="author-name"> 王庭睿</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/liugaofeng/liugaofeng.jpg" alt="刘高峰" class="img-circle" >
+			<div class="author-name"> 刘高峰</div>
+	</div> 
+</div>
+{{% /col %}}
+
+
+{{< /row >}}
+
+<!-- new col-->
+{{< row >}}
+{{% col 6 %}}
+
+
 ##### 毕业生
 {{% /col %}}
 {{< /row >}}

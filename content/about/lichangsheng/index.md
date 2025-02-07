@@ -1,6 +1,6 @@
 ---
 title: 李长圣
-date: 2023-12-31
+date: 2024-12-31
 tags:
     - 网站维护者
     - zdem开发者
@@ -61,7 +61,7 @@ QQ：``836745132`` (Neo)
 
 ## 研究生课程
 
-- 地质工程研究进展（2020、2022年，2023年参与教学）
+- 地质工程研究进展（2020年、2022年、2023年、2024年参与教学）
 
 ## 工作和教育经历
 
@@ -92,6 +92,9 @@ QQ：``836745132`` (Neo)
 
 ## 论文发表
 
+- **2024**
+	- [张新松,**李长圣***,钟军,等.基于神经网络的土石混合体CT图像分割及三维重建[J/OL].工程地质学报,1-13[2025-02-07].https://doi.org/10.13544/j.cnki.jeg.2024-0253.](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273eZxsjEtS6ty10QspQe0P4K0gs74sJPo90jZ6K_9O6Wmc3-POykWJOzjKmoOZYZBPAgm2Y-FY_o8NTM-HRIVlha9f03oAaED8uEgovMdK_Y6RiRnXEHoFeqz66qc6-9Kt68cmdtXn-uo7nl0SXLp7TIOhmHzX3kvqVu4_im6eNZvCOBy8QNd55&uniplatform=NZKPT&language=CHS)
+	- [Xu, W., Yin, H., Zhao, S.,Zhang, **C., Li**, B., Jia, D., Li, C., Wang, W., **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
 - **2023**
 	- [尹宏伟,贾东,汪伟,**李长圣**,徐雯峤,杨庚兄 & 贺婉慧.**2023**.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报(09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.)
 	- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,**李长圣**.川东南泸州地区多滑脱层构造特征及变形机制[J/OL].高校地质学报:1-11[2023-02-25].DOI:10.16108/j.issn1006-7493.2022029.](https://doi.org/10.16108/j.issn1006-7493.2022029)
