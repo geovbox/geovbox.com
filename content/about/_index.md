@@ -146,8 +146,8 @@ title: 关于
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/baoxianjun/baoxianjun.jpg" alt="包羡均" class="img-circle" >
-		<div class="author-name"> 包羡均</div>
+		<img src="/about/baoxianjun/baoxianjun.jpg" alt="包羡钧" class="img-circle" >
+		<div class="author-name"> 包羡钧</div>
 	</div> 
 </div>
 {{% /col %}}
