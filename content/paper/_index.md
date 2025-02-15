@@ -10,7 +10,8 @@ title:
 
 ### 期刊论文
 
-1. [Zhou C, He J, Su H, et al. Discrete element modeling of distal deformation propagation in thrust wedge and implications for early deformation on northern Tibetan and Iranian Plateaus[J]. Journal of Structural Geology, **2024**, 184: 105150.](https://doi.org/10.1016/j.jsg.2024.105150)
+1. - [屈会志,尹宏伟*,李晨,汪伟.盐构造变形特征与变形机制:基于地震解析与构造模拟的研究探讨及对复杂构造区岩盐迁移与成矿的启示[J].地质学报,**2024**,98(10):2916-2930.](https://doi.org/10.19762/j.cnki.dizhixuebao.2024300)
+- [Zhou C, He J, Su H, et al. Discrete element modeling of distal deformation propagation in thrust wedge and implications for early deformation on northern Tibetan and Iranian Plateaus[J]. Journal of Structural Geology, **2024**, 184: 105150.](https://doi.org/10.1016/j.jsg.2024.105150)
 - [谢会文,陈龙,吴超,等.库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析[J].地质科学,**2024**,59(04):1082-1097.](https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRRi7fujE_AssCVWBhqBabl2gCjhDlt1XjI-6be3UEAzT2tcDeae4pkOKJikbgxn9E-qfBj5-qjXNH1Hil3nmR9P6ksIWGhiutp9glhU8uTMTTSqt4EbtJV1nF-6VbTOwRqBZvsXVKxEGvnQW-Ol-Ouw&uniplatform=NZKPT)
 - [马皓然,苏金宝,王毛毛,等.边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例[J].海洋地质与第四纪地质,**2024**,44(01):81-95.](https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRQbYEmrDX8Mje95BMn_IPljoXMr0YcRIfyJ1IlbvIoNObYw-CP0JywPXVbQn7kkFLk4V50vOx_n1IQ6hfgsz_6iwt6NLSyQDXui7-EYgBwg0DTWZZnfCf94zdfADO88tHkG-JH5JL8v_aHlCTlvFu8NogMJqpOCjrQ=&uniplatform=NZKPT)
 - [Yang, K., Qi, J., Xu, L., Yu, Y., Sun, T., Shen, F., ... & Zhao, H. **2024**. Influence of preexisting structures on salt structures in the Kuqa Depression, Tarim Basin, Western China: Insights from seismic data and numerical simulations. **Basin Research**, 36(1), e12850.](https://doi.org/10.1111/bre.12850)
