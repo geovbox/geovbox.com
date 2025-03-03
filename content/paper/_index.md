@@ -10,7 +10,8 @@ title:
 
 ### 期刊论文
 
-1. - [屈会志,尹宏伟*,李晨,汪伟.盐构造变形特征与变形机制:基于地震解析与构造模拟的研究探讨及对复杂构造区岩盐迁移与成矿的启示[J].地质学报,**2024**,98(10):2916-2930.](https://doi.org/10.19762/j.cnki.dizhixuebao.2024300)
+1. [于宝利,刘可禹,郭泊洋*,等. 基于离散元数值模拟的构造变形机制分析方法——以准噶尔盆地南缘为例[J]. 石油地球物理勘探, **2024**, 59(05): 1080-1098.](https://doi.org/10.13810/j.cnki.issn.1000-7210.2024.05.021)
+- [屈会志,尹宏伟*,李晨,汪伟.盐构造变形特征与变形机制:基于地震解析与构造模拟的研究探讨及对复杂构造区岩盐迁移与成矿的启示[J].地质学报,**2024**,98(10):2916-2930.](https://doi.org/10.19762/j.cnki.dizhixuebao.2024300)
 - [Zhou C, He J, Su H, et al. Discrete element modeling of distal deformation propagation in thrust wedge and implications for early deformation on northern Tibetan and Iranian Plateaus[J]. Journal of Structural Geology, **2024**, 184: 105150.](https://doi.org/10.1016/j.jsg.2024.105150)
 - [谢会文,陈龙,吴超,等.库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析[J].地质科学,**2024**,59(04):1082-1097.](https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRRi7fujE_AssCVWBhqBabl2gCjhDlt1XjI-6be3UEAzT2tcDeae4pkOKJikbgxn9E-qfBj5-qjXNH1Hil3nmR9P6ksIWGhiutp9glhU8uTMTTSqt4EbtJV1nF-6VbTOwRqBZvsXVKxEGvnQW-Ol-Ouw&uniplatform=NZKPT)
 - [马皓然,苏金宝,王毛毛,等.边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例[J].海洋地质与第四纪地质,**2024**,44(01):81-95.](https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRQbYEmrDX8Mje95BMn_IPljoXMr0YcRIfyJ1IlbvIoNObYw-CP0JywPXVbQn7kkFLk4V50vOx_n1IQ6hfgsz_6iwt6NLSyQDXui7-EYgBwg0DTWZZnfCf94zdfADO88tHkG-JH5JL8v_aHlCTlvFu8NogMJqpOCjrQ=&uniplatform=NZKPT)
