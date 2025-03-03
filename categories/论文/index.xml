@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 on StructLab</title>
+    <link>https://geovbox.com/categories/%E8%AE%BA%E6%96%87/</link>
+    <description>Recent content in 论文 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/international-journal-of-geomechanics/</guid>
+      <description>下载：MATLAB codes Solve_T1_T2_T3_T4.m Fs.m PFC codes Fn_T1_T2final.txt Fs_T3_T4final.txt 论文基于VBOX从解析解角度测试了离散元中单接触系统的稳定性，见 全文。</description>
+    </item>
+    
+  </channel>
+</rss>

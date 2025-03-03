@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>报告 on StructLab</title>
+    <link>https://geovbox.com/categories/%E6%8A%A5%E5%91%8A/</link>
+    <description>Recent content in 报告 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/categories/%E6%8A%A5%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>离散元后处理技术及其在构造模拟中的应用（预告）</title>
+      <link>https://geovbox.com/blog/20221031/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221031/</guid>
+      <description>近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理方面的研究成果 DEMpost ，感兴趣的老师同学可以先下载魏华敬的硕士论文学习，报告时间另行通</description>
+    </item>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>原文见： https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA 2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在</description>
+    </item>
+    
+    <item>
+      <title>ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</title>
+      <link>https://geovbox.com/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211019/</guid>
+      <description>CCF HPC China 2021 第八届“国产应用软件”专题论坛 简介 工业软件是中国从制造大国向设计大国转变的核心关键技术，如何实现在研发、设计等高端领域的自主创新突破</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</title>
+      <link>https://geovbox.com/blog/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201111/</guid>
+      <description>第十二届全国石油地质实验技术学术会议 简介 石油地质实验技术在油气勘探开发中具有重要的作用。近年来，我国油气勘探开发面临一些新的挑战，对石油地质</description>
+    </item>
+    
+  </channel>
+</rss>

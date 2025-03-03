@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>龙门山新生代构造变形与模拟 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20200724/" class="permalink">龙门山新生代构造变形与模拟</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E4%BC%9A%E8%AE%AE/">会议</a>
+            ,
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E8%A7%86%E9%A2%91/">视频</a>
+            
+            
+        </div>
+        
+        
+
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E7%8E%8B%E6%AF%9B%E6%AF%9B/">王毛毛</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2020-07-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">2020年07月24日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<h3 id="课程回放">课程回放</h3>
+
+<ul>
+<li>geovbox@哔哩哔哩　<a href="https://www.bilibili.com/video/BV1si4y137DX/" target="_blank">https://www.bilibili.com/video/BV1si4y137DX/</a></li>
+</ul>
+
+<p>时  间：2020年7月25日周六14:30-16:00<br />
+Zoom会议ID：3059179425<br />
+网址：<a href="https://zoom.com.cn/j/3059179425" target="_blank">https://zoom.com.cn/j/3059179425</a></p>
+
+<h3 id="构造网络论坛第十四期-造山带构造演化-龙门山">构造网络论坛第十四期：造山带构造演化—龙门山</h3>
+
+<ul>
+<li><p>报告1: 龙门山符合逆冲带构造解析 中国地质大学（北京）颜丹平教授</p></li>
+
+<li><p><strong>报告2：龙门山新生代构造变形与模拟</strong></p>
+
+<ul>
+<li>报告人：<a href="http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm" target="_blank"><strong>王毛毛</strong></a> 河海大学 海洋学院<br /></li>
+<li>内容简要：
+
+<ul>
+<li>青藏高原东缘：下地壳流VS上地壳缩短争论；</li>
+<li>龙门山褶皱冲断带新生代构造变形；</li>
+<li>新生代构造变形模拟的研究进展。</li>
+</ul></li>
+<li>报告中的数值模拟采用VBOX完成；</li>
+<li>模拟结果很好的解释了龙门山新生代前陆冲断带构造应变的差异性分布；</li>
+<li>实验设计及边界条件控制值得学习。</li>
+</ul></li>
+</ul>
+
+<p>构造物理模拟及数值模拟可以通过准确的边界条件和参数设置，定量的分析褶皱冲断带构造变形特征，是定量研究褶皱冲断带构造变形过程与变形机制的重要方法。与构造物理模拟相比，数值模拟可以得到更多的系统内部的信息（如应力、应变等） ，并且可重复性高，边界条件设置更容易(<a href="#refer-anchor-1">李长圣,2019</a>)。二十世纪七十年代，Cundall and Strack(<a href="#refer-anchor-1">1979</a>)提出了基于非连续介质力学的离散元法（Discrete Element Method，简称DEM） ，用于研究岩土体的各种力学行为。该方法将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于构造变形研究，是未来的构造变形研究的主要方向之一(<a href="#refer-anchor-3">Morgan,2015</a>)。</p>
+
+<p>王毛毛副教授将在构造网络论坛中，介绍他的最新研究成果＂龙门山新生代构造变形与模拟＂。<strong>其中，数值模拟部分采用离散元数值模拟软件VBOX完成。</strong></p>
+
+<figure>
+    <img src="1.png"/> <figcaption>
+            <h4>海报</h4>
+        </figcaption>
+</figure>
+
+
+<h2 id="致谢">致谢</h2>
+
+<p>其中，应力应变分析代码修改自 RICE 大学Julia K. Morgan教授提供的计算脚本，在此感谢。</p>
+
+<h2 id="参考文献">参考文献</h2>
+
+<p><div id="refer-anchor-1"></div>
+<a href="http://t.cn/Ai9ruJY5" target="_blank">李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. <strong>博士论文</strong>. 南京大学.</a> <strong>推荐下载</strong> <a href="https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w" target="_blank">最新修订版</a> 提取码 <code>dgyc</code><br />
+<div id="refer-anchor-2"></div>
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.<br />
+<div id="refer-anchor-3"></div>
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full" target="_blank">Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. <strong>Journal of Geophysical Research: Solid Earth</strong> 120:3870-3896.</a></p>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/blog/20200605/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">第三节 应用：基于离散元的构造模拟</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/blog/20201102/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">伸展、生长、断层传播褶皱的离散元模拟(Basin Research)</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2025</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

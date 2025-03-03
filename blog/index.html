@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>新闻与案例 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="StructLab" href="https://geovbox.com/index.xml" />
+<link rel="feed" type="application/rss+xml" title="StructLab" href="https://geovbox.com/index.xml" />
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/en/blog/">English</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240726/" class="permalink">褶皱-冲断楔内部远端变形传递的离散元模拟及其对青藏高原北部和伊朗高原北部早期变形的启示（Journal of Structural Geology）</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%A4%B6%E7%9A%B1-%E5%86%B2%E6%96%AD%E6%A5%94/">褶皱-冲断楔</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F/">青藏高原</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%8E%9F/">伊朗高原</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E5%91%A8%E8%B6%85/">周超</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-07-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年07月26日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240721/" class="permalink">库车坳陷西部阿瓦特—博孜地区构造变形差异及数值模拟分析（地质科学）</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%BA%93%E8%BD%A6%E5%9D%B3%E9%99%B7%E8%A5%BF%E9%83%A8/">库车坳陷西部</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E5%8F%A4%E9%9A%86%E8%B5%B7/">古隆起</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E7%9B%90%E5%BA%95%E8%BE%9F/">盐底辟</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E8%B0%A2%E4%BC%9A%E6%96%87/">谢会文</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-07-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年07月21日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240720/" class="permalink">边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E4%BC%B8%E5%B1%95/">伸展</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%BE%B9%E7%BC%98%E6%B5%B7%E7%9B%86%E5%9C%B0/">边缘海盆地</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%A5%BF%E6%B9%96%E5%87%B9%E9%99%B7/">西湖凹陷</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E9%A9%AC%E7%9A%93%E7%84%B6/">马皓然</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-07-20 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年07月20日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240601/" class="permalink">基底滑脱层强度对川西南褶皱冲断带形成演化的影响:基于离散元模拟的认识</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/Front_Earth_Sci/">Front_Earth_Sci</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E7%8E%8B%E5%BD%A6%E5%A5%87/">王彦奇</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年06月01日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240228/" class="permalink">塔里木盆地库车坳陷先存构造对盐构造变形的影响:来自地震资料和数值模拟的启示</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/Basin_Research/">Basin_Research</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%A8%E5%85%8B%E5%9F%BA/">杨克基</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-02-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年02月28日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240227/" class="permalink">挤压环境下盐刺穿构造的形成机制：以塔里木盆地库车坳陷为例</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/Journal_of_Structural_Geology/">Journal_of_Structural_Geology</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%A8%E5%85%8B%E5%9F%BA/">杨克基</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-02-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年02月27日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20240214/" class="permalink">多滑脱层对川东薄皮褶皱冲断带构造倾向的影响及其演化：来自数值模拟的启示</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/Journal_of_Structural_Geology/">Journal_of_Structural_Geology</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E5%BE%90%E9%9B%AF%E5%B3%A4/">徐雯峤</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2024-02-14 00:00:00 &#43;0000 UTC" itemprop="datePublished">2024年02月14日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20231015/" class="permalink">CGU报告-离散元数值模拟在含油气盆地构造变形定量分析中的应用(2023-10-16)</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%B0%E9%97%BB/">新闻</a>
+            
+            
+        </div>
+        
+        
+
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2023-10-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">2023年10月15日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20230413/" class="permalink">会议报告-离散元数值模拟在沉积盆地构造变形定量分析中的应用-研究现状、应用实例、优势挑战(2023-04-16)</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%B0%E9%97%BB/">新闻</a>
+            
+            
+        </div>
+        
+        
+
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2023-04-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">2023年04月13日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20221110/" class="permalink">地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识(Tectonics)</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E9%BE%99%E9%97%A8%E5%B1%B1/">龙门山</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E8%A4%B6%E7%9A%B1%E5%86%B2%E6%96%AD%E5%B8%A6/">褶皱冲断带</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E4%BE%B5%E8%9A%80/">侵蚀</a>
+            , 
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E6%B2%89%E7%A7%AF/">沉积</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E7%8E%8B%E6%AF%9B%E6%AF%9B/">王毛毛</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2022-11-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">2022年11月10日</time>
+        
+    </div>
+    
+</header>
+
+        </div>
+    <article>
+    
+    <div class="text-center">
+    
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/blog/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item disabled">
+    <a href="" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/blog/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/5/">5</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/blog/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/blog/page/5/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+    </div>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2025</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>物理模拟和数值模拟对比实验(Excellent Important Nice) | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        <li class="list-inline text-center mb-0">
+                            
+                            <a class="text-dark" href="https://geovbox.com/en/example/ex8_dem_am/li2021en/">English</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/example/ex8_dem_am/ex8/" class="permalink">物理模拟和数值模拟对比实验(Excellent Important Nice)</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E6%96%87%E7%AB%A0/">文章</a>
+            ,
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E8%84%9A%E6%9C%AC/">脚本</a>
+            
+            
+        </div>
+        
+        
+
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2021-05-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021年05月24日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<div class="notices info" >
+<p>下载：
+<a href="gen.py" target="_blank">gen.py</a> |
+<a href="push.py" target="_blank">push.py</a></p>
+
+</div>
+
+
+<div class="notices note" >
+<p>~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~<strong>3小时</strong> 完成计算。</p>
+
+</div>
+
+
+<p><figure>
+    <img src="dem_am.gif" width="800px"/> 
+</figure>
+
+<center>单位 (cm)<br><strong>离散元数值模拟结果</strong></center></p>
+
+<p>通过休止角试验和双轴试验标定了石英砂颗粒的细观参数，构建了一个典型的构造物理模拟(AM)和离散元数值模拟(DEM)试验，对比两种方法在构造变形研究中的差异与相似点，通过定性和定量（如坡角、断层倾角等）的方法，分析了两种方法的异同点。DEM与AM模拟结果较为一致，基本反映了AM中石英砂的变形行为。AM中材料选取有限（如硅胶、粘土、微玻璃珠等），而DEM材料选取范围大，但其模拟结果依赖参数选取。AM和DEM作为两种独立的方法，有很好的互补性 <a href="#李长圣2019">(李长圣,2019;</a> <a href="#refer-li2021">Li et al.,2021)</a>。</p>
+
+<p><div id="refer-li2021"></div>
+<a href="https://doi.org/10.3389/feart.2021.636512" target="_blank"><strong>LI C.S.</strong>, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.</a></p>
+
+<h4 id="评审意见-font-color-red-excellent-font-font-color-red-important-font-font-color-red-nice-font">评审意见 <font color=red><strong>Excellent</strong></font> <font color=red><strong>Important</strong></font> <font color=red><strong>Nice</strong></font></h4>
+
+<ul>
+<li><strong>Jonny Wu(Guest Associate Editor):</strong> The manuscript is an <font color=red><strong>excellent work</strong></font> and  <font color=red><strong>important to publish</strong></font>.<br /></li>
+<li><strong>Stuart Hardy:</strong> This is an <font color=red><strong>important paper</strong></font> from a methodological point of view - <font color=red><strong>a reference almost</strong></font>.</li>
+<li><strong>Amanda Hughes:</strong> This study does a <font color=red><strong>nice job</strong></font> filling an existing need in modeling based studies.</li>
+</ul>
+
+<h4 id="题目">题目</h4>
+
+<p>Calibration of the discrete element method and modelling of shortening experiments</p>
+
+<h4 id="作者">作者</h4>
+
+<p>Changsheng Li <sup>1,2,3,4</sup>, Hongwei Yin<sup>3*</sup>, Chuang Wu<sup>3</sup>, Yingchun Zhang<sup>3</sup>, Jiaxing Zhang<sup>3</sup>,
+Zhenyun Wu<sup>1,2</sup>, Wei Wang<sup>3</sup>, Dong Jia <sup>3</sup>, Shuwei Guan<sup>4</sup> and Rong Ren<sup>4</sup></p>
+
+<ol>
+<li>State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China</li>
+<li>School of Earth Sciences, East China University of Technology, Nanchang, China</li>
+<li>School of Earth Sciences and Engineering, Nanjing University, Nanjing, China</li>
+<li>Research Institute of Petroleum Exploration and Development, PetroChina, Beijing, China</li>
+</ol>
+
+<h4 id="摘要">摘要</h4>
+
+<p>The discrete element method (DEM) is becoming widely accepted as an effective method for addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analog model (AM). However, the previous experiments also pointed to variability among DEM models and AMs in the number of fault zones, their dip angle and spacing, and the evolution of the surface slope of a thrust wedge. The accuracy of the DEM depends on the input parameter values, so the calibration of the discrete element method is very important. Microscopic properties of particles and macroscopic properties of loose quartz sand were calibrated through a series of repose angle and biaxial tests. Furthermore, an AM was constructed to simulate the evolution of the thrust wedge to compare with DEM results. DEM and AM results indicate an encouraging overall agreement in model evolution. Based on a new automated wedge quantification method, DEM results were systematically compared with AM results on the number of fault zones, their dip angle and spacing, the evolution of the surface slope of a thrust wedge, and other parameters. <strong>Our study provides a necessary comparison between commonly applied modeling approaches, which is important for more confidently applying these methods to understand real fold and thrust belt systems.</strong></p>
+
+<h4 id="休止角试验">休止角试验</h4>
+
+<p><figure>
+    <img src="Fig.1.jpg" width="300px"/> 
+</figure>
+
+<center>a）室内试验三维视图 b）室内试验正视图 c）当 μ=0.3时，离散元模拟结果。</center>
+<center><strong>休止角试验</strong></center></p>
+
+<p><figure>
+    <img src="Fig.2.jpg" width="400px"/> 
+</figure>
+
+<center><strong>颗粒集合体的休止角 θ与颗粒间摩擦系数 μ的关系</strong></center></p>
+
+<h4 id="双轴剪切试验">双轴剪切试验</h4>
+
+<p><figure>
+    <img src="Fig.3.jpg" width="300px"/> 
+</figure>
+
+<center>a）随机生成颗粒，颗粒直径较小，为 0.1 0.2 0.25和 0.3 mm b）半径膨胀颗粒之间变为 0.2 0.4 0.5和 0.6 mm；；c) 删除虚线外颗粒；d）设置颜色 ；e)颗粒的应变 20%时的形变；f)试样的变形应变场，颜色深浅表征剪切应变的大小，红色 表示 顺时针剪切，蓝色 表示 逆时针剪切，计算方法见 <a href="#Morgan2015">Morgan(2015)</a>。</center>
+<center><strong>双轴试验过程</strong></center></p>
+
+<p><figure>
+    <img src="Fig.4.jpg" width="600px"/> 
+</figure>
+
+<center>a）不同围压下，试样的应力应变曲线 b）双轴试样的莫尔强度包络线。</center>
+<center><strong>当颗粒间摩擦系数 μ=0.3时，双轴试验。</strong></center></p>
+
+<p><figure>
+    <img src="Fig.6.jpg" width="500px"/> 
+</figure>
+
+<center>其中，圆点是 <a href="#Klinkmüller2021">Klinkmüller et al.(2016)</a>给出的环剪试验的结果 ，五角星为本文DEM计算结果。</center>
+<center><strong>室内试验测得的内摩擦角与粘聚力与DEM计算结果对比</strong></center></p>
+
+<h4 id="演化过程">演化过程</h4>
+
+<p><figure>
+    <img src="dem_and_am02.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="dem_and_am04.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="dem_and_am08.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="dem_and_am12.jpg" width="600px"/> 
+</figure>
+
+<figure>
+    <img src="dem_and_am16.jpg" width="600px"/> 
+</figure>
+
+<center><strong>第一幅(AM)构造物理模拟；第二幅(DEM)离散元数值模拟；第三幅DEM变形应变图。</strong></center></p>
+
+<h4 id="定量对比">定量对比</h4>
+
+<p><figure>
+    <img src="Fig.12.jpg" width="600px"/> 
+</figure>
+
+<center>a）楔体坡角、宽度和高度测量方法示意图；b）物理模拟坡角；c) 楔体宽度演化；d) 楔体高度演化。</center>
+<center><strong>AM和DEM的楔体坡角、宽度和高度演化过程对比图</strong></center></p>
+
+<h4 id="zdem-script">ZDEM script:</h4>
+
+<p><em>表 1  颗粒微观参数表.</em></p>
+
+<table>
+<thead>
+<tr>
+<th><em>d</em>(mm) &nbsp;</th>
+<th><em>k</em>(N·m<sup>−1</sup>) &nbsp;</th>
+<th><em>ρ</em>(kg·m<sup>−2</sup>) &nbsp;</th>
+<th><em>g</em>(m·s<sup>−2</sup>) &nbsp;&nbsp;</th>
+<th><em>f</em>&nbsp;&nbsp;</th>
+<th><em>μ</em>&nbsp;</th>
+<th><em>η</em>(N·s·m<sup>−1</sup>) &nbsp;</th>
+<th><em>υ</em>(m·s<sup>−1</sup>) &nbsp;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>0.6</td>
+<td>7.5e3</td>
+<td>1.3e3</td>
+<td>10.0</td>
+<td>0.4&nbsp;&nbsp;</td>
+<td>0.3&nbsp;&nbsp;</td>
+<td>0.04&nbsp;&nbsp;</td>
+<td>&nbsp;0.04&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<blockquote>
+<p><strong>Note:</strong> The particle packing consists of four particle sizes, with diameters and quantity ratio of 0.2 mm, 0.4 mm, 0.5 mm, and 0.6 mm and 2:2:1:1, respectively. <em>d</em>, largest particle diameter. <em>ρ</em>, particle density. <em>g</em>, gravitational acceleration. <em>f</em>, safety factor of the time step. <em>k</em>, stiffness of the contact. <em>μ</em>, friction coefficient. <em>η</em>, dynamic viscosity. <em>υ</em>, velocity of the mobile wall.</p>
+</blockquote>
+
+<ol>
+<li><p>沉积过程。<a href="ex8_dem_am_gen.py" target="_blank">ex8_dem_am_gen.py</a> 中内容如下：</p>
+
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">######################################
+# title: 离散元数值模拟与构造物理模拟对比试验:1 沉积
+# date: 2021-05-16
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512
+# more info, see www.geovbox.com
+#######################################
+start
+set disk hex
+BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 160.0e-3 kn=1.5e4 ks=1.5e4 fric 0.3 
+
+wall id 4, nodes (     5e-3  158.0e-3) (  5.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+wall id 5, nodes (     5e-3    5.0e-3) (605.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+wall id 6, nodes ( 605.0e-3    5.0e-3) (605.0e-3   158.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+
+gen grid idmin 0 rad discrete 0.1e-3 0.1e-3 0.2e-3 0.2e-3 0.25e-3 0.3e-3,  x (5.0e-3,  605.0e-3), y (5.0e-3, 155.0e-3), GROUP ball_rand 
+
+PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.4
+FIX spin
+
+SET frac 0.4
+SET GRAVITY ( 0.0,  -10.0 )
+SET  stepbar 1000
+SET  save  20000
+SET  print 20000
+SET  ps    20000
+HIST ID 1 INTERVAL 1000 , kinetic
+HIST ID 2 INTERVAL 1000 , step
+PLOT hist 2 1
+
+CYC 60000
+DEL range x (4.0e-3, 606.0e-3), y (30.0e-3, 1.0),
+CYC 20000
+#save 2del.sav
+EXP ini_xyr.dat
+STOP
+</code></pre>
+
+</li>
+
+<li><p>挤压过程。<a href="ex8_dem_am_push.py" target="_blank">ex8_dem_am_push.py</a> 中内容如下：</p>
+
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">######################################
+# title: 离散元数值模拟与构造物理模拟对比试验:2 挤压
+# date: 2021-05-16
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512
+# more info, see www.geovbox.com
+#######################################
+LOAD  ini_xyr.dat
+SET disk hex
+BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 kn=1.5e4 ks=1.5e4 fric 0.3 
+
+WALL id 4, nodes (     5e-3  110.0e-3) (  5.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+WALL id 5, nodes (     5e-3    5.0e-3) (605.0e-3     5.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+WALL id 6, nodes ( 605.0e-3    5.0e-3) (605.0e-3   110.0e-3), kn= 1.5e4 ks= 1.5e4 fric 0.0 
+
+PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.0
+FIX spin
+
+SET frac 0.4
+SET GRAVITY ( 0.0,  -10.0 )
+SET  stepbar 10000
+HIST ID 1 INTERVAL 1000 , kinetic
+HIST ID 2 INTERVAL 1000 , step
+PLOT  2 1
+
+SET damp lsm 0.04
+PROP fric 0.30 
+PROP color lg
+PROP color  red , range x 0.0  615.0e-3 y   9.0e-3  10.0e-3  
+PROP color  blue, range x 0.0  615.0e-3 y  14.0e-3  15.0e-3  
+PROP color  red , range x 0.0  615.0e-3 y  19.0e-3  20.0e-3  
+PROP color  blue, range x 0.0  615.0e-3 y  24.0e-3  25.0e-3  
+PROP color  red , range x 0.0  615.0e-3 y  29.0e-3  30.0e-3  
+
+wall id 4 fric 0.30 xv 40e-3
+wall id 5 fric 0.30
+wall id 6 fric 0.30
+
+CYC 1
+imple wall id 4 xmove 160e-3 save 20e-3 print 10e-3 ps 10e-3  vtk 10e-3
+stop
+
+</code></pre>
+
+</li>
+</ol>
+
+<h4 id="the-quantitative-method-of-the-thrust-wedge-based-on-mesh-data">The quantitative method of the thrust wedge based on mesh (Data)</h4>
+
+<div class="notices info" >
+<p>Download：<a href="analog model.7z" target="_blank">analog model.7z</a></p>
+
+</div>
+
+
+<p>The images of the analog model.</p>
+
+<h4 id="参考文献">参考文献</h4>
+
+<p><div id="Hardy2009"></div>
+<a href="https://doi.org/10.1016/j.marpetgeo.2007.12.003" target="_blank">Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. <strong>Marine and Petroleum Geology</strong> 26:232-248.</a><br />
+<div id="Klinkmüller2021"></div>
+<a href="https://doi.org/10.1016/j.tecto.2016.01.017" target="_blank">Klinkmüller, M., Schreurs, G., Rosenau, M., and Kemnitz, H. (2016). Properties of Granular Analogue Model Materials: A Community Wide Survey. Tectonophysics 684, 23–38. doi:10.1016/j.tecto.2016.01.017</a>
+<div id="Morgan2015"></div>
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full" target="_blank">Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. <strong>Journal of Geophysical Research: Solid Earth</strong> 120:3870-3896.</a><br />
+<div id="李长圣2019"></div>
+<a href="http://t.cn/Ai9ruJY5" target="_blank">李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. <strong>博士论文</strong>. 南京大学.</a> <strong>推荐下载</strong> <a href="https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ" target="_blank">最新修订版</a> 提取码 <code>zdem</code></p>
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/example/ex7_extens_rigid/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">刚性基底 伸展构造</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/example/ex9_extens_ductile_patent/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">韧性基底 伸展构造(附发明专利ZDEM脚本)</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2025</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

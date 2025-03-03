@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.50" />
+<meta name="author" content="[苏ICP备：17006658号](https://beian.miit.gov.cn)">
+<meta name="description" content="面向 构造数值模拟 用户">
+<title>正态分布钉板实验 | StructLab</title>
+
+
+<link href="//cdn.bootcss.com/bootswatch/3.3.7/paper/bootstrap.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/themes/prism-solarizedlight.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.css" rel="stylesheet">
+<link href="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://geovbox.com/css/style.css"/>
+<link rel="stylesheet" href="https://geovbox.com/css/mobile.css"/>
+
+<link rel="shortcut icon" href="https://geovbox.com/images/favicon.ico" type="image/x-icon" type="image/png" />
+<link rel="icon" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://geovbox.com/images/apple-touch-icon.png"  type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://geovbox.com/images/apple-touch-icon-57x57.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://geovbox.com/images/apple-touch-icon-72x72.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://geovbox.com/images/apple-touch-icon-76x76.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://geovbox.com/images/apple-touch-icon-114x114.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://geovbox.com/images/apple-touch-icon-120x120.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://geovbox.com/images/apple-touch-icon-144x144.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://geovbox.com/images/apple-touch-icon-152x152.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://geovbox.com/images/apple-touch-icon-180x180.png" type="image/png" />
+<meta name="msapplication-TileImage" content="https://geovbox.com/images/apple-touch-icon-144x144.png"/>
+<meta name="msapplication-TileColor" content="#d83434"/>
+
+
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header id="header">
+    <div class="outer">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                   </button>
+                    <a class="navbar-brand" href="https://geovbox.com/">
+                        <span class="site-title">StructLab</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        
+                        <li class="nav-item"><a href="/">首页</a></li>
+                        
+                        <li class="nav-item"><a href="https://doc.geovbox.com">手册</a></li>
+                        
+                        <li class="nav-item"><a href="/video/">视频教程</a></li>
+                        
+                        <li class="nav-item"><a href="/gallery/">图库</a></li>
+                        
+                        <li class="nav-item"><a href="/example/">示例</a></li>
+                        
+                        <li class="nav-item"><a href="/blog/">新闻案例</a></li>
+                        
+                        <li class="nav-item"><a href="/am/">物理模拟</a></li>
+                        
+                        <li class="nav-item"><a href="/download/">软件</a></li>
+                        
+                        <li class="nav-item"><a href="/paper/">论文</a></li>
+                        
+                        <li class="nav-item"><a href="/about/">关于</a></li>
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <div id="body">
+        <div class="outer">
+        
+<section id="main">
+    <article>
+        <div class="article-inner">
+            <header class="article-header">
+    <h1 class="article-title" itemprop="name">
+	<a href="https://geovbox.com/blog/20210323/" class="permalink">正态分布钉板实验</a>
+    </h1>
+
+    
+    <div class="article-meta">
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-sitemap"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/categories/%E7%94%A8%E6%88%B7%E5%AE%9E%E4%BE%8B/">用户实例</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+		<i class="fa fa-tags"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/tags/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/">正态分布</a>
+            
+            
+        </div>
+        
+        
+
+        
+        
+        
+        <div class="article-category">
+            <i class="fa fa-user"></i>
+            
+            <a class="article-category-link" href="https://geovbox.com/authors/%E9%92%9F%E5%86%9B/">钟军</a>
+            
+            
+        </div>
+        
+        
+
+        
+        <time class="article-date" datetime="2021-03-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021年03月23日</time>
+        
+    </div>
+    
+</header>
+
+            <div class="article-body" itemprop="articleBody">
+                
+
+                
+
+<div class="notices info" >
+<p>脚本及数据下载：<br />
+钉子坐标：<a href="init_xyr.dat" target="_blank">init_xyr.dat</a><br />
+VBOX脚本：<a href="normal_distribution.py" target="_blank">normal_distribution.py</a></p>
+
+</div>
+
+
+<p>这是一个基于离散元数值模拟完成的正态分布钉板实验。</p>
+
+<p>如下图中，每一个灰点表示一颗钉子，它们彼此的距离均相等，上一层的每一颗的水平位置恰好位于下一层的两颗正中间。在钉子区域上方生成一定数量的直径小于两颗钉子之间距离的小球，在入口处向下降落。小球在钉板区域向下传播，直到落在底板内为止。许许多多同样大小的小球不断从入口处下落，只要球的数目相当大，它们在底板将堆成近似于正态的密度函数图形（即：中间高，两头低，呈左右对称的古钟型）。</p>
+
+<h2 id="strong-动态图-strong"><strong>动态图</strong></h2>
+
+<figure>
+    <img src="normal_distribution.gif"/> 
+</figure>
+
+
+<h2 id="strong-静态过程-strong"><strong>静态过程</strong></h2>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left"><figure>
+    <img src="1.png"/> 
+</figure>
+</td>
+<td align="right"><figure>
+    <img src="2.png"/> 
+</figure>
+</td>
+<td align="center"><figure>
+    <img src="3.png"/> 
+</figure>
+</td>
+<td align="center"><figure>
+    <img src="4.png"/> 
+</figure>
+</td>
+</tr>
+
+<tr>
+<td align="left"></td>
+<td align="right"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="vbox脚本源码-normal-distribution-py-normal-distribution-py">VBOX脚本源码 <a href="normal_distribution.py" target="_blank">normal_distribution.py</a></h2>
+
+
+
+
+                          
+
+<pre><code class="language-bash line-numbers">######################################
+# title:正态分布钉板实验
+# date:2021-02-26
+# authors:钟军 李长圣
+# E-mail:sheng0619@163.com
+# more info, see www.geovbox.com
+#######################################
+#程序初始化
+LOAD init_xyr.dat
+PROP GROUP _ball
+PROP COLOR lg RANGE GROUP _ball
+#颗粒设为球，计算颗粒体积用4/3*pi*r^3计算
+SET disk off
+#设置研究范围
+BOX left 0.0 right 11000.0 bottom 0.0 height 21000.0 kn=0e10 ks=0e10 fric 0.00
+#设置挡板墙，这里模型采用hertz接触模型，挡板墙的kn ks无效，计算时取颗粒的参数
+WALL ID 0, NODES ( 1000.0 , 19000.0  )  ( 5260.0 , 16000.0  ), kn=0e10 ks=0e10 fric 0.3 COLOR black
+WALL ID 1, NODES ( 5740.0 , 16000.0 )  ( 10000.0,  19000.0  ), kn=0e10 ks=0e10 fric 0.3 COLOR black
+
+#限制运动
+FIX x y spin RANGE group _ball
+#底部挡板钉
+GLINE RAD=40 P1 ( 1000.0  1000.0 ) P2 ( 10000.0  1000.0 ),     color=black GROUP=bom
+GLINE RAD=40 P1 ( 1000.0  1000.0 ) P2 ( 1000.0  21000.0 ),     color=black GROUP=bom
+GLINE RAD=40 P1 ( 2000.0  1000.0 ) P2 ( 2000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 3000.0  1000.0 ) P2 ( 3000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 4000.0  1000.0 ) P2 ( 4000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 5000.0  1000.0 ) P2 ( 5000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 6000.0  1000.0 ) P2 ( 6000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 7000.0  1000.0 ) P2 ( 7000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 8000.0  1000.0 ) P2 ( 8000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 9000.0  1000.0 ) P2 ( 9000.0  5000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 10000.0  1000.0 ) P2 ( 10000.0  21000.0 ),  color=black GROUP=bom
+GLINE RAD=40 P1 ( 1000.0  21000.0 ) P2 ( 10000.0  21000.0 ),  color=black GROUP=bom
+FIX x y spin RANGE group bom
+#在矩形范围内生成颗粒
+GEN NUM 35000 rad discrete 60.0 60.0,  x (2800.0, 8200.0), y ( 18000.0, 21000.0), COLOR blue GROUP _ball
+PROP density 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.4, hertz
+#设置时间步及重力加速度
+SET  DT 5e-2,  GRAVITY  0.0,  -9.8
+#设置每1000步保存一次vtk格式的计算结果
+SET  vtk 300
+#设置每1000步保存一次ps格式的计算结果
+SET  ps 300
+#设置每1000步保存一次dat格式的计算结果
+SET  print 300
+#计算5000步
+CYC  25000
+#停止
+STOP
+</code></pre>
+
+
+
+            </div>
+            <footer class="article-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</footer>
+
+            
+<nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="https://geovbox.com/blog/20201111/">
+                <strong class="article-nav-caption">
+                上一篇
+                </strong>
+                <div class="article-nav-title">基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</div>
+            </a>
+        </li>
+        
+
+        
+        <li class="next">
+            <a href="https://geovbox.com/blog/20210329/">
+                <strong class="article-nav-caption">下一篇</strong>
+                <div class="article-nav-title">川西北双层滑脱体系构造变形过程离散元数值模拟</div>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+        </div>
+    </article>
+</section>
+
+        </div>
+    </div>
+    <footer id="footer" class="footer">
+    友情链接： <a href="https://hpcc.nju.edu.cn/">南京大学高性能计算中心</a>　<a href="https://sheng.geovbox.com/">李长圣的个人主页</a>　<a href="https://qiao.geovbox.com/">徐雯峤的个人主页</a> 　<a href="https://hmakse.ccny.cuny.edu/software-and-data/">Pro. Hernan Makse的软件下载</a>　<a href="http://epub.sipo.gov.cn/">中国专利公布公告</a>
+    <div class="copyright">
+        &copy;  2017 - 
+        <span itemprop="copyrightYear"> 2025</span>
+
+        <span class="author" itemprop="copyrightHolder"><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备：17006658号</a></span>
+    </div>
+    <div class="powered-by">Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; Hosted by <a href="https://github.com/geovbox/geovbox.com" target="_blank">GitHub</a>.</div>
+</footer>
+<script src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/prism.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/components/prism-bash.min.js"></script>
+<script src="//cdn.bootcss.com/prism/1.5.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.12/clipboard.js"></script>
+<script src="//cdn.bootcss.com/featherlight/1.5.0/featherlight.min.js"></script>
+
+<script src="https://geovbox.com/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>构造模拟实验室 on StructLab</title>
+    <link>https://geovbox.com/</link>
+    <description>Recent content in 构造模拟实验室 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://geovbox.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/about/lichangsheng/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/lichangsheng/</guid>
+      <description>
+
+&lt;div class=&#34;row author-list&#34;&gt;
+    &lt;div class=&#34;col-xs-6 col-sm-2 col-md-2 col-lg-2&#34;&gt;
+          &lt;img src=&#34;lichangsheng.png&#34; alt=&#34;李长圣&#34; class=&#34;img-circle&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    
+
+&lt;pre&gt;&lt;code&gt;东华理工大学 地球科学学院  讲师  硕士生导师  
+2019年博士毕业于南京大学地球科学与工程学院  
+2014~现在，主要做离散元并行计算（CPU/GPU）、岩土体及构造相关的数值模拟。  
+博士期间开发了用于构造变形研究的高性能离散元数值模拟软件，旨在将构造变形研究从定性推向定量。  
+硕士期间主要做土石混合体，图像处理，网格划分（有限元、有限差分）等方面的工作。  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;东华理工大学地球科学学学院官网李长圣简历：&lt;/strong&gt;  &lt;a href=&#34;https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm&#34; target=&#34;_blank&#34;&gt;https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2025年硕士研究生招生，优先考虑对 &lt;code&gt;构造地质&lt;/code&gt; 感兴趣的学生，其次考虑对 &lt;code&gt;软件开发&lt;/code&gt; 感兴趣的学生，2025年9月入学后科研项目为：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;构造变形数值模拟&lt;/li&gt;
+&lt;li&gt;数值模拟软件开发&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;每年拟招硕士研究生一名，欢迎地质、计算机、岩土等相关专业学生报考，可选研究方向如下：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;数值模拟软件研发：&lt;code&gt;GPU&lt;/code&gt; | &lt;code&gt;MPI&lt;/code&gt; | &lt;code&gt;OpenMP&lt;/code&gt; 并行、云端CAE、离散元 | 有限元 | 物质点法软件开发&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;构造变形&lt;/strong&gt;数值模拟：褶皱冲断带、多层滑脱、诱发地震等（应用研究）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地质灾害&lt;/strong&gt;数值模拟：城市地面塌陷、滑坡、洞室群稳定性等（应用研究）&lt;/li&gt;
+&lt;li&gt;地质体三维可视化&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人工智能&lt;/strong&gt;与地球科学&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;QQ：&lt;code&gt;836745132&lt;/code&gt; (Neo)&lt;br /&gt;
+邮箱： sheng0619@163.com  lichangsheng@ecut.edu.cn&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://space.bilibili.com/31815571&#34; target=&#34;_blank&#34;&gt;geovbox@哔哩哔哩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sheng.geovbox.com&#34; target=&#34;_blank&#34;&gt;李长圣@个人网站&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/demsheng&#34; target=&#34;_blank&#34;&gt;李长圣@GitHub&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Li_Changsheng2&#34; target=&#34;_blank&#34;&gt;李长圣@ResearchGate&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;南京大学 构造数值模拟集群管理员&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;离散元视频教程&#34;&gt;离散元视频教程&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;离散元数值模拟软件ZDEM初级教程（DEM） &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;本科生课程&#34;&gt;本科生课程&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;面向对象程序设计(C++版)  &lt;a href=&#34;https://cpp.geovbox.com/&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GIS地学应用 (MapGIS、ArcGIS) &lt;a href=&#34;https://mapgis.geovbox.com&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;地学信息三维可视化 （GoCAD、Abaqus） &lt;a href=&#34;https://mapgis.geovbox.com&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;地图学与计算机制图  (MapGIS、GMT) &lt;a href=&#34;https://gmt.geovbox.com/&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;地学计算机制图  (MapGIS、GMT) &lt;a href=&#34;https://mapgis.geovbox.com&#34; target=&#34;_blank&#34;&gt;进入课程&lt;/a&gt;，推荐关注（ZYL-GLUT） &lt;a href=&#34;https://space.bilibili.com/514503809&#34; target=&#34;_blank&#34;&gt;https://space.bilibili.com/514503809&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;研究生课程&#34;&gt;研究生课程&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;地质工程研究进展（2020年、2022年、2023年、2024年参与教学）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;工作和教育经历&#34;&gt;工作和教育经历&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019.03~至今 东华理工大学 地球科学学院  讲师&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019.11~2020.11 中国石油勘探开发研究院 访问学者&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2014.09~2019.03  南京大学         地质资源与地质工程         （博士）&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018.04~2018.06  南洋理工大学     新加坡地球观测研究所(EOS) Paul TAPPONNIER院士 （短期访学）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2012.09~2014.06  南京大学         地质工程                   （硕士）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2008.09~2012.07  华北科技学院      地质工程                  （本科）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;专利和软件著作权&#34;&gt;专利和软件著作权&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;发明专利&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&amp;amp;uniplatform=NZKPT&amp;amp;language=CHS&#34; target=&#34;_blank&#34;&gt;管树巍,&lt;strong&gt;李长圣&lt;/strong&gt;,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.&lt;/a&gt;(公开)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4Srm8Qb3L4ZObGgVTRiMZmbooOk0N5__QhtWP3tfmAaG4aWt6G-vPnCayEBzhJczi-wmquaIpqwTjqIIAr0r30U-TAVb_k-qiwIZZRRFgPq77Arhkbx0eUeIKE93YG8N4VmTIzMXilloobUjaFcSKfDk4td80-y1JS-L1FEx5eoB7iX5tgI_OYL&amp;amp;uniplatform=NZKPT&amp;amp;language=CHS&#34; target=&#34;_blank&#34;&gt;马德波,&lt;strong&gt;李长圣&lt;/strong&gt;,赵喆,等.基于三维离散元的走滑断裂模拟方法、装置、设备和介质.北京市:CN202310147610.3,2024-08-20.&lt;/a&gt;(公开)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&amp;amp;uniplatform=NZKPT&amp;amp;src=copy&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.&lt;/a&gt; (授权)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&amp;amp;uniplatform=NZKPT&amp;amp;flag=copy&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法.江西省：CN111008472B,2023-11-21.&lt;/a&gt;  (授权)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&amp;amp;uniplatform=NZKPT&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置.北京市：CN115408803A,2022-11-29.&lt;/a&gt;(公开)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;软件著作权：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;地质三维可视化软件&lt;/strong&gt; V1.0. 东华理工大学;邹宗良;&lt;strong&gt;李长圣&lt;/strong&gt;;吴珍云;梅强. &lt;strong&gt;2024&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统&lt;/strong&gt; V1.0. 东华理工大学, 钟军, &lt;strong&gt;李长圣&lt;/strong&gt;, 张召，邹宗良. &lt;strong&gt;2023&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;离散元数值模拟后处理系统&lt;/strong&gt; V1.0. 东华理工大学, 钟军, &lt;strong&gt;李长圣&lt;/strong&gt;, 徐雯峤, 魏华敬, 吴珍云. &lt;strong&gt;2021&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆岩变形分布式监测数据处理系统&lt;/strong&gt; V1.0. 张丹, &lt;strong&gt;李长圣&lt;/strong&gt;. &lt;strong&gt;2019&lt;/strong&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;虚拟沙箱软件&lt;/strong&gt; V1.0. 南京大学. &lt;strong&gt;2015&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;论文发表&#34;&gt;论文发表&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273eZxsjEtS6ty10QspQe0P4K0gs74sJPo90jZ6K_9O6Wmc3-POykWJOzjKmoOZYZBPAgm2Y-FY_o8NTM-HRIVlha9f03oAaED8uEgovMdK_Y6RiRnXEHoFeqz66qc6-9Kt68cmdtXn-uo7nl0SXLp7TIOhmHzX3kvqVu4_im6eNZvCOBy8QNd55&amp;amp;uniplatform=NZKPT&amp;amp;language=CHS&#34; target=&#34;_blank&#34;&gt;张新松,&lt;strong&gt;李长圣&lt;/strong&gt;*,钟军,等.基于神经网络的土石混合体CT图像分割及三维重建[J/OL].工程地质学报,1-13[2025-02-07].https://doi.org/10.13544/j.cnki.jeg.2024-0253.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105068&#34; target=&#34;_blank&#34;&gt;Xu, W., Yin, H., Zhao, S.,Zhang, &lt;strong&gt;C., Li&lt;/strong&gt;, B., Jia, D., Li, C., Wang, W., &lt;strong&gt;2024&lt;/strong&gt;. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,&lt;strong&gt;Journal of Structural Geology&lt;/strong&gt;,180:105068.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.&#34; target=&#34;_blank&#34;&gt;尹宏伟,贾东,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;,徐雯峤,杨庚兄 &amp;amp; 贺婉慧.&lt;strong&gt;2023&lt;/strong&gt;.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报(09),2914-2926.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16108/j.issn1006-7493.2022029&#34; target=&#34;_blank&#34;&gt;赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,&lt;strong&gt;李长圣&lt;/strong&gt;.川东南泸州地区多滑脱层构造特征及变形机制[J/OL].高校地质学报:1-11[2023-02-25].DOI:10.16108/j.issn1006-7493.2022029.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kns.cnki.net/kcms/detail/42.1874.p.20220830.1133.006.html&#34; target=&#34;_blank&#34;&gt;吴珍云,杨秀磊,尹宏伟,董少春,&lt;strong&gt;李长圣&lt;/strong&gt;,汪伟,贾东.库车坳陷西段阿瓦特构造转换带盐构造演化特征及影响因素[J/OL].地球科学:1-25[2023-02-25].&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2022.04.001&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.655173&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Li, C.S.&lt;/strong&gt;, Yin, H.W.*, , et al.&lt;strong&gt;(2021)&lt;/strong&gt; Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.659682&#34; target=&#34;_blank&#34;&gt;WU Z.Y.*, &lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34;&gt;Xu, W.Q., Yin, H.W., Jia, D., &lt;strong&gt;Li, C.S.&lt;/strong&gt;, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6y6QcwC&#34; target=&#34;_blank&#34;&gt;徐雯峤,汪伟*,尹宏伟,贾东,&lt;strong&gt;李长圣&lt;/strong&gt;,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.&lt;strong&gt;地质学报&lt;/strong&gt;, 2020, 94(06): 1740-1751. &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6hj2FNU&#34; target=&#34;_blank&#34;&gt;张迎朝,&lt;strong&gt;李长圣&lt;/strong&gt;*,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt; (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. &lt;strong&gt;博士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w&#34; target=&#34;_blank&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;dgyc&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/AisBmv8f&#34; target=&#34;_blank&#34;&gt;吴珍云,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].&lt;strong&gt;南京大学学报(自然科学),2019&lt;/strong&gt;,55(05):869-878.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Li C.S.&lt;/strong&gt;, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. &lt;strong&gt;International Journal of Geomechanics&lt;/strong&gt; 18, 06018011.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.&lt;strong&gt;南京大学学报(自然科学)&lt;/strong&gt;,2017(06):1161-1170.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0266352X15002682&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Li C.S.&lt;/strong&gt;, Zhang D.*, Du S.S., et al. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. &lt;strong&gt;Computers and Geotechnics&lt;/strong&gt;, 2016, 73: 179-188.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kX4lk&#34; target=&#34;_blank&#34;&gt;蔡申阳,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,贾东,汪伟,陈竹新,魏东涛.基于离散元数值模拟的应变分析和裂缝预测技术[J].高校地质学报, &lt;strong&gt;2016&lt;/strong&gt;, 22(01): 183-193.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2014&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kqz7M&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;. 含砾滑带土三轴剪切的精细数值模拟研究.硕士论文.&lt;strong&gt;南京大学&lt;/strong&gt;,2014.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6kqIsW&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,张丹*,王宏宪,独莎莎. 基于CT扫描的土石混合体三维数值网格的建立. &lt;strong&gt;岩土力学&lt;/strong&gt;,2014,35(09):2731-2736.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;会议&#34;&gt;会议&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;第七届全国颗粒材料计算力学会议暨第四届计算颗粒技术国际研讨会. 基于深度学习的颗粒材料应力应变曲线预测. 南京.2024-05&lt;/li&gt;
+&lt;li&gt;2023年中国地球科学联合学术年会.离散元数值模拟在含油气盆地构造变形定量分析中的应用.珠海.2023-10.特邀报告&lt;/li&gt;
+&lt;li&gt;第六届全国矿田构造与深部找矿预测学术研讨会.离散元数值模拟在沉积盆地构造变形定量分析中的应用.长沙.2023-04.报告&lt;/li&gt;
+&lt;li&gt;第五届全国颗粒材料计算力学会议 （CMGM 2021）.用于构造变形研究的离散元软件开发与试验验证.武汉.2021-03.摘要&lt;/li&gt;
+&lt;li&gt;2021年全国高性能计算学术年会，HPCChina2021主题论坛 第八届“国产应用软件”专题论坛，用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用. 珠海. 2021-10. 特邀报告，&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6yeiXQz&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;,余一欣,周心怀,陈石,吴珍云,徐雯峤,尹宏伟. 基底岩层强度对东海陆架盆地构造特征和演化的影响.&lt;strong&gt;2019中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2019:60-61.（报告+论文）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/blog/201903/&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;. 同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响. &lt;strong&gt;第二届构造地质学与地球动力学青年术论坛&lt;/strong&gt;.南京,2019.03.(报告+摘要)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/AiY2NMGq&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟*，张佳星，汪伟. 琼东南盆地基底断层性质对凹陷沉积模式的影响：基于离散元数值模拟的认识. &lt;strong&gt;2018中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2018.（报告+论文）&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Chang-Sheng LI&lt;/strong&gt;, Hongwei YIN*, et al. Comparisons between a high resolution discrete element model and analogue model. &lt;strong&gt;2017 American Geophysical Union Fall Meeting&lt;/strong&gt;. (Poster+ABSTRACT)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟*，吴珍云，汪伟. 盐层厚度对塔里木盆地库车坳陷构造差异演化的影响:来自地震剖面和离散元数值模拟的启示. &lt;strong&gt;第一届构造地质学与地球动力学青年学术论坛&lt;/strong&gt;，昆明，2018.（报告+海报+摘要）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/E6k57Mg&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;，尹宏伟. 滑脱层强度对挤压构造的影响:离散元数值模拟. &lt;strong&gt;2017中国地球科学联合学术年会论文集&lt;/strong&gt;,2017:4. (海报+论文)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;科研项目&#34;&gt;科研项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2019-至今&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金地区基金&lt;/strong&gt;：克拉通盆地内小位移走滑断裂分层变形的三维离散元定量模拟研究——以塔里木盆地顺北5号断裂为例, 2025.01.01-2028.12.31, &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金青年基金&lt;/strong&gt;：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;江西省自然科学基金青年基金&lt;/strong&gt;: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;中石化开放基金： 走滑模拟，2022-2024， &lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;横向课题： 库车构造模拟, 中国科学院地质与地球物理研究所,  2022-2022, &lt;strong&gt;主持&lt;/strong&gt;, 结题&lt;/li&gt;
+&lt;li&gt;横向课题： 川南页岩层系变形模拟，2022-2022， &lt;strong&gt;主持&lt;/strong&gt;,结题&lt;/li&gt;
+&lt;li&gt;横向课题： 走滑断裂数值模拟，中国石油勘探开发研究院，2021-2022， &lt;strong&gt;主持&lt;/strong&gt;，结题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金面上项目&lt;/strong&gt;：四川盆地南部高应变构造变形与诱发地震的相关性研究, 2022.01.01-2025.12.31, 参与&lt;/li&gt;
+&lt;li&gt;横向课题：塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, 中国科学院地质与地球物理研究所, 2021.06-2021.09, &lt;strong&gt;主持&lt;/strong&gt;, 结题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金面上项目&lt;/strong&gt;：城市地面塌陷发育过程的分布式声学感知与表征, 2021.01.01-2024.12.31, 参与&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;江西省教育厅科学技术研究项目&lt;/strong&gt;：东海陆架盆地构造特征定量分析与模拟, 2021.01-2023.12, &lt;strong&gt;主持&lt;/strong&gt;, 结题&lt;/li&gt;
+&lt;li&gt;横向课题：构造演化数值模拟实验, 中国地质大学（北京）, 2019.06-至今, &lt;strong&gt;主持&lt;/strong&gt;, 结题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;东华理工大学博士启动基金&lt;/strong&gt;：克拉通盆地深层古隆起演变机制离散元数值模拟, ，2019-至今，&lt;strong&gt;主持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;东华理工大学博士启动基金&lt;/strong&gt;：南天山库车坳陷盐下构造建模及变形机制分析, 2019-至今，参与&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;东华理工大学博士启动基金&lt;/strong&gt;：塔里木盆地南华纪-震旦纪大地构造环境研究, 2019-至今，参与&lt;/li&gt;
+&lt;li&gt;横向课题：克拉通盆地深层古裂陷与隆起演变机制模拟，中国石油勘探开发研究院，2019-2020，参与，结题&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;博士阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金面上项目&lt;/strong&gt;：多滑脱层挤压构造结构特征与变形机制的定量研究-以塔里木盆地库车坳陷深层构造为例，2015~2019.12，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家重大科技专项大型油气田及煤层气开发&lt;/strong&gt;：琼东南盆地深水区构造差异化及构造动力学成因机制，2016~2019，参与&lt;/li&gt;
+&lt;li&gt;横向课题：前陆盆地“顶蓬构造”物理模拟及数值模拟研究，中石油 塔里木油田分公司勘探开发研究院，2015~2016，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;横向课题：和田河玛东地区潜山及盐相关构造物理及数值模拟实验研究，中石油 塔里木油田分公司勘探开发研究院，2017~2018，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金面上项目&lt;/strong&gt;：西昆仑山北麓新生代前陆褶皱冲断带构造特征与变形机制定量研究，2014~2016，参与&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家科技重大专项&lt;/strong&gt;：深层构造控藏作用的物理模拟与数值模拟及大型克拉通盆地基底结构研究，2016~2019，参与&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国家重点基础研究发展计划(973计划)&lt;/strong&gt;：中国南方古生界页岩气赋存富集机理和资源潜力评价，2014~2016，参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;硕士阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;国家自然科学基金面上项目&lt;/strong&gt;：库岸含砾滑带土的变形、强度特征与砾-土相互作用机制研究，2014~2015，&lt;strong&gt;主要参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;横向课题：张集煤矿1611(3)采后覆岩破坏探测，淮南矿业集团张集矿重点项目，2012-2014,参与&lt;/li&gt;
+&lt;li&gt;横向课题：潘一东矿煤层采动应力场变化规律现场探测与反演分析，淮南矿业集团潘一东矿重点项目，2012-2014,参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;本科阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;横向课题：王家岭煤矿高精度地质模型及重大危险源预警系统项目，北京龙软科技股份有限公司，2012.03-04，参与&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;其他论文&#34;&gt;其他论文&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;徐雯峤,尹宏伟,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;. 库车坳陷西段构造变形演化的数值模拟[A]. 2020年中国地球科学联合学术年会论文集,2020:1.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2020.05.002&#34; target=&#34;_blank&#34;&gt;杨庚兄,尹宏伟,汪伟,贾东,王斌,&lt;strong&gt;李长圣&lt;/strong&gt;.塔里木盆地玛扎塔格构造带深层构造分析[J].大地构造与成矿学,2020,44(05):819-830.&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;杨庚兄,尹宏伟,朱继田,汪伟,熊小峰,&lt;strong&gt;李长圣&lt;/strong&gt;.三维扫描技术在构造物理模拟中的应用——以琼东南盆地为例[J].实验室研究与探索,2020,39(05):8-11+45.&lt;/li&gt;
+&lt;li&gt;徐雯峤,尹宏伟,&lt;strong&gt;李长圣&lt;/strong&gt;,汪伟. 构造转换带变形特征与变形机制：基于离散元数值模拟的认识[A].2019年中国地球科学联合学术年会论文集.2019:2.&lt;/li&gt;
+&lt;li&gt;王斌,汪伟,朱礼春,尹宏伟,屈洋,贾东,&lt;strong&gt;李长圣&lt;/strong&gt;.断层相关褶皱在塔里木盆地玛东地区的应用[J].高校地质学报,2019,25(02):268-275.&lt;/li&gt;
+&lt;li&gt;张佳星,尹宏伟,朱继田,熊小峰,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;,吴珍云,刘绍文.基底性质对断裂构造的影响:以琼东南盆地为例[J].&lt;strong&gt;高校地质学报, 2018&lt;/strong&gt;, 24(04):563-572.&lt;/li&gt;
+&lt;li&gt;周鹏,尹宏伟,周露,唐雁刚,&lt;strong&gt;李长圣&lt;/strong&gt;,朱文慧,谢亚妮,尚江伟.断背斜应变中和面张性段储层主控因素及预测方法——以克拉苏冲断带为例[J].&lt;strong&gt;大地构造与成矿学,2018&lt;/strong&gt;,42(01):50-59.&lt;/li&gt;
+&lt;li&gt;林川,尹宏伟,汪伟,&lt;strong&gt;李长圣&lt;/strong&gt;,能源,周鹏,周露.临界角库伦楔在盐下楔状体的应用:以库车坳陷克拉苏构造带为例[J].&lt;strong&gt;高校地质学报, 2017&lt;/strong&gt;, 23(03):491-498.&lt;/li&gt;
+&lt;li&gt;周鹏,唐雁刚,尹宏伟,赵双丰,莫涛,张星,朱文慧,&lt;strong&gt;李长圣&lt;/strong&gt;.塔里木盆地克拉苏构造带克深2气藏储层裂缝带发育特征及与产量关系[J].&lt;strong&gt;天然气地球科学,2017&lt;/strong&gt;,28(01):135-145.&lt;/li&gt;
+&lt;li&gt;Wang W , Yin H , Jia D , &lt;strong&gt;Changsheng Li&lt;/strong&gt;. A sub-salt structural model of the Kelasu structure in the Kuqa foreland basin, northwest China[J]. &lt;strong&gt;Marine &amp;amp; Petroleum Geology, 2017&lt;/strong&gt;, 88.&lt;/li&gt;
+&lt;li&gt;季婷媛,张丹,&lt;strong&gt;李长圣&lt;/strong&gt;,施斌,陈晓雪. 土石混合体砾-土接触面参数的敏感性分析[A]. &lt;strong&gt;2016年全国工程地质学术年会论文集[C],2016&lt;/strong&gt;:8.&lt;/li&gt;
+&lt;li&gt;张丹,张平松,施斌,王宏宪,&lt;strong&gt;李长圣&lt;/strong&gt;.采场覆岩变形与破坏的分布式光纤监测与分析[J].&lt;strong&gt;岩土工程学报,2015&lt;/strong&gt;,37(05):952-957.&lt;/li&gt;
+&lt;li&gt;王宏宪,张丹,&lt;strong&gt;李长圣&lt;/strong&gt;,独莎莎.基于PPP-BOTDA的膨胀土裂隙发育特征的分析与表征方法研究[J].&lt;strong&gt;工程地质学报,2014&lt;/strong&gt;,22(02):210-217.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;指导学生&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第十七届&amp;rdquo;挑战杯”大学生课外学术科技作品竞赛校内选拔赛一等奖指导老师，2021.05&lt;/li&gt;
+&lt;li&gt;第十七届&amp;rdquo;挑战杯”大学生课外学术科技作品竞赛校内选拔赛三等奖指导老师，2021.05&lt;/li&gt;
+&lt;li&gt;东华理工大学第七届“互联网+”大学生创新创业大赛（校赛）银奖指导老师，2021.09&lt;/li&gt;
+&lt;li&gt;东华理工大学第十八届科技创新暨大学生创新创业训练计划项目特等奖、三等奖和优胜奖指导老师，2021.12&lt;/li&gt;
+&lt;li&gt;指导学生获批入驻东华理工大学创业孵化基地的创业项目，2021&lt;/li&gt;
+&lt;li&gt;第十三届&amp;rdquo;挑战杯”中国大学生创业计划竞赛东华理工大学校内选拔赛金等奖指导老师，2022.06&lt;/li&gt;
+&lt;li&gt;第十八届“挑战杯”全国大学生课外学术科技作品竞赛校内选拔赛二等奖指导老师，2023&lt;/li&gt;
+&lt;li&gt;东华理工大学第二十届大学生科技创新基金暨创新创业训练计划项目二等奖指导老师，2023&lt;/li&gt;
+&lt;li&gt;江西省大学生创新创业训练计划项目（创业训练、国家级项目）指导老师，云拓科技——致力于打造领先的构造模拟云端实验室，2023&lt;/li&gt;
+&lt;li&gt;江西省大学生创新创业训练计划项目（创新训练、国家级项目）指导老师，临界楔体理论离散元数值模拟验证，2023&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;学生阶段&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2009年国家励志奖学金&lt;/li&gt;
+&lt;li&gt;2009年第二十六届全国部分地区（北京）大学生物理竞赛非物理B三等奖&lt;/li&gt;
+&lt;li&gt;2010年优秀学生一等奖学金&lt;/li&gt;
+&lt;li&gt;2011年优秀学生三等奖学金&lt;/li&gt;
+&lt;li&gt;2011年第二届全国部分地区（北京）大学生数学竞赛二等奖&lt;/li&gt;
+&lt;li&gt;2012年学习竞赛单项奖&lt;/li&gt;
+&lt;li&gt;2013年研究生国家奖学金&lt;/li&gt;
+&lt;li&gt;2013年南京大学优秀研究生&lt;/li&gt;
+&lt;li&gt;2014年南京大学优秀毕业生&lt;/li&gt;
+&lt;li&gt;2016年南京大学英才奖学金&lt;/li&gt;
+&lt;li&gt;2017年南京大学优秀博士研究生创新能力提升计划（B）项目资助&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>褶皱-冲断楔内部远端变形传递的离散元模拟及其对青藏高原北部和伊朗高原北部早期变形的启示（Journal of Structural Geology）</title>
+      <link>https://geovbox.com/blog/20240726/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240726/</guid>
+      <description>
+
+&lt;p&gt;经典的库仑临界楔理论（Coulomb critical wedge）是解释冲断楔体生长过程的基本理论（Chapple, 1978; Dahlen, 1990; Davis and Engelder, 1985; Davis et al., 1983）。该理论认为冲断楔的变形由后陆向前陆依次发育，即远端变形最晚发生。然而，越来越多的地质证据却表明，远离南部碰撞带的青藏高原北部和伊朗高原北部在印度和阿拉伯与欧亚大陆碰撞后不久就发生了变形（图1）。此外，尽管软弱下地壳和远端先存断层（或弱带）普遍存在，但它们与早期远端变形的关系仍不清楚。&lt;/p&gt;
+
+&lt;p&gt;针对上述问题，中国科学院青藏高原研究所何建坤研究员及其团队的博士生周超，王卫民副研究员，王信国高级工程师，博士生赵由佳和江勇，与中国科学技术大学地球与空间科学学院苏浩博士合作，依托国家自然科学基金项目（42120104004, 42174112）和“第二次青藏高原综合科学考察研究”专项（2019QZKK0707）的资助，利用ZDEM（李长圣，2019）开展离散元数值模拟实验并进行应力应变分析（Morgan，2015），探讨了远端先存断层、基底滑脱层和早期远端变形传递之间的关系。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;离散元数值模拟实验表明：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;先存断层的存在是远端发生早期变形的必要条件；&lt;/li&gt;
+&lt;li&gt;远端先存断层能否在早期发生变形依赖于基底滑脱层的强度，而与模型宽度无关；强的基底滑脱层无法激活远端先存断层，相反，弱的基底滑脱层可以使它们在早期发生变形；&lt;/li&gt;
+&lt;li&gt;在弱基底滑脱层的情况下，较慢的缩短速率不仅有利于远端先存断层在早期吸收更大的缩短，而且冲断楔的变形顺序会更加明显的偏离顺序向前的变形传递方式。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这些发现表明，&lt;strong&gt;远端先存断层的优先变形在力学上受控于弱的基底滑脱层&lt;/strong&gt;。结合地质和地球物理观测，我们认为在阿拉伯和印度板块与欧亚板块碰撞后不久，&lt;strong&gt;青藏高原北部和伊朗高原北部出现的早期变形很可能是先存断层（弱带）在软弱下地壳的作用下发生优先活化变形的结果&lt;/strong&gt;&lt;a href=&#34;#refer-zhou2024&#34;&gt;(Zhou et al., 2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;div id=&#34;refer-zhou2024&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34;&gt;Zhou, C., He, J., Su, H., Wang, W., Wang, X., Zhao, Y., Jiang, Y. (2024). Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus. Journal of Structural Geology, 184, 105150. [IF2023 = 3.1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Chao Zhou&lt;sup&gt;1,2&lt;/sup&gt;, Jiankun He&lt;sup&gt;1,2&lt;/sup&gt;, Hao Su&lt;sup&gt;3&lt;/sup&gt;, Weimin Wang&lt;sup&gt;1&lt;/sup&gt;, Xinguo Wang&lt;sup&gt;1&lt;/sup&gt;, Youjia Zhao&lt;sup&gt;1,2&lt;/sup&gt;, Yong Jiang&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Tibetan Plateau Earth System, Environment and Resources (TPESER), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China&lt;/li&gt;
+&lt;li&gt;University of Chinese Academy of Sciences, Beijing 100049, China&lt;/li&gt;
+&lt;li&gt;Laboratory of Seismology and Physics of Earth&amp;rsquo;s Interior, School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Correspondence to: Jiankun He (jkhe@itpcas.ac.cn)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;Coulomb critical wedge theory predicts that thrust wedges would grow sequentially from the hinterland to the
+foreland, meaning that distal deformation occurs last. However, in the northern Tibetan and Iranian Plateaus, far
+away from the southern collision zones, widespread deformation occurs soon after collisions of Arabia and India
+with Eurasia. Additionally, despite the prevalence of weak lower crust and distal pre-existing faults or weak
+zones, their relationship to early distal deformation remains poorly understood. For this reason, we run systematic
+experiments of discrete element models involving basal d´ecollement layer as well as distal pre-existing
+fault. Our model results reveal that (1) the presence of pre-existing faults is necessary for the occurrence of early
+distal deformation; (2) the early deformation of distal pre-existing fault is dependent on basal d´ecollement
+strength and independent of model width; (3) strong basal d´ecollement fails to activate the distal pre-existing
+faults, instead weak basal d´ecollement can deform them at the early stage; (4) in the presence of weak basal
+d´ecollement, a slower shortening rate not only facilitates greater shortening absorption by the distal pre-existing
+fault at the early stage but also results in a more pronounced deviation from sequentially-forward deformation
+propagation. These findings demonstrate that the preferential reactivation deformations of distal pre-existing
+faults are mechanically controlled by a weak basal d´ecollement layer. Together with geological and geophysical
+observations, we suggest that the early deformations of northern Tibetan and Iranian Plateaus may be the
+result of the reactivation of pre-existing faults due to the existence of weak lower crust soon after collisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;Figure1.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 1. (a) Early deformation superimposed on topographic reliefs at and around the Tibetan and Iranian Plateaus (Tectonic information modified from François et al., 2014; Gao et al., 2013; He and Chéry, 2008; Ye et al., 2021). The locations of collision zones (IYSZ and MZT) are drawn from Yin, 2006 and Su and Zhou, 2020. Sutures are drawn from Robert et al., 2014 and P. Zhang et al., 2022. IYSZ = Indus-Yarlung suture zone, MZT = Main Zagros Thrust, BS = Bangong-Nujiang suture zone, JS = Jinsha suture zone, KS = Kunlun suture zone, SQS = South Qilian suture zone, NQS = Nouth Qilian suture zone, NTP = northern Tibetan Plateau, NIP = northern Iranian Plateau. QTT = Qiman Tagh thrust, NKT = North Kunlun thrust, NQT = North Qaidam thrust. References: (1) He et al., 2018; (2) He et al., 2017a; (3) Y. Wang et al., 2015; (4) An et al., 2020; (5) Chen et al., 2011; (6) F. Wang et al., 2016; (7) G. Wang et al., 2007; (8) A. Wang et al., 2010; (9) Zhuang et al., 2018; (10) J. Zhang et al., 2015; (11) Lin et al., 2019; (12) B. Zhang et al., 2017; (13) X. Wang et al., 2016; (14) Qi et al., 2016; (15) Jian et al., 2018; (16) Du et al., 2018; (17) Cheng et al., 2016; (18) Qi et al., 2015; (19) He et al., 2022; (20) Li et al., 2012; (21) Yin and Harrison, 2000; (22) François et al., 2014; (23) Horton et al., 2008; (24) Rezaeian, 2008; (25) Ballato et al., 2010. (b) Representative N-S structural profile across the Tibetan Plateau (modified by Ding et al., 2022 after Kapp &amp;amp; DeCelles, 2019). &amp;copy; Representative N-S structural profile across the Iranian Plateau (after Morley et al., 2009 based on data from Guest et al., 2006b and Ballato et al., 2008 for the Alborz Mountains, from McQuarrie, 2004 for the Zagros Mountains, and from Agard et al., 2005 for the Sanadaj-Sirjan zone).&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure3.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 3. Results of Reference Model with distal pre-existing fault, low friction coefficient of basal décollement μb = 0.00, low friction coefficient of basal décollement μf = 0.00, faster shortening rate v = 5.0 × 10-3 units/s and initial width w = 200 units. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains. Numbering denotes the initiation sequence of thrusts (same in the following figures).&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure4.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 4. Stress results of Reference Model. (a-e) Maximum shear stress. (f-j) Mean stress.&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure5.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 5. Results of Model 1. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure9.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 9. Results of Model 6. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure10.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Figure 10. Results of Model 7. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;The software used for the simulation experiments was ZDEM (&lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34;&gt;https://geovbox.com/en/&lt;/a&gt;), a discrete element numerical simulation software developed by Dr. Chang-Sheng Li. We thank Julia Morgan at Rice University for providing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. We acknowledge Beijing PARATERA Tech CO., Ltd. for providing HPC resources that have contributed to the research results reported in this paper (&lt;a href=&#34;https://paratera.com/&#34; target=&#34;_blank&#34;&gt;https://paratera.com/&lt;/a&gt;). This paper benefited significantly from the thorough and constructive comments and suggestions by two anonymous reviewers, and Editor Dr. Jianhua Li. This work was jointly supported by the Natural Science Foundation of China (No. 42120104004 and 42174112), and the Second Tibetan Plateau Scientific Expedition and Research Program (No. 2019QZKK0708).&lt;/p&gt;
+
+&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
+
+&lt;p&gt;限于篇幅，参考文献详见：Zhou, C., He, J., Su, H., Wang, W., Wang, X., Zhao, Y., Jiang, Y. 2024. Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus. Journal of Structural Geology, 184, 105150. &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.jsg.2024.105150&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;附件-实验过程&#34;&gt;附件（实验过程）&lt;/h3&gt;
+
+&lt;p&gt;Supplementary data to this article can be found online at &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.jsg.2024.105150&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>库车坳陷西部阿瓦特—博孜地区构造变形差异及数值模拟分析（地质科学）</title>
+      <link>https://geovbox.com/blog/20240721/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240721/</guid>
+      <description>
+
+&lt;p&gt;本文基于最新的三维地震资料和离散元数值模拟方法，对该区域进行了精细的地质建模，模拟了其形成演化过程，讨论了差异变形的控制因素&lt;a href=&#34;#refer-xie2024&#34;&gt;(谢会文等,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;div id=&#34;refer-xie2024&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRRi7fujE_AssCVWBhqBabl2gCjhDlt1XjI-6be3UEAzT2tcDeae4pkOKJikbgxn9E-qfBj5-qjXNH1Hil3nmR9P6ksIWGhiutp9glhU8uTMTTSqt4EbtJV1nF-6VbTOwRqBZvsXVKxEGvnQW-Ol-Ouw&amp;amp;uniplatform=NZKPT&#34; target=&#34;_blank&#34;&gt;谢会文,陈龙,吴超,等.库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析[J].地质科学,&lt;strong&gt;2024&lt;/strong&gt;,59(04):1082-1097.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;库车坳陷西部阿瓦特——博孜地区构造变形差异及数值模拟分析&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;谢会文&lt;sup&gt;1&lt;/sup&gt;，陈龙&lt;sup&gt;2,3&lt;/sup&gt;，吴超&lt;sup&gt;1&lt;/sup&gt;，陈汉林&lt;sup&gt;2,3&lt;/sup&gt;，顾成龙&lt;sup&gt;1&lt;/sup&gt;，程晓敢&lt;sup&gt;2,3&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;中国石油塔里木油田公司&lt;/li&gt;
+&lt;li&gt;浙江大学地球科学学院&lt;/li&gt;
+&lt;li&gt;教育部含油气盆地构造研究中心&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;库车坳陷西部的阿瓦特—博孜地区位于构造挤压转换区，沿走向构造变形差异显著。本文基于最新的三维地震资料和离散元数值模拟方法，对该区域进行了精细的地质建模，模拟了其形成演化过程，讨论了差异变形的控制因素。阿瓦特地区盐下沿克深断裂远距离逆冲推覆，形成上下叠置的两套沿侏罗系煤层滑脱的逆冲体系；盐上发育厚度较小的阿瓦特凹陷；盐构造以不整合型为主。博孜地区盐下在克深断裂以北为高角度基底卷入变形，以南为沿煤层的滑脱，整体为楔形叠瓦冲断构造；盐上发育厚度巨大的拜城凹陷；盐构造以整合型为主。模拟结果表明，温宿古隆起限制了中生界至古近系的沉积范围，阻碍了变形的向前传递，是造成阿瓦特—博孜地区变形差异性的最主要原因。先存盐底辟构造和南天山的差异挤压作用对该区域的差异变形也具有一定的控制作用。综合地震剖面解释和数值模拟结果的演化过程表明，该区域构造活动具有由弱到强的变化趋势，构造变形开始于早中新世吉迪克组沉积时期，在上新世早期康村组沉积之后发生显著的构造加速事件。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be4.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图4 实验一（a）及实验二（b）初始模型设计&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be5.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图5 剖面AA&amp;rsquo;解释方案&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be6.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图6 剖面BB&amp;rsquo;解释方案&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be7.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图7 剖面CC&amp;rsquo;解释方案&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be8.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图8 实验一模拟结果与构造解释&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be9.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图9 实验二模拟结果与构造解释&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;结论&#34;&gt;结论&lt;/h3&gt;
+
+&lt;p&gt;通过精细化的三维地震解释，明确了库车坳陷西部阿瓦特地区和博孜地区的构造变形样式，对比了两者之间的相似性和差异性。通过离散元数值模拟方法，模拟了两者的构造演化过程，并讨论了导致其构造变形差异的控制因素。主要结论如下：
+1. 阿瓦特地区盐下变形表现为沿克深断裂的远距离逆冲推覆，形成上下叠置的两套滑脱逆冲体系；盐构造以不整合型的盐丘、盐舌和盐推覆为主；盐上发育厚度较小的阿瓦特凹陷。
+2. 博孜地区盐下变形表现为克深断裂以北的高角度基底卷入和以南的沿煤层滑脱，整体为楔形叠瓦冲断构造；盐构造以整合型的盐背斜、盐枕和盐焊接为主；盐上发育巨厚的拜城凹陷。
+3. 温宿古隆起限制了中生界至古近系的沉积范围，阻碍了变形的向前传递，是造成阿瓦特和博孜地区变形差异的最主要因素。先存盐底辟构造、南天山的差异挤压作用对差异变形也起到一定的控制作用。
+4. 提出了阿瓦特和博孜地区的构造演化过程：构造活动从早中新世吉迪克组沉积时期开始，整体由造山带向盆地内前展式扩展，至上新世早期康村组沉积之后发生构造加速事件，形成区域性的角度不整合。&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;本文模拟实验使用的软件为李长圣博士研发的离散元数值模拟软件VBOX（www.geovbox.com），在此表示感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</title>
+      <link>https://geovbox.com/blog/20240720/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240720/</guid>
+      <description>
+
+&lt;p&gt;本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探讨断层几何发育特征的控制因素，为东海盆地构造演化机制及边缘海盆地的形成提供了思路和理论依据&lt;a href=&#34;#refer-qu2024&#34;&gt;(马皓然等,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;div id=&#34;refer-ma2024&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRQbYEmrDX8Mje95BMn_IPljoXMr0YcRIfyJ1IlbvIoNObYw-CP0JywPXVbQn7kkFLk4V50vOx_n1IQ6hfgsz_6iwt6NLSyQDXui7-EYgBwg0DTWZZnfCf94zdfADO88tHkG-JH5JL8v_aHlCTlvFu8NogMJqpOCjrQ=&amp;amp;uniplatform=NZKPT&#34; target=&#34;_blank&#34;&gt;马皓然,苏金宝,王毛毛,等.边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例[J].海洋地质与第四纪地质,&lt;strong&gt;2024&lt;/strong&gt;,44(01):81-95.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;马皓然&lt;sup&gt;1&lt;/sup&gt;，苏金宝&lt;sup&gt;1&lt;/sup&gt;，王毛毛&lt;sup&gt;1&lt;/sup&gt;，任培罡&lt;sup&gt;2&lt;/sup&gt;，谈明轩&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;河海大学海洋学院，南京 210098&lt;/li&gt;
+&lt;li&gt;中石化华东石油工程有限公司科技发展分公司，南京 210098&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;东海陆架盆地中生代以来的成盆过程中，发育了大量陆倾控盆断裂，其发育模式与形成演化与东亚其他边缘海盆地差异明显。前人关注东海陆架盆地迁移特征，而忽略了断层差异演化的形成机制，对断层发育过程控制因素缺少深入研究。西湖凹陷平北斜坡带北部为海倾断层组成的断阶区，南部为陆倾断层组成的半地堑区，断裂差异演化指示着东海陆架盆地的成盆过程。本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探讨断层几何发育特征的控制因素。结果表明，岩性差异对斜坡带断层演化有较大影响，较高抗剪强度岩层破裂易产生陆倾控盆断裂，而低抗剪强度岩石则易形成向海倾断层。应力作用方向是区域差异演化的重要控制因素，岩石强度相同，应力作用方向相反时，断层倾向相反。盆地形成过程中发育众多凹陷斜坡，但坡度不是断层差异演化的主导因素。平北斜坡带和边缘海盆地的差异演化可能是由基底强度差异或应力方向差异导致的。本文利用离散元数值模拟平北斜坡带断裂差异演化过程，为东海盆地构造演化机制及边缘海盆地的形成提供了思路和理论依据。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be5%e7%a6%bb%e6%95%a3%e5%85%83%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e7%9a%84%e6%a8%a1%e5%9e%8b%e8%be%b9%e7%95%8c%e6%9d%a1%e4%bb%b6.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图5 离散元数值模拟的模型边界条件&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be6%e6%a8%a1%e5%9e%8b1%e6%9e%84%e9%80%a0%e5%8f%98%e5%bd%a2%e3%80%81%e4%bd%93%e7%a7%af%e5%ba%94%e5%8f%98%e5%8f%8a%e6%96%ad%e5%b1%82%e6%96%ad%e8%b7%9d%e7%bb%9f%e8%ae%a1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图6 模型1构造变形、体积应变及断层断距统计&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be7%e6%a8%a1%e5%9e%8b2%e6%9e%84%e9%80%a0%e5%8f%98%e5%bd%a2%e3%80%81%e4%bd%93%e7%a7%af%e5%ba%94%e5%8f%98%e5%8f%8a%e6%96%ad%e5%b1%82%e6%96%ad%e8%b7%9d%e7%bb%9f%e8%ae%a1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图7 模型2构造变形、体积应变及断层断距统计&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be8%e6%a8%a1%e5%9e%8b3%20%e6%9e%84%e9%80%a0%e5%8f%98%e5%bd%a2%e3%80%81%e4%bd%93%e7%a7%af%e5%ba%94%e5%8f%98%e5%8f%8a%e6%96%ad%e5%b1%82%e6%96%ad%e8%b7%9d%e7%bb%9f%e8%ae%a1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图8 模型3 构造变形、体积应变及断层断距统计&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be9%e6%a8%a1%e5%9e%8b4%e6%9e%84%e9%80%a0%e5%8f%98%e5%bd%a2%e4%b8%8e%e4%bd%93%e7%a7%af%e5%ba%94%e5%8f%98.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图9 模型4构造变形与体积应变&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;%e5%9b%be10%e6%a8%a1%e5%9e%8b5%e6%9e%84%e9%80%a0%e5%8f%98%e5%bd%a2%e3%80%81%e4%bd%93%e7%a7%af%e5%ba%94%e5%8f%98%e5%8f%8a%e6%96%ad%e5%b1%82%e6%96%ad%e8%b7%9d%e7%bb%9f%e8%ae%a1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图10 模型5构造变形、体积应变及断层断距统计&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;结论&#34;&gt;结论&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;岩石强度与应力方向是影响断层倾向变化的主要因素，高强度岩石破裂产生与伸展方向相反的断层，低强度岩石破裂产生与伸展方向同向的断层。相同强度的岩石在相反方向的应力影响下，产生的主断层倾向完全相反。基岩表面坡度和应力作用位置不是断层差异演化的主导因素。&lt;/li&gt;
+&lt;li&gt;中国东部边缘海盆地差异演化可能受基底强度和应力方向差异控制。平北斜坡带南部和北部断层差异演化可能是由基岩强度差异引起的，或是应力方向差异导致的。东海陆架盆地的陆倾控盆断层可能是向海盆的伸展应力导致的，而南海陆缘盆地的断层发育可能是其基底在不同的应力方向共同作用下的结果。岩性和应力方向差异可能导致盆地差异演化，从而影响同时期油气运聚，但仍需进一步研究二者的相关性。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;本文的数值计算是在南京大学高性能计算中心的计算集群上完成的, 数值模拟实验使用东华理工大学李长圣博士研发的离散元数值模拟软件完成。文中采用的应变计算代码修改自莱斯大学 Julia K Morgan 和 Thomas Fournier 的脚本，在此表示感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基底滑脱层强度对川西南褶皱冲断带形成演化的影响:基于离散元模拟的认识</title>
+      <link>https://geovbox.com/blog/20240601/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240601/</guid>
+      <description>
+
+&lt;p&gt;摘要：川西南褶皱冲断带（The southwestern Sichuan fold-thrust belt，简写SWSB）是一个具有两套滑脱层的双重滑脱体系，其滑脱层分别为深度约15-17 km的基底前寒武纪滑脱层和上部中三叠世滑脱层。在新生代川西南褶皱冲断带经历了前展式扩展运动。目前控制上述褶皱冲断作用的动力学机制以及两套滑脱层对川西南褶皱冲断带构造变形的控制机制仍然有待于深入研究。本论文设计了三个可对比的离散元数值模型。在这些模型中，浅部滑脱层均具有相同的参数，但对基底滑脱层设计了不同的机械强度和厚度，从而探讨不同的基底滑脱层强度对川西南褶皱冲断带形成演化的影响。模型I的特点是强摩擦基底滑脱层，表现为在两期变形中均表现为向前陆地区前展式逆冲。大部分变形和逆冲断层集中在活动的后壁附近，并伴随着叠瓦状构造和两个冲起构造的发展。对于模型左侧楔形体的几何参数，模型I表现出“楔高线性增加”、“楔宽和坡角阶梯式增加”的特点。模型II的基底滑脱层厚度为500 m且摩擦力适中。在该模型中，应力应变迅速传播到前陆地区，并且第二期挤压在上部滑脱层上形成了多个逆冲和反冲断层。第一期挤压中模型II的变形过程与模型I相似。然而在第二期挤压中，楔形体达到稳定状态，其几何形状保持不变，变形沿浅层滑脱层传播至模型的右侧。模型III的基底滑脱层厚度较大且摩擦力适中，其前陆地区逆冲断层的几何形状和活动性与其他模型明显不同。在这个模型的第二期挤压中，产生了两个额外的冲起构造。第一期挤压的前半段与前两个模型相似。在第一期挤压的后半段和第二期挤压中，楔形体处于稳定状态。值得注意的是，在缩短的第一阶段中所有模型都经历了从亚临界状态到超临界状态的转变，这表明变形正在沿基底滑脱层迅速向模型右侧推进。总体而言模型III更准确地反映了川西南褶皱冲断带的变形特征，表明其与该地区演化具有较强的相关性。这些模型有助于理解川西南褶皱冲断带的变形过程和形成机制，同时可为浅部滑脱层下油气勘探研究提供参考。 &lt;a href=&#34;#refer-wang2024&#34;&gt;(Wang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-wang2024&#34;&gt;&lt;/div&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2023.1251417&#34; target=&#34;_blank&#34;&gt;Wang Y, Wang L, Ren R, Wei G, Chen Z,Su N and Zhang Y (2023), The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations. Front. Earth Sci. 11:1251417.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations&lt;/p&gt;
+
+&lt;p&gt;Yanqi Wang, Lining Wang*, Rong Ren, Guoqi Wei, Zhuxin Chen, Nan Su and Yuqing Zhang&lt;/p&gt;
+
+&lt;p&gt;a. Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/p&gt;
+
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction:&lt;/h4&gt;
+
+&lt;p&gt;The southwestern Sichuan fold-thrust belt (SWSB) is a duplex detachment system and features the basal Precambrian detachment at a depth of approximately 15–17 km and the upper Mid-Triassic detachment. Moreover, the SWSB undergoes forward-breaking propagation during the Cenozoic. To date, the mechanism and kinematic evolution governing the SWSB in this thrusting deformation as well as the way the two detachments control the structural deformation pattern of the SWSB remains unknown.&lt;/p&gt;
+
+&lt;h4 id=&#34;methods&#34;&gt;Methods:&lt;/h4&gt;
+
+&lt;p&gt;In this work, three discrete-element numerical models with the same strong upper detachment but basal detachments with different mechanical strengths and thicknesses were designed to study the deformation of the SWSB.&lt;/p&gt;
+
+&lt;h4 id=&#34;results&#34;&gt;Results:&lt;/h4&gt;
+
+&lt;p&gt;The results indicate that for the Model I with a strong frictional basal detachment with thickness of 500 m, most deformation and thrust faults concentrate near the mobile backwall. Model I exhibits characteristics such as linearly increasing wedge height and stepwise increasing wedge width and slope angle. For the Model II with a modest frictional basal detachment with thickness of 500 m, the strain and deformation propagate into the foreland quickly and multiple back-thrust and thrust faults form on the upper detachment in the second thrusting period. The first thrusting period in Model II, exhibits similarities with Model I. However, in the second period, the wedge reaches a stable state, and its geometry remains constant. In this stage, the deformation propagates along the shallow detachment into the right side of the model. The geometry and activity of thrust faults in the foreland differ significantly in the model III with a modest frictional basal detachment but a greater thickness. Two additional pop-up structures are generated in the second period in this model. The first half of the first thrusting period is similar to the first two models. In the second half of the first period and the second period, the wedge is in a stable state. In the first stage of the shortening, all models undergo a transition from a subcritical state to entering a supercritical state, which indicates that the deformation is progressing rapidly along the basal detachment towards the right side of the model.&lt;/p&gt;
+
+&lt;h4 id=&#34;discussion&#34;&gt;Discussion:&lt;/h4&gt;
+
+&lt;p&gt;The results of Model III are consistent with the deformation pattern of the SWSB. The study of the kinematics and interaction between two detachments could help hydrocarbon exploration beneath the upper detachment.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;fig1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; 模型I（基底滑脱层厚度为500 m，摩擦系数为0.3）的变形过程
+（A）-（C）图分别为模型I在缩短量（S）为20 km、31 km和35 km时的结果。T1-T6表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;fig2.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; 模型II（基底滑脱层厚度为500 m，摩擦系数为0.2）变形过程
+（A）-（C）图分别为模型II在缩短量（S）为20 km、31 km和35 km时的结果。T1-T6表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;fig3.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; 模型III（基底滑脱层厚度为1,000 m，摩擦系数为0.2）的变形过程（A）-（C）图分别为模型III在缩短量（S）为20 km、31 km和35 km时的结果。T1-T8表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;fig4.jpg&#34; width=&#34;800px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; 模型I、II和III挤压过程中定量化分析图（A）、（D）和（G）分别为模型I、II和III的楔形体高度随缩短量的变化图；（B）、（E）和（H）分别为模型I、II和III的楔形体宽度随缩短量的变化图；（C）、（F）和（I）分别为模型I、II和III的坡角随缩短量的变化图 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>韧性基底 伸展构造(附发明专利ZDEM脚本)</title>
+      <link>https://geovbox.com/example/ex9_extens_ductile_patent/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex9_extens_ductile_patent/</guid>
+      <description>&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;数据下载：
+&lt;a href=&#34;extens_ductile_patent.py&#34; target=&#34;_blank&#34;&gt;extens_ductile_patent.py&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;这里是一个 &lt;code&gt;韧性基底 伸展构造&lt;/code&gt; 设置的实例，基底由左右两个刚性墙和中间的韧性墙组成。&lt;br /&gt;
+&lt;strong&gt;粘结时，设置临时半径缩放系数等于初始叠合率，避免出现跨颗粒粘结情况发生&lt;/strong&gt;，详细描述见发明专利：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&amp;amp;uniplatform=NZKPT&amp;amp;flag=copy&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472B,2023-11-21.&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;three_wall.png&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;初始叠合率 cratio=|AO|/(rA+rO), 即圆心距离(|AO|)与平衡距离(rA+rO)的比值
+&lt;figure&gt;
+    &lt;img src=&#34;cratio.png&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;临时半径缩放系数rext=rtmp/rold
+&lt;figure&gt;
+    &lt;img src=&#34;rext.png&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;extens_ductile_patent.py&#34; target=&#34;_blank&#34;&gt;extens_ductile_patent.py&lt;/a&gt; 中内容如下：
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;#2024-04-04
+#建议使用notepad&amp;#43;&amp;#43;查看本文件
+#LI ChangSheng @ NanJing Uninversity 
+#E-mail: sheng0619@163.com
+#more info, see www.geovbox.com
+######################################
+# title: 韧性基底伸展构造实例
+#详细解释见发明专利：李长圣,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472B,2023-11-21.
+#本示例初始叠合率cratio=临时半径缩放系数rext=0.4，取值范围0.0-1.0
+#括号内参数可根据模型大小及个人需要修改
+#脚本命令不区分大小写
+#######################################
+START 
+SET disk 0
+BOX left 1.0e-3 right 40000.0 bottom 1.0e-3 height 12000.0 kn=4e10 ks=4e10 fric 0.30 
+
+######################################################################################################
+#初始叠合率 cratio=|AO|/(rA&amp;#43;rO),即圆心距离(|AO|)与平衡距离(rA&amp;#43;rO)的比值
+GLINE p1 ( 10000.0 ,  1000.0 ) p2 ( 25000.0 ,    1000.0 ), rad 80.0 cratio 0.4 color=red GROUP wall_bom
+######################################################################################################
+GLINE p1 ( 10000.0 ,  1160.0 ) p2 ( 10000.0 ,   11000.0 ), rad 80.0 color=red GROUP wall_lef
+GLINE p1 ( 25000.0 ,  1160.0 ) p2 ( 25000.0 ,   11000.0 ), rad 80.0 color=red GROUP wall_rig
+
+FIX x y spin RANGE group wall_bom
+FIX x y spin RANGE group wall_lef
+FIX x y spin RANGE group wall_rig
+
+GEN NUM 200000, rad discrete 60.0 80.0,  x 10000.0, 25000.0, y 1000.0, 8000.0, color black GROUP ball_rand
+PROP den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2, damp 0.4, hertz
+DRAW INTERVAL 200, bfill wall
+SET  STEPBAR  1000
+SET  print 5000
+SET  ps 5000
+SET  DT 5e-2,     
+SET  GRAVITY ( 0.0,  -10.0 )
+
+CYC  10000
+DEL  RANGE x 10001.0, 24999.0, y 4000.0, 15000.0
+CYC  5000
+EXP  initxyr.dat RANGE group ball_rand
+SAV  initxyr.sav
+
+PROP color mg    RANGE group ball_rand
+PROP color lg    RANGE x 10001.0 24999.0 y   2000.0  2200.0
+PROP color lg    RANGE x 10001.0 24999.0 y   3000.0  3200.0
+PROP color lg    RANGE x 10001.0 24999.0 y   4000.0  4200.0
+
+PROP fric 0.3 RANGE GROUP wall_bom
+PROP fric 0.3 RANGE GROUP wall_lef
+PROP fric 0.3 RANGE GROUP wall_rig
+
+PROP ebmod 2e8 gbmod 2e8 tstrength 2e7 sstrength 4e7 fric 0.3 RANGE group ball_rand 
+PROP group wall_mov0  color blue RANGE x  9000.0 13000.0 y 999.0 1001.0
+PROP group wall_mov1  color blue RANGE x 22000.0 31000.0 y 999.0 1001.0 
+######################################################################################################
+#临时半径缩放系数rext=rtmp/rold
+PROP tolerate rext 0.4 ebmod 2e8 gbmod 2e8 tstrength 2e100 sstrength 4e7 fric 0.3 RANGE group wall_bom and  group wall_mov0
+PROP tolerate rext 0.4 ebmod 2e8 gbmod 2e8 tstrength 2e100 sstrength 4e7 fric 0.3 RANGE group wall_bom and  group wall_mov1
+######################################################################################################
+
+#释放中间部分的墙体，以便其可以在左右墙体拉伸下，可以自由伸展开
+FREE x RANGE group wall_bom
+
+#墙体wall_rig和wall_mov1向右移动
+INI  xv 2.0, RANGE group wall_rig
+INI  xv 2.0, RANGE group wall_mov1
+#墙体wall_lef和wall_mov0向左移动
+INI  xv -2.0, RANGE group wall_lef
+INI  xv -2.0, RANGE group wall_mov0
+#设置辅助墙体，用于设置伸展距离，这里设置墙体id=1向右移动1000m
+WALL id 1 nodes (  26000.0   1080.0 ) (  26000.0  5000.0 ), kn=0e3 ks=0e3 fric=0.0 color=black
+WALL id 1 xv 2.0
+IMPLE wall id 1 xmove 1000.0  print 500.0 ps 500.0
+
+#沉积1
+GEN NUM 200000, rad discrete 60.0 80.0 , x( 9000.0,26000.0)   y ( 4000.0, 6000.0 ),  GROUP ballsed2
+PROP color blue den 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.4, hertz  RANGE group ballsed2
+#墙体停止移动
+WALL id 1 xv 0.0
+INI  xv 0.0, RANGE group wall_lef
+INI  xv 0.0, RANGE group wall_rig
+INI  xv 0.0, RANGE group wall_mov1
+INI  xv 0.0, RANGE group wall_mov0
+SET  ps    1000
+SET  print 1000
+CYC  5000
+DEL RANGE x 9001.0 25999.0 y 4000.0 10000.0
+CYC 1000
+
+#伸展-墙体继续移动
+wall id 1 xv 2.0
+INI  xv 2.0, RANGE group wall_rig
+INI  xv -2.0, RANGE group wall_lef
+INI  xv 2.0, RANGE group wall_mov1
+INI  xv -2.0, RANGE group wall_mov0
+IMPLE WALL id 1 xmove 1000.0 save 500.0 print 500.0 ps 500.0
+
+#沉积2
+gen NUM 200000, rad discrete 60.0 80.0 , x(8000.0,27000.0)   y (4000.0, 6000.0 ),  GROUP ballsed3
+PROP color gb den 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.4, hertz  RANGE group ballsed3
+#墙体停止移动
+WALL id 1 xv 0.0
+ini  xv 0.0, RANGE group wall_lef
+ini  xv 0.0, RANGE group wall_rig
+ini  xv 0.0, RANGE group wall_mov1
+ini  xv 0.0, RANGE group wall_mov0
+set ps    1000
+set print 1000
+CYC 5000
+DEL RANGE x 8001.0 26999.0 y 4000.0 10000.0
+CYC 1000
+sav sed5km.sav
+stop
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;演化过程如下：&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;all_0000015001.png&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;初试模型&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000025000.png&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;伸展&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000030001.png&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;沉积1&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000041000.png&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;伸展&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;all_0000046001.png&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;沉积2&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;h5&gt;单位 (km)&lt;br&gt;&lt;br&gt;&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>塔里木盆地库车坳陷先存构造对盐构造变形的影响:来自地震资料和数值模拟的启示</title>
+      <link>https://geovbox.com/blog/20240228/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240228/</guid>
+      <description>
+
+&lt;p&gt;库车坳陷为中国西部地区重要的含油气盆地，盐构造变形十分复杂，在不同的构造带和同一构造带的不同位置均有较大差异，其中基底先存构造在盐构造变形过程中扮演了重要角色。利用最新的二维、三维地震资料，结合离散元和有限元数值模拟方法，研究了先存构造的类型、分布及其对盐构造的控制作用。地震资料分析表明，库车坳陷发育的先存构造主要为基底断裂、古隆起、盐下斜坡和早期被动盐底辟。基底断裂主要分布在克拉苏和秋里塔格构造带，控制着中新世压盐构造的发育位置和变形样式；基底断裂的变形样式和活化程度的差异，导致了不同构造带盐构造的多样性。古隆起主要包括温苏古隆起、西秋里塔古隆起、新河古隆起和雅哈—轮台古隆起；古隆起限制了盐层的原始沉积范围和后期变形空间，导致库车坳陷西部阿沃特凹陷不同构造层逆冲作用十分强烈。古隆起的非均匀空间分布，也促进了坳陷西部区域大规模走滑转换带的发育。盐下斜坡主要位于西秋里塔格低隆起的北缘，阻碍了盐岩向南流动，在斜坡边缘形成较大规模盐丘，这些盐丘的大小与盐下斜坡的坡度密切相关。早期被动盐底辟主要发育于库车坳陷西部的却勒和博孜敦地区，在中新世以来的挤压期优先活动，形成了一个刺穿式盐推覆体。数值模拟结果表明，在盐构造变形过程中，先存构造对应力-应变分布具有较强的控制作用，先存构造经常造成最大主应力和剪应力应力集中，进而诱发盐构造的优先形成。地震资料和数值模拟结果表明，基底构造的空间分布不均一性是库车坳陷SN向构造分带和EW向构造分段的重要因素，也是局部刺穿型盐构造形成的重要诱因。 &lt;a href=&#34;#refer-yang2024&#34;&gt;(Yang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-yang2024&#34;&gt;&lt;/div&gt;&lt;a href=&#34;https://doi.org/10.1111/bre.12850&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Yang, K.&lt;/strong&gt;, Qi, J., Xu, L., Yu, Y., Sun, T., Shen, F., &amp;hellip; &amp;amp; Zhao, H. &lt;strong&gt;2024&lt;/strong&gt;. Influence of preexisting structures on salt structures in the Kuqa Depression, Tarim Basin, Western China: Insights from seismic data and numerical simulations. &lt;strong&gt;Basin Research&lt;/strong&gt;, 36(1), e12850.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Influence of preexisting structures on salt structures in the Kuqa Depression, Tarim Basin, Western China: Insights from seismic data and numerical simulations&lt;/p&gt;
+
+&lt;p&gt;Keji Yang&lt;sup&gt;1&lt;/sup&gt;, Jiafu Qi&lt;sup&gt;2&lt;/sup&gt;,Liangwei Xu&lt;sup&gt;3&lt;/sup&gt;*, Yanqiu Yu&lt;sup&gt;1&lt;/sup&gt;, Tong Sun&lt;sup&gt;4&lt;/sup&gt;, Fangle Shen&lt;sup&gt;5&lt;/sup&gt;,
+Li Peng&lt;sup&gt;6&lt;/sup&gt;, Ji Lv&lt;sup&gt;6&lt;/sup&gt;, Hanting Zhao &lt;sup&gt;6&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Hebei Key Laboratory of Strategic Critical Mineral Resources, College
+of Earth and Science, Hebei GEO University, Shijiazhuang, China&lt;/li&gt;
+&lt;li&gt;State Key Laboratory of Petroleum Resources and Prospecting, College of Earth and Science, China University of Petroleum (Beijing), Changping, Beijing, China&lt;/li&gt;
+&lt;li&gt;School of Resources and Environment, Henan Polytechnic University, Jiaozuo,
+China&lt;/li&gt;
+&lt;li&gt;Research Institute of Exploration and Development, Dagang Oilfield, CNPC, Tianjin, China&lt;/li&gt;
+&lt;li&gt;Huaxin College of Hebei GEO University, Shijiazhuang, China&lt;/li&gt;
+&lt;li&gt;Bureau of Geophysics Prospecting Inc., CNPC, Research Center of Geology,  Zhuozhou, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The preexisting structures that developed in the basement and subsalt strata play a key role in the salt structural deformation in the Kuqa Depression, Tarim Basin. The characteristics of preexisting structures and their controls on the salt structure are investigated via the latest three-dimensional seismic data and numerical modelling. The results show that the preexisting structures that developed in the Kuqa Depression mainly consist of basement faults, palaeouplifts, subsalt slopes and early passive salt diapirs. Basement faults are mainly distributed in the Kelasu and Qiulitag structural belts and control the position of development and deformation style of the Miocene compressive salt structure. The differences in styles and reactivation degrees of basement faults lead to great diversity in the salt structure. The palaeouplifts mainly include the Wensu, western Qiulitag, Xinhe and Yaha-Luntai palaeouplifts. The original sedimentary range and later deformation space of the salt layer are limited by the palaeouplift, resulting in strong salt thrusting in the Awate sag in the western part of the Kuqa Depression. The heterogeneous spatial distribution of the palaeouplift promoted the development of regional strike-slip transform belts. Subsalt slopes are located mainly on the northern edge of the western Qiulitag low uplift and block the southward flow of the salt, causing the salt to form salt domes; the size of these domes is closely related to the subsalt slope. Early passive salt diapirs mainly developed in the Quele and Bozidun areas of the western Kuqa Depression, and they were preferentially active during the compression period, inducing the formation of a piercement salt nappe. Numerical modelling revealed that the preexisting structure strongly controlled the stress–strain distribution during the deformation of the salt structure. The spatial distribution heterogeneity of the basement structure is an important factor in the structural zonation along the north–south strike and segmentation along the west–east strike in the Kuqa Depression, as well as an important inducer of the piercement salt structure.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bre12850-fig-0013-m.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; FIGURE 13 Model settings of the discrete-element numerical simulation experiment. (a) Model A—Basic model; (b) Model B—Preexisting fault model; &amp;copy; Model C—Preexisting palaeouplift model; and (d) Model D – Preexisting salt diapir model. All the models are 60 km long and 4.5 km high and are extruded from the right edge with a 15 km compressive distance. The elements are bonded to the base and sidewalls, and the gravitational field is calculated. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bre12850-fig-0014-m.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; FIGURE 14 Experimental process of Model A. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. On the whole, the structural deformation of each structural layer gradually propagates from right to left, and the propagation distance of super-salt deformation is larger than that of the subsalt deformation. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bre12850-fig-0015-m.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; FIGURE 15 Experimental process of Model B. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. The preexisting faults away from the extrusion edge begin to revive when the extrusion reaches 12 km and finally, form a salt diapir at the top of the basement faults. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bre12850-fig-0016-m.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; FIGURE 16 Experimental process of Model C. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. Due to the barrier of the preexisting palaeouplift, the subsalt faults are strongly thrust, and a piercement salt structure is formed on the right edge of the palaeouplift. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure17.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; FIGURE 17 Experimental process of Model D. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. When the extrusion reaches 9 km, the preexisting salt diapir starts to revive and finally evolves into a penetrating salt wall. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>挤压环境下盐刺穿构造的形成机制：以塔里木盆地库车坳陷为例</title>
+      <link>https://geovbox.com/blog/20240227/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240227/</guid>
+      <description>
+
+&lt;p&gt;刺穿构造的形成机理比隐刺穿构造更为复杂，目前对该问题的研究较少。本文在野外地质露头调查和地震资料精细解释的基础上，结合构造-沉积环境演化和生长地层特征，分析了库车坳陷盐刺穿构造的分布、几何形态和演化历史。在此基础上，通过离散元数值模拟实验，讨论了几种可能的因素对刺穿构造形成和演化过程的影响。结果表明：库车坳陷的盐刺穿构造主要发育在温苏古隆起北缘、却勒被动盐底辟和克拉苏基底先存断裂顶部。盐岩可直接穿透上覆地层，或通过断裂作用与围岩接触。生长地层特征表明，克拉苏地区的刺穿构造形成较早，温宿北缘的刺穿构造次之，却勒刺穿构造形成时间最晚。刺穿构造的演化可分为稳定期、弱挤压期和强挤压期三个阶段。在挤压环境下，仅仅依靠挤压应力，盐层很难形成刺穿构造。凸起的边缘、早期被动盐底辟、先存基底断裂顶部和沉积楔体的前缘，是刺穿构造发育的优先位置。古隆起的限制、基底断裂的再活化、早期被动盐丘的优先活动，以及造山带向盆地内部的进积作用，是刺穿构造发育的重要诱因。这些因素诱发刺穿构造的重要方式，是促进盐上地层的强裂冲断，从而为盐岩上涌提供通道。 &lt;a href=&#34;#refer-yang2024&#34;&gt;(Yang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-yang2024&#34;&gt;&lt;/div&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2023.105005&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Yang, K.&lt;/strong&gt;, Qi, J., Shen, F., Sun, T., Duan, Z., Cui, M., &amp;hellip; &amp;amp; Lv, J. (2024). Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China. &lt;strong&gt;Journal of Structural Geology&lt;/strong&gt;, 178, 105005.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China&lt;/p&gt;
+
+&lt;p&gt;Keji Yang&lt;sup&gt;a&lt;/sup&gt;, Jiafu Qi&lt;sup&gt;b&lt;/sup&gt;, Fangle Shen&lt;sup&gt;c&lt;/sup&gt;*,Liangwei Xu&lt;sup&gt;d&lt;/sup&gt;, Tong Sun&lt;sup&gt;a&lt;/sup&gt;, Zhanzhan Duan &lt;sup&gt;c&lt;/sup&gt;, Meijuan Cui&lt;sup&gt;e&lt;/sup&gt;，Li Peng&lt;sup&gt;e&lt;/sup&gt;, Ji Lv&lt;sup&gt;e&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;a. Hebei Key Laboratory of Strategic Critical Mineral Resources, Hebei GEO University, Shijiazhuang 050031, China
+b. State Key Laboratory of Petroleum Resources and Prospecting, China University of Petroleum, Changping, Beijing 102249, China
+c. Huaxin College of Hebei GEO University, Shijiazhuang 050000, China
+d. PetroChina Dagang Oilfield Exploration and Development Research Institute, Tianjin, 300280, China
+e. Bureau of Geophysics Prospecting Inc., CNPC, Research Center of Geology, Zhuozhou 072750, China&lt;/p&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The formation mechanism of piercement structures is more complex than that of concealed piercement structures, and little research has been conducted on this topic. In this work, based on surveys of field geological outcrops and detailed interpretation of seismic data, combined with the evolution of the tectonic-sedimentary environment and stratum growth characteristics, the geometry and evolutionary history of salt piercement structures in the Kuqa Depression are investigated. Through discrete element numerical simulation experiments, the influences of various factors on the formation and evolution of the piercement structure are discussed. The results show that the piercement structures in the Kuqa Depression are mainly developed in the northern margin of the Wensu paleohigh, the Quele passive salt diapir, and at the top of the Kelasu basement fault. The salt can directly pierce the overlying strata or contact the surrounding rock through faulting. The characteristics of the growth strata reveal that the Kelasu piercement structure formed first, followed by the Wenshu piercement structure, and the Quele piercement structure formed later. The evolution of the piercement structure can be divided into three stages: quiet, weak compression and strong compression. Relying solely on tectonic compressive stress, it is difficult for salt layer to form piercement structures. The most advantageous location for the development of the piercement structure in a compressive environment is in the margin of the paleohighs and low bulges and at the top of early passive salt diapirs and preexisting basement faults. The front of the sedimentary wedges is also a preferential location for the development of piercement structures. The barrier of the paleo-high, reactivation of the preexisting basement fault, priority activation of the early passive salt dome, and progradation of the sedimentary wedge from the orogenic belt to the basin interior are favorable factors inducing piercement structure formation. An important mechanism for controlling salt piercement is to promote strong thrusting in suprasalt strata, which provides a channel for salt upwelling.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;1-s2.0-S0191814123002225-gr3_lrg.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; Fig. 3. Numerical simulation experiment model setup: (a) basic model, (b) basement fault model, &amp;copy; preexisting salt dome model, and (d) paleo-high model. The initial setting of the progradation model is consistent with the basic model. &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;1-s2.0-S0191814123002225-gr14_lrg.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; Fig. 14. Comparisons of numerical simulation experimental results and seismic profiles crossing the piercement structures in the Kuqa depression. The results show that there is a significant similarity between the experimental results and seismic data.&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>多滑脱层对川东薄皮褶皱冲断带构造倾向的影响及其演化：来自数值模拟的启示</title>
+      <link>https://geovbox.com/blog/20240214/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20240214/</guid>
+      <description>
+
+&lt;p&gt;本文揭示了多滑脱层对川东薄皮褶皱冲断带构造倾向的影响及其演化。在川东薄皮褶皱构造中发育一系列后倾为主的滑脱褶皱，这在自然界中十分罕见，并且无法用经典临界楔体理论解释。本文设计了三个离散元数值模拟实验，探讨多滑脱对川东薄皮褶皱构造倾向和演化的影响。实验结果表明，多套滑脱层有利于形成反冲为主的对冲逆冲褶皱楔。上覆滑脱层的增加影响了褶皱楔的构造倾向和断层活动，实验结果在构造倾向和断层活动方面与川东褶皱带的结构相似，表明川东盆地内部薄弱层的分布对其影响不容忽视。基于以上模拟结果，本文提出了川东褶皱带耦合地球动力学过程的运动学模型。 &lt;a href=&#34;#refer-xu2024&#34;&gt;(Xu et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-xu2024&#34;&gt;&lt;/div&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105068&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xu, W.&lt;/strong&gt;, Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,&lt;strong&gt;Journal of Structural Geology&lt;/strong&gt;,180:105068.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: insights from numerical modeling&lt;/p&gt;
+
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*,Shengxian Zhao&lt;sup&gt;2&lt;/sup&gt;, Chenglin Zhang&lt;sup&gt;2&lt;/sup&gt;, Bo Li&lt;sup&gt;2&lt;/sup&gt;, Dong Jia&lt;sup&gt;1&lt;/sup&gt;,
+Changsheng Li&lt;sup&gt;3&lt;/sup&gt; and Wei Wang&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Shale Gas Institute of PetroChina Southwest Oil &amp;amp; Gasfield Company, Chengdu, China.&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The thin-skinned fold-and-thrust belt with multiple detachments in the eastern Sichuan Basin is characterized by a series of fault-detachment folds with a backward preferred structural vergence, which is rare in nature and can’t be explained well by the classic critically taper theory. Here, three discrete element simulations were conducted to study the influence of multiple detachments on the structural vergence and evolution of the eastern Sichuan thin-skinned fold and thrust belt. The experimental results reveal that multiple detachment layers affected the bulk mechanical strength and facilitated a dually vergent thrust wedge with a backward preferred structural vergence. The addition of intermediate detachment layers influences structural vergence and fault activity of thrust wedges. With the increase in intermediate weak layers, the preferred structural vergence of these model results progressively moved from forward to nearly symmetric and eventually to backward. These results exhibit first-order structural similarities to the structural vergence and fault activity in the eastern Sichuan fold and thrust belt, which indicates that the influence of the internal distribution of weak layers within the eastern Sichuan Basin should not be ignored. The limited Cambrian evaporite layer and the widespread Silurian shale and Lower-Middle Triassic evaporite layers had significant impacts on the deformation of the fold-and-thrust belt in the eastern Sichuan basin. Consequently, we propose a kinematic model for the coupled geodynamic processes of the eastern Sichuan fold-and-thrust belt. The framework of the eastern Sichuan Basin with a number of backward fault-detachment folds was formed by Mesozoic northwestward propagation, and Cenozoic eastward propagation reactivated the folding and thrusting. The Huayingshan fault was affected by the limited Cambrian evaporite layer.&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure4-1.png&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Interpreted seismic section (a) and corresponding geological cross-sectional view (b) across the ESB (modified from Gu et al., 2021), and its position is shown in Figure 1b. The black arrows illustrate the positions of the three detachments. &amp;copy; Fault displacement statistics within the anticlines across the ESB. The fault displacements record the displacement of Permian layer in faults that at least connect the basal and top detachment layers. The displacements of minor faults between adjacent detachment layers have been disregarded. (d) The ratio of forethrust/backthrust displacements to the total displacements within the anticlines.  &lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure6-1.png&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt; Distribution of deformation (up) and velocity field (down) illustrated by (a) Model 1 with 10% BS, (b) Model 2 with 10% BS and &amp;copy; Model 3 with 10% BS and (d)14.3% BS, where γ is shear strain of the bulk overlying particles, Δt represents the period of time, Δu is the velocity between the upper surface and base, Δy represents the thickness of the particle layers, and Δx represents surface-bottom interface offset of particle motions. γ1-γ4 are measured by the angle of pink dash lines. Velocity schematic diagrams of back-vergent fold (e) and fore-vergent fold (f) with multiple detachment, which are interpreted from the squares in velocity fields of Model 3 with 10% BS and 14.3% BS, respectively.&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure8-2.png&#34; width=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;Proposed kinematic model for the coupled geodynamic processes of the ESB. The evolution of ESB during (a, b) the Mesozoic intracontinental deformation at 100-80 Ma, and &amp;copy; Cenozoic eastward growth of the Tibetan Plateau at ~30Ma (modified from Tian et al., 2018). &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>徐雯峤</title>
+      <link>https://geovbox.com/about/xuwenqiao/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/xuwenqiao/</guid>
+      <description>
+
+&lt;div class=&#34;row author-list&#34;&gt;
+    &lt;div class=&#34;col-xs-6 col-sm-3 col-md-3 col-lg-3&#34;&gt;
+          &lt;img src=&#34;xuwenqiao.png&#34; alt=&#34;徐雯峤&#34; class=&#34;img-circle&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code&gt;南京大学 博士研究生
+2019~现在，主要做构造演化及活动构造相关的离散元数值模拟。    
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;QQ：&lt;code&gt;326306955&lt;/code&gt; (Ivy)&lt;br /&gt;
+邮箱： &lt;code&gt;Ivyxwq@smail.nju.edu.cn&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;南京大学 构造数值模拟集群管理员&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiao.geovbox.com&#34; target=&#34;_blank&#34;&gt;徐雯峤的个人网站&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Ivyxwq&#34; target=&#34;_blank&#34;&gt;徐雯峤的GitHub&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;教育经历&#34;&gt;教育经历&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2023.11~2024.02  法国巴黎地球物理学院（IPGP,CNRS)        Tectonics lab               （短期交流）&lt;/li&gt;
+&lt;li&gt;2019.09~至今  南京大学         地球探测与信息技术               （硕博连读）&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2015.09~2019.07  中国石油大学（华东）      理科实验班（数理)                  （本科）&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;专利和软件著作权&#34;&gt;专利和软件著作权&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;发明专利：&lt;a href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0ManZHCyoNk-lwS3y-OLIR0jkpLUobRbf1bS1mV7lVm0MbHhvhU93NbegZGA6PYlB&amp;amp;uniplatform=NZKPT&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟,吴珍云,贾东,&lt;strong&gt;徐雯峤&lt;/strong&gt;,汪伟. 一种基于离散元的裂谷盆地伸展过程模拟方法[P]. 江西省：CN111008472A,2020-04-14.&lt;/a&gt;   (授权)&lt;/li&gt;
+&lt;li&gt;软件著作权：离散元数值模拟后处理系统 V1.0. 东华理工大学, 钟军, 李长圣,&lt;strong&gt;徐雯峤&lt;/strong&gt;, 魏华敬, 吴珍云. &lt;strong&gt;2021&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;论文发表&#34;&gt;论文发表&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105068&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xu, W.&lt;/strong&gt;, Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,&lt;strong&gt;Journal of Structural Geology&lt;/strong&gt;,180:105068.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.19762/j.cnki.dizhixuebao.2023136&#34; target=&#34;_blank&#34;&gt;尹宏伟,贾东,汪伟,李长圣,&lt;strong&gt;徐雯峤&lt;/strong&gt;,杨庚兄,贺婉慧.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展.&lt;strong&gt;地质学报&lt;/strong&gt;,2023,97(09):2914-2926.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16108/j.issn1006-7493.2021057&#34; target=&#34;_blank&#34;&gt;吴超,&lt;strong&gt;徐雯峤&lt;/strong&gt;*, 李青,汪伟,陈维力,尹宏伟,屈元基.库车坳陷克深地区先存被动盐底辟挤压变形数值模拟.&lt;strong&gt;高校地质学报&lt;/strong&gt;,2023,29(02):240-250.&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16108/j.issn1006-7493.2022029&#34; target=&#34;_blank&#34;&gt;赵圣贤,&lt;strong&gt;徐雯峤&lt;/strong&gt;*,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,李长圣.川东南泸州地区多滑脱层构造特征及变形机制.高校地质学报,2023,29(05):726-734.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2022.04.001&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟*,&lt;strong&gt;徐雯峤&lt;/strong&gt;,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1029/2021TC006899&#34; target=&#34;_blank&#34;&gt;Yang, G., Yin, H., Gan, J., Wang, W., Zhu, J., Jia, D., Xiong, X., &lt;strong&gt;Xu, W.&lt;/strong&gt;, 2022. Explaining structural difference between the eastern and western zones of the Qiongdongnan Basin, northern South China Sea: Insights from scaled physical models. Tectonics, 41, e2021TC006899.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Xu, W.&lt;/strong&gt;, Yin, H.*, Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/A6y6QcwC&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;徐雯峤&lt;/strong&gt;,汪伟*,尹宏伟,贾东,李长圣,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.&lt;strong&gt;地质学报&lt;/strong&gt;, 2020, 94(06): 1740-1751. &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;徐雯峤&lt;/strong&gt; (2019) 基于离散元数值模拟方法研究构造转换带变形特征与变形机制. &lt;strong&gt;本科论文&lt;/strong&gt;. 南京大学.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;会议&#34;&gt;会议&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;徐雯峤,尹宏伟,赵圣贤等.川东褶皱冲断带多滑脱层构造特征及其变形机制：来自数值模拟的启示. &lt;strong&gt;2023年中国地球科学联合学术年会论文集&lt;/strong&gt;, 2023 （报告+论文）&lt;/li&gt;
+&lt;li&gt;Xu, W., Yin, H.， “Application of Discrete Element Numerical Simulation in Fold and Thrust Belts”; &lt;strong&gt;Oral presentation on Society for Industrial and Applied Mathematics 2022 Annual Meeting: Recent Advances in Computational Geosciences&lt;/strong&gt;; Virtual, July 2022&lt;/li&gt;
+&lt;li&gt;徐雯峤,尹宏伟,李长圣.塔里木盆地库车坳陷中西段盐相关构造特征及控制因素：基于离散元数值模拟的认识. &lt;strong&gt;2021年中国地球科学联合学术年会论文集&lt;/strong&gt;, 2021 （论文）&lt;/li&gt;
+&lt;li&gt;徐雯峤,尹宏伟,汪伟等.库车坳陷西段构造变形演化的数值模拟. &lt;strong&gt;2020年中国地球科学联合学术年会论文集&lt;/strong&gt;, 重庆，2020（展板+论文）&lt;/li&gt;
+&lt;li&gt;徐雯峤，尹宏伟*，李长圣，汪伟. 构造转换带变形特征与变形机制：基于离散元数值模拟的认识. &lt;strong&gt;2019中国地球科学联合学术年会论文集&lt;/strong&gt;, 北京, 2019.（报告+论文）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;科研项目&#34;&gt;科研项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;克拉通盆地深层古裂陷与隆起演变机制模拟，&lt;strong&gt;中国石油勘探开发研究院&lt;/strong&gt;，2019-至今，&lt;strong&gt;参与&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;构造演化数值模拟实验, 2019.06-2019.08, &lt;strong&gt;中国地质大学（北京）&lt;/strong&gt;, &lt;strong&gt;参与&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;其他论文&#34;&gt;其他论文&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&amp;amp;dbname=CJFDLAST2019&amp;amp;filename=YZYF201901013&amp;amp;uid=WEEvREcwSlJHSldRa1FhcTdnTnhYWU9LejJJZHpTOExQTFljMlM2U1JmST0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&amp;amp;v=Mjg0OTZXNzNMUERmU2FMRzRIOWpNcm85RVo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWU9kdEZDcms=&#34; target=&#34;_blank&#34;&gt;周广旭,张楚楚,徐雯峤,董开拓,朱海丰,刘鹏.低压氢等离子体发光光谱.原子与分子物理学报,2019,36(01):73-81.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;奖励&#34;&gt;奖励&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2023年度优秀研究生&lt;/li&gt;
+&lt;li&gt;模范党员&lt;/li&gt;
+&lt;li&gt;南京大学博士英才奖学金&lt;/li&gt;
+&lt;li&gt;南京大学硕士英才奖学金&lt;/li&gt;
+&lt;li&gt;南京大学优秀共青团员&lt;/li&gt;
+&lt;li&gt;2020年度优秀研究生&lt;/li&gt;
+&lt;li&gt;2018年国家奖学金&lt;/li&gt;
+&lt;li&gt;2018年美国大学生数学建模大赛Finalist特等奖提名奖&lt;/li&gt;
+&lt;li&gt;2017年国家奖学金&lt;/li&gt;
+&lt;li&gt;2016年国家奖学金&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CGU报告-离散元数值模拟在含油气盆地构造变形定量分析中的应用(2023-10-16)</title>
+      <link>https://geovbox.com/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20231015/</guid>
+      <description>&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;2023年中国地球科学联合学术年会&lt;br /&gt;
+97专题：含油气盆地构造理论、技术与实践新进展&lt;br /&gt;
+时  间：&lt;strong&gt;10月16日&lt;/strong&gt;&lt;br /&gt;
+地  点：&lt;strong&gt;珠海 珠海国际会展中心 展览中心二层vip-1&lt;/strong&gt;&lt;br /&gt;
+题  目：&lt;strong&gt;离散元数值模拟在含油气盆地构造变形定量分析中的应用:研究现状、应用实例、优势挑战&lt;/strong&gt;&lt;br /&gt;
+报告人：&lt;em&gt;李长圣&lt;/em&gt;&lt;br /&gt;
+作者：李长圣&lt;sup&gt;1*&lt;/sup&gt;，尹宏伟&lt;sup&gt;2&lt;/sup&gt;，徐雯峤&lt;sup&gt;2&lt;/sup&gt;，汪伟&lt;sup&gt;2&lt;/sup&gt;，吴珍云&lt;sup&gt;1&lt;/sup&gt;，张召&lt;sup&gt;1&lt;/sup&gt;&lt;br /&gt;
+1. 东华理工大学地球科学学院, 江西 南昌 330013&lt;br /&gt;
+2. 南京大学地球科学与工程学院, 江苏 南京 210023&lt;br /&gt;
+*通讯作者E-mail: lichangsheng@ecut.edu.cn&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;摘  要:&lt;/strong&gt;随着离散元理论和计算机技术的发展，离散元已经广泛应用到含油气盆地构造变形定量分析中。相较于传统的沙箱模拟实验，离散元可以更精确地控制实验的边界条件，定量地揭示构造变形过程中的应力应变时空演化特征，从多角度深化科研人员对构造变形机制的认识。前人基于离散元数值模拟方法在含油气盆地构造变形研究和油气资源勘探等方面，已经取得了大量的研究成果。然而，离散元在含油气盆地构造变形研究中也存在一些限制和不足。受制于计算机的计算能力，目前盆地构造变形研究主要采用二维离散元模拟。但是，盐构造的侧向运移、走滑断裂的三维演化等相关问题研究仍有赖于三维离散元模拟方法的应用。
+本文结合离散元在含油气盆地构造变形定量分析中的研究现状，展示了其在挤压构造、伸展构造和走滑断裂定量研究中的应用实例，并总结了其未来发展的优势和挑战。离散元将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于含油气盆地构造变形定量研究，在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力，是未来的含油气盆地构造变形定量研究的主要方法之一。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键词：数值模拟，沉积盆地，构造变形，定量分析，应力应变&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;部分PPT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;11.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;12.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;13.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;23.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;24.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;25.PNG&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>会议报告-离散元数值模拟在沉积盆地构造变形定量分析中的应用-研究现状、应用实例、优势挑战(2023-04-16)</title>
+      <link>https://geovbox.com/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20230413/</guid>
+      <description>&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;第六届全国矿田构造与深部找矿预测学术研讨会&lt;br /&gt;
+（一）矿田构造理论、实验与技术方法&lt;br /&gt;
+时  间：&lt;strong&gt;4 月16 日 11:55-12:15&lt;/strong&gt;&lt;br /&gt;
+地  点：&lt;strong&gt;长沙 长沙华晨豪生大酒店 5 楼多功能厅5&lt;/strong&gt;&lt;br /&gt;
+题  目：&lt;strong&gt;离散元数值模拟在沉积盆地构造变形定量分析中的应用:研究现状、应用实例、优势挑战&lt;/strong&gt;&lt;br /&gt;
+报告人：&lt;em&gt;李长圣&lt;/em&gt; 东华理工大学&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;摘  要:&lt;/strong&gt;随着离散元理论和计算机技术的发展，离散元已经广泛应用到沉积盆地构造变形定量分析中。相较于传统的沙箱模拟实验，离散元可以更精确地控制实验的边界条件，定量地揭示构造变形过程中的应力应变特征，从多角度深化科研人员对构造变形机制的认识。前人基于离散元数值模拟方法在沉积盆地构造变形研究和油气资源勘探等方面，已经取得了大量的研究成果。然而，离散元在沉积盆地构造变形研究中也存在一些限制和不足。受制于计算机的计算能力，目前盆地构造变形研究主要采用二维离散元模拟。但是，盐构造的侧向运移、走滑断裂的三维展布及其发育过程等相关问题研究仍有赖于三维离散元模拟方法的应用。&lt;br /&gt;
+该报告将结合离散元在沉积盆地构造变形定量分析中的研究现状，讲解其在挤压构造、伸展构造和走滑断裂定量研究中的应用实例，并总结其未来发展的优势和挑战。离散元将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于沉积盆地构造变形定量研究，在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力，是未来的沉积盆地构造变形定量研究的主要方法之一。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键词：数值模拟，沉积盆地，构造变形，定量分析，应力应变&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;部分PPT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;6.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;11.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;12.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;13.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;23.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;24.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;25.PNG&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识(Tectonics)</title>
+      <link>https://geovbox.com/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221110/</guid>
+      <description>
+
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;&lt;strong&gt;本文VBOX(ZDEM)实验脚本下载：&lt;/strong&gt;
+The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg&#34; target=&#34;_blank&#34;&gt;https://osf.io/tz2qg&lt;/a&gt;; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy&#34; target=&#34;_blank&#34;&gt;https://osf.io/pa9sy&lt;/a&gt;).&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;本文研究了位于青藏高原东缘的龙门山褶皱冲断带及其毗邻的川西前陆盆地的构造变形与地表过程的相互作用。利用离散元数值模拟的方法，研究了不同力学性质的滑脱层以及同构造侵蚀/沉积过程对龙门山和川西前陆盆地构造演化的影响。模拟结果显示：晚新生代的两期地表过程显著地影响着龙门山内陆及前陆地区的逆冲序列与应变局部化。在缺少地表过程的影响下，褶皱冲断带以“前展式”向前传播，而在有地表过程中则以“乱序式”（out-of-sequence）的逆冲方式。作者推断晚新生代以来，从四川盆地向西至青藏高原的大规模侵蚀作用传播的影响下，龙门山内陆演变为次临界状态。构造活动性后撤至高原的边缘，导致了龙门山的快速隆升并抑制了大量缩短变形传播至前陆盆地。前陆冲断带沿浅部滑脱层的稳定滑移导致前缘龙泉断层的形成和生长。这些结果解释了为何龙门山内陆冲断带和川西前陆冲断带现今同时处于地震活动状态的原因。该研究对活跃地表过程作用下的褶皱冲断带地震潜在活动性的研究提供了重要的启示&lt;a href=&#34;#refer-wang2022&#34;&gt;(Wang et al.,2022)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;div id=&#34;refer-wang2022&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Wang, M., Wang, M., Feng, W., Yan, B., &amp;amp; Jia, D. (2022). Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. &lt;strong&gt;Tectonics&lt;/strong&gt;, 41, e2022TC007515. &lt;a href=&#34;https://doi.org/10.1029/2022TC007515&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2022TC007515&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt: Insights From Discrete-Element Modeling&lt;br /&gt;
+地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Maomao Wang&lt;sup&gt;1&lt;/sup&gt;,Ming Wang&lt;sup&gt;1&lt;/sup&gt;,Wang Feng&lt;sup&gt;1&lt;/sup&gt;,Bing Yan&lt;sup&gt;1&lt;/sup&gt;,Dong Jia&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Institute of Tectonics and Geophysics, College of Oceanography, Hohai University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;We investigated interactions between structural deformation and surface processes in the Longmen Shan fold-and-thrust belt and the adjacent western Sichuan foreland basin (WSFB) in the eastern margin of the Tibetan Plateau. The discrete-element modeling (DEM) method was used to study the influences of the various mechanical properties of the detachments and syn-tectonic erosion/deposition on the structural evolution of the Longmen Shan and WSFB. DEM simulations demonstrated two stages of surface processes during the Late Cenozoic profoundly influenced thrusting sequences and strain localization in the hinterland and foreland portions of the Longmen Shan. Models indicate that the fold-and-thrust belt lacking surface processes propagate in a forward-breaking manner, whereas those with surface processes develop following an out-of-sequence thrusting pattern. We infer that large-scale erosion propagation from the Sichuan Basin westward to the Tibetan Plateau since Late Cenozoic caused the Longmen Shan hinterland to reach a subcritical wedge state. Tectonic activity retreats to the edge of Plateau, enhancing the rapid uplift of the Longmen Shan and inhibiting the propagation of substantial shortening deformation to the foreland basin. The foreland thrust belt slides stably along the shallow detachment, causing the initiation and growth of the Longquan fault in the leading front. These results explain why both the Longmen Shan hinterland and the western Sichuan foreland thrust belts are currently in a state of simultaneous seismic activity. Our findings offer important implications regarding the seismic potentials of other fold-and-thrust belts that interact with dynamic surface processes.&lt;/p&gt;
+
+&lt;h5&gt; &lt;/h5&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0001-m.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt; Figure 1. Geological map of the eastern Tibetan Plateau showing the focal mechanisms of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. The red lines represent surface ruptures of the 2008 Wenchuan earthquake (&lt;a href=&#34;#refer-Liu-Zeng2009&#34;&gt;Liu-Zeng et al., 2009&lt;/a&gt;; &lt;a href=&#34;#refer-Xu2009&#34;&gt;Xu et al., 2009&lt;/a&gt;). The gray rectangles represent the age of previous published low-temperature thermochronology data, from (&lt;a href=&#34;#refer-Wang2012&#34;&gt;E. Wang et al., 2012&lt;/a&gt; )&lt;sup&gt;[1]&lt;/sup&gt; and (&lt;a href=&#34;#refer-Richardson2008&#34;&gt;Richardson et al., 2008&lt;/a&gt;)&lt;sup&gt;[2]&lt;/sup&gt;. The brown lines represent the structural profiles in the study area, where profile (a–c) is shown in Figures 5a–5c, respectively. LQF: Longquan Fault; PGT: Pengguan Thrust; RFBT: Range Front Blind Thrust; WLF, Wulong Thrust; WLT: Wenchuan–Maowen Fault; XPT: Xiongpo Thrust; YBT: Yingxiu–Beichuan Thrust.
+ &lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0006-m.webp&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt; Figure 6. (a) Representative structural profile a (see location in Figure 1) in the central segment of the Longmen Shan fold-and-thrust belt (Jia et al., 2010). (b) Restoration results of deformed horizons in foreland region of structural profile (a) The shortening of the base of Jurassic layer in foreland region is 13.3 km. The Cenozoic sedimentary strata within hinterland of the Longmen Shan in this profile are absent.
+&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0008-m.webp&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;Figure 8. Schematic representation of the experimental setup. (a) The initial model setup contained two-level detachments with differential mechanical strengths. (b) When simulating the surface processes in the first stage of Model I-2, the eroded materials from the hinterland were deposited sequentially in the foreland. c) When simulating the surface processes in the second stage of Model I-2, surface erosion occurred throughout the wedge, and materials were transported from the system. The stages of b and c of Model I-2 are not to scale.
+&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0009-m.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;Figure 9. The progressive evolution observed in Model I-1 (conducted with five stages and no surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-1 at total shortenings of 10 km (a), 15 km (b), 24 km &amp;copy;, 30 km (d), or 35 km (e). T1–T7 denote thrust faults in the order of their formation. RFBT, Range Front blind thrust.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0010-m.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;Figure 10. The progressive evolution observed in Model I-2 (conducted with five stages and surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-2 at total shortenings of 15 km (a), 19 km (b), 31 km &amp;copy;, 33 km (d), or 35 km (e). T1–T5 denote thrust faults in the order of their formation.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;tect21806-fig-0014-m.webp&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;Figure 14. Comparison between the structural cross-section of the central Longmen Shan thrust belt and the results of Model I-2 (simulated with surface processes). (a) Structural profiles of the central Longmen Shan (modified from Jia et al., 2010) and the locations of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. (b, c) Comparison of the structural profile and range front structure in Model I-2. (d, e) Comparison of the structural profile and foreland thrust belt in Model I-2. LQF, Longquan Fault. The location of (e) is shown in structural profile a1 in Figure 1.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+
+&lt;p&gt;Based on DEM simulations, we reveal the interaction between thrusting propagation and surface processes, and its influence on modern seismicity in the Longmen Shan fold-and-thrust belt and its adjacent WSFB. Based on our study results, we obtain the following conclusions:&lt;/p&gt;
+
+&lt;p&gt;DEM simulations without surface processes indicated that the fold-and-thrust belt developed in an in-sequence thrusting manner. In contrast, DEM simulations with surface processes revealed that the Longmen Shan fold-and-thrust belt developed in an out-of-sequence manner during the late Cenozoic. Starting at ∼30–20 Ma, rapid denudation processes occurred in the Longmen Shan hinterland, and the YBT and PGT Faults continued to be active. From ∼10 Ma to the present, large-scale propagation of denudation occurred from the Sichuan Basin toward the Tibetan Plateau, and tectonic activity retreated to the hinterland of Longmen Shan. Surface processes were relatively quiescent between these two stages, structural shortening propagated forward through the RFBT, and formed the Longquan Fault in the Sichuan basin.&lt;/p&gt;
+
+&lt;p&gt;Instrumental and historical earthquakes indicate that the frontal faults in the WSFB and the imbricate faults in the Longmen Shan hinterland region are simultaneously seismically active. We interpret that the activity of the Coulomb wedge of the Longmen Shan is related to the latest stage of surface process. Since ∼10 Ma, large and widespread propagation of erosion from the Sichuan Basin toward the eastern Tibet Plateau caused the Longmen Shan hinterland to enter a subcritical state. The reactivation of reverse faults in the hinterland enhanced the rapid uplift of the Longmen Shan and inhibited most of its slip lateral propagation to the foreland basin. The WSFB is currently in a critical state, with wedge slides occurring steadily along the shallow detachment, with the occurrence of frequent, small-moderate earthquakes in the frontal thrust.&lt;/p&gt;
+
+&lt;p&gt;The distribution of Mesozoic salt lakes in the interior of the Sichuan Basin influenced the location, rate, and structural style of thrust slip that propagated from the Longmen Shan hinterland to the foreland basin. Our simulations indicate that the front blind thrust of Longmen Shan range gradually connects the basal detachment and shallow detachment in foreland, and its position is controlled by the western boundary of the salt-lake. Results of comparative experiments show that fault slips from the hinterland of Longmen Shan entered the southwestern Sichuan basin extensively to form several thrust fault-related folds above shallow detachment. However, slip in the northern Longmen Shan was confined to the range front and did not propagate into the northwest Sichuan basin. This suggests that the structural variability along the strike in the Longmen Shan can be explained from the perspective of the internal factors of the Sichuan basin.&lt;/p&gt;
+
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+
+&lt;p&gt;This research was supported by the National Key R&amp;amp;D Program of China (2021YFC3000604) and the National Natural Science Foundation of China (42172232, 41702202, and 41927802). Numerical simulations were performed on the discrete element modeling software VBOX (www.geovbox.com). The authors thank Julia Morgan (Rice University) for generously sharing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. The authors thank Dr. Chang-Sheng Li (East China University of Technology) for his suggestions in the numerical simulations. The numerical simulation of this study is performed on the computing facilities in the High-Performance Computing Center (HPCC) of Nanjing University. The authors thank Jonny Wu and Sharadha Sathiakumar for their constructive reviews.&lt;/p&gt;
+
+&lt;h3 id=&#34;data-availability-statement&#34;&gt;Data Availability Statement&lt;/h3&gt;
+
+&lt;p&gt;The authors used VBOX version 2.1 (C. Li et al., 2021; &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) for the discrete-element method (DEM) numerical simulations. Numerical simulations were conducted at the High-Performance Computing Center (HPCC), Nanjing University. The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg&#34; target=&#34;_blank&#34;&gt;https://osf.io/tz2qg&lt;/a&gt;; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy&#34; target=&#34;_blank&#34;&gt;https://osf.io/pa9sy&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Li2019&#34;&gt;&lt;/div&gt;
+李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Liu-Zeng2008&#34;&gt;&lt;/div&gt;
+Liu-Zeng, J., Zhang, Z., Wen, L., Tapponnier, P., Sun, J., Xing, X., et al. (2009). Co-seismic ruptures of the 12 May 2008, Ms 8.0 Wenchuan earthquake, Sichuan: East–west crustal shortening on oblique, parallel thrusts along the eastern edge of Tibet. Earth and Planetary Science Letters, 286, 355–370. &lt;a href=&#34;https://doi.org/10.1016/j.epsl.2009.07.017&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.epsl.2009.07.017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., &amp;amp; Shaw, J. (2009). Coseismic reverse- and oblique-slip surface faulting generated by the 2008 Mw 7.9 Wenchuan earthquake, China. Geology, 37, 515–518. &lt;a href=&#34;https://doi.org/10.1130/G25462A.1&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1130/G25462A.1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Wang2012&#34;&gt;&lt;/div&gt;
+Wang, E., Kirby, E., Furlong, K. P., Van Soest, M., Xu, G., Shi, X., et al. (2012). Two-phase growth of high topography in eastern Tibet during the Cenozoic. Nature Geoscience, 5, 640–645. &lt;a href=&#34;https://doi.org/10.1038/ngeo1538&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1038/ngeo1538&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Richardson2008&#34;&gt;&lt;/div&gt;
+Richardson, N. J., Densmore, A. L., Seward, D., Fowler, A., Wipf, M., Ellis, M. A., et al. (2008). Extraordinary denudation in the Sichuan Basin: Insights from low-temperature thermochronology adjacent to the eastern margin of the Tibetan Plateau. Journal of Geophysical Research, 113, B04409. &lt;a href=&#34;https://doi.org/10.1029/2006JB004739&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2006JB004739&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第七次构造数值模拟实战课程在河海大学海洋学院成功举办</title>
+      <link>https://geovbox.com/blog/20220922/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220922/</guid>
+      <description>&lt;p&gt;2022年09月22日第七次数值模拟实战课程在河海大学海洋学院成功举办，河海大学王毛毛老师、7位河海大学和3位南京大学的研究生参加了培训，感谢老师和同学们的支持。&lt;/p&gt;
+
+&lt;p&gt;至今，VBOX/ZDEM软件培训已经成功举办七次：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;2019年04月 南京大学&lt;/li&gt;
+&lt;li&gt;2019年06月 南京大学&lt;/li&gt;
+&lt;li&gt;2019年12月 东华理工大学&lt;/li&gt;
+&lt;li&gt;2020年01月 中国石油勘探开发研究院&lt;/li&gt;
+&lt;li&gt;2020年05月 中国地质大学（北京） 线上  &lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2021年07月 zdem2.1@并行超算云直播交流  线上 &lt;a href=&#34;https://www.bilibili.com/video/BV1m64y1z7dR&#34; target=&#34;_blank&#34;&gt;https://www.bilibili.com/video/BV1m64y1z7dR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2022年09月 河海大学&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;未参加过ZDEM构造数值模拟实战课程的同学可以自学&lt;/strong&gt; &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34;&gt;离散元数值模拟软件ZDEM初级教程&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;地  点：河海大学海洋学院&lt;br /&gt;
+时  间：2022年9月22日(周四) 14:00-17:00&lt;br /&gt;
+主讲人：ZDEM开发者 李长圣&lt;br /&gt;
+内  容：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;理论：构造模拟与离散元&lt;/li&gt;
+&lt;li&gt;软件：ZDEM简介与操作演示&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;实战中，讲解了示例 &lt;a href=&#34;https://geovbox.com/example/ex1_push/&#34;&gt;一个示例学会ZDEM&lt;/a&gt; ，并提供9个示例脚本。
+其中，7个示例为公开状态。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex1_push/&#34;&gt;一个示例学会ZDEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex2_syn_erosion/&#34;&gt;剥蚀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex3_syn_sedimentaion/&#34;&gt;沉积&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex4_pre_struct/&#34;&gt;断层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex5_detachment/&#34;&gt;滑脱层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex6_palaeohigh/&#34;&gt;古隆起&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex7_extens_rigid/&#34;&gt;刚性基底 伸展构造&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;伸展构造韧性基底 (待公开)&lt;/li&gt;
+&lt;li&gt;任意形状基底生成 (待公开)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.PNG&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分PPT&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.PNG&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分PPT1&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.PNG&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分PPT2&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;4.PNG&#34; width=&#34;600px&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;部分PPT3&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的挤压构造定量分析与模拟 (大地构造与成矿学)</title>
+      <link>https://geovbox.com/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220901/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;下载：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2022.04.001&#34; target=&#34;_blank&#34;&gt;李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,46(04):645-661.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;相关ZDEM脚本见后文&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;离散元方法在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力, 是未来的构造变形定量研究的主要方向之一。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;基于离散元的挤压构造定量分析与模拟&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;李长圣&lt;sup&gt;1,2,3,4&lt;/sup&gt;, 尹宏伟&lt;sup&gt;3*&lt;/sup&gt;, 徐雯峤&lt;sup&gt;3&lt;/sup&gt;, 吴珍云&lt;sup&gt;1, 2&lt;/sup&gt;,
+管树巍&lt;sup&gt;4&lt;/sup&gt;, 贾东&lt;sup&gt;3&lt;/sup&gt;, 任荣&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;东华理工大学 核资源与环境国家重点实验室, 江西 南昌 330013;&lt;/li&gt;
+&lt;li&gt;东华理工大学 地球科学学院, 江西 南昌 330013;&lt;/li&gt;
+&lt;li&gt;南京大学 地球科学与工程学院, 江苏 南京 210023;&lt;/li&gt;
+&lt;li&gt;中国石油勘探开发研究院, 北京 100083&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;随着离散元理论和计算机技术的发展, 离散元方法已经广泛应用到不同尺度的构造模拟中。相较于传统的沙箱模拟实验, 离散元可以更精确地控制实验的边界条件, 定量的分析构造变形过程, 有助于从细观尺度深入认识地层力学性质对构造变形过程的影响。本文系统阐述了基于离散元的构造变形定量分析方法, 结合一个典型的挤压构造离散元数值模拟试验, 模拟了水平挤压环境下构造的形成过程, 并对变形过程中的应力、应变分布变化与裂缝生成规律进行了分析, 取得以下认识：(1) 该模拟实验的构造以前展式的逆冲叠瓦断层为主, 断层从挤压端到远离挤压端依次活动; (2) 裂缝与断层形成有密切关系, 局部区域内聚集的大量裂缝是产生断层的诱因; (3) 断层形成初期, 断层内物质运动距离较小, 产生裂缝增量最多; 断层活动后期, 裂缝增量减少; (4) 体积应变可以表征裂缝类型(拉张或压缩), 变形应变可以区分正向和反向逆冲断层; (5) 平均应力大小与地形起伏呈正相关关系, 最大剪切应力持续在将要形成的新断层处累积, 直至该新断层形成, 最大剪切应力继而消散, 继续往前传播, 在下一个将要形成的新断层处累积。研究结果表明离散元方法在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;fig2.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;(a) 主应力差和轴向应变；(b) 剪切强度包络线。&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;图2  双轴实验结果&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig3.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图3  初始模型&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig4.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图 4 模型收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时楔体的构造解释&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig6.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图 6 收缩量 1 km (a), 4 km (b), 9 km (c), 16 km (d), 20 km (e)时, 粘结力链分布(蓝色为粘结力链, 黄色为无粘结的接触)&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig8.jpg&#34; width=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图8  断层的滑移曲线随收缩量的变化(断层F1、 F2、 F3和F4见图 4, 断层滑移值选取绿色层测量)&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig9.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;图a中4个点分别选取自绿色标志层中的断层F1、F2、F3和F4内部的四个颗粒, 为便于识别, 这四个颗粒半径放大3倍, 蓝色力链为监测点周围1 km范围内的粘结力链。&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;图9 点PF1、PF2、PF3和PF4的运动路径(a), 随着模型收缩, 点PF1、PF2、PF3和PF4累计位移量(b), 点PF1、PF2、PF3和PF4的周围1 km范围内, 模型每收缩1 km, 新断开的粘结力链数(c)
+&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig10.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;其中, 蓝色表示体压缩, 红色表示体膨胀, 颜色深浅表征体积变化的大小。其中, (e)中半透明黑色为标志层。&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+图10  收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时, 模型内的累积体积应变
+&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;fig15.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;黑色线条为应力等值线, 黑色点为|变形应变|&amp;gt;4的点, 表征了断层的位置。图(e)中, 绿色层为标志层。&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+图15  收缩量为1 km (a)、4 km (b)、9 km (c)、16 km (d)、20 km (e)时, 最大剪切应力分布
+&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;本文的数值计算是在南京大学高性能计算中心的计算集群上完成的, 数值模拟实验使用课题组自主研发的离散元数值模拟软件完成, 更多构造模拟示例见&lt;a href=&#34;https://geovbox.com。文中采用的应变计算代码&#34; target=&#34;_blank&#34;&gt;https://geovbox.com。文中采用的应变计算代码&lt;/a&gt;, 修改自莱斯大学Julia K. Morgan和Thomas Fournier的脚本, 在此表示感谢。楔体要素测量程序源码见 &lt;a href=&#34;https://github.com/demsheng/Quantitative-wedge&#34; target=&#34;_blank&#34;&gt;https://github.com/demsheng/Quantitative-wedge&lt;/a&gt; 。中国石油大学(北京)余一欣副教授和刘志娜副教授对本文进行了认真而专业的审阅, 提出了建设性修改建议, 在此一并致以特别感谢。&lt;/p&gt;
+
+&lt;h4 id=&#34;zdem脚本代码&#34;&gt;ZDEM脚本代码&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;沉积过程。&lt;a href=&#34;gen.py&#34; target=&#34;_blank&#34;&gt;gen.py&lt;/a&gt; 中内容如下：&lt;/p&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title: 基于离散元的挤压构造定量分析与模拟:1 沉积
+# date: 2022-09-01
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
+# more info, see www.geovbox.com
+#######################################
+start
+set disk 0
+BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 kn=4e10 ks=4e10 fric 0.00 
+GLINE P1 (   1000.0 ,  1000.0 ) P2 (  61200.0 ,   1000.0 ) r 40.0 GROUP bom_wall
+GLINE P1 (   1000.0 ,  1120.0 ) P2 (   1000.0 ,  19000.0 ) r 80.0 GROUP lef_wall
+GLINE P1 (  61000.0 ,  1120.0 ) P2 (  61000.0 ,  19000.0 ) r 80.0 GROUP rig_wall
+
+GEN num 200000, rad discrete 60.0 80.0,  x ( 1000 61000), y (1000 16000), COLOR black 
+PROP den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2,  damp 0.4 hertz
+
+prop color blue    range group bom_wall
+prop color black   range group lef_wall
+prop color black   range group rig_wall
+
+fix x y  spin range group bom_wall
+fix x y  spin range group lef_wall
+fix x y  spin range group rig_wall
+
+SET  DT 5e-2,  GRAVITY ( 0.0,  -9.8 )
+PROP damp 0.4
+DRAW INTERVAL 1000, bfill wall bondc ;,bid,bang  mesh, cforce
+
+SET  stepbar  1000
+SET  save    50000
+set  print   1000
+set  ps      1000
+
+CYC 5000
+
+del range x 1001 60999 y 7000 99999
+CYC 5000
+exp init6km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+
+del range x 1001 60999 y 6000 99999
+CYC 5000
+exp init5km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+
+stop&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;挤压过程。&lt;a href=&#34;push.py&#34; target=&#34;_blank&#34;&gt;push.py&lt;/a&gt; 中内容如下：
+&lt;div class=&#34;notices info&#34; &gt;
+&lt;p&gt;沉积过程，随机生成颗粒，可能导致初始模型与文章中有差异，下载文章中初始模型：&lt;a href=&#34;init5km_xyr.dat&#34; target=&#34;_blank&#34;&gt;init5km_xyr.dat&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+
+
+
+                          
+
+&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;######################################
+# title: 基于离散元的挤压构造定量分析与模拟:2 挤压
+# date: 2022-09-01
+# authors: 李长圣
+# E-mail: sheng0619@163.com
+# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
+# more info, see www.geovbox.com
+#######################################
+load init5km_xyr.dat
+
+set disk 0
+BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 kn=4e10 ks=4e10 fric 0.00 
+GLINE P1 (   1000.0 ,  1000.0 ) P2 (  61200.0 ,   1000.0 ) r 40.0 GROUP bom_wall
+GLINE P1 (   1000.0 ,  1120.0 ) P2 (   1000.0 ,  19000.0 ) r 80.0 GROUP lef_wall
+GLINE P1 (  61000.0 ,  1120.0 ) P2 (  61000.0 ,  19000.0 ) r 80.0 GROUP rig_wall
+
+PROP color white den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2, hertz
+
+prop color blue    range group bom_wall
+prop color black   range group lef_wall
+prop color black   range group rig_wall
+fix x y   spin range group bom_wall
+fix x y   spin range group lef_wall
+fix x y   spin range group rig_wall
+
+SET  DT 5e-2,  GRAVITY ( 0.0,  -9.8 )
+PROP damp 0.4
+
+SET  stepbar  1000
+set  print    5000
+set  ps       5000
+
+prop   ebmod 2e8 gbmod 2e8 tstrength 1e7 sstrength 2e7 fric 0.3 range x 1001.0 60999.0 y 1001.0  9000.0
+prop color mg     range x 1001.0 60999.0 y 1700.0  2000.0
+prop color violet range x 1001.0 60999.0 y 2700.0  3000.0
+prop color green  range x 1001.0 60999.0 y 3700.0  4000.0
+prop color blue   range x 1001.0 60999.0 y 4700.0  5000.0
+prop color black  range x 1001.0 60999.0 y 5700.0  9000.0
+
+prop color blue   fric 0.3 range group lef_wall
+prop color blue   fric 0.3 range group rig_wall
+prop color red    fric 0.3 range group bom_wall
+
+ini  xv 2.0, range group lef_wall
+wall id 1, nodes (  500.0 , 2000.0 )  (    500.0 ,   3000.0 ), kn=0e3 ks=0e3 color black fric 0.0  xv  2.0
+imple wall id 1 xmove 20000 print 1000.0 ps 1000.0 vtk 1000.0 sav 2000.0
+stop&lt;/code&gt;&lt;/pre&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟（地球科学）</title>
+      <link>https://geovbox.com/blog/20220805/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220805/</guid>
+      <description>
+
+&lt;p&gt;本文主要研究先存构造和不同内聚力强度的双滑脱层组合对褶皱冲断带构造变形的影响，实验结果表明存在两套同等内聚力强度滑脱层的情况下，应力优先沿上滑脱层传播。结合博格达山地质模型，认为先存构造和“上弱下强”的双滑脱层模式是控制博格达山北缘新生代构造变形的关键因素&lt;a href=&#34;#refer-qu2022&#34;&gt;(屈梦雪等,2022)&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-qu2022&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;http://kns.cnki.net/kcms/detail/42.1874.P.20220623.1802.006.html&#34; target=&#34;_blank&#34;&gt;[1]屈梦雪,程晓敢,田禾丰,陈汉林,于洪洲,陈昌锦,孙思瑶.双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟[J/OL].地球科学:1-14[（录用定稿）网络首发时间：2022-06-24].&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;双滑脱层强度对博格达山北缘构造变形的影响：基于离散元数值模拟&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;屈梦雪&lt;sup&gt;1,2&lt;/sup&gt;,程晓敢&lt;sup&gt;1,2&lt;/sup&gt;*,田禾丰&lt;sup&gt;1,2&lt;/sup&gt;,陈汉林&lt;sup&gt;1,2&lt;/sup&gt;,于洪洲&lt;sup&gt;3&lt;/sup&gt;,陈昌锦&lt;sup&gt;1,2&lt;/sup&gt;,孙思瑶&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;浙江大学地球科学学院, 杭州, 310027&lt;/li&gt;
+&lt;li&gt;教育部含油气盆地构造研究中心, 杭州, 310027&lt;/li&gt;
+&lt;li&gt;中国石油化工股份有限公司胜利油田分公司勘探开发研究院,山东 东营 257015&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;博格达山北缘褶皱冲断带以横向分段、纵向分层、多期构造变形叠加、先存构造发育为主要特征，发育有中侏罗统西山窑组和下侏罗统八道湾组两套滑脱层，为探究这两套滑脱层内聚力强度差异及先存构造对冲断带新生代构造变形的影响，本次研究采用离散元数值模拟方法，在布设先存构造的基础上设计了无滑脱层模型和不同内聚力强度组合的双滑脱层模型共5组数值模拟实验。实验结果表明：双滑脱层内聚力强度相同时，上滑脱层在应力传播中占据优势；双滑脱层内聚力强度不同时，应力会优先沿弱内聚力滑脱层传递，且当下滑脱层内聚力较弱时，上滑脱层可能不发挥作用。通过对比实验结果与实际地质剖面，认为先存构造控制了冲断带构造变形的总体样式，而两套滑脱层共同控制了冲断带纵向上的变形解耦，上部滑脱层内聚力弱于下部滑脱层是影响研究区新生代构造变形的关键性因素。&lt;/p&gt;
+
+&lt;p&gt;&lt;h5&gt; &lt;/h5&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure1.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图1 博格达山西段地质构造简图&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure2.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图2 研究区典型剖面图&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure3.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图3 初始模型设计&lt;/h5&gt;&lt;/center&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;figure4.jpg&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;图4 模拟结果及体积应变对比 &lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+
+&lt;p&gt;本文的数值计算是在南京大学高性能计算中心的计算集群上完成的，模拟实验使用的软件为李长圣博士研发的离散元数值模拟软件VBOX(ZDEM)，应变的处理参考了Julia Morgan提供的脚本，在此表示感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>力学分层对塔里木克拉通内走滑断裂分层样式的控制作用(Tectonophysics)</title>
+      <link>https://geovbox.com/blog/20220406/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220406/</guid>
+      <description>
+
+&lt;p&gt;力学分层（Mechanical stratigraphy）是一种常见的地质现象，指岩层在垂向序列上表现出明显的力学性质差异(&lt;a href=&#34;#refer-Willis1893&#34;&gt;Willis, 1893&lt;/a&gt; ; &lt;a href=&#34;refer-Laubach2009&#34; target=&#34;_blank&#34;&gt;Laubach et al., 2009&lt;/a&gt; )。这种地质现象将会显著影响应变的分布，导致构造样式在不同力学层中发生急剧变化。目前，报道力学分层如何控制走滑体制内剪切变形的文献极少，尤其是克拉通内剪切变形。近年来，在塔里木克拉通盆地顺北地区陆续发现的规模性油气藏均与走滑断裂有关 &lt;a href=&#34;refer-Yun2021&#34; target=&#34;_blank&#34;&gt;(云露，2021)&lt;/a&gt;。这些分层发育的走滑断裂被岩性界面分隔，力学分层所起到的具体作用尚不清楚，是否会对油气的垂向疏导产生影响更是有待研究。&lt;br /&gt;
+针对上述问题，中国地质大学（北京）何登发教授及其团队的博士生陈槚俊、田方磊、张伟康，与中石化西北油田分公司黄诚、中国石油勘探开发研究院马德波合作，依托国家自然科学基金企业创新发展联合基金、国家重点研发计划以及中石化科技部外协项目的资助，选取塔里木克拉通中部顺北1号、5号走滑断裂带为研究对象（图1），综合钻井、2D和高精度3D地震反射资料、岩石力学实验数据、偶极子声波测井数据，建立顺北地区古生界力学剖面，总结断裂带的基本特征，利用VBOX(ZDEM)开展离散元数值模拟实验并进行应力应变分析&lt;a href=&#34;#refer-Morgan2015&#34;&gt;(Morgan，2015)&lt;/a&gt; ，探讨断裂分层发育的形成机制，最终取得以下认识&lt;a href=&#34;#refer-chen2021&#34;&gt;(Chen et al.,2022)&lt;/a&gt; ：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;顺北地区下古生界的力学剖面以3套能干层夹2套非能干层为特征；其中3组断裂分层发育于3套能干层内，相邻断层组之间存在“软连接”现象（图6）；&lt;/li&gt;
+&lt;li&gt;下伏先存构造是促进窄应变带产生的主要因素（图8，10），而力学分层的基本特点控制了分层剪切变形模式（以早–中志留世剪切变形为例，图10）；&lt;/li&gt;
+&lt;li&gt;分层剪切变形模式带来的启示：“软连接”断层不利于油气的垂向运移但利于保存，各层系断裂之间的垂向连通性可能是顺北地区油气勘探的一个重要研究方向。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-chen2022&#34;&gt;&lt;/div&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.tecto.2022.229307&#34; target=&#34;_blank&#34;&gt;Chen, J., He, D., Tian, F., Huang, C., Ma, D., Zhang, W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. &lt;strong&gt;Tectonophysics&lt;/strong&gt; 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 &lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+
+&lt;p&gt;Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China&lt;/p&gt;
+
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+
+&lt;p&gt;Jiajun Chen&lt;sup&gt;1, 2&lt;/sup&gt;， Dengfa He&lt;sup&gt;1, 2&lt;/sup&gt;, Fanglei Tian&lt;sup&gt;1, 2&lt;/sup&gt;, Cheng Huang&lt;sup&gt;3&lt;/sup&gt;, Debo Ma&lt;sup&gt;4&lt;/sup&gt;, Weikang Zhang&lt;sup&gt;1, 2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;School of Energy Resources, China University of Geosciences Beijing, Beijing 100083, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Marine Reservoir Evolution and Hydrocarbon Enrichment Mechanism, Ministry of Education, Beijing 100083, China&lt;/li&gt;
+&lt;li&gt;Northwest Oilfield Branch Company, SINOPEC, Urumqi, Xinjiang 830011, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum and Development, PetroChina, Beijing 100083, China&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;The large-scale (tens to hundreds of kilometers long) but small-displacement (&amp;lt;2 km) strike-slip faults in the Shunbei region of the Tarim Basin, NW China, provide an opportunity to document the role of mechanical stratigraphy in an intracratonic strike-slip situation. Uniaxial compression test results and dipole acoustic logging data illustrate that the lower Paleozoic mechanical profile in the Shunbei region consists of 2 incompetent layers (middle Cambrian and Upper Ordovician) and 3 competent layers (Sinian–lower Cambrian, upper Cambrian–Middle Ordovician, and Silurian). Borehole and high-resolution 3D seismic data illustrate that the 3 competent layers are characterized by low-amplitude folds and isolated brittle faults. The discrete element method (DEM) modeling results indicate that mechanical stratigraphy is an important factor controlling the softlinked faulting style that is independent of multiphase deformation. A pre-existing structure promotes the formation of narrow and localized fault zones. The early–middle Silurian evolution of the Shunbei No. 1 fault zone reflects a classic stratigraphically decoupled deformation model: the middle fault arrays (upper Cambrian–Middle Ordovician layers) and en echelon normal faults (Silurian layer) synchronously experienced leftlateral slip. These two styles of faulting have different geometries (fault dips, slips, and arrangements) but are kinematically coupled and genetically related. This proposed deformation model provides mechanical support to document deeply buried structures by characterizing genetically related shallow structures, which may be widely employed as multiphase inheritance structures with mechanical stratigraphy. We also point out that vertical fault connectivity is a key research aspect of hydrocarbon exploration in the Shunbei oilfield.&lt;/p&gt;
+
+&lt;h5&gt; &lt;/h5&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure1.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;图1 塔里木盆地中部顺托果勒低隆及邻区深层主干断裂分布图（a）、综合柱状图（b）、中奥陶统顶面（c）、奥陶系顶面（d）及志留系顶面（e）断裂分布图
+Caption: Distribution map of (a) the structural elements in the Paleozoic tectonostratigraphic unit and intracratonic small-displacement (&amp;lt; 2 km) strike-slip faults of the Shuntuoguole Lower Uplift, (b) stratigraphic column, and fault distributions (modified after 邓尚等, 2018) at the &amp;copy; top of the Middle Ordovician (T74), (d) top of the Ordovician (T70), and (e) top of the Silurian (T60). (1) = Paleozoic rock sampling location; (2) = Mesozoic rock sampling location; SRS = seismic reflection surface; TS = tectonostratigraphic unit; U = Upper; M = Middle; L = lower; Qu. = Quaternary; Ca. = Carboniferous; PDZ = principal displacement zone.
+ &lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure6.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt; 图6 顺北1号与5号断裂带地震–地质结构剖面
+Caption: Interpreted seismic cross-sections and related mechanical profiles (see Fig. 1a for location). a) W–E-oriented cross-section showing the pop-up structure of the Shunbei No. 5 fault zone (C–C&amp;rsquo;); b) W–E-oriented cross-section showing the pull-apart structure of the Shunbei No. 5 fault zone (D–D&amp;rsquo;); c) NW–SE-oriented cross-section showing the Shunbei No. 1 fault zone (E–E&amp;rsquo;).
+&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure8.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;图8 顺北走滑断裂带的四组数值模拟实验结果，包括构造变形（a, d, g, j）、体积应变（b, e, h, k）和变形应变（c, f, i, l）
+Caption: 2D numerical simulation results of the 4 models, including the (a, d, g, and j) deformations, (b, e, h, and k) volumetric strains, and (c, f, i, and l) distortional strains.
+&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;Figure10.png&#34; width=&#34;600px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h5&gt;图10 一种左行走滑断裂产生的左行剪切变形模式及其潜在的定向构造（a）与顺北1号和5号断裂带早–中志留世的分层剪切变形模式（b）
+Caption: Comparison of the (a) non-stratigraphically decoupled deformation (modified after Fossen, 2016) and potential structures formed in the upward widening shear zone and (b) early–middle Silurian stratigraphically decoupled deformation in the Tarim intracratonic left-lateral slip scenario (e.g., Shunbei No. 1 and 5 fault zones). PDZ is the principal displacement zone; R and R′ are the synthetic and antithetic shear fractures, respectively; P is the secondary shear fracture and connects the R and R′ surfaces; Φ is the angle of internal friction.&lt;/h5&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+
+&lt;p&gt;The authors wish to thank the Northwest Oilfield Branch Company (SINOPEC) and Research Institute of Petroleum Exploration and Development (CNPC) for granting access to the data. The numerical calculations in this manuscript were performed at the computing facilities of the High Performance Computing Center (HPCC) of Nanjing University. This research was financially supported by the National Natural Science Foundation of China [grant number U19B6003-01] and the National Key Research and Development Program of China [grant number 2017YFC0601405]. The authors would like to thank Julia K. Morgan for generously sharing their postprocessing scripts and algorithms, which have been used to process and display the model outputs presented here.&lt;/p&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Willis1893&#34;&gt;&lt;/div&gt;
+Willis, B., 1893. The mechanics of Appalachian structure. In: US Geol. Survey. 13th Ann. Rept, pp. 211–282.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Laubach2019&#34;&gt;&lt;/div&gt;
+Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111. &lt;a href=&#34;https://doi.org/10.1029/2019RG000671&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1029/2019RG000671&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Yun2021&#34;&gt;&lt;/div&gt;
+云露, 2021. 顺北东部北东向走滑断裂体系控储控藏作用与突破意义. 中国石油勘探, 26(03): 41-52.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Den2018&#34;&gt;&lt;/div&gt;
+邓尚, 李慧莉, 张仲培, 等. 2018. 塔里木盆地顺北及邻区主干走滑断裂带差异活动特征及其与油气富集的关系. 石油与天然气地质, 39(5): 878-888.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Li2019&#34;&gt;&lt;/div&gt;
+李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Morgan2015&#34;&gt;&lt;/div&gt;
+Morgan J K., 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120(5): 3870-3896.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;refer-Fossen2016&#34;&gt;&lt;/div&gt;
+Fossen H., 2016. Structural Geology. 2nd. United Kingdom: Cambridge University Press.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟</title>
+      <link>https://geovbox.com/blog/20230315/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20230315/</guid>
+      <description>
+
+&lt;h4 id=&#34;论文下载&#34;&gt;论文下载：&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://kns.cnki.net/kcms/detail/detail.aspx?filename=1022401115.nh&amp;amp;dbcode=CMFD&amp;amp;dbname=CMFD2022&amp;amp;v=vYLskAae-kRbfWamkMVYDbEC0D9yhdwvELrXuIsr1SwyGyi3UJFE11z7bBAEeGHb&#34; target=&#34;_blank&#34;&gt;辛文 (2021). 西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟. &lt;strong&gt;硕士论文&lt;/strong&gt;. 浙江大学.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;题目-西南天山山前冲断带构造变形控制因素研究-基于离散元数值模拟&#34;&gt;题目：西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟&lt;/h4&gt;
+
+&lt;h4 id=&#34;作者-辛文&#34;&gt;作者：辛文&lt;/h4&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;西南天山山前褶皱冲断带东段和西段变形具有显著差异，西段喀什北缘冲断带以发育“堆垛”构造和基底卷入逆冲构造为特征，与其相邻的东段柯坪冲断带却发育大规模叠瓦状薄皮滑脱构造，是什么因素控制了冲断带的变形差异。论文基于地震解释剖面，采用离散元数值模拟研究手段，分析单变量控制因素对冲断带变形的影响。论文共设计二十八组实验，探讨滑脱层强度、滑脱层位置、盖层厚度、先存断裂、单双向挤压及双向挤压距离等因素对西南天山山前褶皱冲断带构造变形的影响。 根据实验结果得出以下结论：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;滑脱层内聚力的大小对变形具有重要的控制作用。滑脱层内聚力大小控制其下断裂向上突破的难易程度，滑脱层内聚力较强时，沿先存薄弱带易突破滑脱层形成逆冲推覆构造；滑脱层内聚力较弱时，滑脱层将发育成逆冲体系的顶板断裂，阻碍滑脱层之下单元中先存断裂活化后向上传播。弱内聚力滑脱层可以促进变形前锋向前传播得更快、更远；限定变形主要发生在滑脱层之上单元，滑脱层之上单元易形成三角带和冲起构造，滑脱层之下单元构造变形相对较弱。滑脱层内聚力越小，越容易形成叠瓦状薄皮滑脱构造；上覆地层越厚形成的逆冲片规模越大、数量越少，逆冲片间距越大。&lt;/li&gt;
+&lt;li&gt;在单、双向挤压时，应力、应变主要集中在滑脱层和断裂等薄弱带位置，靠近挤压端应力和应变较强；滑脱层内聚力越小，应力越容易向远处传播。近距离双向挤压时，应力可以通过弱内聚力滑脱层传播至远端，从而对远端的变形产生影响；远距离双向挤压时，不会对另一侧的变形产生影响。&lt;/li&gt;
+&lt;li&gt;上白垩统—古近系膏盐滑脱层和新生代之前的先存断层，是喀什北缘冲断带发育的堆垛式变形主要控制因素；同时，帕米尔弧形构造带由南向北的挤压作用也影响了喀什北缘冲断带变形样式。古近系的膏盐层可以作为区域内有效滑脱层，在挤压过程中，前新生代先存断裂依次活化并相互叠覆形成系列逆冲片，上白垩统—古近系膏盐滑脱层作为顶板断裂阻碍其下深部断裂继续向上和向南传播，靠近挤压端形成“堆垛”构造。喀什北缘冲断带位于帕米尔和南天山对接带，其南侧前锋断裂受到帕米尔弧形构造带由南向北逆冲作用影响，阻碍喀什北缘冲断带前缘隐伏逆冲断裂向南和向上突破，导致喀什北缘冲断带没有形成类似柯坪冲断带叠瓦状薄皮滑脱构造。&lt;/li&gt;
+&lt;li&gt;柯坪冲断带发育大规模的叠瓦状薄皮滑脱构造变形与中寒武统膏盐滑脱层和古生代厚沉积盖层有着密切关系。柯坪地区发育较厚的古生代和新生代地层导致作为有效弱内聚力滑脱层的中寒武统膏盐滑脱层的有效性增强，在挤压过程中形成一系列向下归一到中寒武统滑脱层内的逆冲片，发育大规模的叠瓦状薄皮滑脱构造。此外，柯坪地区距离西昆仑—帕米尔冲断带较远，其变形不受西昆仑—帕米尔冲断带由南向北挤压作用的影响。在柯坪冲断带内部，柯坪冲断带以皮羌断裂为界进一步划分为东西两段，西段的寒武系膏泥盐滑脱层埋藏较深，上覆沉积地层较厚；而东段的寒武系膏泥盐滑脱层埋藏较浅，上覆沉积地层相对较薄，导致柯坪冲断带西侧逆冲片比东侧逆冲片规模更大、间隔更大和数量更少。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;关键词-西南天山-褶皱冲断带-构造变形-控制因素-数值模拟&#34;&gt;关键词：西南天山，褶皱冲断带，构造变形，控制因素，数值模拟&lt;/h4&gt;
+
+&lt;h4 id=&#34;目录&#34;&gt;目录：&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;第一章 绪论&lt;/li&gt;
+&lt;li&gt;第二章 冲断带数值模拟研究&lt;/li&gt;
+&lt;li&gt;第三章 区域地质概况&lt;/li&gt;
+&lt;li&gt;第四章 喀什北缘冲断带变形控制因素的数值模拟分析&lt;/li&gt;
+&lt;li&gt;第五章 滑脱层及其上覆地层厚度对柯坪冲断带变形的影响&lt;/li&gt;
+&lt;li&gt;第六章 喀什北缘冲断带和柯坪冲断带变形差异控制因素分析&lt;/li&gt;
+&lt;li&gt;第七章 认识与结论&lt;/li&gt;
+&lt;li&gt;参考文献&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;ex3.6.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;h5&gt;柯坪冲断带数值模拟实验变形-应变结果&lt;/h5&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>离散元后处理技术及其在构造模拟中的应用（预告）</title>
+      <link>https://geovbox.com/blog/20221031/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20221031/</guid>
+      <description>
+
+&lt;p&gt;近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理方面的研究成果 &lt;code&gt;DEMpost&lt;/code&gt; ，感兴趣的老师同学可以先下载魏华敬的硕士论文学习，报告时间另行通知。&lt;/p&gt;
+
+&lt;h4 id=&#34;论文下载&#34;&gt;论文下载&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&amp;amp;dbname=CMFDTEMP&amp;amp;filename=1021664929.nh&amp;amp;uniplatform=NZKPT&amp;amp;v=e5D04YZeOE6krJkFB%25mmd2BA6u8bMwzx%25mmd2FkyJjqC4HZrX6jLBHP44DVzv%25mmd2BkoQw0Xl8MjYl&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;魏华敬&lt;/strong&gt; (2020) 离散元后处理技术及其在构造模拟中的应用. &lt;strong&gt;硕士论文&lt;/strong&gt;. 南京大学.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;题目-基于离散元的褶皱冲断带构造变形定量分析与模拟&#34;&gt;题目：基于离散元的褶皱冲断带构造变形定量分析与模拟&lt;/h4&gt;
+
+&lt;h4 id=&#34;作者-魏华敬&#34;&gt;作者：魏华敬&lt;/h4&gt;
+
+&lt;h4 id=&#34;推荐理由&#34;&gt;推荐理由&lt;/h4&gt;
+
+&lt;p&gt;本文研发的离散元后处理程序 &lt;code&gt;DEMpost&lt;/code&gt; 可以提取颗粒体系地层边界，勾勒出特定岩层范围，绘制应力应变、速度和位移场等各种云图，是构造变形定量研究不可或缺的工具之一。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;1.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;提取地层界线&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;2.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;识别盐层范围&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;3.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;绘制应力应变&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;离散元方法是一种用微观颗粒体系模拟宏观物体变形的数值模拟手段，在岩土工程，构造模拟，物料运移等领域应用广泛。 构造数值模拟作为一种重要的构造定量化研究手段， 通过建立起构造的变形机制与几何分析的联系，一定程度上摆脱传统构造分析方法在含盐褶皱冲断带研究的局限性。离散元数值模拟能够在呈现构造变形基础之上，通过追踪模拟中颗粒在每一个时刻的受力及运动状态，给出体系的应力应变状态及速度位移场的情况，进而能够研究小尺度的变形及裂缝，实现对含盐褶皱冲断构造的定量化研究，具有重要科学价值和经济意义。 因此，如何高效地表达构造模拟中的动力学和运动学特征的分布情况，具有重要的应用价值。 本文基于文献调研，算法设计与开发，计算实例以及构造数值模拟实验完成了以下工作：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;调研文献讨论了多维度的后处理分析对构造模拟的重要性：构造变形反映构造整体形态的基础上，应变的分布能反映模型中小尺度构造变形，速度场的分布能够得出不同构造单元的运动状态，位移梯度则能够更为细致地展现裂缝分布。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;设计并开发了适配离散元软件 YADE 的后处理计算及可视化分析模块 DEMpost。 通过光栅化算法将颗粒体系以图像的形式呈现，通过反距离加权插值算法将颗粒体系的应力应变等特征以图像的形式呈现，通过其他图像处理的算法提升了以上图像的质量。图像形式的构造变形图像与特征图谱之间能够建立起关联，便于追踪特定构造单元在构造演化过程中的动力学与运动学特征。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;设计系统的离散元数值模拟实验，分析了含盐褶皱冲断带构造中常见因素的影响，基于DEMpost 实现构造模拟的后处理可视化，探讨了构造变形与动力学及运动学特征的映射关系， 模拟的结果表明： 底部单膏盐层的存在使得应力应变迅速传播到构造边界，整个模型内部出现收缩挤压情况，发育“箱状”构造；双膏盐层的存在将与共轭断裂相伴的刚性抬升转化为具有流变性质的揉皱构造，膏盐层内部应力应变状态稳定，对构造的影响表现为产生应变分散和三角剪切带，且具有一定的辐射范围； 先存断裂促进断层的上盘沿断裂向上移动，先存断裂的倾向、倾角、规模等因素影响上盘移动的方向和距离，进而影响变形传播的范围。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;关键词-离散元-后处理-光栅化-空间插值-图像处理-构造数值模拟-定量分析&#34;&gt;关键词：离散元； 后处理；光栅化；空间插值；图像处理； 构造数值模拟； 定量分析&lt;/h4&gt;
+
+&lt;h4 id=&#34;目录&#34;&gt;目录：&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;绪论
+
+&lt;ul&gt;
+&lt;li&gt;1.1 褶皱冲断带与构造定量化研究&lt;/li&gt;
+&lt;li&gt;1.2 离散元软件简介&lt;/li&gt;
+&lt;li&gt;1.3 本文内容提要&lt;/li&gt;
+&lt;li&gt;1.4 研究方法与技术路线&lt;/li&gt;
+&lt;li&gt;1.5 论文工作量&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;离散元后处理技术的算法设计与开发
+
+&lt;ul&gt;
+&lt;li&gt;2.1 数据预处理&lt;/li&gt;
+&lt;li&gt;2.2 离散元成像
+
+&lt;ul&gt;
+&lt;li&gt;2.2.1 构造变形图像&lt;/li&gt;
+&lt;li&gt;2.2.2 动力学及运动学特征图谱&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2.3 图像增强处理
+
+&lt;ul&gt;
+&lt;li&gt;2.3.1 高频噪声压制&lt;/li&gt;
+&lt;li&gt;2.3.2 区域边界提取&lt;/li&gt;
+&lt;li&gt;2.3.2 体系轮廓表达&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2.4 小结&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;离散元后处理技术的计算实例与优势
+
+&lt;ul&gt;
+&lt;li&gt;3.1 离散元后处理算法计算实例&lt;/li&gt;
+&lt;li&gt;3.2 离散元后处理算法计算优势&lt;/li&gt;
+&lt;li&gt;3.3 小结&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;离散元后处理技术在含盐褶皱冲断构造模拟的应用
+
+&lt;ul&gt;
+&lt;li&gt;4.1 单膏盐层&lt;/li&gt;
+&lt;li&gt;4.2 双膏盐层
+
+&lt;ul&gt;
+&lt;li&gt;4.2.1 膏盐层垂向规模&lt;/li&gt;
+&lt;li&gt;4.2.2 膏盐层横向规模&lt;/li&gt;
+&lt;li&gt;4.2.3 膏盐层垂向分布&lt;/li&gt;
+&lt;li&gt;4.2.4 膏盐层横向分布&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;4.3 先存断裂
+
+&lt;ul&gt;
+&lt;li&gt;4.3.1 先存断裂倾向&lt;/li&gt;
+&lt;li&gt;4.3.2 先存断层倾角&lt;/li&gt;
+&lt;li&gt;4.3.3 先存断裂垂向分布&lt;/li&gt;
+&lt;li&gt;4.3.4 先存断裂横向分布&lt;/li&gt;
+&lt;li&gt;4.3.5 先存断裂规模&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;4.4 小结&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;结论及展望
+
+&lt;ul&gt;
+&lt;li&gt;5.1 结论&lt;/li&gt;
+&lt;li&gt;5.2 展望&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>&lt;p&gt;原文见： &lt;a href=&#34;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&#34; target=&#34;_blank&#34;&gt;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在前瞻全球超算技术发展趋势，汇聚创新技术应用，展示前沿学术结果，促进超算产学研数字化升级转型，打造全球化、开放化、学术化交流平台。&lt;/p&gt;
+
+&lt;p&gt;CCF HPC China 2021由中国计算机学会主办，中国计算机协会高性能计算专业委员会、珠海横琴新区管理委员会、珠海市科技创新局、澳门大学、澳门科技大学共同承办，北京并行科技股份有限公司、暨南大学、广东琴智科技研究院有限公司、珠海大横琴有限公司协办。&lt;/p&gt;
+
+&lt;p&gt;在本次学术年会的第八届“国产应用软件”专题论坛上，国产应用软件重要开发单位齐聚一堂，共同探讨国产应用软件的现状和发展瓶颈，需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题，以期中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。
+&lt;figure&gt;
+    &lt;img src=&#34;20211027202227.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;其中，东华理工大学李长圣博士进行了《用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用》主题分享。随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。随后，他介绍了离散元原理以及基于OpenMP、CUDA的并行设计。他还分享了ZDEM在构造模拟方面的应用以及ZDEM的未来。
+&lt;figure&gt;
+    &lt;img src=&#34;20211027202430.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/blog/20211019/01.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/blog/20211019/34.PNG&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/blog/20211019/40.PNG&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;PPT快递&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;最后，此次论坛主席兼主持人北京并行科技股份有限公司总经理陈健博士在论坛总结上表示：国产应用软件仍存在底层核心技术的不足，其涉及的不仅仅是软件产品，背后还关系到复杂的专业领域知识、计算机技术、数学、物理，这是一系列底层生态的构建，需要长期的巨大投入，生态打造依旧任重道远。而在大环境方面，国内的应用软件市场也开始成熟，更多的企业愿意为正版软件付费，并且愿意使用国产软件。再加上政策层面红利不断，我们可以看到，整体国产应用软件市场的成熟度正在快速提高。期待第九届国产应用软件专题论坛与各位再次相见，共话国产应用软件的新发展。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;图文直播：&lt;a href=&#34;http://www.citmt.cn/s/hpcchina2021/&#34; target=&#34;_blank&#34;&gt;http://www.citmt.cn/s/hpcchina2021/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第八届“国产应用软件”专题论坛 详细介绍见：&lt;a href=&#34;https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&#34; target=&#34;_blank&#34;&gt;https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ZDEM3D预览 &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关注ZDME 微信公众号
+&lt;figure&gt;
+    &lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34;
+         alt=&#34;geovbox&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;geovbox&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

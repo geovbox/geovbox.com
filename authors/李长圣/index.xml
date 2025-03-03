@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李长圣 on StructLab</title>
+    <link>https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/</link>
+    <description>Recent content in 李长圣 on StructLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</managingEditor>
+    <webMaster>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</webMaster>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geovbox.com/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>李长圣</title>
+      <link>https://geovbox.com/about/lichangsheng/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/about/lichangsheng/</guid>
+      <description>东华理工大学 地球科学学院 讲师 硕士生导师 2019年博士毕业于南京大学地球科学与工程学院 2014~现在，主要做离散元并行计算（CPU/GPU）、</description>
+    </item>
+    
+    <item>
+      <title>韧性基底 伸展构造(附发明专利ZDEM脚本)</title>
+      <link>https://geovbox.com/example/ex9_extens_ductile_patent/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex9_extens_ductile_patent/</guid>
+      <description>数据下载： extens_ductile_patent.py 这里是一个 韧性基底 伸展构造 设置的实例，基底由左右两个刚性墙和中间的韧性墙组成。 粘结时，设置临时半径缩放系数等于初始叠合率，避免出</description>
+    </item>
+    
+    <item>
+      <title>CGU报告-离散元数值模拟在含油气盆地构造变形定量分析中的应用(2023-10-16)</title>
+      <link>https://geovbox.com/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20231015/</guid>
+      <description>2023年中国地球科学联合学术年会 97专题：含油气盆地构造理论、技术与实践新进展 时 间：10月16日 地 点：珠海 珠海国际会展中心 展览中心二层vi</description>
+    </item>
+    
+    <item>
+      <title>会议报告-离散元数值模拟在沉积盆地构造变形定量分析中的应用-研究现状、应用实例、优势挑战(2023-04-16)</title>
+      <link>https://geovbox.com/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20230413/</guid>
+      <description>第六届全国矿田构造与深部找矿预测学术研讨会 （一）矿田构造理论、实验与技术方法 时 间：4 月16 日 11:55-12:15 地 点：长沙 长沙华晨豪生大酒店 5 楼多功能厅5 题 目</description>
+    </item>
+    
+    <item>
+      <title>第七次构造数值模拟实战课程在河海大学海洋学院成功举办</title>
+      <link>https://geovbox.com/blog/20220922/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220922/</guid>
+      <description>2022年09月22日第七次数值模拟实战课程在河海大学海洋学院成功举办，河海大学王毛毛老师、7位河海大学和3位南京大学的研究生参加了培训，感</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的挤压构造定量分析与模拟 (大地构造与成矿学)</title>
+      <link>https://geovbox.com/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20220901/</guid>
+      <description>下载： 李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,46(04)</description>
+    </item>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>原文见： https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA 2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在</description>
+    </item>
+    
+    <item>
+      <title>ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</title>
+      <link>https://geovbox.com/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20211019/</guid>
+      <description>CCF HPC China 2021 第八届“国产应用软件”专题论坛 简介 工业软件是中国从制造大国向设计大国转变的核心关键技术，如何实现在研发、设计等高端领域的自主创新突破</description>
+    </item>
+    
+    <item>
+      <title>Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression</title>
+      <link>https://geovbox.com/blog/20210824/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210824/</guid>
+      <description>下载： Li C, Yin H, Wu Z, Zhou P, Wang W, Ren R, Guan S, Li X, Luo H and Jia D (2021) Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models. Front. Earth Sci. 9:655173. 题目 Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression,</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的褶皱冲断带构造变形定量分析与模拟</title>
+      <link>https://geovbox.com/blog/20210721/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20210721/</guid>
+      <description>题目：基于离散元的褶皱冲断带构造变形定量分析与模拟 作者：李长圣 摘要 离散元数值模拟 作为构 造 变形 研究的新方法， 可以定量的 观测分析模型内应力、应变</description>
+    </item>
+    
+    <item>
+      <title>物理模拟和数值模拟对比实验(Excellent Important Nice)</title>
+      <link>https://geovbox.com/example/ex8_dem_am/ex8/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/example/ex8_dem_am/ex8/</guid>
+      <description>下载： gen.py | push.py ~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~3小时 完成计算。 单位 (cm) 离散元数值模拟结果 通过休止角试</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</title>
+      <link>https://geovbox.com/blog/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201111/</guid>
+      <description>第十二届全国石油地质实验技术学术会议 简介 石油地质实验技术在油气勘探开发中具有重要的作用。近年来，我国油气勘探开发面临一些新的挑战，对石油地质</description>
+    </item>
+    
+    <item>
+      <title>伸展、生长、断层传播褶皱的离散元模拟(Basin Research)</title>
+      <link>https://geovbox.com/blog/20201102/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20201102/</guid>
+      <description>实例参考自(Hardy,2019) 伸展断层传播褶皱是伸展环境中重要的一种褶皱类型，是由于隐伏基底正断层活化向上传播而引起上覆地层发生的弯曲(</description>
+    </item>
+    
+    <item>
+      <title>第三节 应用：基于离散元的构造模拟</title>
+      <link>https://geovbox.com/blog/20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200605/</guid>
+      <description>课程回放 geovbox@哔哩哔哩 https://www.bilibili.com/video/BV1st4y1C7b5?p=3 腾讯会议（已结束） 课程时间：2020/06/05 19:00-20:30 点击链接入会：https://meeting.tence</description>
+    </item>
+    
+    <item>
+      <title>第二节 软件:VBOX简介与操作演示</title>
+      <link>https://geovbox.com/blog/20200528/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200528/</guid>
+      <description>课程回放 geovbox@哔哩哔哩 https://www.bilibili.com/video/BV1st4y1C7b5?p=2 腾讯会议（已结束） 课程时间：2020/5/29(周五) 19:00-20:30 点击链接入会：https://meeting.te</description>
+    </item>
+    
+    <item>
+      <title>第一节 理论:构造模拟与离散元</title>
+      <link>https://geovbox.com/blog/20200521/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200521/</guid>
+      <description>课程回放 geovbox@哔哩哔哩 https://www.bilibili.com/video/BV1st4y1C7b5?p=1 腾讯会议（已结束） 课程时间：2020/5/22 19:00-20:30 点击链接入会：https://meeting.tencen</description>
+    </item>
+    
+    <item>
+      <title>加入三行代码实现传染病传播过程模拟（离散元）</title>
+      <link>https://geovbox.com/blog/20200317/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20200317/</guid>
+      <description>不符合传染病传播模型，仅作学习离散元用。 １. 限制行动 在离散元的Hertz接触模型中，接触的刚度系数与颗粒叠合量有关，所以每个时步都需要更新，</description>
+    </item>
+    
+    <item>
+      <title>VBOX初级视频教程上线了！</title>
+      <link>https://geovbox.com/blog/video-totorial-publish/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/video-totorial-publish/</guid>
+      <description>经过近半个月（2020/02/18-2020/02/29）精心制作，今天VBOX初级视频教程终于上线了！ 该视频教程共约２个小时，针对零基础用</description>
+    </item>
+    
+    <item>
+      <title>欢迎参加第三次构造数值模拟实战课程(2019年12月19日-20日)</title>
+      <link>https://geovbox.com/blog/20191219/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20191219/</guid>
+      <description>本次课程分两次进行，第一天讲授理论，第二天上机实践。 VBOX安装在四个高性能计算平台，课程中将提供计算平台一天的免费使用权。 如需继续使用VB</description>
+    </item>
+    
+    <item>
+      <title>2019CGU报告:基底性质差异对东海陆架盆地构造特征和演化的影响</title>
+      <link>https://geovbox.com/blog/20191029/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <author>geovbox@163.com ([苏ICP备：17006658号](https://beian.miit.gov.cn))</author>
+      <guid>https://geovbox.com/blog/20191029/</guid>
+      <description>第33专题 沉积盆地矿产资源综合勘察 地 点：北京 北京国际会议中心 时 间：2019年10月29日 题 目：基底性质差异对东海陆架盆地构造特征和演化的影响</description>
+    </item>
+    
+  </channel>
+</rss>
