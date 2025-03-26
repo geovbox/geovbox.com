@@ -1,0 +1,26 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+zh:
+  languageCode: zh-Hans
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en
+  # contentDir: content/en
+  # title: English website title...
+  # params:
+    # description: Site description in English...
+  # menu:
+    # main:
+      # - name: 首页
+        # url: '#'
+        # weight: 1
+      # - name: 下载
+        # url: '#download'
+        # weight: 2
+

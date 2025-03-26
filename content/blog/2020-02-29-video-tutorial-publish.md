@@ -1,5 +1,5 @@
 ---
-title: VBOX初级视频教程上线了！
+title: ZDEM初级视频教程上线了！
 date: 2020-02-29
 categories:
     - 课程
@@ -10,14 +10,12 @@ authors:
 slug: video-totorial-publish
 ---
 
-经过近半个月（2020/02/18-2020/02/29）精心制作，今天VBOX初级视频教程终于上线了！
+经过近半个月（2020/02/18-2020/02/29）精心制作，今天ZDEM初级视频教程终于上线了！
 
 该视频教程共约２个小时，针对零基础用户。相信学完该教程，您肯定可以用VBOX实现构造数值模拟。
 VBOX命令脚本参考了颗粒离散元数值模拟软件 *PFC4.0* 的规范， PFC4.0的用户基本无需学习，可直接上手。
 
-{{% notice info %}}
-视频教程发布在geovbox@哔哩哔哩，详见[离散元数值模拟软件VBOX初级教程（DEM）](https://www.bilibili.com/video/av91259173/)。
-{{% /notice %}}
+> 视频教程发布在geovbox@哔哩哔哩，详见[离散元数值模拟软件ZDEM初级教程（DEM）](https://www.bilibili.com/video/av91259173/)。
 
 ### 教程目录
 

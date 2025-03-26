@@ -1,8 +1,11 @@
-# hugo output directory
+# Website
 public/
-# GMT related files
-*.ps
-gmt.history
-gmt.conf
-.resources
-public.zip
+resources/
+assets/jsconfig.json
+.hugo_build.lock
+
+# VS Code
+.vscode
+
+# macOS
+.DS_Store
