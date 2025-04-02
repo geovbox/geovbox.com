@@ -4,11 +4,11 @@ date: 2024-02-14
 categories:
     - Paper
 tags:
-    - Multiple detachments
+    - Multiple detachments 
     - Thin-skinned 
-    - fold-and-thrust belt; 
-    - Structural vergence; 
-    - Eastern Sichuan Basin; 
+    - fold-and-thrust belt 
+    - Structural vergence 
+    - Eastern Sichuan Basin 
     - Discrete element method
 authors:
     - Xu WenQiao
@@ -18,7 +18,7 @@ slug: 20240214
 ---
 
 <div id="refer-xu2021"></div>
-<div id="refer-xu2024"></div>[**Xu, W.**, Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068)
+<div id="refer-xu2024"></div>[Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068)
 
 #### Title
 
@@ -47,4 +47,5 @@ The thin-skinned fold-and-thrust belt with multiple detachments in the eastern S
 
 <center><h5>Proposed kinematic model for the coupled geodynamic processes of the ESB. The evolution of ESB during (a, b) the Mesozoic intracontinental deformation at 100-80 Ma, and (c) Cenozoic eastward growth of the Tibetan Plateau at ~30Ma (modified from Tian et al., 2018). </h5></center>
 
-
+---
+Translator: XU WenQiao

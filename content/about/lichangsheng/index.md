@@ -11,17 +11,18 @@ images:
 ---
 
 <div class="row author-list">
-    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+    <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
           <img src="lichangsheng.png" alt="李长圣" class="img-circle">
     </div>
 </div>
     
     
-    东华理工大学 地球科学学院  讲师  硕士生导师  
-    2019年博士毕业于南京大学地球科学与工程学院  
-    2014~现在，主要做离散元并行计算（CPU/GPU）、岩土体及构造相关的数值模拟。  
-    博士期间开发了用于构造变形研究的高性能离散元数值模拟软件，旨在将构造变形研究从定性推向定量。  
-    硕士期间主要做土石混合体，图像处理，网格划分（有限元、有限差分）等方面的工作。  
+**东华理工大学 地球科学学院  讲师  硕士生导师**  
+
+- 2019年博士毕业于南京大学地球科学与工程学院  
+- 2014~现在，主要做离散元并行计算（CPU/GPU）、岩土体及构造相关的数值模拟。  
+- 博士期间开发了用于构造变形研究的高性能离散元数值模拟软件，旨在将构造变形研究从定性推向定量。  
+- 硕士期间主要做土石混合体，图像处理，网格划分（有限元、有限差分）等方面的工作。  
 
 **东华理工大学地球科学学学院官网李长圣简历：**  https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm
 
@@ -38,8 +39,8 @@ images:
 - 地质体三维可视化
 - **人工智能**与地球科学
 
-QQ：``836745132`` (Neo)  
-邮箱： sheng0619@163.com  lichangsheng@ecut.edu.cn  
+QQ：``836745132`` (小z)  
+邮箱： lichangsheng@ecut.edu.cn ; sheng0619@163.com
 
 - [geovbox@哔哩哔哩](https://space.bilibili.com/31815571)
 - [李长圣@个人网站](https://sheng.geovbox.com)  
@@ -76,7 +77,7 @@ QQ：``836745132`` (Neo)
 ## 专利和软件著作权
 
 - 发明专利
-	1. [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.] (https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
+	1. [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
 	- [马德波,**李长圣**,赵喆,等.基于三维离散元的走滑断裂模拟方法、装置、设备和介质.北京市:CN202310147610.3,2024-08-20.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4Srm8Qb3L4ZObGgVTRiMZmbooOk0N5__QhtWP3tfmAaG4aWt6G-vPnCayEBzhJczi-wmquaIpqwTjqIIAr0r30U-TAVb_k-qiwIZZRRFgPq77Arhkbx0eUeIKE93YG8N4VmTIzMXilloobUjaFcSKfDk4td80-y1JS-L1FEx5eoB7iX5tgI_OYL&uniplatform=NZKPT&language=CHS)(公开)
 	- [**李长圣**,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&uniplatform=NZKPT&src=copy) (授权)
 	- [**李长圣**,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法.江西省：CN111008472B,2023-11-21.](https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&uniplatform=NZKPT&flag=copy)  (授权)

@@ -15,12 +15,35 @@ en:
   # title: English website title...
   # params:
     # description: Site description in English...
-  # menu:
-    # main:
-      # - name: 首页
-        # url: '#'
-        # weight: 1
-      # - name: 下载
-        # url: '#download'
-        # weight: 2
-
+  menu:
+    main:
+      - name: Home
+        url: '#'
+        weight: 1
+      - name: News
+        url: '#posts'
+        weight: 2
+      - name: Video
+        url: '#video'
+        weight: 3
+      - name: Manual
+        url: '#docs'
+        weight: 4
+      - name: Gallery
+        url: 'https://doc.geovbox.com/latest/gallery/'
+        weight: 5
+      - name: Papers
+        url: 'https://doc.geovbox.com/latest/papers/'
+        weight: 6
+      - name: Software
+        url: '#download'
+        weight: 7
+      - name: Users
+        url: '#users'
+        weight: 8
+      - name: Contact
+        url: '#contact'
+        weight: 9
+      - name: <i class="fas fa-rss"></i>
+        url: index.xml
+        weight: 10

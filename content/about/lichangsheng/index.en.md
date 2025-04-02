@@ -2,8 +2,8 @@
 title: LI ChangSheng
 date: 2019-01-13
 tags:
-    -  Website Maintainer
-    - VBOX Developer
+    - Website Maintainer
+    - ZDEM Developer
 authors:
     - LI ChangSheng
 images:
@@ -12,7 +12,7 @@ images:
 
 <div class="row author-list">
     <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
-          <img src="lichangsheng.png" alt="李长圣" class="img-circle">
+          <img src="lichangsheng.png" alt="LI ChangSheng" class="img-circle">
     </div>
 </div>
 
@@ -23,7 +23,7 @@ Mobile: +86-18205187511
 Email: lichangsheng@smail.nju.edu.cn  
 My [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)
 
-    My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU).
+> My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU).
 
 
 ## Education

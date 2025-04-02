@@ -8,7 +8,7 @@
 
 本项目开始于2017年，是由 ZDEM、VBOX 开发者 [李长圣](https://geovbox.com/about/lichangsheng/) 维护的 软件官网，2019年初由阿里云迁移到 github pages 。
 
-- hugo 0.50
+- hugo_extended_0.97.3_Windows-64bit
 
 ## 相关链接
 

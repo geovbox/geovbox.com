@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3 # Order that this section will appear.
 
-title = '<i class="fas fa-globe-asia"></i> 构造数值模拟'
+title = '<i class="fas fa-globe-asia"></i> Tectonic Simulation'
 subtitle = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -52,14 +52,14 @@ subtitle = ""
 
 {{< figure src="https://doc.geovbox.com/latest/_images/shearSS.gif" title=""  width="300px" >}}
 
-[一个示例学会构造数值模拟](https://doc.geovbox.com/latest/push/)
+[An example of learning structural numerical simulation.](https://doc.geovbox.com/latest/push/)
 
 {{%/ col %}}
 {{% col "col-md-4" %}}
 
 {{< figure src="https://doc.geovbox.com/latest/_images/syn_erosion.gif" title=""  width="400px" >}}
 
-[剥蚀](https://doc.geovbox.com/latest/struct/ex2_syn_erosion/)
+[Erosion](https://doc.geovbox.com/latest/struct/ex2_syn_erosion/)
 
 {{%/ col %}}
 
@@ -69,7 +69,7 @@ subtitle = ""
 
 {{< figure src="https://geovbox.com/blog/20201102/all_0000260000_ini.jpg" title=""  width="200px" >}}
 
-[伸展、生长、断层传播褶皱的离散元模拟(Basin Research)](https://geovbox.com/blog/20201102/)
+[Extensional, growth, fault‐propagation folds ](https://geovbox.com/blog/20201102/)
 
 {{%/ col %}}
 

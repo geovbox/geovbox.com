@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: '<i class="fas fa-blog"></i> 最新新闻'
-subtitle: '[查看全部新闻 <i class="fas fa-angle-right"></i>](blog/)'
+title: '<i class="fas fa-blog"></i> Latest news'
+subtitle: '[View all news <i class="fas fa-angle-right"></i>](blog/)'
 
 content:
   # Filter on criteria

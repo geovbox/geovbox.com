@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = '<i class="fas fa-book"></i> 软件手册'
+title = '<i class="fas fa-book"></i> Manual'
 subtitle = ""
 
 [design]
@@ -52,20 +52,20 @@ subtitle = ""
 {{% row %}}
 {{% col "col-md-5" %}}
 
-#### <i class="fab fa-html5"></i> 在线阅读
+#### <i class="fab fa-html5"></i> Read online
 
-- [最新版](https://doc.geovbox.com/latest/)
+- [Latest version](https://doc.geovbox.com/latest/)
 - [v2.x](https://doc.geovbox.com/2.x)
-- [v1.4 已停止更新](http://doc.geovbox.com/1.4)
+- [v1.4 Update stopped](http://doc.geovbox.com/1.4)
 
 {{%/ col %}}
 {{% col "col-md-5" %}}
 
-#### <i class="far fa-file-pdf"></i> PDF 下载
+#### <i class="far fa-file-pdf"></i> PDF Download
 
-- [最新版](https://doc.geovbox.com/2.x/ZDEM_docs.pdf)
+- [Latest version](https://doc.geovbox.com/2.x/ZDEM_docs.pdf)
 - [v2.x](https://doc.geovbox.com/2.x/ZDEM_docs.pdf)
-- [v1.4 已停止更新](https://doc.geovbox.com/1.4/vbox_doc.pdf)
+- [v1.4 Update stopped](https://doc.geovbox.com/1.4/vbox_doc.pdf)
 
 {{%/ col %}}
 {{%/ row %}}
