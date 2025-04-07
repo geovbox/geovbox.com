@@ -8,6 +8,12 @@ authors:
 images:
     - Figure1.jpg
 slug: 20250320
+share: true
+links:
+  - icon_pack: ai
+    icon: researchgate
+    name: 免费下载PDF论文
+    url: 'https://www.researchgate.net/profile/Chao-Zhou-80/publication/390041878_Discrete_element_modeling_of_the_structural_vergence_beneath_intermediate_decollements_Implications_for_along-strike_variations_in_the_Zagros_Simply_Folded_Belt/links/67e41b288a5ab03f9713038c/Discrete-element-modeling-of-the-structural-vergence-beneath-intermediate-decollements-Implications-for-along-strike-variations-in-the-Zagros-Simply-Folded-Belt.pdf?origin=publicationDetail&_sg%5B0%5D=F-bfv5e1CdLoDCtYGVL4u-gy37Ce7lILWDNnggb0ZVamI8jrQ0ESqL7Zz7u19drR9w8Iz0XpxHizdFZLN9YQVA.-ej6dRxsxthEieYEL-jm9jt9lfxI7Lxkwc0m35UA72kxzBkzJ6FhDxCXfw8eXcFiLcsHqd6jGDEE7-7IbtTcaQ&_sg%5B1%5D=iuWWkEJd4ZdQ9xhYM_a84hDPizNsH9iNjlpUAglZx4imhqSgdWmfjGQyM2lfpZsgw9AtgX9otLTUVU4G3nc6SMjFRYnWVFD8gDdxs69nDYgX.-ej6dRxsxthEieYEL-jm9jt9lfxI7Lxkwc0m35UA72kxzBkzJ6FhDxCXfw8eXcFiLcsHqd6jGDEE7-7IbtTcaQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19'
 ---
 
 在冲断楔或褶皱-冲断带中，通常认为单个滑脱层只控制直接位于其上方冲断系统的构造指向（structural vergence）。然而，这一主流认识却无法解释沿扎格罗斯简单褶皱带（Zagros Simply Folded Belt）走向，广泛分布的基底滑脱层（霍尔木兹盐层）上方发育完全不同构造指向（包括前冲、双冲、后冲）的现象（图1）。此外，尽管中间滑脱层对扎格罗斯简单褶皱带构造样式的控制作用已得到广泛认知，但其对下伏冲断系统构造指向的影响机制仍不明晰。

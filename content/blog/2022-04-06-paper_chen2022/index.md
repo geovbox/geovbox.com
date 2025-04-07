@@ -22,7 +22,8 @@ slug: 20220406
 
 
 <div id="refer-chen2022"></div>
-[Chen, J., He, D., Tian, F., Huang, C., Ma, D., Zhang, W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
+
+[Chen J., He D., Tian F., Huang C., Ma D., Zhang W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics**, 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933](https://doi.org/10.1016/j.tecto.2022.229307)
 
 #### 题目
 
@@ -71,24 +72,31 @@ The authors wish to thank the Northwest Oilfield Branch Company (SINOPEC) and Re
 #### References
 
 <div id="refer-Willis1893"></div>
+
 Willis, B., 1893. The mechanics of Appalachian structure. In: US Geol. Survey. 13th Ann. Rept, pp. 211–282.
 
 <div id="refer-Laubach2019"></div>
-Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111. https://doi.org/10.1029/2019RG000671
+
+[Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111.](https://doi.org/10.1029/2019RG000671)
 
 <div id="refer-Yun2021"></div>
+
 云露, 2021. 顺北东部北东向走滑断裂体系控储控藏作用与突破意义. 中国石油勘探, 26(03): 41-52.
 
 <div id="refer-Den2018"></div>
+
 邓尚, 李慧莉, 张仲培, 等. 2018. 塔里木盆地顺北及邻区主干走滑断裂带差异活动特征及其与油气富集的关系. 石油与天然气地质, 39(5): 878-888.
 
 <div id="refer-Li2019"></div>
+
 李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.
 
 <div id="refer-Morgan2015"></div>
+
 Morgan J K., 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120(5): 3870-3896.
 
 <div id="refer-Fossen2016"></div>
+
 Fossen H., 2016. Structural Geology. 2nd. United Kingdom: Cambridge University Press.
 
 

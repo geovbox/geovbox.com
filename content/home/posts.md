@@ -35,4 +35,19 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    pager: true
+    editable: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: true
+    header:
+      navbar:
+        enable: false
 ---
