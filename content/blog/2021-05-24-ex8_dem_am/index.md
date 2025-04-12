@@ -24,7 +24,7 @@ slug: ex8
 通过休止角试验和双轴试验标定了石英砂颗粒的细观参数，构建了一个典型的构造物理模拟(AM)和离散元数值模拟(DEM)试验，对比两种方法在构造变形研究中的差异与相似点，通过定性和定量（如坡角、断层倾角等）的方法，分析了两种方法的异同点。DEM与AM模拟结果较为一致，基本反映了AM中石英砂的变形行为。AM中材料选取有限（如硅胶、粘土、微玻璃珠等），而DEM材料选取范围大，但其模拟结果依赖参数选取。AM和DEM作为两种独立的方法，有很好的互补性 [(李长圣,2019;](#李长圣2019) [Li et al.,2021)](#refer-li2021)。
 
 <div id="refer-li2021"></div>
-[**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+[LI C.S., YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
 
 #### 评审意见 <font color=red>**Excellent**</font> <font color=red>**Important**</font> <font color=red>**Nice**</font> 
 

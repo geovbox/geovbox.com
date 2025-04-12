@@ -39,7 +39,7 @@ Accepted on 05 May 2021
 
 ## The quantitative method of the thrust wedge based on mesh (Data) 
 
-> Download：[analog model.7z](analog model.7z) 
+> Download：[analogmodel.7z](analogmodel.7z) 
 
 The images of the analog model.
 
