@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doctor | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/doctor/</link>
+      <atom:link href="https://geovbox.com/en/category/doctor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Doctor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Doctor</title>
+      <link>https://geovbox.com/en/category/doctor/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Analysis and Modeling of Structural Deformation in Fold-Thrust Belts Based on the Discrete Element Method</title>
+      <link>https://geovbox.com/en/blog/20210721/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210721/</guid>
+      <description>&lt;h4 id=&#34;title-quantitative-analysis-and-numerical-modeling-of-structural-deformation-in-fold-thrust-belts-using-the-discrete-element-method&#34;&gt;Title: Quantitative Analysis and Numerical Modeling of Structural Deformation in Fold-Thrust Belts Using the Discrete Element Method&lt;/h4&gt;
+&lt;h4 id=&#34;author-changsheng-li&#34;&gt;Author: Changsheng Li&lt;/h4&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The Discrete Element Method (DEM), as a novel approach for studying structural deformation, enables quantitative observation and analysis of stress and strain evolution within models. This method aids in revealing the deformation characteristics and mechanisms of fold-thrust belts, as well as evaluating the influence of stress-strain distribution on the physical properties of hydrocarbon reservoirs, demonstrating significant theoretical and practical value.Building upon literature review, field geological investigations, seismic profile interpretation, and analog tectonic modeling, this study employs DEM-based numerical simulations to comprehensively analyze the structural deformation features, evolutionary mechanisms, and controlling factors of fold-thrust belts. The main findings include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A structured array was employed to construct the fundamental data architecture of the Discrete Element Method (DEM). The grid-based neighbor search algorithm was optimized to accelerate neighbor detection and contact evaluation. By reorganizing the modules for neighbor search, contact judgment, and contact force updates, a lock-free and high-efficiency parallel computing framework was achieved. The linear elastic and Hertz-Mindlin contact mechanics models were integrated to develop VBOX, a highly scalable and high-performance DEM program tailored for tectonic simulations, along with a standardized testing protocol.&lt;/li&gt;
+&lt;li&gt;The concepts of equivalent parameters and equivalent models were introduced. Through angle-of-repose and biaxial tests, the mesoscopic parameters of quartz sand particles reflecting macroscopic mechanical properties were calibrated. A comparative study between physical analog modeling and DEM numerical simulation was designed, proposing a grid-based quantitative analysis method for thrust wedges. Key geometric parameters (e.g., slope angle, fault dip) were systematically compared to evaluate the similarities and differences between these two approaches in studying tectonic deformation.&lt;/li&gt;
+&lt;li&gt;A comprehensive correspondence table between particle-scale mesoscopic parameters and rock macroscopic properties was established via systematic DEM simulations. The controlling effects of stratigraphic cohesion, internal friction angle, décollement strength, and thickness on fold-thrust belt evolution were investigated. Quantitative analysis of deformation characteristics and mechanisms provided foundational support for advancing theories of complex fold-thrust systems. Low-cohesion strata exhibit dispersed strain distribution with random fracture networks, while high-cohesion strata develop localized strain with larger fault displacements and potential back-thrusts. Weakly cohesive rocks with diffuse fractures form porous reservoirs favorable for hydrocarbon storage, whereas strongly cohesive rocks develop fracture corridors serving as preferential migration pathways. Décollement strength predominantly controls structural style: high-friction décollements produce forward-propagating imbricate thrusts, whereas low-friction décollements generate pop-up structures with alternating fore- and back-thrusts. Stratigraphic competence shows minor influence, with overall deformation mainly governed by basal décollement strength. Décollement thickness exhibits negligible impact on structural patterns.&lt;/li&gt;
+&lt;li&gt;Focusing on the Cenozoic Kuqa fold-thrust belt, mesoscopic parameters corresponding to rock salt macro-properties were calibrated. Numerical simulations demonstrated that syn-tectonic sedimentation critically controls deformation partitioning, revealing its key role in the Qiulitag salt diapir evolution. Salt produces vertically stratified deformation: sub-salt structures feature closely spaced thrust faults, while supra-salt domains develop broad folds. Initial salt basin width was identified as the primary factor controlling along-strike structural variability in western Kuqa. Lateral segmentation of deformation results from variations in initial salt basin width and thickness. Stress stratification divides the section into three domains: maximum stress below salt, minimum stress within salt, and intermediate stress above salt. Salt flow exhibits directional preference, with layer-parallel movement enhanced by syn-tectonic sedimentation, showing overall flow direction consistent with compression.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;keywords-discrete-element-method-parallel-computing-stress-strain-thrust-wedge-salt-tectonics&#34;&gt;Keywords: discrete element method; parallel computing; stress-strain; thrust wedge; salt tectonics&lt;/h4&gt;
+&lt;h4 id=&#34;contents&#34;&gt;Contents：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Prolegomenon
+&lt;ul&gt;
+&lt;li&gt;1.1 Significance of Research and Rationale for Topic Selection&lt;/li&gt;
+&lt;li&gt;1.2 Research Status of Quantitative Analysis Methods for Tectonic Deformation
+&lt;ul&gt;
+&lt;li&gt;1.2.1 Balanced cross - section technique&lt;/li&gt;
+&lt;li&gt;1.2.2 Critical Angle Coulomb Wedge Model&lt;/li&gt;
+&lt;li&gt;1.2.3 Tectonic physical simulatio&lt;/li&gt;
+&lt;li&gt;1.2.4 Tectonic numerical simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;1.3 Summary of This Paper&lt;/li&gt;
+&lt;li&gt;1.4 Methodology and Technical Implementation Framework&lt;/li&gt;
+&lt;li&gt;1.5 Innovative Contributions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Development and Validation of Discrete Element Software
+&lt;ul&gt;
+&lt;li&gt;2.1 Discrete Element Theory and Software&lt;/li&gt;
+&lt;li&gt;2.2 Data Structure&lt;/li&gt;
+&lt;li&gt;2.3 Neighbor Searching and Contact Detection&lt;/li&gt;
+&lt;li&gt;2.4 Particle Position Update&lt;/li&gt;
+&lt;li&gt;2.5 Contact Force Calculation
+&lt;ul&gt;
+&lt;li&gt;2.5.1 Linear Elastic Model&lt;/li&gt;
+&lt;li&gt;2.5.2 Hertz-Mindlin Contact Model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.6 Damping and Time Step&lt;/li&gt;
+&lt;li&gt;2.7 Stress-Strain Characterization Methods
+&lt;ul&gt;
+&lt;li&gt;2.7.1 Stress&lt;/li&gt;
+&lt;li&gt;2.7.2 Strain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.8 Concurrent Design&lt;/li&gt;
+&lt;li&gt;2.9 Concurrent Design
+&lt;ul&gt;
+&lt;li&gt;2.9.1 Single Particle&lt;/li&gt;
+&lt;li&gt;2.9.2 Two Particles&lt;/li&gt;
+&lt;li&gt;2.9.3 Particle Aggregate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.10 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Parameter Selection and Calibration in Structural Numerical Simulation
+&lt;ul&gt;
+&lt;li&gt;3.1 Equivalent Parameters and Equivalent Models&lt;/li&gt;
+&lt;li&gt;3.2 Calibration of Discrete Element Mesoscopic Parameters for Quartz Sand
+&lt;ul&gt;
+&lt;li&gt;3.2.1 Angle of Repose Test&lt;/li&gt;
+&lt;li&gt;3.2.2 Biaxial Test&lt;/li&gt;
+&lt;li&gt;3.2.3 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3.3 Physical Simulation&lt;/li&gt;
+&lt;li&gt;3.4 Numerical Simulation&lt;/li&gt;
+&lt;li&gt;3.5 Comparison Between Physical and Numerical Simulations
+&lt;ul&gt;
+&lt;li&gt;3.5.1 Deformation and Strain Analysis&lt;/li&gt;
+&lt;li&gt;3.5.2 Structural Interpretation&lt;/li&gt;
+&lt;li&gt;3.5.3 Wedge Evolution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3.6 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deformation Mechanisms and Influencing Factors of Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;4.1 Parameter Selection and Tuning&lt;/li&gt;
+&lt;li&gt;4.2 Initial Conditions and Computational Equipment&lt;/li&gt;
+&lt;li&gt;4.3 Rock Layer Cohesion&lt;/li&gt;
+&lt;li&gt;4.4 Internal Friction Angle of Rock Layers&lt;/li&gt;
+&lt;li&gt;4.5 Rock Layer Thickness&lt;/li&gt;
+&lt;li&gt;4.6 Influence of Detachment Layers on Structural Deformation of Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;4.6.1 Strength of Basal Detachment Layers&lt;/li&gt;
+&lt;li&gt;4.6.2 Thickness of Basal Detachment Layers&lt;/li&gt;
+&lt;li&gt;4.6.3 Discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;4.7 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Numerical Simulation of Salt Structures in Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;5.1 Salt Rocks and Salt Structures&lt;/li&gt;
+&lt;li&gt;5.2 Mesoscopic Parameters of Salt Rock Particles&lt;/li&gt;
+&lt;li&gt;5.3 Numerical Simulation of the Kuqa Foreland Basin
+&lt;ul&gt;
+&lt;li&gt;5.3.1 Syn-tectonic Sedimentation&lt;/li&gt;
+&lt;li&gt;5.3.2 Initial Salt Basin Width&lt;/li&gt;
+&lt;li&gt;5.3.3 Salt Layer Thickness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;5.4 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Conclusions and Future Directions
+&lt;ul&gt;
+&lt;li&gt;6.1 Conclusions&lt;/li&gt;
+&lt;li&gt;6.2 Future Directions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Appendix
+&lt;ul&gt;
+&lt;li&gt;7.1 Hardware and Software Environment&lt;/li&gt;
+&lt;li&gt;7.2 Numerical Simulation of Biaxial Tests on Quartz Sand&lt;/li&gt;
+&lt;li&gt;7.3 Biaxial Tests on Rocks
+&lt;ul&gt;
+&lt;li&gt;7.3.1 Biaxial Test Results Under Different Confining Pressures&lt;/li&gt;
+&lt;li&gt;7.3.2 Biaxial Test Results Under Different Friction Coefficients&lt;/li&gt;
+&lt;li&gt;7.3.3 Biaxial Test Results Under Different Bond Parameters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;7.4 Growth Fault&lt;/li&gt;
+&lt;li&gt;7.5 Test Cases N0, N1, S0, and S1&lt;/li&gt;
+&lt;li&gt;7.6 Plane Geometry in Discrete Element Method 192&lt;/li&gt;
+&lt;li&gt;7.7 Initial Conditions and Computational Equipment M1C1, M1C2, M2C1, M3C1, M4C1&lt;/li&gt;
+&lt;li&gt;7.8 Rock Layer Cohesion C1, C10, C19, C24&lt;/li&gt;
+&lt;li&gt;7.9 Internal Friction Angle of Rock Layers φ5, φ13, φ17, φ20, 217&lt;/li&gt;
+&lt;li&gt;7.10 Strength of Basal Detachment Layers μ0, μ1, μ2, μ3&lt;/li&gt;
+&lt;li&gt;7.11 Thickness of Basal Detachment Layers D0, D300, D500, D1000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;8 References&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;relevant-literature&#34;&gt;Relevant Literature&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt; (2019) Quantitative Analysis and Simulation of Structural Deformation in Fold-Thrust Belts Based on Discrete Element Method. &lt;strong&gt;Doctoral Dissertation&lt;/strong&gt;. Nanjing University.&lt;/a&gt; &lt;strong&gt;Recommended Download&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latest Revised Edition&lt;/a&gt; Extraction Code &lt;code&gt;zdem&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt;, Yin, H.W.*,et al.&lt;strong&gt;(2021)&lt;/strong&gt; Quantitative Analysis and Simulation of Compressional Structures Based on Discrete Element Method. Tectonics and Metallogeny. (Accepted for Publication)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.655173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Li, C.S.&lt;/strong&gt;, Yin, H.W.*, , et al.&lt;strong&gt;(2021)&lt;/strong&gt; Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Li, C.S.&lt;/strong&gt;, Yin, H.W.*, et al.&lt;strong&gt;(2021)&lt;/strong&gt; Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W.*, et al. &lt;strong&gt;(2018)&lt;/strong&gt;. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.7.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,YIN H.W.*,Chun Liu, Shenyang Cai. &lt;strong&gt;2017&lt;/strong&gt; Design and Testing of Shared-Memory Parallel Discrete Element Program. Journal of Nanjing University (Natural Sciences),(06):1161-1170.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;invention-patent&#34;&gt;Invention Patent&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,Rong Ren,Shuwei Guan,Hongwei Yin. A Discrete Element-Based Simulation Method and Device for the Uplift Process of Paleo-Uplifts [P]. Application Date: 2021. (To be Published)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&amp;amp;dbname=SCPD2020&amp;amp;filename=CN111008472A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,YIN H.W.,Zhenyun Wu,Dong Jia,Wenqiao Xu,Wei Wang. A Discrete Element-Based Simulation Method for the Extension Process of Rift Basins[P]. CN111008472A,Application Date：2019-12-02&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;software-copyright&#34;&gt;Software Copyright：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Post-processing System for Discrete Element Numerical Simulation&lt;/strong&gt; V1.0. East China University of Technology, Jun Zhong, &lt;strong&gt;LI C.S.&lt;/strong&gt;, Wenqiao Xu,Huajing Wei , Zhenyun Wu. &lt;strong&gt;2021&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Virtual Sandbox Software&lt;/strong&gt; V1.0. Nanjing University. &lt;strong&gt;2015&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_f13e9a1d5367af9703bf0b564ce67fa2.webp 400w,
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_88b637593e6617857559a66e313f658c.webp 760w,
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_f13e9a1d5367af9703bf0b564ce67fa2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_030008111300d8fdba5194fe237b5d92.webp 400w,
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_630e39c5d14eb6abde7bbca9b2f9fe5b.webp 760w,
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_030008111300d8fdba5194fe237b5d92.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_061995f13491ab21613201c2720a7bfb.webp 400w,
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_17bbc54568eb64472a27d4b329443d71.webp 760w,
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_061995f13491ab21613201c2720a7bfb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_e22c653e34ee445a0d4440539aefc11e.webp 400w,
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_adabc8310a058bbcfefa30d3e91edcd0.webp 760w,
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_e22c653e34ee445a0d4440539aefc11e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_66d1dff1dbb9c3c44fcb77cbd7d36ab7.webp 400w,
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_733821b17b3e144a8c2f6cf9a20072eb.webp 760w,
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_66d1dff1dbb9c3c44fcb77cbd7d36ab7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_99d75be7c319b04a8fbbc1cfc6b02226.webp 400w,
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_e0677d35ed0534a64c50fa092d74a01d.webp 760w,
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_99d75be7c319b04a8fbbc1cfc6b02226.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partial-ppt&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Partial PPT&#34; srcset=&#34;
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_be1dae82fb34b1cd06e49e2a158e48bf.webp 400w,
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_7ec613ce0337f12103216e0718a6daf7.webp 760w,
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_be1dae82fb34b1cd06e49e2a158e48bf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Partial PPT
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-defense-poster&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Defense Poster&#34; srcset=&#34;
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_2af4341d89cb2d42445e6e261285cf15.webp 400w,
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_1dc58d19837d72cde687572c322c5e75.webp 760w,
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_2af4341d89cb2d42445e6e261285cf15.webp&#34;
+               width=&#34;504&#34;
+               height=&#34;710&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Defense Poster
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
