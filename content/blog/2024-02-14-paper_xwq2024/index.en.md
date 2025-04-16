@@ -17,8 +17,9 @@ images:
 slug: 20240214
 ---
 
-<div id="refer-xu2021"></div>
-<div id="refer-xu2024"></div>[Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068)
+<div id="refer-xu2024"></div>
+
+[Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068)
 
 #### Title
 
