@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Tectonic Characteristics and Evolution of the Qiyueshan Fault in the Xuefengshan Foreland Fold-and-Thrust Belt Insights from Discrete Element Numerical Simulations（Geoscience）
+=======
+title: Tectonic Characteristics and Evolution of the Qiyueshan Fault in the Xuefengshan Foreland Fold-and-Thrust Belt Insights from Discrete Element Numerical Simulations (Geoscience)
+>>>>>>> 55308b1aa7ce24ad91ba6ecdf3458b2c993ec827
 date: 2024-10-21
 categories:
     - article

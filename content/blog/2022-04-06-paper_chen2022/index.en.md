@@ -37,24 +37,24 @@ The large-scale (tens to hundreds of kilometers long) but small-displacement (<2
 <h5> </h5>
 
 {{< figure src="Figure1.png" title="" width="600px" >}}
-<h5>图1 塔里木盆地中部顺托果勒低隆及邻区深层主干断裂分布图（a）、综合柱状图（b）、中奥陶统顶面（c）、奥陶系顶面（d）及志留系顶面（e）断裂分布图
-Caption: Distribution map of (a) the structural elements in the Paleozoic tectonostratigraphic unit and intracratonic small-displacement (< 2 km) strike-slip faults of the Shuntuoguole Lower Uplift, (b) stratigraphic column, and fault distributions (modified after 邓尚等, 2018) at the (c) top of the Middle Ordovician (T74), (d) top of the Ordovician (T70), and (e) top of the Silurian (T60). (1) = Paleozoic rock sampling location; (2) = Mesozoic rock sampling location; SRS = seismic reflection surface; TS = tectonostratigraphic unit; U = Upper; M = Middle; L = lower; Qu. = Quaternary; Ca. = Carboniferous; PDZ = principal displacement zone.
+<h5>Caption: Distribution map of (a) the structural elements in the Paleozoic tectonostratigraphic unit and intracratonic small-displacement (< 2 km) strike-slip faults of the Shuntuoguole Lower Uplift, (b) stratigraphic column, and fault distributions (modified after Deng et al., 2018) at the (c) top of the Middle Ordovician (T74), (d) top of the Ordovician (T70), and (e) top of the Silurian (T60). (1) = Paleozoic rock sampling location; (2) = Mesozoic rock sampling location; SRS = seismic reflection surface; TS = tectonostratigraphic unit; U = Upper; M = Middle; L = lower; Qu. = Quaternary; Ca. = Carboniferous; PDZ = principal displacement zone.
  </h5>
 
+
 {{< figure src="Figure6.png" title="" width="600px" >}}
-<h5> 图6 顺北1号与5号断裂带地震–地质结构剖面
+<h5> 
 Caption: Interpreted seismic cross-sections and related mechanical profiles (see Fig. 1a for location). a) W–E-oriented cross-section showing the pop-up structure of the Shunbei No. 5 fault zone (C–C'); b) W–E-oriented cross-section showing the pull-apart structure of the Shunbei No. 5 fault zone (D–D'); c) NW–SE-oriented cross-section showing the Shunbei No. 1 fault zone (E–E').
 </h5>
 
+
 {{< figure src="Figure8.png" title="" width="600px" >}}
-<h5>图8 顺北走滑断裂带的四组数值模拟实验结果，包括构造变形（a, d, g, j）、体积应变（b, e, h, k）和变形应变（c, f, i, l）
+<h5>
 Caption: 2D numerical simulation results of the 4 models, including the (a, d, g, and j) deformations, (b, e, h, and k) volumetric strains, and (c, f, i, and l) distortional strains.
 </h5>
 
-
 {{< figure src="Figure10.png" title="" width="600px" >}}
-<h5>图10 一种左行走滑断裂产生的左行剪切变形模式及其潜在的定向构造（a）与顺北1号和5号断裂带早–中志留世的分层剪切变形模式（b）
-Caption: Comparison of the (a) non-stratigraphically decoupled deformation (modified after Fossen, 2016) and potential structures formed in the upward widening shear zone and (b) early–middle Silurian stratigraphically decoupled deformation in the Tarim intracratonic left-lateral slip scenario (e.g., Shunbei No. 1 and 5 fault zones). PDZ is the principal displacement zone; R and R′ are the synthetic and antithetic shear fractures, respectively; P is the secondary shear fracture and connects the R and R′ surfaces; Φ is the angle of internal friction.</h5>
+<h5>Caption: Comparison of the (a) non-stratigraphically decoupled deformation (modified after Fossen, 2016) and potential structures formed in the upward widening shear zone and (b) early–middle Silurian stratigraphically decoupled deformation in the Tarim intracratonic left-lateral slip scenario (e.g., Shunbei No. 1 and 5 fault zones). PDZ is the principal displacement zone; R and R′ are the synthetic and antithetic shear fractures, respectively; P is the secondary shear fracture and connects the R and R′ surfaces; Φ is the angle of internal friction.</h5>
+
 
 #### Acknowledgments
 
@@ -69,19 +69,23 @@ Willis, B., 1893. The mechanics of Appalachian structure. In: US Geol. Survey. 1
 Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111. https://doi.org/10.1029/2019RG000671
 
 <div id="refer-Yun2021"></div>
-云露, 2021. 顺北东部北东向走滑断裂体系控储控藏作用与突破意义. 中国石油勘探, 26(03): 41-52.
+Lu Yun , 2021. Controlling effect of NE strike-slip fault system on reservoir development and hydrocarbon accumulation in the eastern Shunbei area and its geological significance, Tarim Basin. China Petroleum Exploration, 26(03): 41-52.
 
 <div id="refer-Den2018"></div>
-邓尚, 李慧莉, 张仲培, 等. 2018. 塔里木盆地顺北及邻区主干走滑断裂带差异活动特征及其与油气富集的关系. 石油与天然气地质, 39(5): 878-888.
+Shang Deng ,Huili  Li , Zhongpei Zhang , et al., 2018. Characteristics of differential activities in major strike-slip fault zones and their control on hydrocarbon enrichment in Shunbei area and its surroundings, Tarim Basin. Petroleum and Natural Gas Geology, 39(5): 878-888.
 
 <div id="refer-Li2019"></div>
-李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.
+Changsheng Li , 2019. Quantitative analysis and simulation of fold-thrust belt deformation based on the discrete element method. Ph.D. dissertation. Nanjing: Nanjing University.
 
 <div id="refer-Morgan2015"></div>
 Morgan J K., 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120(5): 3870-3896.
 
 <div id="refer-Fossen2016"></div>
 Fossen H., 2016. Structural Geology. 2nd. United Kingdom: Cambridge University Press.
+
+---
+
+Translator: Ouyang Liujuan 
 
 
 
