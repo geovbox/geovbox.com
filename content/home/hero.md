@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[查看全部新闻](https://doc.geovbox.com/blog/) | [最新软件手册](https://doc.geovbox.com/latest/) | [示例图库](https://doc.geovbox.com/latest/gallery/) | [已发表论文](https://doc.geovbox.com/latest/papers/) 
+
 {{% row "featurette" %}}
 {{% col "col-md-4" %}}
 

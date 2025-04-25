@@ -46,11 +46,37 @@ My [GitHub](https://github.com/demsheng) [ResearchGate](https://www.researchgate
 
 ## Publications:
 
-**2018**
 
-- Changsheng LI, Hongwei YIN*, Zhenyun WU*, et al. Effects of salt thickness on the differential structural deformation between the eastern and western areas of Kuqa depression, Tarin basin: Insights from discrete element model. (in preparation)
+- **2024**
+	- [ZHANG XinSong, LI ChangSheng et al.CT IMAGE SEGMENTATION AND 3D RECONSTRUCTION OF SOIL-ROCK MIXTURE BASED ON NEURAL NETWORK.Journal of Engineering Geology,1-13[2025-02-07].https://doi.org/10.13544/j.cnki.jeg.2024-0253.](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273eZxsjEtS6ty10QspQe0P4K0gs74sJPo90jZ6K_9O6Wmc3-POykWJOzjKmoOZYZBPAgm2Y-FY_o8NTM-HRIVlha9f03oAaED8uEgovMdK_Y6RiRnXEHoFeqz66qc6-9Kt68cmdtXn-uo7nl0SXLp7TIOhmHzX3kvqVu4_im6eNZvCOBy8QNd55&uniplatform=NZKPT&language=CHS)
+	- [Xu, W., Yin, H., Zhao, S.,Zhang, **C., Li**, B., Jia, D., Li, C., Wang, W., **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
+- **2023**
+	- [YIN HongWei, JIA Dong, WANG Wei,**LI ChangSheng**, XU WenQiao, et al.**2023**.Application and development of numerical simulation in the study of fold-and-thrust belts in sedimentary basins. Acta Geologica Sinica(09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136)
+	- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,**李长圣**.川东南泸州地区多滑脱层构造特征及变形机制[J/OL].高校地质学报:1-11[2023-02-25].DOI:10.16108/j.issn1006-7493.2022029.](https://doi.org/10.16108/j.issn1006-7493.2022029)
+	- [吴珍云,杨秀磊,尹宏伟,董少春,**李长圣**,汪伟,贾东.库车坳陷西段阿瓦特构造转换带盐构造演化特征及影响因素[J/OL].地球科学:1-25[2023-02-25].](http://kns.cnki.net/kcms/detail/42.1874.p.20220830.1133.006.html)
 
-- Changsheng LI, Hongwei YIN*, Chuang WU, et al. Comparisons between a high resolution discrete  element model and analogue model. (in preparation)
+- **2022**  
+
+    - [**LI ChangSheng**, YIN HongWei, XU WenQiao, et al. 2022. Quantitative Analysis and Simulation of Compressive Tectonics Based on Discrete Element Method. Geotectonica et Metallogenia, 46(04): 645-661.](https://link.oversea.cnki.net/doi/10.16539/j.ddgzyckx.2022.04.001) 
+- **2021** 
+    - [**Li, C.S.**, Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+	- [Xu, W.Q., Yin, H.W., Jia, D., **Li, C.S.**, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+
+- **2020**  
+
+	- [徐雯峤,汪伟*,尹宏伟,贾东,**李长圣**,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
+
+- **2019**  
+
+	- [张迎朝,**李长圣***,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)  
+	- [**李长圣** (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+	- [吴珍云,尹宏伟,**李长圣**,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].**南京大学学报(自然科学),2019**,55(05):869-878.](http://t.cn/AisBmv8f)  
+
+- **2018**  
+
+	- [**Li C.S.**, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
 
 **2017**
 
