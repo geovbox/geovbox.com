@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keji Yang | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/keji-yang/</link>
+      <atom:link href="https://geovbox.com/en/authors/keji-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keji Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Keji Yang</title>
+      <link>https://geovbox.com/en/authors/keji-yang/</link>
+    </image>
+    
+    <item>
+      <title>Influence of Preexisting Structures on Salt Structures in the Kuqa Depression, Tarim Basin, Western China Insights from Seismic Data and Numerical Simulations</title>
+      <link>https://geovbox.com/en/blog/20240228/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240228/</guid>
+      <description>&lt;p&gt;The Kuqa Depression is an important oil and gas-bearing basin in western China with complex salt structural deformation, showing significant variations in different structural belts and at different locations within the same structural belt. Preexisting basement structures play a crucial role in the process of salt structural deformation. Using the latest two-dimensional and three-dimensional seismic data, combined with discrete element and finite element numerical simulation methods, this study investigates the types and distribution of preexisting structures and their control on salt structures. Seismic data analysis indicates that the preexisting structures developed in the Kuqa Depression mainly include basement faults, paleo-uplifts, subsalt slopes, and early passive salt diapirs. Basement faults are mainly distributed in the Kelasu and Qiulitag structural belts, controlling the development location and deformation style of the Miocene compressional salt structures. Differences in the deformation style and reactivation degree of basement faults have led to the diversity of salt structures in different structural belts. Paleo-uplifts mainly include the Wensu Uplift, western Qiulitag Uplift, Xinhe Uplift, and Yaha-Luntai Uplift; paleo-uplifts limited the original sedimentary extent and later deformation space of the salt layer, resulting in strong salt thrusting in different structural layers of the Awate Sag in the western Kuqa Depression. The non-uniform spatial distribution of paleo-uplifts also promoted the development of large-scale strike-slip transfer zones in the western part of the depression. Subsalt slopes are mainly located on the northern margin of the western Qiulitag low uplift, hindering the southward flow of salt and forming large-scale salt domes at the edge of the slopes, with the size of these domes being closely related to the dip of the subsalt slopes. Early passive salt diapirs are mainly developed in the Quele and Bozidun areas of the western Kuqa Depression, and they were preferentially active during the post-Miocene compressional period, forming a piercement salt nappe. Numerical simulation results show that preexisting structures have a strong control on the stress-strain distribution during salt structural deformation, often causing stress concentration of maximum principal stress and shear stress, thereby inducing the preferential formation of salt structures. Seismic data and numerical simulation results indicate that the spatial heterogeneity of basement structures is an important factor in the north-south structural zonation and east-west structural segmentation of the Kuqa Depression, as well as an important inducing factor for the formation of local piercement salt structures. &lt;a href=&#34;#refer-yang2024&#34;&gt;(Yang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-yang2024&#34;&gt;&lt;/div&gt;[Yang, K., Qi, J., Xu, L., Yu, Y., Sun, T., Shen, F., ... &amp; Zhao, H. 2024. Influence of preexisting structures on salt structures in the Kuqa Depression, Tarim Basin, Western China: Insights from seismic data and numerical simulations.*Basin Research, 36(1), e12850.](https://doi.org/10.1111/bre.12850)
+#### Title
+&lt;p&gt;Influence of preexisting structures on salt structures in the Kuqa Depression, Tarim Basin, Western China: Insights from seismic data and numerical simulations&lt;/p&gt;
+&lt;p&gt;Keji Yang&lt;sup&gt;1&lt;/sup&gt;, Jiafu Qi&lt;sup&gt;2&lt;/sup&gt;,Liangwei Xu&lt;sup&gt;3&lt;/sup&gt;*, Yanqiu Yu&lt;sup&gt;1&lt;/sup&gt;, Tong Sun&lt;sup&gt;4&lt;/sup&gt;, Fangle Shen&lt;sup&gt;5&lt;/sup&gt;,
+Li Peng&lt;sup&gt;6&lt;/sup&gt;, Ji Lv&lt;sup&gt;6&lt;/sup&gt;, Hanting Zhao &lt;sup&gt;6&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hebei Key Laboratory of Strategic Critical Mineral Resources, College
+of Earth and Science, Hebei GEO University, Shijiazhuang, China&lt;/li&gt;
+&lt;li&gt;State Key Laboratory of Petroleum Resources and Prospecting, College of Earth and Science, China University of Petroleum (Beijing), Changping, Beijing, China&lt;/li&gt;
+&lt;li&gt;School of Resources and Environment, Henan Polytechnic University, Jiaozuo,
+China&lt;/li&gt;
+&lt;li&gt;Research Institute of Exploration and Development, Dagang Oilfield, CNPC, Tianjin, China&lt;/li&gt;
+&lt;li&gt;Huaxin College of Hebei GEO University, Shijiazhuang, China&lt;/li&gt;
+&lt;li&gt;Bureau of Geophysics Prospecting Inc., CNPC, Research Center of Geology,  Zhuozhou, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The preexisting structures that developed in the basement and subsalt strata play a key role in the salt structural deformation in the Kuqa Depression, Tarim Basin. The characteristics of preexisting structures and their controls on the salt structure are investigated via the latest three-dimensional seismic data and numerical modelling. The results show that the preexisting structures that developed in the Kuqa Depression mainly consist of basement faults, palaeouplifts, subsalt slopes and early passive salt diapirs. Basement faults are mainly distributed in the Kelasu and Qiulitag structural belts and control the position of development and deformation style of the Miocene compressive salt structure. The differences in styles and reactivation degrees of basement faults lead to great diversity in the salt structure. The palaeouplifts mainly include the Wensu, western Qiulitag, Xinhe and Yaha-Luntai palaeouplifts. The original sedimentary range and later deformation space of the salt layer are limited by the palaeouplift, resulting in strong salt thrusting in the Awate sag in the western part of the Kuqa Depression. The heterogeneous spatial distribution of the palaeouplift promoted the development of regional strike-slip transform belts. Subsalt slopes are located mainly on the northern edge of the western Qiulitag low uplift and block the southward flow of the salt, causing the salt to form salt domes; the size of these domes is closely related to the subsalt slope. Early passive salt diapirs mainly developed in the Quele and Bozidun areas of the western Kuqa Depression, and they were preferentially active during the compression period, inducing the formation of a piercement salt nappe. Numerical modelling revealed that the preexisting structure strongly controlled the stress–strain distribution during the deformation of the salt structure. The spatial distribution heterogeneity of the basement structure is an important factor in the structural zonation along the north–south strike and segmentation along the west–east strike in the Kuqa Depression, as well as an important inducer of the piercement salt structure.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240228/bre12850-fig-0013-m_hu3e634727948240166a3f6ef4185fecfb_351884_b9533a201164c39812df350ad3a9db7c.webp 400w,
+               /en/blog/20240228/bre12850-fig-0013-m_hu3e634727948240166a3f6ef4185fecfb_351884_f1c76890ad1751c2fb64cfb5cba4fcc6.webp 760w,
+               /en/blog/20240228/bre12850-fig-0013-m_hu3e634727948240166a3f6ef4185fecfb_351884_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240228/bre12850-fig-0013-m_hu3e634727948240166a3f6ef4185fecfb_351884_b9533a201164c39812df350ad3a9db7c.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;757&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; FIGURE 13 Model settings of the discrete-element numerical simulation experiment. (a) Model A—Basic model; (b) Model B—Preexisting fault model; (c) Model C—Preexisting palaeouplift model; and (d) Model D – Preexisting salt diapir model. All the models are 60 km long and 4.5 km high and are extruded from the right edge with a 15 km compressive distance. The elements are bonded to the base and sidewalls, and the gravitational field is calculated. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240228/bre12850-fig-0014-m_hud16c4373987d81381946138572f913bc_746428_01e422a0cf1ad893a1a832ba2534e417.webp 400w,
+               /en/blog/20240228/bre12850-fig-0014-m_hud16c4373987d81381946138572f913bc_746428_bdda5238e02e12fee05c9c247e9492a8.webp 760w,
+               /en/blog/20240228/bre12850-fig-0014-m_hud16c4373987d81381946138572f913bc_746428_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240228/bre12850-fig-0014-m_hud16c4373987d81381946138572f913bc_746428_01e422a0cf1ad893a1a832ba2534e417.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; FIGURE 14 Experimental process of Model A. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. On the whole, the structural deformation of each structural layer gradually propagates from right to left, and the propagation distance of super-salt deformation is larger than that of the subsalt deformation. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240228/bre12850-fig-0015-m_hu904b7e5596d64f5e3bf4489b2c3b6412_727431_ad76ad80a1bb70c8d07476a64698f1f7.webp 400w,
+               /en/blog/20240228/bre12850-fig-0015-m_hu904b7e5596d64f5e3bf4489b2c3b6412_727431_085dbee3748cb1911dbe0e322612e042.webp 760w,
+               /en/blog/20240228/bre12850-fig-0015-m_hu904b7e5596d64f5e3bf4489b2c3b6412_727431_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240228/bre12850-fig-0015-m_hu904b7e5596d64f5e3bf4489b2c3b6412_727431_ad76ad80a1bb70c8d07476a64698f1f7.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; FIGURE 15 Experimental process of Model B. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. The preexisting faults away from the extrusion edge begin to revive when the extrusion reaches 12 km and finally, form a salt diapir at the top of the basement faults. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240228/bre12850-fig-0016-m_hue6149c68c28eb7069eca545dd9aa15e0_689232_32584eff22787636ffbf2c460322ceca.webp 400w,
+               /en/blog/20240228/bre12850-fig-0016-m_hue6149c68c28eb7069eca545dd9aa15e0_689232_d427beb10c9f0bb1be2213293518568f.webp 760w,
+               /en/blog/20240228/bre12850-fig-0016-m_hue6149c68c28eb7069eca545dd9aa15e0_689232_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240228/bre12850-fig-0016-m_hue6149c68c28eb7069eca545dd9aa15e0_689232_32584eff22787636ffbf2c460322ceca.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; FIGURE 16 Experimental process of Model C. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. Due to the barrier of the preexisting palaeouplift, the subsalt faults are strongly thrust, and a piercement salt structure is formed on the right edge of the palaeouplift. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240228/figure17_hu26539f9b604cc4511938b2d19923dfdf_35864_891dc8551724b9ac0321ded7481ccfad.webp 400w,
+               /en/blog/20240228/figure17_hu26539f9b604cc4511938b2d19923dfdf_35864_e7b4b16f1fecdc2c6b626a72713cd189.webp 760w,
+               /en/blog/20240228/figure17_hu26539f9b604cc4511938b2d19923dfdf_35864_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240228/figure17_hu26539f9b604cc4511938b2d19923dfdf_35864_891dc8551724b9ac0321ded7481ccfad.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;412&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; FIGURE 17 Experimental process of Model D. From (a) to (e), the compressive distance is 3, 6, 9, 12 and 15 km respectively. When the extrusion reaches 9 km, the preexisting salt diapir starts to revive and finally evolves into a penetrating salt wall. &lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formation Mechanism of Salt Piercement Structures in a Compressive Environment A Case Study from the Kuqa Depression, Tarim Basin</title>
+      <link>https://geovbox.com/en/blog/20240227/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240227/</guid>
+      <description>&lt;p&gt;The formation mechanism of piercement structures is more complex than that of concealed piercement structures, and current research on this issue is limited. Based on field geological outcrop surveys and detailed interpretation of seismic data, combined with the evolution of the tectonic-sedimentary environment and growth strata characteristics, this paper analyzes the distribution, geometry, and evolutionary history of salt piercement structures in the Kuqa Depression. On this basis, the influence of several possible factors on the formation and evolution of piercement structures is discussed through discrete element numerical simulation experiments. The results show that the salt piercement structures in the Kuqa Depression are mainly developed in the northern margin of the Wensu Uplift, the Quele passive salt diapir, and at the top of pre-existing basement faults in the Kelasu area. Salt rocks can directly pierce the overlying strata or contact the surrounding rocks through faulting. Growth strata characteristics indicate that the piercement structures in the Kelasu area formed earlier, followed by those in the northern Wensu margin, with the Quele piercement structures forming latest. The evolution of piercement structures can be divided into three stages: stable, weak compression, and strong compression. In a compressive environment, it is difficult for salt layers to form piercement structures relying solely on compressive stress. The edges of uplifts, early passive salt diapirs, the tops of pre-existing basement faults, and the fronts of sedimentary wedges are preferential locations for the development of piercement structures. The confinement of paleo-uplifts, reactivation of basement faults, preferential activity of early passive salt domes, and the progradation of the orogenic belt towards the basin interior are important inducing factors for the development of piercement structures. The crucial way these factors induce piercement structures is by promoting strong thrusting in suprasalt strata, thereby providing channels for salt upwelling.&lt;a href=&#34;#refer-yang2024&#34;&gt;(Yang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-yang2024&#34;&gt;&lt;/div&gt;[Yang, K., Qi, J., Shen, F., Sun, T., Duan, Z., Cui, M., ... &amp; Lv, J. (2024). Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China. Journal of Structural Geology, 178, 105005.](https://doi.org/10.1016/j.jsg.2023.105005)
+#### Title
+&lt;p&gt;Formation mechanism of salt piercement structures in a compressive environment: An example from the Kuqa depression, western China&lt;/p&gt;
+&lt;p&gt;Keji Yang&lt;sup&gt;a&lt;/sup&gt;, Jiafu Qi&lt;sup&gt;b&lt;/sup&gt;, Fangle Shen&lt;sup&gt;c&lt;/sup&gt;*,Liangwei Xu&lt;sup&gt;d&lt;/sup&gt;, Tong Sun&lt;sup&gt;a&lt;/sup&gt;, Zhanzhan Duan &lt;sup&gt;c&lt;/sup&gt;, Meijuan Cui&lt;sup&gt;e&lt;/sup&gt;，Li Peng&lt;sup&gt;e&lt;/sup&gt;, Ji Lv&lt;sup&gt;e&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;a. Hebei Key Laboratory of Strategic Critical Mineral Resources, Hebei GEO University, Shijiazhuang 050031, China
+b. State Key Laboratory of Petroleum Resources and Prospecting, China University of Petroleum, Changping, Beijing 102249, China
+c. Huaxin College of Hebei GEO University, Shijiazhuang 050000, China
+d. PetroChina Dagang Oilfield Exploration and Development Research Institute, Tianjin, 300280, China
+e. Bureau of Geophysics Prospecting Inc., CNPC, Research Center of Geology, Zhuozhou 072750, China&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The formation mechanism of piercement structures is more complex than that of concealed piercement structures, and little research has been conducted on this topic. In this work, based on surveys of field geological outcrops and detailed interpretation of seismic data, combined with the evolution of the tectonic-sedimentary environment and stratum growth characteristics, the geometry and evolutionary history of salt piercement structures in the Kuqa Depression are investigated. Through discrete element numerical simulation experiments, the influences of various factors on the formation and evolution of the piercement structure are discussed. The results show that the piercement structures in the Kuqa Depression are mainly developed in the northern margin of the Wensu paleohigh, the Quele passive salt diapir, and at the top of the Kelasu basement fault. The salt can directly pierce the overlying strata or contact the surrounding rock through faulting. The characteristics of the growth strata reveal that the Kelasu piercement structure formed first, followed by the Wenshu piercement structure, and the Quele piercement structure formed later. The evolution of the piercement structure can be divided into three stages: quiet, weak compression and strong compression. Relying solely on tectonic compressive stress, it is difficult for salt layer to form piercement structures. The most advantageous location for the development of the piercement structure in a compressive environment is in the margin of the paleohighs and low bulges and at the top of early passive salt diapirs and preexisting basement faults. The front of the sedimentary wedges is also a preferential location for the development of piercement structures. The barrier of the paleo-high, reactivation of the preexisting basement fault, priority activation of the early passive salt dome, and progradation of the sedimentary wedge from the orogenic belt to the basin interior are favorable factors inducing piercement structure formation. An important mechanism for controlling salt piercement is to promote strong thrusting in suprasalt strata, which provides a channel for salt upwelling.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr3_lrg_hu12ff4495c5a04844272905f0c1eacbd0_867522_9eeeddd7cf561e90cc6542a27d1183c2.webp 400w,
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr3_lrg_hu12ff4495c5a04844272905f0c1eacbd0_867522_feb849b4cd7d80593b99cddab4e225ef.webp 760w,
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr3_lrg_hu12ff4495c5a04844272905f0c1eacbd0_867522_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240227/1-s2.0-S0191814123002225-gr3_lrg_hu12ff4495c5a04844272905f0c1eacbd0_867522_9eeeddd7cf561e90cc6542a27d1183c2.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Fig. 3. Numerical simulation experiment model setup: (a) basic model, (b) basement fault model, (c) preexisting salt dome model, and (d) paleo-high model. The initial setting of the progradation model is consistent with the basic model. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr14_lrg_hu25e97a95526fe2ba9371137cda44de0b_1257713_6aa1dddb05bcd0f900fdf620530f76a7.webp 400w,
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr14_lrg_hu25e97a95526fe2ba9371137cda44de0b_1257713_6caf3372f0e6707810897dc6b2406c35.webp 760w,
+               /en/blog/20240227/1-s2.0-S0191814123002225-gr14_lrg_hu25e97a95526fe2ba9371137cda44de0b_1257713_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240227/1-s2.0-S0191814123002225-gr14_lrg_hu25e97a95526fe2ba9371137cda44de0b_1257713_6aa1dddb05bcd0f900fdf620530f76a7.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;416&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Fig. 14. Comparisons of numerical simulation experimental results and seismic profiles crossing the piercement structures in the Kuqa depression. The results show that there is a significant similarity between the experimental results and seismic data.&lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

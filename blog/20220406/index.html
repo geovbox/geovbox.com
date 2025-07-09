@@ -1,0 +1,1400 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="力学分层（Mechanical stratigraphy）是一" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/20220406/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/20220406/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/20220406/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/20220406/" />
+  <meta property="og:title" content="力学分层对塔里木克拉通内走滑断裂分层样式的控制作用(Tectonophysics) | ZDEM官网" />
+  <meta property="og:description" content="力学分层（Mechanical stratigraphy）是一" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-04-06T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-04-06T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>力学分层对塔里木克拉通内走滑断裂分层样式的控制作用(Tectonophysics) | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="42dbed180f43873a97112c828eddada8" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>中文 (简体)</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/en/blog/20220406/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>力学分层对塔里木克拉通内走滑断裂分层样式的控制作用(Tectonophysics)</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E9%99%88%E6%A7%9A%E4%BF%8A/">陈槚俊</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2022年04月06日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E6%96%87%E7%AB%A0/">文章</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>力学分层（Mechanical stratigraphy）是一种常见的地质现象，指岩层在垂向序列上表现出明显的力学性质差异(<a href="#refer-Willis1893">Willis, 1893</a> ; <a href="refer-Laubach2009">Laubach et al., 2009</a> )。这种地质现象将会显著影响应变的分布，导致构造样式在不同力学层中发生急剧变化。目前，报道力学分层如何控制走滑体制内剪切变形的文献极少，尤其是克拉通内剪切变形。近年来，在塔里木克拉通盆地顺北地区陆续发现的规模性油气藏均与走滑断裂有关 <a href="refer-Yun2021">(云露，2021)</a>。这些分层发育的走滑断裂被岩性界面分隔，力学分层所起到的具体作用尚不清楚，是否会对油气的垂向疏导产生影响更是有待研究。<br>
+针对上述问题，中国地质大学（北京）何登发教授及其团队的博士生陈槚俊、田方磊、张伟康，与中石化西北油田分公司黄诚、中国石油勘探开发研究院马德波合作，依托国家自然科学基金企业创新发展联合基金、国家重点研发计划以及中石化科技部外协项目的资助，选取塔里木克拉通中部顺北1号、5号走滑断裂带为研究对象（图1），综合钻井、2D和高精度3D地震反射资料、岩石力学实验数据、偶极子声波测井数据，建立顺北地区古生界力学剖面，总结断裂带的基本特征，利用VBOX(ZDEM)开展离散元数值模拟实验并进行应力应变分析<a href="#refer-Morgan2015">(Morgan，2015)</a> ，探讨断裂分层发育的形成机制，最终取得以下认识<a href="#refer-chen2021">(Chen et al.,2022)</a> ：</p>
+<ol>
+<li>顺北地区下古生界的力学剖面以3套能干层夹2套非能干层为特征；其中3组断裂分层发育于3套能干层内，相邻断层组之间存在“软连接”现象（图6）；</li>
+<li>下伏先存构造是促进窄应变带产生的主要因素（图8，10），而力学分层的基本特点控制了分层剪切变形模式（以早–中志留世剪切变形为例，图10）；</li>
+<li>分层剪切变形模式带来的启示：“软连接”断层不利于油气的垂向运移但利于保存，各层系断裂之间的垂向连通性可能是顺北地区油气勘探的一个重要研究方向。</li>
+</ol>
+<div id="refer-chen2022"></div>
+[Chen, J., He, D., Tian, F., Huang, C., Ma, D., Zhang, W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
+<h4 id="题目">题目</h4>
+<p>Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China</p>
+<h4 id="作者">作者</h4>
+<p>Jiajun Chen<sup>1, 2</sup>， Dengfa He<sup>1, 2</sup>, Fanglei Tian<sup>1, 2</sup>, Cheng Huang<sup>3</sup>, Debo Ma<sup>4</sup>, Weikang Zhang<sup>1, 2</sup></p>
+<ol>
+<li>School of Energy Resources, China University of Geosciences Beijing, Beijing 100083, China</li>
+<li>Key Laboratory of Marine Reservoir Evolution and Hydrocarbon Enrichment Mechanism, Ministry of Education, Beijing 100083, China</li>
+<li>Northwest Oilfield Branch Company, SINOPEC, Urumqi, Xinjiang 830011, China</li>
+<li>Research Institute of Petroleum and Development, PetroChina, Beijing 100083, China</li>
+</ol>
+<h4 id="摘要">摘要</h4>
+<p>The large-scale (tens to hundreds of kilometers long) but small-displacement (&lt;2 km) strike-slip faults in the Shunbei region of the Tarim Basin, NW China, provide an opportunity to document the role of mechanical stratigraphy in an intracratonic strike-slip situation. Uniaxial compression test results and dipole acoustic logging data illustrate that the lower Paleozoic mechanical profile in the Shunbei region consists of 2 incompetent layers (middle Cambrian and Upper Ordovician) and 3 competent layers (Sinian–lower Cambrian, upper Cambrian–Middle Ordovician, and Silurian). Borehole and high-resolution 3D seismic data illustrate that the 3 competent layers are characterized by low-amplitude folds and isolated brittle faults. The discrete element method (DEM) modeling results indicate that mechanical stratigraphy is an important factor controlling the softlinked faulting style that is independent of multiphase deformation. A pre-existing structure promotes the formation of narrow and localized fault zones. The early–middle Silurian evolution of the Shunbei No. 1 fault zone reflects a classic stratigraphically decoupled deformation model: the middle fault arrays (upper Cambrian–Middle Ordovician layers) and en echelon normal faults (Silurian layer) synchronously experienced leftlateral slip. These two styles of faulting have different geometries (fault dips, slips, and arrangements) but are kinematically coupled and genetically related. This proposed deformation model provides mechanical support to document deeply buried structures by characterizing genetically related shallow structures, which may be widely employed as multiphase inheritance structures with mechanical stratigraphy. We also point out that vertical fault connectivity is a key research aspect of hydrocarbon exploration in the Shunbei oilfield.</p>
+<h5> </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_84e81e507dfd0872c7b1e0e850f2e9f2.webp 400w,
+               /blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_0b096283cd8631b3c45c13dad689ce47.webp 760w,
+               /blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_84e81e507dfd0872c7b1e0e850f2e9f2.webp"
+               width="600px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>图1 塔里木盆地中部顺托果勒低隆及邻区深层主干断裂分布图（a）、综合柱状图（b）、中奥陶统顶面（c）、奥陶系顶面（d）及志留系顶面（e）断裂分布图
+Caption: Distribution map of (a) the structural elements in the Paleozoic tectonostratigraphic unit and intracratonic small-displacement (< 2 km) strike-slip faults of the Shuntuoguole Lower Uplift, (b) stratigraphic column, and fault distributions (modified after 邓尚等, 2018) at the (c) top of the Middle Ordovician (T74), (d) top of the Ordovician (T70), and (e) top of the Silurian (T60). (1) = Paleozoic rock sampling location; (2) = Mesozoic rock sampling location; SRS = seismic reflection surface; TS = tectonostratigraphic unit; U = Upper; M = Middle; L = lower; Qu. = Quaternary; Ca. = Carboniferous; PDZ = principal displacement zone.
+ </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_5436f746db85d4e103d647474c757376.webp 400w,
+               /blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_f34d823e711a2c9a465b64c521a4a5a5.webp 760w,
+               /blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_5436f746db85d4e103d647474c757376.webp"
+               width="600px"
+               height="586"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5> 图6 顺北1号与5号断裂带地震–地质结构剖面
+Caption: Interpreted seismic cross-sections and related mechanical profiles (see Fig. 1a for location). a) W–E-oriented cross-section showing the pop-up structure of the Shunbei No. 5 fault zone (C–C'); b) W–E-oriented cross-section showing the pull-apart structure of the Shunbei No. 5 fault zone (D–D'); c) NW–SE-oriented cross-section showing the Shunbei No. 1 fault zone (E–E').
+</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_063a68765855b183ba55fcc2c2531de8.webp 400w,
+               /blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_d54fb1b71457c69edf906bed173f7220.webp 760w,
+               /blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_063a68765855b183ba55fcc2c2531de8.webp"
+               width="600px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>图8 顺北走滑断裂带的四组数值模拟实验结果，包括构造变形（a, d, g, j）、体积应变（b, e, h, k）和变形应变（c, f, i, l）
+Caption: 2D numerical simulation results of the 4 models, including the (a, d, g, and j) deformations, (b, e, h, and k) volumetric strains, and (c, f, i, and l) distortional strains.
+</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_f77cc6e4d6f3ad9338feef386a6c5b31.webp 400w,
+               /blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_93c47215f4fcfd933c099e0ee4566eb2.webp 760w,
+               /blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_f77cc6e4d6f3ad9338feef386a6c5b31.webp"
+               width="600px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>图10 一种左行走滑断裂产生的左行剪切变形模式及其潜在的定向构造（a）与顺北1号和5号断裂带早–中志留世的分层剪切变形模式（b）
+Caption: Comparison of the (a) non-stratigraphically decoupled deformation (modified after Fossen, 2016) and potential structures formed in the upward widening shear zone and (b) early–middle Silurian stratigraphically decoupled deformation in the Tarim intracratonic left-lateral slip scenario (e.g., Shunbei No. 1 and 5 fault zones). PDZ is the principal displacement zone; R and R′ are the synthetic and antithetic shear fractures, respectively; P is the secondary shear fracture and connects the R and R′ surfaces; Φ is the angle of internal friction.</h5>
+<h4 id="acknowledgments">Acknowledgments</h4>
+<p>The authors wish to thank the Northwest Oilfield Branch Company (SINOPEC) and Research Institute of Petroleum Exploration and Development (CNPC) for granting access to the data. The numerical calculations in this manuscript were performed at the computing facilities of the High Performance Computing Center (HPCC) of Nanjing University. This research was financially supported by the National Natural Science Foundation of China [grant number U19B6003-01] and the National Key Research and Development Program of China [grant number 2017YFC0601405]. The authors would like to thank Julia K. Morgan for generously sharing their postprocessing scripts and algorithms, which have been used to process and display the model outputs presented here.</p>
+<h4 id="references">References</h4>
+<div id="refer-Willis1893"></div>
+Willis, B., 1893. The mechanics of Appalachian structure. In: US Geol. Survey. 13th Ann. Rept, pp. 211–282.
+<div id="refer-Laubach2019"></div>
+Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111. https://doi.org/10.1029/2019RG000671
+<div id="refer-Yun2021"></div>
+云露, 2021. 顺北东部北东向走滑断裂体系控储控藏作用与突破意义. 中国石油勘探, 26(03): 41-52.
+<div id="refer-Den2018"></div>
+邓尚, 李慧莉, 张仲培, 等. 2018. 塔里木盆地顺北及邻区主干走滑断裂带差异活动特征及其与油气富集的关系. 石油与天然气地质, 39(5): 878-888.
+<div id="refer-Li2019"></div>
+李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.
+<div id="refer-Morgan2015"></div>
+Morgan J K., 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120(5): 3870-3896.
+<div id="refer-Fossen2016"></div>
+Fossen H., 2016. Structural Geology. 2nd. United Kingdom: Cambridge University Press.
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/%E5%A1%94%E9%87%8C%E6%9C%A8/">塔里木</a>
+  
+  <a class="badge badge-light" href="/tag/%E8%B5%B0%E6%BB%91/">走滑</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/20220406/&amp;text=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/20220406/&amp;t=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29&amp;body=https://geovbox.com/blog/20220406/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/20220406/&amp;title=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29%20https://geovbox.com/blog/20220406/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/20220406/&amp;title=%e5%8a%9b%e5%ad%a6%e5%88%86%e5%b1%82%e5%af%b9%e5%a1%94%e9%87%8c%e6%9c%a8%e5%85%8b%e6%8b%89%e9%80%9a%e5%86%85%e8%b5%b0%e6%bb%91%e6%96%ad%e8%a3%82%e5%88%86%e5%b1%82%e6%a0%b7%e5%bc%8f%e7%9a%84%e6%8e%a7%e5%88%b6%e4%bd%9c%e7%94%a8%28Tectonophysics%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>语言:</div>
+      <div class="p-2">中文 (简体)</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/en/blog/20220406/">English</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>

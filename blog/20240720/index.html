@@ -1,0 +1,1442 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/20240720/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/20240720/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/20240720/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/20240720/" />
+  <meta property="og:title" content="边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质） | ZDEM官网" />
+  <meta property="og:description" content="本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2024-07-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2024-07-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质） | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7c7f3f914d929312368a891ab0b25da8" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>中文 (简体)</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/en/blog/20240720/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E9%A9%AC%E7%9A%93%E7%84%B6/">马皓然</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2024年07月20日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E6%96%87%E7%AB%A0/">文章</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探讨断层几何发育特征的控制因素，为东海盆地构造演化机制及边缘海盆地的形成提供了思路和理论依据<a href="#refer-qu2024">(马皓然等,2024)</a>。</p>
+<div id="refer-ma2024"></div>
+<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRQbYEmrDX8Mje95BMn_IPljoXMr0YcRIfyJ1IlbvIoNObYw-CP0JywPXVbQn7kkFLk4V50vOx_n1IQ6hfgsz_6iwt6NLSyQDXui7-EYgBwg0DTWZZnfCf94zdfADO88tHkG-JH5JL8v_aHlCTlvFu8NogMJqpOCjrQ=&amp;uniplatform=NZKPT" target="_blank" rel="noopener">马皓然,苏金宝,王毛毛,等.边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例[J].海洋地质与第四纪地质,<strong>2024</strong>,44(01):81-95.</a></p>
+<h4 id="题目">题目</h4>
+<p>边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例</p>
+<h4 id="作者">作者</h4>
+<p>马皓然<sup>1</sup>，苏金宝<sup>1</sup>，王毛毛<sup>1</sup>，任培罡<sup>2</sup>，谈明轩<sup>1</sup></p>
+<ol>
+<li>河海大学海洋学院，南京 210098</li>
+<li>中石化华东石油工程有限公司科技发展分公司，南京 210098</li>
+</ol>
+<h4 id="摘要">摘要</h4>
+<p>东海陆架盆地中生代以来的成盆过程中，发育了大量陆倾控盆断裂，其发育模式与形成演化与东亚其他边缘海盆地差异明显。前人关注东海陆架盆地迁移特征，而忽略了断层差异演化的形成机制，对断层发育过程控制因素缺少深入研究。西湖凹陷平北斜坡带北部为海倾断层组成的断阶区，南部为陆倾断层组成的半地堑区，断裂差异演化指示着东海陆架盆地的成盆过程。本文通过离散元数值模拟，模拟陆倾和海倾断层的形成及演化，以探讨断层几何发育特征的控制因素。结果表明，岩性差异对斜坡带断层演化有较大影响，较高抗剪强度岩层破裂易产生陆倾控盆断裂，而低抗剪强度岩石则易形成向海倾断层。应力作用方向是区域差异演化的重要控制因素，岩石强度相同，应力作用方向相反时，断层倾向相反。盆地形成过程中发育众多凹陷斜坡，但坡度不是断层差异演化的主导因素。平北斜坡带和边缘海盆地的差异演化可能是由基底强度差异或应力方向差异导致的。本文利用离散元数值模拟平北斜坡带断裂差异演化过程，为东海盆地构造演化机制及边缘海盆地的形成提供了思路和理论依据。</p>
+<h5> </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_08da7e6950dc8bf22f397aea105ae653.webp 400w,
+               /blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_c2c6dd650c45e1c23410fea55b25de60.webp 760w,
+               /blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_08da7e6950dc8bf22f397aea105ae653.webp"
+               width="600px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图5 离散元数值模拟的模型边界条件</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_7d2f2f5769469721cd0a7edce3837c2a.webp 400w,
+               /blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_a5659c07ceab02e2875017c45bbf4861.webp 760w,
+               /blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_9830358d05bd3cb6516fed38c182e4d0.webp 1200w"
+               src="/blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_7d2f2f5769469721cd0a7edce3837c2a.webp"
+               width="600px"
+               height="647"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图6 模型1构造变形、体积应变及断层断距统计</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_d49cad3d9c9c6f607b9e0f79a7f2f778.webp 400w,
+               /blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_77d8ef681bedb49e8dc15e48fb3a84d1.webp 760w,
+               /blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_c66394e089a1068486f4d0e63fd7dab9.webp 1200w"
+               src="/blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_d49cad3d9c9c6f607b9e0f79a7f2f778.webp"
+               width="600px"
+               height="636"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图7 模型2构造变形、体积应变及断层断距统计</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_816316b76d379207c9dc3f654beb1879.webp 400w,
+               /blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_d58c9d795533f7b30e5f68c8f3067176.webp 760w,
+               /blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_ab0fe22d4387d546c0a5b37bfe024bba.webp 1200w"
+               src="/blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_816316b76d379207c9dc3f654beb1879.webp"
+               width="600px"
+               height="638"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图8 模型3 构造变形、体积应变及断层断距统计</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/%E5%9B%BE9%E6%A8%A1%E5%9E%8B4%E6%9E%84%E9%80%A0%E5%8F%98%E5%BD%A2%E4%B8%8E%E4%BD%93%E7%A7%AF%E5%BA%94%E5%8F%98_hu73f2bc597992a69caf19b84b8dc1e1c5_190351_dace47bc0be7125cbde7173a43074247.webp 400w,
+               /blog/20240720/%E5%9B%BE9%E6%A8%A1%E5%9E%8B4%E6%9E%84%E9%80%A0%E5%8F%98%E5%BD%A2%E4%B8%8E%E4%BD%93%E7%A7%AF%E5%BA%94%E5%8F%98_hu73f2bc597992a69caf19b84b8dc1e1c5_190351_befad4e4853792c7649fe71d3996e3e0.webp 760w,
+               /blog/20240720/%E5%9B%BE9%E6%A8%A1%E5%9E%8B4%E6%9E%84%E9%80%A0%E5%8F%98%E5%BD%A2%E4%B8%8E%E4%BD%93%E7%A7%AF%E5%BA%94%E5%8F%98_hu73f2bc597992a69caf19b84b8dc1e1c5_190351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20240720/%E5%9B%BE9%E6%A8%A1%E5%9E%8B4%E6%9E%84%E9%80%A0%E5%8F%98%E5%BD%A2%E4%B8%8E%E4%BD%93%E7%A7%AF%E5%BA%94%E5%8F%98_hu73f2bc597992a69caf19b84b8dc1e1c5_190351_dace47bc0be7125cbde7173a43074247.webp"
+               width="600px"
+               height="300"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图9 模型4构造变形与体积应变</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_e34bd72731c117573303b2bdab75a4c9.webp 400w,
+               /blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_349f0e8d9e7183aacd8105b2524a01e4.webp 760w,
+               /blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_73ae9550489ccb35c3d8b0db918e1b25.webp 1200w"
+               src="/blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_e34bd72731c117573303b2bdab75a4c9.webp"
+               width="600px"
+               height="645"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>图10 模型5构造变形、体积应变及断层断距统计</h5></center>
+<h3 id="结论">结论</h3>
+<ol>
+<li>岩石强度与应力方向是影响断层倾向变化的主要因素，高强度岩石破裂产生与伸展方向相反的断层，低强度岩石破裂产生与伸展方向同向的断层。相同强度的岩石在相反方向的应力影响下，产生的主断层倾向完全相反。基岩表面坡度和应力作用位置不是断层差异演化的主导因素。</li>
+<li>中国东部边缘海盆地差异演化可能受基底强度和应力方向差异控制。平北斜坡带南部和北部断层差异演化可能是由基岩强度差异引起的，或是应力方向差异导致的。东海陆架盆地的陆倾控盆断层可能是向海盆的伸展应力导致的，而南海陆缘盆地的断层发育可能是其基底在不同的应力方向共同作用下的结果。岩性和应力方向差异可能导致盆地差异演化，从而影响同时期油气运聚，但仍需进一步研究二者的相关性。</li>
+</ol>
+<h4 id="致谢">致谢</h4>
+<p>本文的数值计算是在南京大学高性能计算中心的计算集群上完成的, 数值模拟实验使用东华理工大学李长圣博士研发的离散元数值模拟软件完成。文中采用的应变计算代码修改自莱斯大学 Julia K Morgan 和 Thomas Fournier 的脚本，在此表示感谢。</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/%E4%BC%B8%E5%B1%95/">伸展</a>
+  
+  <a class="badge badge-light" href="/tag/%E8%BE%B9%E7%BC%98%E6%B5%B7%E7%9B%86%E5%9C%B0/">边缘海盆地</a>
+  
+  <a class="badge badge-light" href="/tag/%E8%A5%BF%E6%B9%96%E5%87%B9%E9%99%B7/">西湖凹陷</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/20240720/&amp;text=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/20240720/&amp;t=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89&amp;body=https://geovbox.com/blog/20240720/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/20240720/&amp;title=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89%20https://geovbox.com/blog/20240720/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/20240720/&amp;title=%e8%be%b9%e7%bc%98%e6%b5%b7%e7%9b%86%e5%9c%b0%e6%96%ad%e5%b1%82%e5%b7%ae%e5%bc%82%e6%bc%94%e5%8c%96%e6%88%90%e5%9b%a0%e7%9a%84%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%ef%bc%9a%e4%bb%a5%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e5%b9%b3%e5%8c%97%e6%96%9c%e5%9d%a1%e5%b8%a6%e4%b8%ba%e4%be%8b%ef%bc%88%e6%b5%b7%e6%b4%8b%e5%9c%b0%e8%b4%a8%e4%b8%8e%e7%ac%ac%e5%9b%9b%e7%ba%aa%e5%9c%b0%e8%b4%a8%ef%bc%89" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>相关</h3>
+    <ul>
+      
+      <li><a href="/blog/20201102/">伸展、生长、断层传播褶皱的离散元模拟(Basin Research)</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>语言:</div>
+      <div class="p-2">中文 (简体)</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/en/blog/20240720/">English</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>
