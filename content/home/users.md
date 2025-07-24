@@ -58,8 +58,8 @@ subtitle = ""
 	- 已毕业：[吴珍云](/about/wuzhenyun/) 林川 吴闯 张佳星 冯彦杰 [李长圣](/about/lichangsheng/) 汪伟 魏华敬 
 - [**童亨茂**](http://www.cup.edu.cn/geosci/szdw/jiaoshou/50739.htm) 教授 **中国石油大学（北京）**
 	- 成员：肖坤泽
-- [**吴珍云**](/about/wuzhenyun/) 博士 **东华理工大学**
-- [**王毛毛**](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm) 副教授 **河海大学**
+- [**吴珍云**](/about/wuzhenyun/) 副教授 **东华理工大学**
+- [**王毛毛**](http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm) 教授 **河海大学**
 - [**陈汉林**](https://person.zju.edu.cn/hlchentectonic) 教授 **浙江大学**
 - **管树巍**　高级工程师　**中国石油勘探开发研究院** 
 - [**黎广荣**](https://dkxy.ecut.edu.cn/92/3d/c259a37437/page.htm) 副教授 **东华理工大学**
@@ -89,6 +89,8 @@ subtitle = ""
 - **邹耀遥** **中国地质调查局武汉地质调查中心**
 - **王哲 东北石油大学**
 - **刘于涛 中国石油大学（华东）**
+- [**程晓敢**](https://mypage.zju.edu.cn/0099139/592577.html) 教授 **浙江大学**
+- **李鑫** **东北石油大学**
 
 {{% /col %}}
 {{< /row >}}
