@@ -1,5 +1,5 @@
 ---
-title: 逆冲断层相关褶皱离散元数值模拟及其对后翼变形的启示（Science Advances）
+title: 逆冲断层相关褶皱离散元数值模拟及其对后翼变形的启示（Journal of Structural Geology）
 date: 2025-08-01
 categories:
     - 文章
