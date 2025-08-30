@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiawei Liu | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/jiawei-liu/</link>
+      <atom:link href="https://geovbox.com/en/authors/jiawei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiawei Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Jiawei Liu</title>
+      <link>https://geovbox.com/en/authors/jiawei-liu/</link>
+    </image>
+    
+    <item>
+      <title>Structural analysis and numerical modeling of multi-stage tectonic deformation in the Ziliujing anticline, SW Sichuan Basin, China---Implications for deformation propagation in salt-bearing fold-and-thrust belts(Tectonophysics)</title>
+      <link>https://geovbox.com/en/blog/20250627/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20250627/</guid>
+      <description>&lt;p&gt;[Liu, J., Rao, G., Bai, S., Xiong, X., Zhang, J., Yang, W., Yin, C., Zhong, Y., Tang, P., Qiu, J., Gao, L., 2025. Structural analysis and numerical modeling of multi-stage tectonic deformation in the Ziliujing anticline, SW Sichuan Basin, China: Implications for deformation propagation in salt-bearing fold-and-thrust belts. Tectonophysics 908, 230760. https://doi.org/10.1016/j.tecto.2025.230760]&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Structural analysis and numerical modeling of multi-stage tectonic deformation in the Ziliujing anticline, SW Sichuan Basin, China: Implications for deformation propagation in salt-bearing fold-and-thrust belts&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Jiawei Liu&lt;sup&gt;1&lt;/sup&gt;, Gang Rao&lt;sup&gt;12*&lt;/sup&gt;, Sen Bai&lt;sup&gt;3&lt;/sup&gt;,  Xiaolin Xiong&lt;sup&gt;3&lt;/sup&gt;, Jinwu Zhang&lt;sup&gt;3&lt;/sup&gt;, Wenxiong Yang&lt;sup&gt;1&lt;/sup&gt;, Chao Yin&lt;sup&gt;1&lt;/sup&gt;, Yaqi Zhong&lt;sup&gt;1&lt;/sup&gt;, Pengcheng Tang&lt;sup&gt;4&lt;/sup&gt;, Jianhua Qiu&lt;sup&gt;5&lt;/sup&gt;, Lin Gao&lt;sup&gt;6&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Geoscience and Technology, Southwest Petroleum University, Chengdu 610500, China&lt;/li&gt;
+&lt;li&gt;CPCIF Key Laboratory of Oil and Gas Geophysical Exploration Technology in Foothill Belts, Southwest Petroleum University, Chengdu 610500, China&lt;/li&gt;
+&lt;li&gt;Sichuan Shale Gas Department, CNPC Greatwall Drilling Company, Weiyuan 642450, China&lt;/li&gt;
+&lt;li&gt;PetroChina Hangzhou Research Institute of Geology, Hangzhou 310023, China&lt;/li&gt;
+&lt;li&gt;Wuxi Research Institute of Petroleum Geology, SINOPEC, Wuxi 214126, China&lt;/li&gt;
+&lt;li&gt;Shandong Gold Geological and Mineral Exploration Co., Ltd., Yantai 261400, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Correspondence author: Gang Rao (&lt;a href=&#34;mailto:raogangss@126.com&#34;&gt;raogangss@126.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Investigating the multi-stage tectonic evolution of fold-and-thrust belts (FTBs) remains a significant challenge. In particular, the evolution of its internal structures and the mechanisms that govern deformation propagation require further research. This study focuses on the Ziliujing anticline located in the southwestern Sichuan Basin, China. It provides an in-depth analysis of the structural development and evolution of the frontal zone of the SW Sichuan FTB, which has propagated from the southeast to the northwest. Through detailed interpretation of seismic reflection profiles and quantitative area-depth-strain (ADS) analysis, we have identified three distinct stages of tectonic shortening corresponding to the Caledonian, Indosinian, and Yanshan-Himalayan orogenic periods. These findings are consistent with the established history of regional tectonic evolution. Furthermore, discrete-element numerical simulations demonstrate that the pinch-out of the basal décollement exerts a significant influence fault development and the formation of overlying fold patterns during multi-stage tectonic deformation. During the initial phase, deformation progressively propagates forward until it reaches the tip of the décollement, where subsequent deformation becomes predominantly localized. The decoupling effect induced by the intermediate décollement facilitates the continued forward propagation of underlying deformation. These insights contribute to a deeper understanding of the multi-stage compressional deformation of salt-bearing fold-thrust belts and the critical factors governing the propagation of deformation from mountain ranges to basins.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure1_hud562b4b3de70200d4ad20dce535153f0_328609_e2581596a24452ec184233136265f03d.webp 400w,
+               /en/blog/20250627/Figure1_hud562b4b3de70200d4ad20dce535153f0_328609_d5a8f956f58d4032d28460cd78ab0ae3.webp 760w,
+               /en/blog/20250627/Figure1_hud562b4b3de70200d4ad20dce535153f0_328609_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure1_hud562b4b3de70200d4ad20dce535153f0_328609_e2581596a24452ec184233136265f03d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 1. (a) Tectonic subdivision map of the Sichuan Basin. (b) Simplified geological map of the Weiyuan and Ziliujing anticlines in the southwestern part of the Sichuan Basin (modified from Zhang et al., 2023). (c) Regional geological cross-section derived from the interpretation of seismic reflection profiles (modified from Jia et al., 2020). Note that the Ziliujing anticline is situated at the northwestern front of the southeastern Sichuan FTB.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure3_hu7428f1518b9b87eac3e4fe24b1fc72a4_476027_4e101457f71b9aecfae23dd3d2e73c3a.webp 400w,
+               /en/blog/20250627/Figure3_hu7428f1518b9b87eac3e4fe24b1fc72a4_476027_94a4e885aaaa53099dd7b7ca96bd74e1.webp 760w,
+               /en/blog/20250627/Figure3_hu7428f1518b9b87eac3e4fe24b1fc72a4_476027_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure3_hu7428f1518b9b87eac3e4fe24b1fc72a4_476027_4e101457f71b9aecfae23dd3d2e73c3a.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 3. ADS analysis of the profile A-A′ across the Ziliujing anticline (see Fig. 1c for the location). (a) A total of 24 beds have been identified and annotated within two sub-regions (A1 and A2). (b) and (d) present area-height plots for two anticlines (labeled 1 and 2), illustrating that pre-growth strata, which exhibit linear patterns, are distinctly separated from syn-tectonic growth strata, characterized by a decreasing trend in area with increasing height. (c) and (e) depict the shortening amounts as functions of height for the respective anticlines.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure4_huc57e56ac01f3f07c03aa424b2a3a8159_511361_29a35f18d43ffbd53eca60bc023cb508.webp 400w,
+               /en/blog/20250627/Figure4_huc57e56ac01f3f07c03aa424b2a3a8159_511361_b8fa72085be5b2e4a8eb11d8faed763c.webp 760w,
+               /en/blog/20250627/Figure4_huc57e56ac01f3f07c03aa424b2a3a8159_511361_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure4_huc57e56ac01f3f07c03aa424b2a3a8159_511361_29a35f18d43ffbd53eca60bc023cb508.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 4. ADS analysis of the profile B-B′ across the Ziliujing anticline (see Fig. 1c for the location). (a) Similarly, a total of 24 beds are annotated within two sub-regions (designated as B1 and B2). (b) and (d) present area-height plots of the anticlines 1 and 2, demonstrating linear pre-growth strata are separated from the syn-tectonic growth strata. (c) and (e) provide the shortening amounts as functions of height, respectively.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure5_hucb70204ad76111b4ab24cb21f6d666c4_498169_630422b7eaf31f602277eee3a322cb67.webp 400w,
+               /en/blog/20250627/Figure5_hucb70204ad76111b4ab24cb21f6d666c4_498169_fe6af65d61e8c95c3997c4a258d27112.webp 760w,
+               /en/blog/20250627/Figure5_hucb70204ad76111b4ab24cb21f6d666c4_498169_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure5_hucb70204ad76111b4ab24cb21f6d666c4_498169_630422b7eaf31f602277eee3a322cb67.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 5. ADS analysis of the profile C-C′ across the Ziliujing anticline (see Fig. 1c for the location). (a) A total of 24 beds are annotated within two sub-regions (C1 and C2). (b) and (d) exhibit area-height plots of the sub-regions 1 and 2, showing that linear pre-growth strata are separated from syn-tectonic growth strata. (c) and (e) illustrate the shortening amounts as functions of height, respectively.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure7_hu15aefeea5b4a358ca431b41ccc6f8b33_265390_afc3c4674b4887af8d30600e91020c3f.webp 400w,
+               /en/blog/20250627/Figure7_hu15aefeea5b4a358ca431b41ccc6f8b33_265390_b135f7534b5845b3c843f3a34fad550e.webp 760w,
+               /en/blog/20250627/Figure7_hu15aefeea5b4a358ca431b41ccc6f8b33_265390_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure7_hu15aefeea5b4a358ca431b41ccc6f8b33_265390_afc3c4674b4887af8d30600e91020c3f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;482&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 7. The model setups in this study includes: (a) An initial configuration characterized by a basal slope of 1.5 degrees; and (b) the representative results of multi-stage structural evolution subsequent to a total shortening of 15 km. See Tables 2 and 3 for the detailed particle parameters and variables tested in Experiments 1–5.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure8_hu880aa86296a645e9d9e34a544bc08847_474325_b55d7a81d1469bce2a8e0e675d1376df.webp 400w,
+               /en/blog/20250627/Figure8_hu880aa86296a645e9d9e34a544bc08847_474325_aa357d86041f12461ca0ddcce8015784.webp 760w,
+               /en/blog/20250627/Figure8_hu880aa86296a645e9d9e34a544bc08847_474325_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure8_hu880aa86296a645e9d9e34a544bc08847_474325_b55d7a81d1469bce2a8e0e675d1376df.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;681&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 8. Results of three experiments (1–3) with different distributions of the basal décollement. (a) In Experiment 1, the décollement initially pinches out at 30 km from the right boundary. (b) In Experiment 2, a continuous basal décollement is present throughout the entire experimental domain. (c) In Experiment 3, no basal décollement is present.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250627/Figure9_hu622f02ead011bae49e6f333c9adf78a1_453778_628d78ffe8924fb256c70c802184421b.webp 400w,
+               /en/blog/20250627/Figure9_hu622f02ead011bae49e6f333c9adf78a1_453778_0bed450c89f21b56d34ef4c0ece7b08f.webp 760w,
+               /en/blog/20250627/Figure9_hu622f02ead011bae49e6f333c9adf78a1_453778_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250627/Figure9_hu622f02ead011bae49e6f333c9adf78a1_453778_628d78ffe8924fb256c70c802184421b.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;682&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig. 9. Comparisons of the experiments with (a) and without (b) an intermediate in Experiments 1 and 5, respectively. (c) Experiment 5 does not incorporate the intermediate décollement along with its overlying strata.&lt;/h5&gt;&lt;/center&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;By integrating structural analysis of seismic reflection profiles with numerical simulations, we have drawn the following conclusions.
+(1) Our ADS analysis confirms that the Ziliujing anticline, as a superimposed structure, has experienced multi-stage tectonic shortening during the Caledonian, Indosinian, and Yanshan-Himalayan orogenic periods.
+(2) The presence of the Middle-Lower Cambrian detachment layer, composed primarily of gypsum and salt, facilitated the northwestward propagation of compressional deformation originating from the SE Sichuan FTB during the Caledonian period. This deformation rapidly reached its leading edge in the Ziliujing anticline.
+(3) The development of the Ziliujing anticline is predominantly influenced by the pinch-out of the Cambrian salt detachment. Detailed  structural analysis indicates a sequential evolution of internal structures at the deformation front. Upon reaching the pinch-out, subsequent deformation tends to localize there.&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;We thank Alan G. Nunns for permission to use StructureSolverTM software (&lt;a href=&#34;https://www.structuresolver.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.structuresolver.com/)&lt;/a&gt;. The authors used the ZDEM software (&lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) to conduct simulation experiments. We thank Julia Morgan at Rice University for providing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. We express our gratitude for the constructive feedback provided by the editors and reviewers, which significantly enhanced the clarity of this manuscript. We also benefited greatly from the insightful discussions with Drs. Bing Yan and Renfu Wang. This study was supported by the National Natural Science Foundation of China (No. 42272271), the Open Fund from SinoProbe Laboratory, CAGS (No. SinoProbe Lab 202213), and the Natural Science Foundation of Sichuan, China (No. 2022NSFSC0212).&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Due to space limitations, please refer to the full list of references：Liu, J., Rao, G., Bai, S., Xiong, X., et al. 2025. Structural analysis and numerical modeling of multi-stage tectonic deformation in the Ziliujing anticline, SW Sichuan Basin, China: Implications for deformation propagation in salt-bearing fold-and-thrust belts. Tectonophysics 908, 230760. &lt;a href=&#34;https://doi.org/10.1016/j.tecto.2025.230760&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.tecto.2025.230760&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Translator: Bao Xianjun&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

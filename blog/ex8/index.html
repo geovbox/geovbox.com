@@ -1,0 +1,1733 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="下载： gen.py | push.py ~10万颗粒，~13万时步，16核并行(Inte" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/li2021en/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/ex8/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/ex8/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/ex8/" />
+  <meta property="og:title" content="物理模拟和数值模拟对比实验(Excellent Important Nice) | ZDEM官网" />
+  <meta property="og:description" content="下载： gen.py | push.py ~10万颗粒，~13万时步，16核并行(Inte" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-05-24T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-05-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>物理模拟和数值模拟对比实验(Excellent Important Nice) | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c2b1ab2dd3b2e2e782775e32a0a85944" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>中文 (简体)</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/en/blog/li2021en/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>物理模拟和数值模拟对比实验(Excellent Important Nice)</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2021年05月24日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E6%96%87%E7%AB%A0/">文章</a>, <a href="/category/%E8%84%9A%E6%9C%AC/">脚本</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <blockquote>
+<p>下载：
+<a href="gen.py">gen.py</a> |
+<a href="push.py">push.py</a></p>
+</blockquote>
+<blockquote>
+<p>~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~<strong>3小时</strong> 完成计算。</p>
+</blockquote>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt=""
+           src="/blog/ex8/dem_am.gif"
+           loading="lazy" data-zoomable width="800px" /></div>
+  </div></figure>
+<strong><center>单位 (cm)<br>离散元数值模拟结果</center></strong></p>
+<p>通过休止角试验和双轴试验标定了石英砂颗粒的细观参数，构建了一个典型的构造物理模拟(AM)和离散元数值模拟(DEM)试验，对比两种方法在构造变形研究中的差异与相似点，通过定性和定量（如坡角、断层倾角等）的方法，分析了两种方法的异同点。DEM与AM模拟结果较为一致，基本反映了AM中石英砂的变形行为。AM中材料选取有限（如硅胶、粘土、微玻璃珠等），而DEM材料选取范围大，但其模拟结果依赖参数选取。AM和DEM作为两种独立的方法，有很好的互补性 <a href="#%e6%9d%8e%e9%95%bf%e5%9c%a32019">(李长圣,2019;</a> <a href="#refer-li2021">Li et al.,2021)</a>。</p>
+<div id="refer-li2021"></div>
+[LI C.S., YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+<h4 id="评审意见-font-colorredexcellentfont-font-colorredimportantfont-font-colorrednicefont">评审意见 <font color=red><strong>Excellent</strong></font> <font color=red><strong>Important</strong></font> <font color=red><strong>Nice</strong></font></h4>
+<ul>
+<li><strong>Jonny Wu(Guest Associate Editor):</strong> The manuscript is an <font color=red><strong>excellent work</strong></font> and  <font color=red><strong>important to publish</strong></font>.</li>
+<li><strong>Stuart Hardy:</strong> This is an <font color=red><strong>important paper</strong></font> from a methodological point of view - <font color=red><strong>a reference almost</strong></font>.</li>
+<li><strong>Amanda Hughes:</strong> This study does a <font color=red><strong>nice job</strong></font> filling an existing need in modeling based studies.</li>
+</ul>
+<h4 id="题目">题目</h4>
+<p>Calibration of the discrete element method and modelling of shortening experiments</p>
+<h4 id="作者">作者</h4>
+<p>Changsheng Li <sup>1,2,3,4</sup>, Hongwei Yin<sup>3*</sup>, Chuang Wu<sup>3</sup>, Yingchun Zhang<sup>3</sup>, Jiaxing Zhang<sup>3</sup>,
+Zhenyun Wu<sup>1,2</sup>, Wei Wang<sup>3</sup>, Dong Jia <sup>3</sup>, Shuwei Guan<sup>4</sup> and Rong Ren<sup>4</sup></p>
+<ol>
+<li>State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China</li>
+<li>School of Earth Sciences, East China University of Technology, Nanchang, China</li>
+<li>School of Earth Sciences and Engineering, Nanjing University, Nanjing, China</li>
+<li>Research Institute of Petroleum Exploration and Development, PetroChina, Beijing, China</li>
+</ol>
+<h4 id="摘要">摘要</h4>
+<p>The discrete element method (DEM) is becoming widely accepted as an effective method for addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analog model (AM). However, the previous experiments also pointed to variability among DEM models and AMs in the number of fault zones, their dip angle and spacing, and the evolution of the surface slope of a thrust wedge. The accuracy of the DEM depends on the input parameter values, so the calibration of the discrete element method is very important. Microscopic properties of particles and macroscopic properties of loose quartz sand were calibrated through a series of repose angle and biaxial tests. Furthermore, an AM was constructed to simulate the evolution of the thrust wedge to compare with DEM results. DEM and AM results indicate an encouraging overall agreement in model evolution. Based on a new automated wedge quantification method, DEM results were systematically compared with AM results on the number of fault zones, their dip angle and spacing, the evolution of the surface slope of a thrust wedge, and other parameters. <strong>Our study provides a necessary comparison between commonly applied modeling approaches, which is important for more confidently applying these methods to understand real fold and thrust belt systems.</strong></p>
+<h4 id="休止角试验">休止角试验</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_96e1e0ea2766e28eed8a94842fab4ceb.webp 400w,
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_d44e9d4e291953cfe2f5c17dc69baa05.webp 760w,
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_96e1e0ea2766e28eed8a94842fab4ceb.webp"
+               width="300px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center>a）室内试验三维视图 b）室内试验正视图 c）当 μ=0.3时，离散元模拟结果。</center>
+<p><strong><center>休止角试验</center></strong></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_84db23a4eeb155f43a3e0ade13d26f4e.webp 400w,
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_c7c1561b06bdb0f9fb8d68fe8685233a.webp 760w,
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_84db23a4eeb155f43a3e0ade13d26f4e.webp"
+               width="400px"
+               height="599"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<strong><center>颗粒集合体的休止角 θ与颗粒间摩擦系数 μ的关系</center></strong></p>
+<h4 id="双轴剪切试验">双轴剪切试验</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_85b2fef2b44c11d770a2f1c9bff57073.webp 400w,
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_d731784d7161c7189b458c67dbb74b43.webp 760w,
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_85b2fef2b44c11d770a2f1c9bff57073.webp"
+               width="300px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center>a）随机生成颗粒，颗粒直径较小，为 0.1 0.2 0.25和 0.3 mm b）半径膨胀颗粒之间变为 0.2 0.4 0.5和 0.6 mm；；c) 删除虚线外颗粒；d）设置颜色 ；e)颗粒的应变 20%时的形变；f)试样的变形应变场，颜色深浅表征剪切应变的大小，红色 表示 顺时针剪切，蓝色 表示 逆时针剪切，计算方法见 [Morgan(2015)](#Morgan2015)。</center>
+<p><strong><center>双轴试验过程</center></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_7c459d553c3fca3724a9800132749506.webp 400w,
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_bf928c81df5a0a0d3ac58165db032fa4.webp 760w,
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_7c459d553c3fca3724a9800132749506.webp"
+               width="600px"
+               height="269"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center>a）不同围压下，试样的应力应变曲线 b）双轴试样的莫尔强度包络线。</center>
+<p><strong><center>当颗粒间摩擦系数 μ=0.3时，双轴试验。</center></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_d3c05589cc6117cb95e9bde807b2427a.webp 400w,
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_64a74df6529ac722c704b624b43df133.webp 760w,
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_d3c05589cc6117cb95e9bde807b2427a.webp"
+               width="500px"
+               height="634"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center>其中，圆点是 [Klinkmüller et al.(2016)](#Klinkmüller2021)给出的环剪试验的结果 ，五角星为本文DEM计算结果。</center>
+<p><strong><center>室内试验测得的内摩擦角与粘聚力与DEM计算结果对比</center></strong></p>
+<h4 id="演化过程">演化过程</h4>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_3668aa72321b4822a33a1d90933f3692.webp 400w,
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_c3648a08365297511bbcfcdc4621cd24.webp 760w,
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_3668aa72321b4822a33a1d90933f3692.webp"
+               width="600px"
+               height="316"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_b2447bb100966501c978c3ba4a6d30a6.webp 400w,
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_c529870b586a3e93cab649b661d2ff11.webp 760w,
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_b2447bb100966501c978c3ba4a6d30a6.webp"
+               width="600px"
+               height="316"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_436f40c4fac8a346e93e54862f1345c6.webp 400w,
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_1131fe0529c63877cac1ce484142af6d.webp 760w,
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_436f40c4fac8a346e93e54862f1345c6.webp"
+               width="600px"
+               height="317"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_9497df4ec5682b5caadbcc6c2fa71e69.webp 400w,
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_3feffb469c8fa4fa1b025125b730de1f.webp 760w,
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_9497df4ec5682b5caadbcc6c2fa71e69.webp"
+               width="600px"
+               height="316"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_4a82266eea13cae0cf6c134b470be54f.webp 400w,
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_c12441b3873a1799b635ddcab8f8b4c2.webp 760w,
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_4a82266eea13cae0cf6c134b470be54f.webp"
+               width="600px"
+               height="334"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<p><strong><center>第一幅(AM)构造物理模拟；第二幅(DEM)离散元数值模拟；第三幅DEM变形应变图。</center></strong></p>
+<h4 id="定量对比">定量对比</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_cf83e649b0880b49f264d0b3616d795b.webp 400w,
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_92ac392d8b62270a81b8a42656375a04.webp 760w,
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_cf83e649b0880b49f264d0b3616d795b.webp"
+               width="600px"
+               height="521"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center>a）楔体坡角、宽度和高度测量方法示意图；b）物理模拟坡角；c) 楔体宽度演化；d) 楔体高度演化。</center>
+<p><strong><center>AM和DEM的楔体坡角、宽度和高度演化过程对比图</center></strong></p>
+<h4 id="zdem-script">ZDEM script:</h4>
+<p><em>表 1  颗粒微观参数表.</em></p>
+<table>
+<thead>
+<tr>
+<th><em>d</em>(mm)  </th>
+<th><em>k</em>(N·m<sup>−1</sup>)  </th>
+<th><em>ρ</em>(kg·m<sup>−2</sup>)  </th>
+<th><em>g</em>(m·s<sup>−2</sup>)   </th>
+<th><em>f</em>  </th>
+<th><em>μ</em> </th>
+<th><em>η</em>(N·s·m<sup>−1</sup>)  </th>
+<th><em>υ</em>(m·s<sup>−1</sup>)  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.6</td>
+<td>7.5e3</td>
+<td>1.3e3</td>
+<td>10.0</td>
+<td>0.4  </td>
+<td>0.3  </td>
+<td>0.04  </td>
+<td> 0.04 </td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Note:</strong> The particle packing consists of four particle sizes, with diameters and quantity ratio of 0.2 mm, 0.4 mm, 0.5 mm, and 0.6 mm and 2:2:1:1, respectively. <em>d</em>, largest particle diameter. <em>ρ</em>, particle density. <em>g</em>, gravitational acceleration. <em>f</em>, safety factor of the time step. <em>k</em>, stiffness of the contact. <em>μ</em>, friction coefficient. <em>η</em>, dynamic viscosity. <em>υ</em>, velocity of the mobile wall.</p>
+</blockquote>
+<ol>
+<li>
+<p>沉积过程。<a href="gen.py">gen.py</a> 中内容如下：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">######################################</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># title: 离散元数值模拟与构造物理模拟对比试验:1 沉积</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># date: 2021-05-16</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># authors: 李长圣</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># E-mail: sheng0619@163.com</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># more info, see www.geovbox.com</span>
+</span></span><span class="line"><span class="cl"><span class="c1">#######################################</span>
+</span></span><span class="line"><span class="cl">start
+</span></span><span class="line"><span class="cl"><span class="nb">set</span> disk hex
+</span></span><span class="line"><span class="cl">BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 <span class="nv">kn</span><span class="o">=</span>1.5e4 <span class="nv">ks</span><span class="o">=</span>1.5e4 fric 0.3 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">wall id 4, nodes <span class="o">(</span>     5e-3  158.0e-3<span class="o">)</span> <span class="o">(</span>  5.0e-3     5.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">wall id 5, nodes <span class="o">(</span>     5e-3    5.0e-3<span class="o">)</span> <span class="o">(</span>605.0e-3     5.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">wall id 6, nodes <span class="o">(</span> 605.0e-3    5.0e-3<span class="o">)</span> <span class="o">(</span>605.0e-3   158.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">gen grid idmin <span class="m">0</span> rad discrete 0.1e-3 0.1e-3 0.2e-3 0.2e-3 0.25e-3 0.3e-3,  x <span class="o">(</span>5.0e-3,  605.0e-3<span class="o">)</span>, y <span class="o">(</span>5.0e-3, 155.0e-3<span class="o">)</span>, GROUP ball_rand 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.4
+</span></span><span class="line"><span class="cl">FIX spin
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">SET frac 0.4
+</span></span><span class="line"><span class="cl">SET GRAVITY <span class="o">(</span> 0.0,  -10.0 <span class="o">)</span>
+</span></span><span class="line"><span class="cl">SET  stepbar <span class="m">1000</span>
+</span></span><span class="line"><span class="cl">SET  save  <span class="m">20000</span>
+</span></span><span class="line"><span class="cl">SET  print <span class="m">20000</span>
+</span></span><span class="line"><span class="cl">SET  ps    <span class="m">20000</span>
+</span></span><span class="line"><span class="cl">HIST ID <span class="m">1</span> INTERVAL <span class="m">1000</span> , kinetic
+</span></span><span class="line"><span class="cl">HIST ID <span class="m">2</span> INTERVAL <span class="m">1000</span> , step
+</span></span><span class="line"><span class="cl">PLOT hist <span class="m">2</span> <span class="m">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">CYC <span class="m">60000</span>
+</span></span><span class="line"><span class="cl">DEL range x <span class="o">(</span>4.0e-3, 606.0e-3<span class="o">)</span>, y <span class="o">(</span>30.0e-3, 1.0<span class="o">)</span>,
+</span></span><span class="line"><span class="cl">CYC <span class="m">20000</span>
+</span></span><span class="line"><span class="cl"><span class="c1">#save 2del.sav</span>
+</span></span><span class="line"><span class="cl">EXP ini_xyr.dat
+</span></span><span class="line"><span class="cl">STOP
+</span></span></code></pre></div>
+</li>
+<li>
+<p>挤压过程。<a href="push.py">push.py</a> 中内容如下：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">######################################</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># title: 离散元数值模拟与构造物理模拟对比试验:2 挤压</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># date: 2021-05-16</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># authors: 李长圣</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># E-mail: sheng0619@163.com</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># more info, see www.geovbox.com</span>
+</span></span><span class="line"><span class="cl"><span class="c1">#######################################</span>
+</span></span><span class="line"><span class="cl">LOAD  ini_xyr.dat
+</span></span><span class="line"><span class="cl">SET disk hex
+</span></span><span class="line"><span class="cl">BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 <span class="nv">kn</span><span class="o">=</span>1.5e4 <span class="nv">ks</span><span class="o">=</span>1.5e4 fric 0.3 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">WALL id 4, nodes <span class="o">(</span>     5e-3  110.0e-3<span class="o">)</span> <span class="o">(</span>  5.0e-3     5.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">WALL id 5, nodes <span class="o">(</span>     5e-3    5.0e-3<span class="o">)</span> <span class="o">(</span>605.0e-3     5.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">WALL id 6, nodes <span class="o">(</span> 605.0e-3    5.0e-3<span class="o">)</span> <span class="o">(</span>605.0e-3   110.0e-3<span class="o">)</span>, <span class="nv">kn</span><span class="o">=</span> 1.5e4 <span class="nv">ks</span><span class="o">=</span> 1.5e4 fric 0.0 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.0
+</span></span><span class="line"><span class="cl">FIX spin
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">SET frac 0.4
+</span></span><span class="line"><span class="cl">SET GRAVITY <span class="o">(</span> 0.0,  -10.0 <span class="o">)</span>
+</span></span><span class="line"><span class="cl">SET  stepbar <span class="m">10000</span>
+</span></span><span class="line"><span class="cl">HIST ID <span class="m">1</span> INTERVAL <span class="m">1000</span> , kinetic
+</span></span><span class="line"><span class="cl">HIST ID <span class="m">2</span> INTERVAL <span class="m">1000</span> , step
+</span></span><span class="line"><span class="cl">PLOT  <span class="m">2</span> <span class="m">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">SET damp lsm 0.04
+</span></span><span class="line"><span class="cl">PROP fric 0.30 
+</span></span><span class="line"><span class="cl">PROP color lg
+</span></span><span class="line"><span class="cl">PROP color  red , range x 0.0  615.0e-3 y   9.0e-3  10.0e-3  
+</span></span><span class="line"><span class="cl">PROP color  blue, range x 0.0  615.0e-3 y  14.0e-3  15.0e-3  
+</span></span><span class="line"><span class="cl">PROP color  red , range x 0.0  615.0e-3 y  19.0e-3  20.0e-3  
+</span></span><span class="line"><span class="cl">PROP color  blue, range x 0.0  615.0e-3 y  24.0e-3  25.0e-3  
+</span></span><span class="line"><span class="cl">PROP color  red , range x 0.0  615.0e-3 y  29.0e-3  30.0e-3  
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">wall id <span class="m">4</span> fric 0.30 xv 40e-3
+</span></span><span class="line"><span class="cl">wall id <span class="m">5</span> fric 0.30
+</span></span><span class="line"><span class="cl">wall id <span class="m">6</span> fric 0.30
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">CYC <span class="m">1</span>
+</span></span><span class="line"><span class="cl">imple wall id <span class="m">4</span> xmove 160e-3 save 20e-3 print 10e-3 ps 10e-3  vtk 10e-3
+</span></span><span class="line"><span class="cl">stop
+</span></span><span class="line"><span class="cl">
+</span></span></code></pre></div>
+</li>
+</ol>
+<h4 id="the-quantitative-method-of-the-thrust-wedge-based-on-mesh-data">The quantitative method of the thrust wedge based on mesh (Data)</h4>
+<p>Download：<a href="analogmodel.7z">analogmodel.7z</a></p>
+<p>The images of the analog model.</p>
+<h4 id="参考文献">参考文献</h4>
+<div id="Hardy2009"></div>
+<p><a href="https://doi.org/10.1016/j.marpetgeo.2007.12.003" target="_blank" rel="noopener">Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. <strong>Marine and Petroleum Geology</strong> 26:232-248.</a></p>
+<div id="Klinkmüller2021"></div>
+<p><a href="https://doi.org/10.1016/j.tecto.2016.01.017" target="_blank" rel="noopener">Klinkmüller, M., Schreurs, G., Rosenau, M., and Kemnitz, H. (2016). Properties of Granular Analogue Model Materials: A Community Wide Survey. <strong>Tectonophysics</strong> 684, 23–38. doi:10.1016/j.tecto.2016.01.017</a></p>
+<div id="Morgan2015"></div>
+<p><a href="http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full" target="_blank" rel="noopener">Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. <strong>Journal of Geophysical Research: Solid Earth</strong> 120:3870-3896.</a></p>
+<div id="李长圣2019"></div>
+<p><a href="http://t.cn/Ai9ruJY5" target="_blank" rel="noopener">李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京大学.</a> <strong>推荐下载</strong> <a href="https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ" target="_blank" rel="noopener">最新修订版</a> 提取码 <code>zdem</code></p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/ex8/&amp;text=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/ex8/&amp;t=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29&amp;body=https://geovbox.com/blog/ex8/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/ex8/&amp;title=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29%20https://geovbox.com/blog/ex8/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/ex8/&amp;title=%e7%89%a9%e7%90%86%e6%a8%a1%e6%8b%9f%e5%92%8c%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e5%af%b9%e6%af%94%e5%ae%9e%e9%aa%8c%28Excellent%20Important%20Nice%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>语言:</div>
+      <div class="p-2">中文 (简体)</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/en/blog/li2021en/">English</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>
