@@ -21,17 +21,16 @@ slug: 20250627
 四川盆地西南部自流井背斜多期构造变形的构造解析与数值模拟及其对含盐-褶皱冲断带变形传播的启示
 
 #### 作者
-刘嘉伟<sup>1</sup>, 饶刚<sup>12*</sup>, 白森<sup>3</sup>, 熊小林<sup>3</sup>, 张金武<sup>3</sup>, 杨文雄<sup>1</sup>, 尹超<sup>1</sup>, 钟雅琪<sup>1</sup>, 唐鹏程<sup>4</sup>, 邱建华<sup>5</sup>, 高麟<sup>6</sup>
+刘嘉伟<sup>1</sup>, 饶刚<sup>1,2*</sup>, 白森<sup>3</sup>, 熊小林<sup>3</sup>, 张金武<sup>3</sup>, 杨文雄<sup>1</sup>, 尹超<sup>1</sup>, 钟雅琪<sup>1</sup>, 唐鹏程<sup>4</sup>, 邱建华<sup>5</sup>, 高麟<sup>6</sup>
 
 1. 西南石油大学地球科学与技术学院，成都 610500，中国
-2. 中国石油天然气集团公司（CPCIF）山前带油气地球物理勘探技术重点实验室，南方石油大学，成都 610500，中国
-3. 中国石油天然气集团公司（CNPC）长城钻井公司四川页岩气部，魏源 642450，中国
-4. 中国石油杭州地质研究所，杭州 310023，中国
-5. 中国石化无锡石油地质研究所，无锡 214126，中国
-6. 山东黄金地质矿产勘探有限公司，烟台 261400，中国
+2. 西南石油大学 石油和化工行业山前带油气地球物理勘探技术重点实验室，成都 610500 
+3. 中国石油集团长城钻探工程有限公司四川页岩气项目部，威远 642450 
+4. 中国石油杭州地质研究院，杭州 310023 
+5. 中国石化无锡石油地质研究所，无锡 214126 
+6. 山东黄金地质矿产勘探有限公司，烟台 261400 
 
 - 通讯作者: 饶刚(raogangss@126.com)
-
 
 #### 摘要
 Investigating the multi-stage tectonic evolution of fold-and-thrust belts (FTBs) remains a significant challenge. In particular, the evolution of its internal structures and the mechanisms that govern deformation propagation require further research. This study focuses on the Ziliujing anticline located in the southwestern Sichuan Basin, China. It provides an in-depth analysis of the structural development and evolution of the frontal zone of the SW Sichuan FTB, which has propagated from the southeast to the northwest. Through detailed interpretation of seismic reflection profiles and quantitative area-depth-strain (ADS) analysis, we have identified three distinct stages of tectonic shortening corresponding to the Caledonian, Indosinian, and Yanshan-Himalayan orogenic periods. These findings are consistent with the established history of regional tectonic evolution. Furthermore, discrete-element numerical simulations demonstrate that the pinch-out of the basal décollement exerts a significant influence fault development and the formation of overlying fold patterns during multi-stage tectonic deformation. During the initial phase, deformation progressively propagates forward until it reaches the tip of the décollement, where subsequent deformation becomes predominantly localized. The decoupling effect induced by the intermediate décollement facilitates the continued forward propagation of underlying deformation. These insights contribute to a deeper understanding of the multi-stage compressional deformation of salt-bearing fold-thrust belts and the critical factors governing the propagation of deformation from mountain ranges to basins.

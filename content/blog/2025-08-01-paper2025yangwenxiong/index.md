@@ -25,15 +25,14 @@ slug: 20250801
 逆冲断层相关褶皱离散元数值模拟及其对后翼变形的启示
 
 #### 作者
-杨文雄<sup>1</sup>, 饶刚<sup>12*</sup>, 唐鹏程<sup>3</sup>, 朱超<sup>3</sup>, 汪仁富<sup>4</sup> 
+杨文雄<sup>1</sup>, 饶刚<sup>1,2*</sup>, 唐鹏程<sup>3</sup>, 朱超<sup>3</sup>, 汪仁富<sup>4</sup> 
 
-1. 西南石油大学 地质科技学院， 四川 成都 610500
-2. 西南石油大学 山麓带油气地球物理勘探技术重点实验室， 四川 成都 610500
-3. 中国石油杭州地质研究所，杭州310023
-4. 中国石化西南油气公司勘探开发研究院，成都 610041
+1. 西南石油大学 地球科学与技术学院， 成都 610500
+2. 西南石油大学 石油和化工行业山前带油气地球物理勘探技术重点实验室， 成都 610500
+3. 中国石油杭州地质研究所，杭州 310023
+4. 中石化西南油气田分公司勘探开发研究院，成都 610041
 
 - 通讯作者: 饶刚(raogangss@126.com)
-
 
 #### 摘要
 The theory of thrust-related folding has significantly enhanced our comprehension of the kinematic evolution of folds, especially those associated with fault ramps. Despite extensive research into the deformation mechanisms of the fore-limb in the hanging wall folds, the factors influencing back-limb deformation remain relatively underexplored. This study employs a series of discrete-element simulations to investigate the evolution of ramp related folding, particularly focusing on the factors governing the development of back-thrusts. Comparative analyses reveal diverse deformation styles within the hanging wall of a ramp fold. Notably, when the upper layer exhibits significantly greater strength relative to the lower layer, and an intermediate décollement exists between them, decoupled deformation occurs, characterized by back-thrusting predominantly in the lower layer. This phenomenon is analogous to the deep thrust belts beneath the Shizigou anticline in the western Qaidam Basin, northern Tibetan Plateau, where multiple hydrocarbon-bearing layers have been identified. The findings offer significant insights into the mechanisms of thrust-related folding, thereby improving efficient hydrocarbon exploration in relevant regions. Furthermore, unlike the commonly reported nucleation of a fault ramp from the basal d ́ecollement or at an intermediate level, our observations indicate initiation from the shallow section. The detailed mechanism underlying such differential deformation warrant further investigation.
