@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stress and Strain | ZDEM官网</title>
+    <link>https://geovbox.com/en/tag/stress-and-strain/</link>
+      <atom:link href="https://geovbox.com/en/tag/stress-and-strain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stress and Strain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Stress and Strain</title>
+      <link>https://geovbox.com/en/tag/stress-and-strain/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Analysis and Simulation of Compressional Tectonics Based on Discrete Element Method (Tectonics and Mineralization)</title>
+      <link>https://geovbox.com/en/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20220901/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Download：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2022.04.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li Changsheng, Yin Hongwei, Xu Wenqiao, Wu Zhenyun, Guan Shuwei, Jia Dong, Ren Rong. Quantitative analysis and simulation of compaction structures based on discrete element method [J]. Geotectonica et Metallogenia, 2022, 46(04): 645-661.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The corresponding ZDEM script is provided later in the text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The discrete element method (DEM) holds immense potential in the quantitative study of tectonic deformation, stress-strain relationships, and fracture prediction, making it one of the primary directions for future research in quantitative tectonic deformation studies.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Quantitative Analysis and Simulation of Compressional Tectonics Based on Discrete Element Method&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Changsheng Li&lt;sup&gt;1,2,3,4&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;3*&lt;/sup&gt;, Wenqiao Xu&lt;sup&gt;3&lt;/sup&gt;, Zhenyun Wu&lt;sup&gt;1, 2&lt;/sup&gt;,
+Shuwei Guan&lt;sup&gt;4&lt;/sup&gt;, Dong Jia&lt;sup&gt;3&lt;/sup&gt;, Rong Ren&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;PetroChina Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;With advancements in discrete element theory and computer technology, DEM has been widely applied to tectonic simulations across various scales. Compared to traditional sandbox experiments, DEM allows for more precise control of experimental boundary conditions and quantitative analysis of the tectonic deformation process. This facilitates a deeper understanding of the influence of stratigraphic mechanical properties on tectonic deformation at the mesoscopic scale. This paper systematically elaborates on the quantitative analysis method for tectonic deformation based on DEM. Through a typical numerical simulation experiment of compressional tectonics using DEM, we modeled the formation process of tectonic structures under horizontal compression. The study analyzed the changes in stress and strain distribution, as well as the patterns of fracture generation during deformation, yielding the following insights:(1) The simulated tectonics are dominated by foreland-style imbricate thrust faults, with fault activity propagating sequentially from the compression end to regions farther away;(2) Fractures are closely related to fault formation, with the accumulation of numerous fractures in local areas acting as a trigger for fault development;(3) In the early stages of fault formation, material displacement within the fault is minimal, and the incremental increase in fractures is at its peak; in the later stages of fault activity, the incremental increase in fractures decreases;(4) Volumetric strain can characterize fracture types (tensile or compressive), while deformation strain can distinguish between forward and reverse thrust faults;(5) The magnitude of average stress is positively correlated with topographic relief, and the maximum shear stress continuously accumulates at the site of an impending new fault until the fault forms, after which the maximum shear stress dissipates, propagates forward, and accumulates at the next site of an impending fault. These findings demonstrate the significant potential of DEM in the quantitative study of tectonic deformation, stress-strain relationships, and fracture prediction.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_c925a11443b00809d2c1234b78d2abfd.webp 400w,
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_f89ffd5f6a698fd8faa6a801c7173f80.webp 760w,
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_c925a11443b00809d2c1234b78d2abfd.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;(a) Principal Stress Difference and Axial Strain;(b) Shear Strength Envelope&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;Figure 2: Biaxial Experiment Results&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_adfe81676011bcf0554d4c13ab8d1ec0.webp 400w,
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_21beadeafb2b4d5a0c70f6cd6687c6bb.webp 760w,
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_adfe81676011bcf0554d4c13ab8d1ec0.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;157&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 3: Initial Model&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_b7cc094cc9af3aa4ce5a83ed0b6b7967.webp 400w,
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_451257d25a89223ba096c62e6facb4a3.webp 760w,
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_b7cc094cc9af3aa4ce5a83ed0b6b7967.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 4: Structural Interpretation of the Wedge at Model Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_fef6634e254c95b643450ee8a5399195.webp 400w,
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_190d60ee155388b7ed39faf083e2a35a.webp 760w,
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_fef6634e254c95b643450ee8a5399195.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 6: Bonded Force Chain Distribution at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e) (Blue represents bonded force chains, yellow represents unbonded contacts)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_a1df253bb690c2701aaee3580f8fcaf0.webp 400w,
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_25c957564ef8751486eb54eb9fcde698.webp 760w,
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_a1df253bb690c2701aaee3580f8fcaf0.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 8: Fault Slip Curves as a Function of Contraction (Faults F1, F2, F3, and F4 as shown in Figure 4; fault slip values measured from the green layer)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_29fd66a64f2a2dcddaff4d0e48785b7e.webp 400w,
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_da400878ca7ea2d66f2f5c9cf9e6f7f5.webp 760w,
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_29fd66a64f2a2dcddaff4d0e48785b7e.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;441&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;In Figure (a), four points are selected from four particles within faults F1, F2, F3, and F4 in the green marker layer. For clarity, the radii of these four particles are magnified threefold. The blue force chains represent bonded force chains within a 1 km radius around the monitoring points.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;Figure 9: Motion Paths of Points PF1, PF2, PF3, and PF4 (a); Cumulative Displacement of Points PF1, PF2, PF3, and PF4 with Model Contraction (b); Number of Newly Broken Bonded Force Chains within a 1 km Radius Around Points PF1, PF2, PF3, and PF4 per 1 km of Model Contraction\(c) 
+&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_e12eceb451e6db0de2aa6de8791387f2.webp 400w,
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_631a1ed7f4057e351dc0923c0abe075a.webp 760w,
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_e12eceb451e6db0de2aa6de8791387f2.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;Here, blue indicates volumetric compression, red indicates volumetric expansion, and the intensity of the color represents the magnitude of volumetric change. In (e), the semi-transparent black layer is the marker layer.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+Figure 10: Cumulative Volumetric Strain in the Model at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)
+&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_c7b983284e0dfcd1bc0cc631a6744c83.webp 400w,
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_3cf38ad5a29c22cbf1885e61b3d7915a.webp 760w,
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_c7b983284e0dfcd1bc0cc631a6744c83.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;727&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;Black lines represent stress contours, and black dots indicate points with |deformation strain| &gt; 4, marking fault locations. In Figure (e), the green layer is the marker layer.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+Figure 15: Maximum Shear Stress Distribution at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)
+&lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;The numerical computations in this study were performed on the computing cluster at Nanjing University’s High-Performance Computing Center. The numerical simulation experiments were conducted using discrete element simulation software independently developed by our research group. For more examples of tectonic simulations, see &lt;a href=&#34;https://geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com&lt;/a&gt;. The strain calculation code used in this paper was adapted from scripts by Julia K. Morgan and Thomas Fournier of Rice University, to whom we express our gratitude. The source code for the wedge element measurement program is available at &lt;a href=&#34;https://github.com/demsheng/Quantitative-wedge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/demsheng/Quantitative-wedge&lt;/a&gt;. Associate Professors Yu Yixin and Liu Zhina from China University of Petroleum (Beijing) provided thorough and professional reviews of this paper, offering constructive suggestions for improvement, for which we extend our special thanks.&lt;/p&gt;
+&lt;h4 id=&#34;zdem-script-code&#34;&gt;ZDEM Script Code&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Sedimentation Process.&lt;a href=&#34;gen.py&#34;&gt;gen.py&lt;/a&gt; The content of  is as follows:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 基于离散元的挤压构造定量分析与模拟:1 沉积&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2022-09-01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 fric 0.00 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61200.0 ,   1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 40.0 GROUP bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GEN num 200000, rad discrete 60.0 80.0,  x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; 61000&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; 16000&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, COLOR black 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2,  damp 0.4 hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue    range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  DT 5e-2,  GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -9.8 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DRAW INTERVAL 1000, bfill wall bondc &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;,bid,bang  mesh, cforce
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar  &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  save    &lt;span class=&#34;m&#34;&gt;50000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  print   &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  ps      &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;del range x &lt;span class=&#34;m&#34;&gt;1001&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60999&lt;/span&gt; y &lt;span class=&#34;m&#34;&gt;7000&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;exp init6km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;del range x &lt;span class=&#34;m&#34;&gt;1001&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60999&lt;/span&gt; y &lt;span class=&#34;m&#34;&gt;6000&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;exp init5km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compression Process.&lt;a href=&#34;push.py&#34;&gt;push.py&lt;/a&gt; The content of  is as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;During the sedimentation process, particles are randomly generated, which may result in differences between the initial model and that described in the paper. Download the initial model from the paper:&lt;a href=&#34;init5km_xyr.dat&#34;&gt;init5km_xyr.dat&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 基于离散元的挤压构造定量分析与模拟:2 挤压&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2022-09-01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;load init5km_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 fric 0.00 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61200.0 ,   1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 40.0 GROUP bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color white den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2, hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue    range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  DT 5e-2,  GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -9.8 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar  &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  print    &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  ps       &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop   ebmod 2e8 gbmod 2e8 tstrength 1e7 sstrength 2e7 fric 0.3 range x 1001.0 60999.0 y 1001.0  9000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color mg     range x 1001.0 60999.0 y 1700.0  2000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color violet range x 1001.0 60999.0 y 2700.0  3000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range x 1001.0 60999.0 y 3700.0  4000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   range x 1001.0 60999.0 y 4700.0  5000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black  range x 1001.0 60999.0 y 5700.0  9000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   fric 0.3 range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   fric 0.3 range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color red    fric 0.3 range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ini  xv 2.0, range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 1, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  500.0 , 2000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;    500.0 ,   3000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e3 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e3 color black fric 0.0  xv  2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xmove &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt; print 1000.0 ps 1000.0 vtk 1000.0 sav 2000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

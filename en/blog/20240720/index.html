@@ -1,0 +1,1428 @@
+<!DOCTYPE html><html lang="en" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This paper simulates the formation and evolution of landward-dipping and seaward-dipping faults through discrete element numerical simulation to explore the controlling factors of fault geometric development characteristics, providing insights and" />
+
+  
+    <link rel="alternate" hreflang="zh" href="https://geovbox.com/blog/20240720/" />
+  
+  <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/20240720/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/en/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/en/blog/20240720/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/en/blog/20240720/" />
+  <meta property="og:title" content="Numerical Simulation of Differential Fault Evolution in Marginal Sea Basins A Case Study of the Pingbei Slope Zone in the Xihu Depression (Marine Geology &amp; Quaternary Geology) | ZDEM官网" />
+  <meta property="og:description" content="This paper simulates the formation and evolution of landward-dipping and seaward-dipping faults through discrete element numerical simulation to explore the controlling factors of fault geometric development characteristics, providing insights and" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2024-07-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2024-07-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Numerical Simulation of Differential Fault Evolution in Marginal Sea Basins A Case Study of the Pingbei Slope Zone in the Xihu Depression (Marine Geology &amp; Quaternary Geology) | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e162714d51dd694fdeca34b6be62a51c" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/en/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/en/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#posts"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#video"><span>Video</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#docs"><span>Manual</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>Gallery</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>Papers</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#download"><span>Software</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#users"><span>Users</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/blog/20240720/">
+              <span>中文 (简体)</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Numerical Simulation of Differential Fault Evolution in Marginal Sea Basins A Case Study of the Pingbei Slope Zone in the Xihu Depression (Marine Geology &amp; Quaternary Geology)</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/en/authors/haoran-ma/">Haoran Ma</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2024年07月20日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/en/category/article/">Article</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>This paper simulates the formation and evolution of landward-dipping and seaward-dipping faults through discrete element numerical simulation to explore the controlling factors of fault geometric development characteristics, providing insights and theoretical basis for the tectonic evolution mechanism of the East China Sea Basin and the formation of marginal sea basins<a href="#refer-qu2024">(Haoran Ma,2024)</a>。</p>
+<div id="refer-ma2024"></div>
+<p><a href="https://kns.cnki.net/kcms2/article/abstract?v=FqYZq-Q0wRQbYEmrDX8Mje95BMn_IPljoXMr0YcRIfyJ1IlbvIoNObYw-CP0JywPXVbQn7kkFLk4V50vOx_n1IQ6hfgsz_6iwt6NLSyQDXui7-EYgBwg0DTWZZnfCf94zdfADO88tHkG-JH5JL8v_aHlCTlvFu8NogMJqpOCjrQ=&amp;uniplatform=NZKPT" target="_blank" rel="noopener">Haoran Ma,Jinbao Su,Maomao Wang,et al.Numerical Simulation of Differential Fault Evolution in Marginal Sea Basins: A Case Study of the Pingbei Slope Zone in the Xihu Depression[J].Marine Geology &amp; Quaternary Geology,<strong>2024</strong>,44(01):81-95.</a></p>
+<h4 id="title">Title</h4>
+<p>Numerical Simulation of Differential Fault Evolution in Marginal Sea Basins: A Case Study of the Pingbei Slope Zone in the Xihu Depression</p>
+<h4 id="authors">Authors</h4>
+<p>Haoran Ma<sup>1</sup>，Jinbao Su<sup>1</sup>，Maomao Wang<sup>1</sup>，Peigang Ren<sup>2</sup>，Mingxuan Tan<sup>1</sup></p>
+<ol>
+<li>College of Oceanography, Hohai University, Nanjing 210098, China</li>
+<li>Science and Technology Development Branch, SINOPEC East China Petroleum Engineering Co., Ltd., Nanjing 210098, China</li>
+</ol>
+<h4 id="abstract">Abstract</h4>
+<p>During the Mesozoic and Cenozoic basin formation of the East China Sea Shelf Basin, a large number of landward-dipping basin-controlling faults developed, and their development mode and formation evolution are significantly different from those of other marginal sea basins in East Asia. Previous studies focused on the migration characteristics of the East China Sea Shelf Basin but ignored the formation mechanism of differential fault evolution, lacking in-depth research on the controlling factors of fault development processes. The northern Pingbei Slope Zone of the Xihu Depression is a fault terrace area composed of seaward-dipping faults, while the southern part is a half-graben area composed of landward-dipping faults. The differential fault evolution indicates the basin formation process of the East China Sea Shelf Basin. This paper simulates the formation and evolution of landward-dipping and seaward-dipping faults through discrete element numerical simulation to explore the controlling factors of fault geometric development characteristics. The results show that lithological differences have a significant impact on the fault evolution of the slope zone. Rupture of strata with higher shear strength is prone to produce landward-dipping basin-controlling faults, while rocks with lower shear strength are prone to form seaward-dipping faults. The direction of stress is an important controlling factor for regional differential evolution. When the rock strength is the same, and the stress direction is opposite, the fault dip is also opposite. Numerous depression slopes developed during the basin formation process, but the slope is not the dominant factor in differential fault evolution. The differential evolution of the Pingbei Slope Zone and marginal sea basins may be caused by differences in basement strength or stress direction. This paper uses discrete element numerical simulation to study the differential evolution process of faults in the Pingbei Slope Zone, providing insights and theoretical basis for the tectonic evolution mechanism of the East China Sea Basin and the formation of marginal sea basins.</p>
+<h5> </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /en/blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_5bc2434982aeee7b1c0a4dc209870410.webp 400w,
+               /en/blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_96437ae548cd5dbfb5eb4b6e0ea63cae.webp 760w,
+               /en/blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/en/blog/20240720/%E5%9B%BE5%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E7%9A%84%E6%A8%A1%E5%9E%8B%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6_hu31bc73b36e8459a941783117d54b5cdb_40682_5bc2434982aeee7b1c0a4dc209870410.webp"
+               width="600px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>Fig. 5 Model boundary conditions for discrete element numerical simulation</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /en/blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_d62d474d710124a558a5c24713ef88f0.webp 400w,
+               /en/blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_44ece86bcfa74109bb03de546ddde157.webp 760w,
+               /en/blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_9830358d05bd3cb6516fed38c182e4d0.webp 1200w"
+               src="/en/blog/20240720/_hu953eafef23284df0d09d80e35dd4cb43_245120_d62d474d710124a558a5c24713ef88f0.webp"
+               width="600px"
+               height="647"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>Fig. 6 Structural deformation, volumetric strain, and fault displacement statistics of Model 1</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /en/blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_8e3d1def92cf36d80195deb4edebeeb7.webp 400w,
+               /en/blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_a62b734bc9275684fcc745b39eef8bea.webp 760w,
+               /en/blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_c66394e089a1068486f4d0e63fd7dab9.webp 1200w"
+               src="/en/blog/20240720/_hue4235f0ccf87d4423247ffa8f68fb3c4_245896_8e3d1def92cf36d80195deb4edebeeb7.webp"
+               width="600px"
+               height="636"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>Fig. 7 Structural deformation, volumetric strain, and fault displacement statistics of Model 2</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /en/blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_d5f0c724815ce6915e98e162ee39878b.webp 400w,
+               /en/blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_f142e31b89995ba214593c5cdbbc0ae7.webp 760w,
+               /en/blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_ab0fe22d4387d546c0a5b37bfe024bba.webp 1200w"
+               src="/en/blog/20240720/_hu42765b7c952744d8cde128a0545bc2e1_227996_d5f0c724815ce6915e98e162ee39878b.webp"
+               width="600px"
+               height="638"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>Fig. 8 Structural deformation, volumetric strain, and fault displacement statistics of Model 3</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="Structural%20deformation%20and%20volumetric%20strain%20of%20Model%204.png" alt="" loading="lazy" data-zoomable width="600px" /></div>
+  </div></figure>
+<center><h5>Fig. 9 Structural deformation and volumetric strain of Model 4</h5></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /en/blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_6d7ea7bebff6d77c264b5a866eb2a9dc.webp 400w,
+               /en/blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_002a855d965191df464c69e1672a27af.webp 760w,
+               /en/blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_73ae9550489ccb35c3d8b0db918e1b25.webp 1200w"
+               src="/en/blog/20240720/_hu97b00b11ea702fe50820e9abd4af76f1_241256_6d7ea7bebff6d77c264b5a866eb2a9dc.webp"
+               width="600px"
+               height="645"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<center><h5>Fig. 10 Structural deformation, volumetric strain, and fault displacement statistics of Model 5</h5></center>
+<h3 id="conclusions">Conclusions</h3>
+<ol>
+<li>Rock strength and stress direction are the main factors affecting changes in fault dip. High-strength rock rupture produces faults opposite to the direction of extension, while low-strength rock rupture produces faults in the same direction as extension. Rocks with the same strength produce completely opposite main fault dips under the influence of opposite stress directions. The slope of the bedrock surface and the position of stress application are not the dominant factors in differential fault evolution.</li>
+<li>The differential evolution of marginal sea basins in eastern China may be controlled by differences in basement strength and stress direction. The differential evolution of faults in the southern and northern Pingbei Slope Zone may be caused by differences in bedrock strength or stress direction. The landward-dipping basin-controlling faults in the East China Sea Shelf Basin may be caused by extensional stress towards the sea basin, while the fault development in the South China Sea margin basins may be the result of the combined effect of different stress directions on their basement. Differences in lithology and stress direction may lead to differential basin evolution, thereby affecting hydrocarbon migration and accumulation during the same period, but further research is still needed on the correlation between the two.</li>
+</ol>
+<h4 id="acknowledgements">Acknowledgements</h4>
+<p>The numerical calculations in this paper were completed on the computing cluster of the High-Performance Computing Center of Nanjing University, and the numerical simulation experiments were completed using the discrete element numerical simulation software developed by Dr. Li Changsheng of East China University of Technology. The strain calculation code used in this paper was modified from scripts by Julia K Morgan and Thomas Fournier of Rice University, and we express our gratitude here.</p>
+<hr>
+<p>Translator: Bao Xianjun</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/en/tag/extension/">Extension</a>
+  
+  <a class="badge badge-light" href="/en/tag/marginal-sea-basin/">Marginal Sea Basin</a>
+  
+  <a class="badge badge-light" href="/en/tag/xihu-depression/">Xihu Depression</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/en/blog/20240720/&amp;text=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/en/blog/20240720/&amp;t=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29&amp;body=https://geovbox.com/en/blog/20240720/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/en/blog/20240720/&amp;title=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29%20https://geovbox.com/en/blog/20240720/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/en/blog/20240720/&amp;title=Numerical%20Simulation%20of%20Differential%20Fault%20Evolution%20in%20Marginal%20Sea%20Basins%20A%20Case%20Study%20of%20the%20Pingbei%20Slope%20Zone%20in%20the%20Xihu%20Depression%20%28Marine%20Geology%20&amp;amp;%20Quaternary%20Geology%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>Languages:</div>
+      <div class="p-2">English</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/blog/20240720/">中文 (简体)</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.5ea5615c970a7647d4b8bb92924ded10.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>

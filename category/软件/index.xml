@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E8%BD%AF%E4%BB%B6/</link>
+      <atom:link href="https://geovbox.com/category/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <description>软件</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>软件</title>
+      <link>https://geovbox.com/category/%E8%BD%AF%E4%BB%B6/</link>
+    </image>
+    
+    <item>
+      <title>VBOX1.3教育版发布!</title>
+      <link>https://geovbox.com/blog/vbox1/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/vbox1/</guid>
+      <description>&lt;p&gt;若要使用，请首先先联系软件开发者 &lt;a href=&#34;https://geovbox.com/about/lichangsheng&#34;&gt;李长圣&lt;/a&gt;。
+软件托管在南京大学高性能计算中心，需要在南京大学高性能计算中心开户。
+VBOX1.3教育版免费，计算产生的费用为南京大学高性能中心收取的集群管理费，使用VBOX1.3不收取费用。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://bbs.nju.edu.cn/bbstcon?board=HPC&amp;amp;file=M.1490600983.A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;南京大学教职工账户开通方法&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他用户可以直接联系游老师开通账户（需要预充1万元计算费）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;游老师 电话 &lt;code&gt;13914700850&lt;/code&gt; 邮箱&lt;code&gt;ywq@nju.edu.cn&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VBOX概览</title>
+      <link>https://geovbox.com/blog/vbox-overview/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/vbox-overview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;下载：&lt;a href=&#34;VBOX-overview.pdf&#34;&gt;VBOX简介&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;VBOX全称virtual sandbox,即虚拟沙箱软件，是一个用于构造变形研究的二维离散元（DEM）软件。2014年开发，采用C语言编写，并用OpenMP完成了并行设计，已获软件著作权。主要面向构造模拟，用来补充构造物理沙箱实验在应力应变及材料选取上的局限性，为构造变形研究提供一种新的方法。&lt;/p&gt;
+&lt;p&gt;软件与手册会逐渐完善，敬请期待！&lt;/p&gt;
+&lt;p&gt;VBOX(virtual sandbox) is a 2D DEM program to simulate the geological problems. It is developed by C-language. We takes  three years  to construct the new data structure and neighbor search algorithm based on grid for VBOX. Furthermore, GUI was embeded into VBOX using &lt;a href=&#34;https://www.gtkmm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gtkmm&lt;/a&gt; &lt;a href=&#34;http://plplot.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLplot&lt;/a&gt; &lt;a href=&#34;https://www.cairographics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cairo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;VBOX可以完成休止角试验、直剪试验、双轴试验和构造模拟试验，见下载。&lt;/p&gt;
+&lt;p&gt;VBOX桌面版一直在开发中，预览版见下图：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-vbox桌面版预览&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;VBOX桌面版预览&#34; srcset=&#34;
+               /blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_a62c8edd880e1c25ace3ead59f540632.webp 400w,
+               /blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_efe768ae2d7b0eccc32f1961dead80ee.webp 760w,
+               /blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_a62c8edd880e1c25ace3ead59f540632.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      VBOX桌面版预览
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;VBOX可以实现 &lt;code&gt;休止角&lt;/code&gt; &lt;code&gt;直剪试验&lt;/code&gt; &lt;code&gt;双轴试验&lt;/code&gt; &lt;code&gt;构造模拟&lt;/code&gt; ：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-vbox概览&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;VBOX概览&#34; srcset=&#34;
+               /blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_11ec96045c2cdf06c61042d24efdcddc.webp 400w,
+               /blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_66e1055d17bee0bc3bcd0c487556210b.webp 760w,
+               /blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_11ec96045c2cdf06c61042d24efdcddc.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      VBOX概览
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

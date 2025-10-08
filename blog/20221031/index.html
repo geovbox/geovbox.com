@@ -1,0 +1,1420 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/20221031/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/20221031/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/20221031/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/20221031/" />
+  <meta property="og:title" content="离散元后处理技术及其在构造模拟中的应用（预告） | ZDEM官网" />
+  <meta property="og:description" content="近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-10-31T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-10-31T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>离散元后处理技术及其在构造模拟中的应用（预告） | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a628fe1b5f5f5a437d58f67eab74aba3" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>中文 (简体)</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/en/blog/20221031/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>离散元后处理技术及其在构造模拟中的应用（预告）</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E9%AD%8F%E5%8D%8E%E6%95%AC/">魏华敬</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2021年10月31日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87/">学位论文</a>, <a href="/category/%E7%A1%95%E5%A3%AB/">硕士</a>, <a href="/category/%E6%8A%A5%E5%91%8A/">报告</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>近期，我们将邀请南京大学硕士研究生魏华敬讲解他在离散元后处理方面的研究成果 <code>DEMpost</code> ，感兴趣的老师同学可以先下载魏华敬的硕士论文学习，报告时间另行通知。</p>
+<h4 id="论文下载">论文下载</h4>
+<ol>
+<li><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&amp;dbname=CMFDTEMP&amp;filename=1021664929.nh&amp;uniplatform=NZKPT&amp;v=e5D04YZeOE6krJkFB%25mmd2BA6u8bMwzx%25mmd2FkyJjqC4HZrX6jLBHP44DVzv%25mmd2BkoQw0Xl8MjYl" target="_blank" rel="noopener"><strong>魏华敬</strong> (2020) 离散元后处理技术及其在构造模拟中的应用. <strong>硕士论文</strong>. 南京大学.</a></li>
+</ol>
+<h4 id="题目基于离散元的褶皱冲断带构造变形定量分析与模拟">题目：基于离散元的褶皱冲断带构造变形定量分析与模拟</h4>
+<h4 id="作者魏华敬">作者：魏华敬</h4>
+<h4 id="推荐理由">推荐理由</h4>
+<p>本文研发的离散元后处理程序 <code>DEMpost</code> 可以提取颗粒体系地层边界，勾勒出特定岩层范围，绘制应力应变、速度和位移场等各种云图，是构造变形定量研究不可或缺的工具之一。</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-提取地层界线">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="提取地层界线" srcset="
+               /blog/20221031/1_hu3e07249610b6fafa1b3cb94eebbf8dd4_71443_8cd997a6a1bfa6772a4a918389245bcf.webp 400w,
+               /blog/20221031/1_hu3e07249610b6fafa1b3cb94eebbf8dd4_71443_fa19a21c851777584f870e880c35c064.webp 760w,
+               /blog/20221031/1_hu3e07249610b6fafa1b3cb94eebbf8dd4_71443_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20221031/1_hu3e07249610b6fafa1b3cb94eebbf8dd4_71443_8cd997a6a1bfa6772a4a918389245bcf.webp"
+               width="694"
+               height="297"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      提取地层界线
+    </figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-识别盐层范围">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="识别盐层范围" srcset="
+               /blog/20221031/2_hu168127080e60d44f6b04f6e0a68bbfc3_158030_a949504a7636a4032ab3560a2bad398b.webp 400w,
+               /blog/20221031/2_hu168127080e60d44f6b04f6e0a68bbfc3_158030_7a8afab4f015a4e85e83d09c15bfeea5.webp 760w,
+               /blog/20221031/2_hu168127080e60d44f6b04f6e0a68bbfc3_158030_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20221031/2_hu168127080e60d44f6b04f6e0a68bbfc3_158030_a949504a7636a4032ab3560a2bad398b.webp"
+               width="695"
+               height="433"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      识别盐层范围
+    </figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-绘制应力应变">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="绘制应力应变" srcset="
+               /blog/20221031/3_huccc3c28ff59037140879d19ea697d8f1_271793_162d23fce0e9ab12007d8e34b48623b1.webp 400w,
+               /blog/20221031/3_huccc3c28ff59037140879d19ea697d8f1_271793_13f57182c2a3711fafa189c2bf0b8baf.webp 760w,
+               /blog/20221031/3_huccc3c28ff59037140879d19ea697d8f1_271793_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/20221031/3_huccc3c28ff59037140879d19ea697d8f1_271793_162d23fce0e9ab12007d8e34b48623b1.webp"
+               width="700"
+               height="458"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      绘制应力应变
+    </figcaption></figure></p>
+<h4 id="摘要">摘要</h4>
+<p>离散元方法是一种用微观颗粒体系模拟宏观物体变形的数值模拟手段，在岩土工程，构造模拟，物料运移等领域应用广泛。 构造数值模拟作为一种重要的构造定量化研究手段， 通过建立起构造的变形机制与几何分析的联系，一定程度上摆脱传统构造分析方法在含盐褶皱冲断带研究的局限性。离散元数值模拟能够在呈现构造变形基础之上，通过追踪模拟中颗粒在每一个时刻的受力及运动状态，给出体系的应力应变状态及速度位移场的情况，进而能够研究小尺度的变形及裂缝，实现对含盐褶皱冲断构造的定量化研究，具有重要科学价值和经济意义。 因此，如何高效地表达构造模拟中的动力学和运动学特征的分布情况，具有重要的应用价值。 本文基于文献调研，算法设计与开发，计算实例以及构造数值模拟实验完成了以下工作：</p>
+<ol>
+<li>
+<p>调研文献讨论了多维度的后处理分析对构造模拟的重要性：构造变形反映构造整体形态的基础上，应变的分布能反映模型中小尺度构造变形，速度场的分布能够得出不同构造单元的运动状态，位移梯度则能够更为细致地展现裂缝分布。</p>
+</li>
+<li>
+<p>设计并开发了适配离散元软件 YADE 的后处理计算及可视化分析模块 DEMpost。 通过光栅化算法将颗粒体系以图像的形式呈现，通过反距离加权插值算法将颗粒体系的应力应变等特征以图像的形式呈现，通过其他图像处理的算法提升了以上图像的质量。图像形式的构造变形图像与特征图谱之间能够建立起关联，便于追踪特定构造单元在构造演化过程中的动力学与运动学特征。</p>
+</li>
+<li>
+<p>设计系统的离散元数值模拟实验，分析了含盐褶皱冲断带构造中常见因素的影响，基于DEMpost 实现构造模拟的后处理可视化，探讨了构造变形与动力学及运动学特征的映射关系， 模拟的结果表明： 底部单膏盐层的存在使得应力应变迅速传播到构造边界，整个模型内部出现收缩挤压情况，发育“箱状”构造；双膏盐层的存在将与共轭断裂相伴的刚性抬升转化为具有流变性质的揉皱构造，膏盐层内部应力应变状态稳定，对构造的影响表现为产生应变分散和三角剪切带，且具有一定的辐射范围； 先存断裂促进断层的上盘沿断裂向上移动，先存断裂的倾向、倾角、规模等因素影响上盘移动的方向和距离，进而影响变形传播的范围。</p>
+</li>
+</ol>
+<h4 id="关键词离散元-后处理光栅化空间插值图像处理-构造数值模拟-定量分析">关键词：离散元； 后处理；光栅化；空间插值；图像处理； 构造数值模拟； 定量分析</h4>
+<h4 id="目录">目录：</h4>
+<ol>
+<li>绪论
+<ul>
+<li>1.1 褶皱冲断带与构造定量化研究</li>
+<li>1.2 离散元软件简介</li>
+<li>1.3 本文内容提要</li>
+<li>1.4 研究方法与技术路线</li>
+<li>1.5 论文工作量</li>
+</ul>
+</li>
+<li>离散元后处理技术的算法设计与开发
+<ul>
+<li>2.1 数据预处理</li>
+<li>2.2 离散元成像
+<ul>
+<li>2.2.1 构造变形图像</li>
+<li>2.2.2 动力学及运动学特征图谱</li>
+</ul>
+</li>
+<li>2.3 图像增强处理
+<ul>
+<li>2.3.1 高频噪声压制</li>
+<li>2.3.2 区域边界提取</li>
+<li>2.3.2 体系轮廓表达</li>
+</ul>
+</li>
+<li>2.4 小结</li>
+</ul>
+</li>
+<li>离散元后处理技术的计算实例与优势
+<ul>
+<li>3.1 离散元后处理算法计算实例</li>
+<li>3.2 离散元后处理算法计算优势</li>
+<li>3.3 小结</li>
+</ul>
+</li>
+<li>离散元后处理技术在含盐褶皱冲断构造模拟的应用
+<ul>
+<li>4.1 单膏盐层</li>
+<li>4.2 双膏盐层
+<ul>
+<li>4.2.1 膏盐层垂向规模</li>
+<li>4.2.2 膏盐层横向规模</li>
+<li>4.2.3 膏盐层垂向分布</li>
+<li>4.2.4 膏盐层横向分布</li>
+</ul>
+</li>
+<li>4.3 先存断裂
+<ul>
+<li>4.3.1 先存断裂倾向</li>
+<li>4.3.2 先存断层倾角</li>
+<li>4.3.3 先存断裂垂向分布</li>
+<li>4.3.4 先存断裂横向分布</li>
+<li>4.3.5 先存断裂规模</li>
+</ul>
+</li>
+<li>4.4 小结</li>
+</ul>
+</li>
+<li>结论及展望
+<ul>
+<li>5.1 结论</li>
+<li>5.2 展望</li>
+</ul>
+</li>
+</ol>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/20221031/&amp;text=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/20221031/&amp;t=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89&amp;body=https://geovbox.com/blog/20221031/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/20221031/&amp;title=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89%20https://geovbox.com/blog/20221031/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/20221031/&amp;title=%e7%a6%bb%e6%95%a3%e5%85%83%e5%90%8e%e5%a4%84%e7%90%86%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%9c%a8%e6%9e%84%e9%80%a0%e6%a8%a1%e6%8b%9f%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%ef%bc%88%e9%a2%84%e5%91%8a%ef%bc%89" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>相关</h3>
+    <ul>
+      
+      <li><a href="/blog/20230315/">西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>语言:</div>
+      <div class="p-2">中文 (简体)</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/en/blog/20221031/">English</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>

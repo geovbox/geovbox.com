@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>钟军 | ZDEM官网</title>
+    <link>https://geovbox.com/authors/%E9%92%9F%E5%86%9B/</link>
+      <atom:link href="https://geovbox.com/authors/%E9%92%9F%E5%86%9B/index.xml" rel="self" type="application/rss+xml" />
+    <description>钟军</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>钟军</title>
+      <link>https://geovbox.com/authors/%E9%92%9F%E5%86%9B/</link>
+    </image>
+    
+    <item>
+      <title>正态分布钉板实验</title>
+      <link>https://geovbox.com/blog/20210323/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20210323/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;脚本及数据下载：&lt;br&gt;
+钉子坐标：&lt;a href=&#34;init_xyr.dat&#34;&gt;init_xyr.dat&lt;/a&gt;&lt;br&gt;
+VBOX脚本：&lt;a href=&#34;normal_distribution.py&#34;&gt;normal_distribution.py&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是一个基于离散元数值模拟完成的正态分布钉板实验。&lt;/p&gt;
+&lt;p&gt;如下图中，每一个灰点表示一颗钉子，它们彼此的距离均相等，上一层的每一颗的水平位置恰好位于下一层的两颗正中间。在钉子区域上方生成一定数量的直径小于两颗钉子之间距离的小球，在入口处向下降落。小球在钉板区域向下传播，直到落在底板内为止。许许多多同样大小的小球不断从入口处下落，只要球的数目相当大，它们在底板将堆成近似于正态的密度函数图形（即：中间高，两头低，呈左右对称的古钟型）。&lt;/p&gt;
+&lt;h2 id=&#34;strong动态图strong&#34;&gt;&lt;strong&gt;动态图&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/blog/20210323/normal_distribution.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;strong静态过程strong&#34;&gt;&lt;strong&gt;静态过程&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210323/1_hu087452c08b212d3c76bad63151c350b3_37841_76a8d132348d7cac4e8da2b7ca92b093.webp 400w,
+               /blog/20210323/1_hu087452c08b212d3c76bad63151c350b3_37841_7d9dda9957d9bb5288ae1f86a432e545.webp 760w,
+               /blog/20210323/1_hu087452c08b212d3c76bad63151c350b3_37841_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210323/1_hu087452c08b212d3c76bad63151c350b3_37841_76a8d132348d7cac4e8da2b7ca92b093.webp&#34;
+               width=&#34;218&#34;
+               height=&#34;481&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210323/2_hucd1eb2c7ab7e990d4cffba6d22873738_30995_97b0d41dbf85d005492f7940a26ca84a.webp 400w,
+               /blog/20210323/2_hucd1eb2c7ab7e990d4cffba6d22873738_30995_352a9142609387f5b3f723e53cf8f28a.webp 760w,
+               /blog/20210323/2_hucd1eb2c7ab7e990d4cffba6d22873738_30995_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210323/2_hucd1eb2c7ab7e990d4cffba6d22873738_30995_97b0d41dbf85d005492f7940a26ca84a.webp&#34;
+               width=&#34;217&#34;
+               height=&#34;478&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210323/3_hu7ec8d55962717e98f83d941f98539812_37620_78f8a9cb3b5eba8396f32cc4d34eae0a.webp 400w,
+               /blog/20210323/3_hu7ec8d55962717e98f83d941f98539812_37620_83c3f5f0d8598ee3b88df242668259f1.webp 760w,
+               /blog/20210323/3_hu7ec8d55962717e98f83d941f98539812_37620_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210323/3_hu7ec8d55962717e98f83d941f98539812_37620_78f8a9cb3b5eba8396f32cc4d34eae0a.webp&#34;
+               width=&#34;217&#34;
+               height=&#34;481&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210323/4_hu205b0a75f816457973ce0f3c43a7ab7d_31833_f8d9bbda68e0f9d72aa0e09fac1d801e.webp 400w,
+               /blog/20210323/4_hu205b0a75f816457973ce0f3c43a7ab7d_31833_1946047e6aed19331a2e8a3a8d4284ed.webp 760w,
+               /blog/20210323/4_hu205b0a75f816457973ce0f3c43a7ab7d_31833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210323/4_hu205b0a75f816457973ce0f3c43a7ab7d_31833_f8d9bbda68e0f9d72aa0e09fac1d801e.webp&#34;
+               width=&#34;217&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;vbox脚本源码-normal_distributionpynormal_distributionpy&#34;&gt;VBOX脚本源码 &lt;a href=&#34;normal_distribution.py&#34;&gt;normal_distribution.py&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title:正态分布钉板实验&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date:2021-02-26&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors:钟军 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail:sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#程序初始化&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LOAD init_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP GROUP _ball
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP COLOR lg RANGE GROUP _ball
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#颗粒设为球，计算颗粒体积用4/3*pi*r^3计算&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET disk off
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置研究范围&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.0 right 11000.0 bottom 0.0 height 21000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.00
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置挡板墙，这里模型采用hertz接触模型，挡板墙的kn ks无效，计算时取颗粒的参数&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL ID 0, NODES &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0 , 19000.0  &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 5260.0 , 16000.0  &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 COLOR black
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL ID 1, NODES &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 5740.0 , 16000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 10000.0,  19000.0  &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 COLOR black
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#限制运动&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX x y spin RANGE group _ball
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#底部挡板钉&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 10000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,     &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0  21000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,     &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 2000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 2000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 3000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 3000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 4000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 4000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 5000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 5000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 6000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 6000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 7000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 7000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 8000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 8000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 9000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 9000.0  5000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 10000.0  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 10000.0  21000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE &lt;span class=&#34;nv&#34;&gt;RAD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;40&lt;/span&gt; P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0  21000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 10000.0  21000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,  &lt;span class=&#34;nv&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;black &lt;span class=&#34;nv&#34;&gt;GROUP&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX x y spin RANGE group bom
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#在矩形范围内生成颗粒&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GEN NUM &lt;span class=&#34;m&#34;&gt;35000&lt;/span&gt; rad discrete 60.0 60.0,  x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;2800.0, 8200.0&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 18000.0, 21000.0&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, COLOR blue GROUP _ball
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP density 2.5e3, fric 0.3, shear 2.9e9, poiss 0.2, damp 0.4, hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置时间步及重力加速度&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  DT 5e-2,  GRAVITY  0.0,  -9.8
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置每1000步保存一次vtk格式的计算结果&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  vtk &lt;span class=&#34;m&#34;&gt;300&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置每1000步保存一次ps格式的计算结果&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  ps &lt;span class=&#34;m&#34;&gt;300&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#设置每1000步保存一次dat格式的计算结果&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  print &lt;span class=&#34;m&#34;&gt;300&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#计算5000步&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;25000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#停止&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;STOP
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/paper/</link>
+      <atom:link href="https://geovbox.com/en/category/paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Paper</title>
+      <link>https://geovbox.com/en/category/paper/</link>
+    </image>
+    
+    <item>
+      <title>Structural Control of Induced Seismicity in the Weiyuan Anticline, Southwestern Sichuan Foreland Thrust Belt, China(Tectonics)</title>
+      <link>https://geovbox.com/en/blog/20250409/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20250409/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;VBOX(ZDEM) script download：&lt;/strong&gt;
+The code for our DEM experiments can be obtained from Open Science Framework &lt;a href=&#34;https://osf.io/9hn74/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ma, H., &amp;amp; Wang, M. (2025). Structural control of induced seismicity in the Weiyuan anticline, southwestern Sichuan foreland thrust belt, China. Tectonics, 44, e2024TC008617. &lt;a href=&#34;https://doi.org/10.1029/2024TC008617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2024TC008617&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;title&lt;/h4&gt;
+&lt;p&gt;Structural Control of Induced Seismicity in the Weiyuan Anticline, Southwestern Sichuan Foreland Thrust Belt, China&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;authors&lt;/h4&gt;
+&lt;p&gt;Haoran Ma, Maomao Wang&lt;/p&gt;
+&lt;p&gt;Institute of Tectonics and Geophysics, College of Oceanography, Hohai University, Nanjing, China&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;abstract&lt;/h4&gt;
+&lt;p&gt;Over the past decade, the development of shale gas in the southwestern Sichuan foreland thrust belt, China, has led to a significant increase in induced seismicity, including one of the world&amp;rsquo;s largest hydraulic fracturing (HF)‐related induced earthquake (ML 5.4), occurring in the Weiyuan anticline. Here, we investigated the structural and mechanical evolution of the Weiyuan anticline and its relationship with HF‐induced earthquakes using seismic interpretation, the discrete‐element method (DEM), and three‐dimensional structural modeling. Interpretation of the seismic reflection profiles revealed a basement‐involved wedge structure and two west‐dipping multi‐bending thrust ramps in the basement. East of the Weiyuan anticline, extensive small‐ displacement thrust faults developed between the Cambrian and Silurian shale detachments in the sedimentary cover. DEM simulation showed that the structural wedge formed by the underlying blind thrust ramp and back thrust (BT) controlled the Weiyuan anticline formation. With increased shortening, the fault slip continued to propagate east of the Weiyuan anticline along the Cambrian detachment, leading to the development of
+extensive thrust faults. 3‐D structural modeling showed that M &amp;gt; 4 induced earthquakes were primarily located on a BT in the structural wedge, while M &amp;lt; 4 events were distributed along the hydro‐fractured Silurian shale and Cambrian detachment. Densely developed thrust faults in the sedimentary cover connect the overpressured Silurian shale to the Cambrian detachment, promoting the downward diffusion of fluid pressure and favoring micro‐small M &amp;lt; 4 induced seismic events. This study provides new insights into the seismic hazard assessment of HF development in fold‐and‐thrust belts.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_8fe5d28dadf6c4ce3732084825eec1ef.webp 400w,
+               /en/blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_714782792c3053f8728b56061727783e.webp 760w,
+               /en/blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_8fe5d28dadf6c4ce3732084825eec1ef.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 1. Topography map of the Longmen Shan and Sichuan Basin with major faults and cities. The red line indicates the location of seismic reflection profile PQ-92 in Fig. 5. The white pentagrams represent the MS 5.4 Weiyuan, MS 6.0 Luxian, MS 6.0 and 5.3 Changning respectively. The seismicity records from 1970 to 2014, and 2014 to 2020 are distinguished with grey and yellow circles, respectively. The earthquake data were obtained from the China Earthquake Networks Center, http://www.ceic.ac.cn/history in Chinese. 
+ &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_dba48c0d4aca1af3b08fd66351c1b082.webp 400w,
+               /en/blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_6de1cf103ebd262a0af4728d3c4ad55d.webp 760w,
+               /en/blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_dba48c0d4aca1af3b08fd66351c1b082.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;642&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 5. (a) Structural interpretation of seismic reflection profile PQ-92 across the region of the Weiyuan to Dengjingguan anticlines, with wells K7 and WH101 constraining the horizons, are shown. (b) Restoration results of deformed horizons from Weiyuan to Dengjingguan anticlines. The shortening of the base of the Jurassic layer in a representative structural profile is 2.5 km. The Cenozoic sedimentary strata within this area in the profile are absent. The profile is shown at 2X vertical exaggeration. BT: back thrust; PCD: pre-Cambrian detachment; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_f7a1a4290c062fe8144a2b5fa2356cc0.webp 400w,
+               /en/blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_3170092136c5ed84bcd1f699e407d9cb.webp 760w,
+               /en/blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_f7a1a4290c062fe8144a2b5fa2356cc0.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;666&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 6. Schematic representation of the experimental setup. (a) The initial model setup contained homogeneous mechanical properties. (b) The contractional wedge model setup contained two-level  basal detachments and three detachments in sedimentary cover, the wedge point occurs within the basement. (c) The shallow thrust ramp merged with an east-dipping detachment fault at the wedge point. BT: back thrust; PCD: pre-Cambrian detachment.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_4b450c0abcc963648503ff7acbcda439.webp 400w,
+               /en/blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_d414551ff007ee41336ad283d1493db5.webp 760w,
+               /en/blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_4b450c0abcc963648503ff7acbcda439.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 7. Progressive evolution observed in homogeneous model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). F1–F5 denote thrust faults in the order of their formation. DTR: deep thrust ramp.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_908ae453918d28330f298b85e789c291.webp 400w,
+               /en/blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_93a6c4d645139fd41e28f52cba3e6706.webp 760w,
+               /en/blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_908ae453918d28330f298b85e789c291.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 8. Progressive evolution observed in contractional wedge model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). BT: back thrust; FT: fore thrust; STR: shallow thrust ramp; DTR: deep thrust ramp; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_35912b2b4e4322b897be09c884af18e4.webp 400w,
+               /en/blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_a2b14f3a4947bbcd2e2206907926c078.webp 760w,
+               /en/blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_35912b2b4e4322b897be09c884af18e4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 10. Progressive evolution observed in the partitioned slipping wedge model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). BT: back thrust; PCD: pre-Cambrian detachment; STR: shallow thrust ramp; DTR: deep thrust ramp; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_5b684210fb852c843ff7ebf0a0612d8b.webp 400w,
+               /en/blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_00c5f07e4941f4d559ebf295cec6566f.webp 760w,
+               /en/blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_5b684210fb852c843ff7ebf0a0612d8b.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;464&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 11. Comparison between the structural cross-section of the Weiyuan to Kongtan anticlines and the result of the partitioned slipping wedge model. (a) Interpreted seismic profile in Figure 5. (b, c) The result of the partitioned slipping model when the shortening amount is 16 km, graph with distortional strains superimposed on the colored strata (b), graph only with distortional strains (c). BT: back thrust; PCD: pre-Cambrian detachment; D2: lower Silurian detachment; D3: mid-upper Cambrian detachment.&lt;/h5&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;Combined with structural interpretation, DEM simulations, and 3-D modeling, this study revealed the structure, kinematics, and mechanical evolution of a preexisting basement-involved structural wedge beneath the Weiyuan anticline and multiple detachments of the sedimentary cover in the southwestern Sichuan foreland fold-and-thrust belt, China, and discussed their influences on induced seismicity. Based on our study results, the following conclusions were drawn:
+(1)The Weiyuan anticline is formed by a preexisting basement-involved contractional wedge consisting of a basal thrust ramp and a back thrust fault. East of the Weiyuan limb, the fault slip continued to propagate along the Cambrian detachment, contributing to the development of extensive low-displacement thrusts that cut through the Silurian shale detachment.
+(2) The earthquakes induced in the Weiyuan block were primarily controlled by preexisting compressional basement-involved thrust structures and multi-level detachments in the sedimentary cover. The largest induced earthquake (2019 ML 5.2 event), along with other M &amp;gt; 4 earthquakes, occurred on BT within the basement-involved wedge structure.
+(3) In the sedimentary cover, induced earthquakes (M &amp;lt; 4) primarily occurred between the Silurian shale and the middle–upper Cambrian shale detachments. Densely developed thrust faults connect the high-pore-pressure Silurian shale with Cambrian shale detachment, promoting the downward diffusion of pore pressure, which enhances the occurrence of induced earthquakes.&lt;/p&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;We thank Editor‐in‐Chief Taylor Schildgen, Associate Editor Judith Hubbard, reviewer Andreas Plesch, and one anonymous reviewer for their comments and suggestions.This research was supported by the National Natural Science Foundation of China (42172232 and 41702202) and National Key R&amp;amp;D Program of China (2021YFC3000604). Numerical simulations were performed on the discrete element modeling software VBOX (&lt;a href=&#34;https://www.geovbox.com/en%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com/en)&lt;/a&gt;. The authors thank Prof. Julia Morgan from Rice University for generously sharing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. The numerical simulation of this study is performed on the computing facilities in the High-Performance Computing Center (HPCC) of Nanjing University.&lt;/p&gt;
+&lt;h3 id=&#34;data-availability-statement&#34;&gt;Data Availability Statement&lt;/h3&gt;
+&lt;p&gt;We used VBOX version 2.1 ( &lt;a href=&#34;#refer-Li2021&#34;&gt;Li et al., 2021&lt;/a&gt; ; &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) for the discrete-element method (DEM) numerical simulations. The web site &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt; provides manual and tutorial, examples, and references for VBOX version 2.1. The code for our DEM experiments can be obtained from Open Science Framework (&lt;a href=&#34;https://osf.io/9hn74/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/)&lt;/a&gt;. The relocated seismicity data used in this study is provided by &lt;a href=&#34;#refer-Zi2023&#34;&gt;Zi et al. (2023)&lt;/a&gt;. The seismic reflection data, drilling wells, and structural maps were provided courtesy of the Southwest Oil and Gas Field Company, PetroChina. They cannot be released to the public. 3D models after time to depth conversion, including Middle-Upper Cambrian detachment, Lower Silurian detachment, and main faults, can also be obtained from Open Science Framework (&lt;a href=&#34;https://osf.io/9hn74/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-Li2021&#34;&gt;&lt;/div&gt;
+Li, C., Yin, H., Wu, C., Zhang, Y., Zhang, J., Wu, Z., et al. (2021). Calibration of the Discrete Element Method and Modeling of Shortening Experiments . Frontiers in Earth Science, 9(May),1–12. 
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3389/feart.2021.636512&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;refer-Zi2023&#34;&gt;&lt;/div&gt;
+Zi, J., Yang, H., Su, J., &amp; Chen, L. (2023). Structural constraints of induced earthquakes in the Weiyuan Shale Gas Field revealed by high-resolution body-wave tomography and earthquake relocation [Dataset]. Tectonophysics, 864(June), 230007. 
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.tecto.2023.230007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.tecto.2023.230007&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of Basal Detachment Strength on the Formation and Evolution of the Southwestern Sichuan Fold-Thrust Belt - Insights from Discrete Element Modeling</title>
+      <link>https://geovbox.com/en/blog/20240601/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240601/</guid>
+      <description>&lt;p&gt;The southwestern Sichuan fold-thrust belt (SWSB) is a duplex detachment system with two sets of detachments: a basal Precambrian detachment at a depth of approximately 15–17 km and an upper Mid-Triassic detachment. The SWSB experienced forward-breaking propagation during the Cenozoic. The current dynamic mechanisms controlling the thrusting and the control mechanisms of the two detachments on the structural deformation pattern of the SWSB still require in-depth research. This paper designs three comparable discrete element numerical models. In these models, the shallow detachment has the same parameters, but different mechanical strengths and thicknesses are designed for the basal detachment to explore the influence of different basal detachment strengths on the formation and evolution of the SWSB. Model I is characterized by a strong frictional basal detachment, exhibiting forward-breaking thrusting towards the foreland in both deformation phases. Most deformation and thrust faults are concentrated near the active backwall, accompanied by the development of imbricate structures and two pop-up structures. For the geometric parameters of the wedge on the left side of Model I, it shows the characteristics of &amp;ldquo;linearly increasing wedge height&amp;rdquo; and &amp;ldquo;stepwise increasing wedge width and slope angle&amp;rdquo;. Model II has a basal detachment thickness of 500 m and moderate friction. In this model, stress and strain propagate rapidly into the foreland, and multiple thrust and back-thrust faults form on the upper detachment during the second compression phase. The deformation process of Model II during the first compression phase is similar to that of Model I. However, in the second compression phase, the wedge reaches a stable state, and its geometry remains unchanged, with deformation propagating along the shallow detachment to the right side of the model. Model III has a larger basal detachment thickness and moderate friction, and the geometry and activity of thrust faults in its foreland are significantly different from the other models. In the second compression phase of this model, two additional pop-up structures are generated. The first half of the first compression phase is similar to the first two models. In the second half of the first compression phase and the second compression phase, the wedge is in a stable state. Notably, all models undergo a transition from a subcritical state to a supercritical state during the first stage of shortening, indicating that deformation is rapidly propagating along the basal detachment towards the right side of the model. Overall, Model III more accurately reflects the deformation characteristics of the SWSB, indicating a strong correlation with the evolution of this region. These models help to understand the deformation process and formation mechanism of the SWSB and can provide a reference for hydrocarbon exploration beneath the shallow detachment. &lt;a href=&#34;#refer-wang2024&#34;&gt;(Wang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-wang2024&#34;&gt;&lt;/div&gt;[Wang Y, Wang L, Ren R, Wei G, Chen Z,Su N and Zhang Y (2023), The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations. Front. Earth Sci. 11:1251417.](https://doi.org/10.3389/feart.2023.1251417)
+#### Title
+&lt;p&gt;The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations&lt;/p&gt;
+&lt;p&gt;Yanqi Wang, Lining Wang*, Rong Ren, Guoqi Wei, Zhuxin Chen, Nan Su and Yuqing Zhang&lt;/p&gt;
+&lt;p&gt;Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction:&lt;/h4&gt;
+&lt;p&gt;The southwestern Sichuan fold-thrust belt (SWSB) is a duplex detachment system and features the basal Precambrian detachment at a depth of approximately 15–17 km and the upper Mid-Triassic detachment. Moreover, the SWSB undergoes forward-breaking propagation during the Cenozoic. To date, the mechanism and kinematic evolution governing the SWSB in this thrusting deformation as well as the way the two detachments control the structural deformation pattern of the SWSB remains unknown.&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods:&lt;/h4&gt;
+&lt;p&gt;In this work, three discrete-element numerical models with the same strong upper detachment but basal detachments with different mechanical strengths and thicknesses were designed to study the deformation of the SWSB.&lt;/p&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results:&lt;/h4&gt;
+&lt;p&gt;The results indicate that for the Model I with a strong frictional basal detachment with thickness of 500 m, most deformation and thrust faults concentrate near the mobile backwall. Model I exhibits characteristics such as linearly increasing wedge height and stepwise increasing wedge width and slope angle. For the Model II with a modest frictional basal detachment with thickness of 500 m, the strain and deformation propagate into the foreland quickly and multiple back-thrust and thrust faults form on the upper detachment in the second thrusting period. The first thrusting period in Model II, exhibits similarities with Model I. However, in the second period, the wedge reaches a stable state, and its geometry remains constant. In this stage, the deformation propagates along the shallow detachment into the right side of the model. The geometry and activity of thrust faults in the foreland differ significantly in the model III with a modest frictional basal detachment but a greater thickness. Two additional pop-up structures are generated in the second period in this model. The first half of the first thrusting period is similar to the first two models. In the second half of the first period and the second period, the wedge is in a stable state. In the first stage of the shortening, all models undergo a transition from a subcritical state to entering a supercritical state, which indicates that the deformation is progressing rapidly along the basal detachment towards the right side of the model.&lt;/p&gt;
+&lt;h4 id=&#34;discussion&#34;&gt;Discussion:&lt;/h4&gt;
+&lt;p&gt;The results of Model III are consistent with the deformation pattern of the SWSB. The study of the kinematics and interaction between two detachments could help hydrocarbon exploration beneath the upper detachment.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_5320b738ea51bc496ca2adbd47c26f12.webp 400w,
+               /en/blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_3d688e038dbcdae6a96395e8d8a2912d.webp 760w,
+               /en/blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_5320b738ea51bc496ca2adbd47c26f12.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;684&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Deformation process of Model I (basal detachment thickness of 500 m, friction coefficient of 0.3)
+(A)-(C) show the results of Model I at shortening (S) of 20 km, 31 km, and 35 km, respectively. T1-T6 represent thrust faults numbered according to their formation sequence. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_833f21d6cb8c24b89999d521132f0d03.webp 400w,
+               /en/blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_1e49a592fa61efb087cbdec687791bed.webp 760w,
+               /en/blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_833f21d6cb8c24b89999d521132f0d03.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;718&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Deformation process of Model II (basal detachment thickness of 500 m, friction coefficient of 0.2)
+(A)-(C) show the results of Model II at shortening (S) of 20 km, 31 km, and 35 km, respectively. T1-T6 represent thrust faults numbered according to their formation sequence. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_5609238e2e929aa7a10060f7a75693e7.webp 400w,
+               /en/blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_3b8b89e1dfb8f13de6fe31120dba48f3.webp 760w,
+               /en/blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_5609238e2e929aa7a10060f7a75693e7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;664&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Deformation process of Model III (basal detachment thickness of 1,000 m, friction coefficient of 0.2)(A)-(C) show the results of Model III at shortening (S) of 20 km, 31 km, and 35 km, respectively. T1-T8 represent thrust faults numbered according to their formation sequence. &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_23b16f04598740cae046baf5bc99d8db.webp 400w,
+               /en/blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_200fccc2bca0796d419aaef70980d51d.webp 760w,
+               /en/blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_23b16f04598740cae046baf5bc99d8db.webp&#34;
+               width=&#34;800px&#34;
+               height=&#34;496&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Quantitative analysis diagrams of Models I, II, and III during compression. (A), (D), and (G) show the variation of wedge height with shortening for Models I, II, and III, respectively; (B), (E), and (H) show the variation of wedge width with shortening for Models I, II, and III, respectively; (C), (F), and (I) show the variation of slope angle with shortening for Models I, II, and III, respectively. &lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin:insights from numerical modeling</title>
+      <link>https://geovbox.com/en/blog/20240214/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240214/</guid>
+      <description>&lt;div id=&#34;refer-xu2024&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: insights from numerical modeling&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*,Shengxian Zhao&lt;sup&gt;2&lt;/sup&gt;, Chenglin Zhang&lt;sup&gt;2&lt;/sup&gt;, Bo Li&lt;sup&gt;2&lt;/sup&gt;, Dong Jia&lt;sup&gt;1&lt;/sup&gt;,
+Changsheng Li&lt;sup&gt;3&lt;/sup&gt; and Wei Wang&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Shale Gas Institute of PetroChina Southwest Oil &amp;amp; Gasfield Company, Chengdu, China.&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The thin-skinned fold-and-thrust belt with multiple detachments in the eastern Sichuan Basin is characterized by a series of fault-detachment folds with a backward preferred structural vergence, which is rare in nature and can’t be explained well by the classic critically taper theory. Here, three discrete element simulations were conducted to study the influence of multiple detachments on the structural vergence and evolution of the eastern Sichuan thin-skinned fold and thrust belt. The experimental results reveal that multiple detachment layers affected the bulk mechanical strength and facilitated a dually vergent thrust wedge with a backward preferred structural vergence. The addition of intermediate detachment layers influences structural vergence and fault activity of thrust wedges. With the increase in intermediate weak layers, the preferred structural vergence of these model results progressively moved from forward to nearly symmetric and eventually to backward. These results exhibit first-order structural similarities to the structural vergence and fault activity in the eastern Sichuan fold and thrust belt, which indicates that the influence of the internal distribution of weak layers within the eastern Sichuan Basin should not be ignored. The limited Cambrian evaporite layer and the widespread Silurian shale and Lower-Middle Triassic evaporite layers had significant impacts on the deformation of the fold-and-thrust belt in the eastern Sichuan basin. Consequently, we propose a kinematic model for the coupled geodynamic processes of the eastern Sichuan fold-and-thrust belt. The framework of the eastern Sichuan Basin with a number of backward fault-detachment folds was formed by Mesozoic northwestward propagation, and Cenozoic eastward propagation reactivated the folding and thrusting. The Huayingshan fault was affected by the limited Cambrian evaporite layer.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_069f38821e4936a9e50501935f2646d7.webp 400w,
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_8acbdecc6c691d7b00142fe8cbec42fa.webp 760w,
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_069f38821e4936a9e50501935f2646d7.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;358&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Interpreted seismic section (a) and corresponding geological cross-sectional view (b) across the ESB (modified from Gu et al., 2021), and its position is shown in Figure 1b. The black arrows illustrate the positions of the three detachments. (c) Fault displacement statistics within the anticlines across the ESB. The fault displacements record the displacement of Permian layer in faults that at least connect the basal and top detachment layers. The displacements of minor faults between adjacent detachment layers have been disregarded. (d) The ratio of forethrust/backthrust displacements to the total displacements within the anticlines.  &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_46b968a188e2a2dcb41d108351d13b7f.webp 400w,
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_41aa18d64c260519b7cb82509420ebd1.webp 760w,
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_46b968a188e2a2dcb41d108351d13b7f.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Distribution of deformation (up) and velocity field (down) illustrated by (a) Model 1 with 10% BS, (b) Model 2 with 10% BS and (c) Model 3 with 10% BS and (d)14.3% BS, where γ is shear strain of the bulk overlying particles, Δt represents the period of time, Δu is the velocity between the upper surface and base, Δy represents the thickness of the particle layers, and Δx represents surface-bottom interface offset of particle motions. γ1-γ4 are measured by the angle of pink dash lines. Velocity schematic diagrams of back-vergent fold (e) and fore-vergent fold (f) with multiple detachment, which are interpreted from the squares in velocity fields of Model 3 with 10% BS and 14.3% BS, respectively.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_8e1ea504dbbdd01eb2fd907a86273ba8.webp 400w,
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_e0b64c162bd7d44d943ca1c0b40e6789.webp 760w,
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_8e1ea504dbbdd01eb2fd907a86273ba8.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;246&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Proposed kinematic model for the coupled geodynamic processes of the ESB. The evolution of ESB during (a, b) the Mesozoic intracontinental deformation at 100-80 Ma, and (c) Cenozoic eastward growth of the Tibetan Plateau at ~30Ma (modified from Tian et al., 2018). &lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: XU WenQiao&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt:Insights From Discrete-Element Modeling(Tectonics)</title>
+      <link>https://geovbox.com/en/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20221110/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Download the VBOX (ZDEM) experiment scripts in this article.：&lt;/strong&gt;
+The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/tz2qg;&lt;/a&gt; &amp;gt; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/pa9sy)&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div id=&#34;refer-wang2022&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Wang, M., Wang, M., Feng, W., Yan, B., &amp;amp; Jia, D. (2022). Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. &lt;strong&gt;Tectonics&lt;/strong&gt;, 41, e2022TC007515. &lt;a href=&#34;https://doi.org/10.1029/2022TC007515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2022TC007515&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt: Insights From Discrete-Element Modeling&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Maomao Wang&lt;sup&gt;1&lt;/sup&gt;,Ming Wang&lt;sup&gt;1&lt;/sup&gt;,Wang Feng&lt;sup&gt;1&lt;/sup&gt;,Bing Yan&lt;sup&gt;1&lt;/sup&gt;,Dong Jia&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Institute of Tectonics and Geophysics, College of Oceanography, Hohai University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;We investigated interactions between structural deformation and surface processes in the Longmen Shan fold-and-thrust belt and the adjacent western Sichuan foreland basin (WSFB) in the eastern margin of the Tibetan Plateau. The discrete-element modeling (DEM) method was used to study the influences of the various mechanical properties of the detachments and syn-tectonic erosion/deposition on the structural evolution of the Longmen Shan and WSFB. DEM simulations demonstrated two stages of surface processes during the Late Cenozoic profoundly influenced thrusting sequences and strain localization in the hinterland and foreland portions of the Longmen Shan. Models indicate that the fold-and-thrust belt lacking surface processes propagate in a forward-breaking manner, whereas those with surface processes develop following an out-of-sequence thrusting pattern. We infer that large-scale erosion propagation from the Sichuan Basin westward to the Tibetan Plateau since Late Cenozoic caused the Longmen Shan hinterland to reach a subcritical wedge state. Tectonic activity retreats to the edge of Plateau, enhancing the rapid uplift of the Longmen Shan and inhibiting the propagation of substantial shortening deformation to the foreland basin. The foreland thrust belt slides stably along the shallow detachment, causing the initiation and growth of the Longquan fault in the leading front. These results explain why both the Longmen Shan hinterland and the western Sichuan foreland thrust belts are currently in a state of simultaneous seismic activity. Our findings offer important implications regarding the seismic potentials of other fold-and-thrust belts that interact with dynamic surface processes.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_b186320c111bec8f24b143186dd7e4b0.webp 400w,
+               /en/blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_35310bfc8cabc08c82e4811806ff702e.webp 760w,
+               /en/blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_b186320c111bec8f24b143186dd7e4b0.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 1. Geological map of the eastern Tibetan Plateau showing the focal mechanisms of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. The red lines represent surface ruptures of the 2008 Wenchuan earthquake ([Liu-Zeng et al., 2009](#refer-Liu-Zeng2009); [Xu et al., 2009](#refer-Xu2009)). The gray rectangles represent the age of previous published low-temperature thermochronology data, from ([E. Wang et al., 2012](#refer-Wang2012) )&lt;sup&gt;[1]&lt;/sup&gt; and ([Richardson et al., 2008](#refer-Richardson2008))&lt;sup&gt;[2]&lt;/sup&gt;. The brown lines represent the structural profiles in the study area, where profile (a–c) is shown in Figures 5a–5c, respectively. LQF: Longquan Fault; PGT: Pengguan Thrust; RFBT: Range Front Blind Thrust; WLF, Wulong Thrust; WLT: Wenchuan–Maowen Fault; XPT: Xiongpo Thrust; YBT: Yingxiu–Beichuan Thrust.
+ &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_16dcc8e7c9d52de647a887b2d9ac3926.webp 400w,
+               /en/blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_7fabd3ea757f0c53607bdef83c1d7041.webp 760w,
+               /en/blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_16dcc8e7c9d52de647a887b2d9ac3926.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;247&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 6. (a) Representative structural profile a (see location in Figure 1) in the central segment of the Longmen Shan fold-and-thrust belt (Jia et al., 2010). (b) Restoration results of deformed horizons in foreland region of structural profile (a) The shortening of the base of Jurassic layer in foreland region is 13.3 km. The Cenozoic sedimentary strata within hinterland of the Longmen Shan in this profile are absent.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_ef86a1c06c29e41584673cdce958a3b4.webp 400w,
+               /en/blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_f8437e00100ec09ba465ace4fd0caab0.webp 760w,
+               /en/blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_ef86a1c06c29e41584673cdce958a3b4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;545&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 8. Schematic representation of the experimental setup. (a) The initial model setup contained two-level detachments with differential mechanical strengths. (b) When simulating the surface processes in the first stage of Model I-2, the eroded materials from the hinterland were deposited sequentially in the foreland. c) When simulating the surface processes in the second stage of Model I-2, surface erosion occurred throughout the wedge, and materials were transported from the system. The stages of b and c of Model I-2 are not to scale.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_65f7a3b23f5327118197fad6ef9d1742.webp 400w,
+               /en/blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_7bd300508d64e23410e9927ec13a541b.webp 760w,
+               /en/blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_65f7a3b23f5327118197fad6ef9d1742.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 9. The progressive evolution observed in Model I-1 (conducted with five stages and no surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-1 at total shortenings of 10 km (a), 15 km (b), 24 km (c), 30 km (d), or 35 km (e). T1–T7 denote thrust faults in the order of their formation. RFBT, Range Front blind thrust.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_e4fd90b92d1c92e756de0cc633989611.webp 400w,
+               /en/blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_605043f608f2aa1c8c4a3248143e8c31.webp 760w,
+               /en/blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_e4fd90b92d1c92e756de0cc633989611.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 10. The progressive evolution observed in Model I-2 (conducted with five stages and surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-2 at total shortenings of 15 km (a), 19 km (b), 31 km (c), 33 km (d), or 35 km (e). T1–T5 denote thrust faults in the order of their formation.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_da6e7b84e784a14c761dad50ba3dd2b6.webp 400w,
+               /en/blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_6bfcbef29aba5d8ac44c72c725b96a24.webp 760w,
+               /en/blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_da6e7b84e784a14c761dad50ba3dd2b6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;489&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 14. Comparison between the structural cross-section of the central Longmen Shan thrust belt and the results of Model I-2 (simulated with surface processes). (a) Structural profiles of the central Longmen Shan (modified from Jia et al., 2010) and the locations of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. (b, c) Comparison of the structural profile and range front structure in Model I-2. (d, e) Comparison of the structural profile and foreland thrust belt in Model I-2. LQF, Longquan Fault. The location of (e) is shown in structural profile a1 in Figure 1.&lt;/h5&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;Based on DEM simulations, we reveal the interaction between thrusting propagation and surface processes, and its influence on modern seismicity in the Longmen Shan fold-and-thrust belt and its adjacent WSFB. Based on our study results, we obtain the following conclusions:&lt;/p&gt;
+&lt;p&gt;DEM simulations without surface processes indicated that the fold-and-thrust belt developed in an in-sequence thrusting manner. In contrast, DEM simulations with surface processes revealed that the Longmen Shan fold-and-thrust belt developed in an out-of-sequence manner during the late Cenozoic. Starting at ∼30–20 Ma, rapid denudation processes occurred in the Longmen Shan hinterland, and the YBT and PGT Faults continued to be active. From ∼10 Ma to the present, large-scale propagation of denudation occurred from the Sichuan Basin toward the Tibetan Plateau, and tectonic activity retreated to the hinterland of Longmen Shan. Surface processes were relatively quiescent between these two stages, structural shortening propagated forward through the RFBT, and formed the Longquan Fault in the Sichuan basin.&lt;/p&gt;
+&lt;p&gt;Instrumental and historical earthquakes indicate that the frontal faults in the WSFB and the imbricate faults in the Longmen Shan hinterland region are simultaneously seismically active. We interpret that the activity of the Coulomb wedge of the Longmen Shan is related to the latest stage of surface process. Since ∼10 Ma, large and widespread propagation of erosion from the Sichuan Basin toward the eastern Tibet Plateau caused the Longmen Shan hinterland to enter a subcritical state. The reactivation of reverse faults in the hinterland enhanced the rapid uplift of the Longmen Shan and inhibited most of its slip lateral propagation to the foreland basin. The WSFB is currently in a critical state, with wedge slides occurring steadily along the shallow detachment, with the occurrence of frequent, small-moderate earthquakes in the frontal thrust.&lt;/p&gt;
+&lt;p&gt;The distribution of Mesozoic salt lakes in the interior of the Sichuan Basin influenced the location, rate, and structural style of thrust slip that propagated from the Longmen Shan hinterland to the foreland basin. Our simulations indicate that the front blind thrust of Longmen Shan range gradually connects the basal detachment and shallow detachment in foreland, and its position is controlled by the western boundary of the salt-lake. Results of comparative experiments show that fault slips from the hinterland of Longmen Shan entered the southwestern Sichuan basin extensively to form several thrust fault-related folds above shallow detachment. However, slip in the northern Longmen Shan was confined to the range front and did not propagate into the northwest Sichuan basin. This suggests that the structural variability along the strike in the Longmen Shan can be explained from the perspective of the internal factors of the Sichuan basin.&lt;/p&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;This research was supported by the National Key R&amp;amp;D Program of China (2021YFC3000604) and the National Natural Science Foundation of China (42172232, 41702202, and 41927802). Numerical simulations were performed on the discrete element modeling software VBOX (&lt;a href=&#34;https://www.geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com&lt;/a&gt;). The authors thank Julia Morgan (Rice University) for generously sharing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. The authors thank Dr. Chang-Sheng Li (East China University of Technology) for his suggestions in the numerical simulations. The numerical simulation of this study is performed on the computing facilities in the High-Performance Computing Center (HPCC) of Nanjing University. The authors thank Jonny Wu and Sharadha Sathiakumar for their constructive reviews.&lt;/p&gt;
+&lt;h3 id=&#34;data-availability-statement&#34;&gt;Data Availability Statement&lt;/h3&gt;
+&lt;p&gt;The authors used VBOX version 2.1 (C. Li et al., 2021; &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) for the discrete-element method (DEM) numerical simulations. Numerical simulations were conducted at the High-Performance Computing Center (HPCC), Nanjing University. The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/tz2qg;&lt;/a&gt; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/pa9sy)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-Li2019&#34;&gt;&lt;/div&gt;
+Li Changsheng, 2019. Quantitative Analysis and Simulation of Structural Deformation in Fold-Thrust Belts Based on Discrete Element Method. Doctoral Dissertation. Nanjing: Nanjing University.
+&lt;div id=&#34;refer-Liu-Zeng2008&#34;&gt;&lt;/div&gt;
+Liu-Zeng, J., Zhang, Z., Wen, L., Tapponnier, P., Sun, J., Xing, X., et al. (2009). Co-seismic ruptures of the 12 May 2008, Ms 8.0 Wenchuan earthquake, Sichuan: East–west crustal shortening on oblique, parallel thrusts along the eastern edge of Tibet. Earth and Planetary Science Letters, 286, 355–370. https://doi.org/10.1016/j.epsl.2009.07.017
+&lt;div id=&#34;refer-Xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., &amp; Shaw, J. (2009). Coseismic reverse- and oblique-slip surface faulting generated by the 2008 Mw 7.9 Wenchuan earthquake, China. Geology, 37, 515–518. https://doi.org/10.1130/G25462A.1
+&lt;div id=&#34;refer-Wang2012&#34;&gt;&lt;/div&gt;
+Wang, E., Kirby, E., Furlong, K. P., Van Soest, M., Xu, G., Shi, X., et al. (2012). Two-phase growth of high topography in eastern Tibet during the Cenozoic. Nature Geoscience, 5, 640–645. https://doi.org/10.1038/ngeo1538
+&lt;div id=&#34;refer-Richardson2008&#34;&gt;&lt;/div&gt;
+Richardson, N. J., Densmore, A. L., Seward, D., Fowler, A., Wipf, M., Ellis, M. A., et al. (2008). Extraordinary denudation in the Sichuan Basin: Insights from low-temperature thermochronology adjacent to the eastern margin of the Tibetan Plateau. Journal of Geophysical Research, 113, B04409. https://doi.org/10.1029/2006JB004739
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analysis and Simulation of Compressional Tectonics Based on Discrete Element Method (Tectonics and Mineralization)</title>
+      <link>https://geovbox.com/en/blog/20220901/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20220901/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Download：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.16539/j.ddgzyckx.2022.04.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li Changsheng, Yin Hongwei, Xu Wenqiao, Wu Zhenyun, Guan Shuwei, Jia Dong, Ren Rong. Quantitative analysis and simulation of compaction structures based on discrete element method [J]. Geotectonica et Metallogenia, 2022, 46(04): 645-661.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The corresponding ZDEM script is provided later in the text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The discrete element method (DEM) holds immense potential in the quantitative study of tectonic deformation, stress-strain relationships, and fracture prediction, making it one of the primary directions for future research in quantitative tectonic deformation studies.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Quantitative Analysis and Simulation of Compressional Tectonics Based on Discrete Element Method&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Changsheng Li&lt;sup&gt;1,2,3,4&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;3*&lt;/sup&gt;, Wenqiao Xu&lt;sup&gt;3&lt;/sup&gt;, Zhenyun Wu&lt;sup&gt;1, 2&lt;/sup&gt;,
+Shuwei Guan&lt;sup&gt;4&lt;/sup&gt;, Dong Jia&lt;sup&gt;3&lt;/sup&gt;, Rong Ren&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;PetroChina Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;With advancements in discrete element theory and computer technology, DEM has been widely applied to tectonic simulations across various scales. Compared to traditional sandbox experiments, DEM allows for more precise control of experimental boundary conditions and quantitative analysis of the tectonic deformation process. This facilitates a deeper understanding of the influence of stratigraphic mechanical properties on tectonic deformation at the mesoscopic scale. This paper systematically elaborates on the quantitative analysis method for tectonic deformation based on DEM. Through a typical numerical simulation experiment of compressional tectonics using DEM, we modeled the formation process of tectonic structures under horizontal compression. The study analyzed the changes in stress and strain distribution, as well as the patterns of fracture generation during deformation, yielding the following insights:(1) The simulated tectonics are dominated by foreland-style imbricate thrust faults, with fault activity propagating sequentially from the compression end to regions farther away;(2) Fractures are closely related to fault formation, with the accumulation of numerous fractures in local areas acting as a trigger for fault development;(3) In the early stages of fault formation, material displacement within the fault is minimal, and the incremental increase in fractures is at its peak; in the later stages of fault activity, the incremental increase in fractures decreases;(4) Volumetric strain can characterize fracture types (tensile or compressive), while deformation strain can distinguish between forward and reverse thrust faults;(5) The magnitude of average stress is positively correlated with topographic relief, and the maximum shear stress continuously accumulates at the site of an impending new fault until the fault forms, after which the maximum shear stress dissipates, propagates forward, and accumulates at the next site of an impending fault. These findings demonstrate the significant potential of DEM in the quantitative study of tectonic deformation, stress-strain relationships, and fracture prediction.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_c925a11443b00809d2c1234b78d2abfd.webp 400w,
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_f89ffd5f6a698fd8faa6a801c7173f80.webp 760w,
+               /en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig2_hu2fb36d47a0dc4896b45d202ede3ba28a_620040_c925a11443b00809d2c1234b78d2abfd.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;(a) Principal Stress Difference and Axial Strain;(b) Shear Strength Envelope&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;Figure 2: Biaxial Experiment Results&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_adfe81676011bcf0554d4c13ab8d1ec0.webp 400w,
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_21beadeafb2b4d5a0c70f6cd6687c6bb.webp 760w,
+               /en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig3_hu2fb36d47a0dc4896b45d202ede3ba28a_615993_adfe81676011bcf0554d4c13ab8d1ec0.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;157&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 3: Initial Model&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_b7cc094cc9af3aa4ce5a83ed0b6b7967.webp 400w,
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_451257d25a89223ba096c62e6facb4a3.webp 760w,
+               /en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig4_hu2fb36d47a0dc4896b45d202ede3ba28a_800157_b7cc094cc9af3aa4ce5a83ed0b6b7967.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 4: Structural Interpretation of the Wedge at Model Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_fef6634e254c95b643450ee8a5399195.webp 400w,
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_190d60ee155388b7ed39faf083e2a35a.webp 760w,
+               /en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig6_hu2fb36d47a0dc4896b45d202ede3ba28a_803830_fef6634e254c95b643450ee8a5399195.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 6: Bonded Force Chain Distribution at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e) (Blue represents bonded force chains, yellow represents unbonded contacts)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_a1df253bb690c2701aaee3580f8fcaf0.webp 400w,
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_25c957564ef8751486eb54eb9fcde698.webp 760w,
+               /en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig8_hu0f46f76e7219ba17041c0d0890d717f5_599693_a1df253bb690c2701aaee3580f8fcaf0.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 8: Fault Slip Curves as a Function of Contraction (Faults F1, F2, F3, and F4 as shown in Figure 4; fault slip values measured from the green layer)&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_29fd66a64f2a2dcddaff4d0e48785b7e.webp 400w,
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_da400878ca7ea2d66f2f5c9cf9e6f7f5.webp 760w,
+               /en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig9_hu0f46f76e7219ba17041c0d0890d717f5_661488_29fd66a64f2a2dcddaff4d0e48785b7e.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;441&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;In Figure (a), four points are selected from four particles within faults F1, F2, F3, and F4 in the green marker layer. For clarity, the radii of these four particles are magnified threefold. The blue force chains represent bonded force chains within a 1 km radius around the monitoring points.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;Figure 9: Motion Paths of Points PF1, PF2, PF3, and PF4 (a); Cumulative Displacement of Points PF1, PF2, PF3, and PF4 with Model Contraction (b); Number of Newly Broken Bonded Force Chains within a 1 km Radius Around Points PF1, PF2, PF3, and PF4 per 1 km of Model Contraction\(c) 
+&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_e12eceb451e6db0de2aa6de8791387f2.webp 400w,
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_631a1ed7f4057e351dc0923c0abe075a.webp 760w,
+               /en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig10_hu8e32a97efb318866283338a6d45113f2_729550_e12eceb451e6db0de2aa6de8791387f2.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;Here, blue indicates volumetric compression, red indicates volumetric expansion, and the intensity of the color represents the magnitude of volumetric change. In (e), the semi-transparent black layer is the marker layer.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+Figure 10: Cumulative Volumetric Strain in the Model at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)
+&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_c7b983284e0dfcd1bc0cc631a6744c83.webp 400w,
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_3cf38ad5a29c22cbf1885e61b3d7915a.webp 760w,
+               /en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220901/fig15_hu0f46f76e7219ba17041c0d0890d717f5_689008_c7b983284e0dfcd1bc0cc631a6744c83.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;727&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;Black lines represent stress contours, and black dots indicate points with |deformation strain| &gt; 4, marking fault locations. In Figure (e), the green layer is the marker layer.&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;
+Figure 15: Maximum Shear Stress Distribution at Contraction of 1 km (a), 4 km (b), 9 km (c), 16 km (d), and 20 km (e)
+&lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;The numerical computations in this study were performed on the computing cluster at Nanjing University’s High-Performance Computing Center. The numerical simulation experiments were conducted using discrete element simulation software independently developed by our research group. For more examples of tectonic simulations, see &lt;a href=&#34;https://geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com&lt;/a&gt;. The strain calculation code used in this paper was adapted from scripts by Julia K. Morgan and Thomas Fournier of Rice University, to whom we express our gratitude. The source code for the wedge element measurement program is available at &lt;a href=&#34;https://github.com/demsheng/Quantitative-wedge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/demsheng/Quantitative-wedge&lt;/a&gt;. Associate Professors Yu Yixin and Liu Zhina from China University of Petroleum (Beijing) provided thorough and professional reviews of this paper, offering constructive suggestions for improvement, for which we extend our special thanks.&lt;/p&gt;
+&lt;h4 id=&#34;zdem-script-code&#34;&gt;ZDEM Script Code&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Sedimentation Process.&lt;a href=&#34;gen.py&#34;&gt;gen.py&lt;/a&gt; The content of  is as follows:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 基于离散元的挤压构造定量分析与模拟:1 沉积&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2022-09-01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 fric 0.00 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61200.0 ,   1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 40.0 GROUP bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GEN num 200000, rad discrete 60.0 80.0,  x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; 61000&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; 16000&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, COLOR black 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2,  damp 0.4 hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue    range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y  spin range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  DT 5e-2,  GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -9.8 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DRAW INTERVAL 1000, bfill wall bondc &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;,bid,bang  mesh, cforce
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar  &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  save    &lt;span class=&#34;m&#34;&gt;50000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  print   &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  ps      &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;del range x &lt;span class=&#34;m&#34;&gt;1001&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60999&lt;/span&gt; y &lt;span class=&#34;m&#34;&gt;7000&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;exp init6km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;del range x &lt;span class=&#34;m&#34;&gt;1001&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60999&lt;/span&gt; y &lt;span class=&#34;m&#34;&gt;6000&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;99999&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;exp init5km_xyr.dat range x 1001.0 60999.0 y 1001.0 99999.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compression Process.&lt;a href=&#34;push.py&#34;&gt;push.py&lt;/a&gt; The content of  is as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;During the sedimentation process, particles are randomly generated, which may result in differences between the initial model and that described in the paper. Download the initial model from the paper:&lt;a href=&#34;init5km_xyr.dat&#34;&gt;init5km_xyr.dat&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 基于离散元的挤压构造定量分析与模拟:2 挤压&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2022-09-01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: [李长圣,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣.基于离散元的挤压构造定量分析与模拟[J].大地构造与成矿学,2022,(46卷04):645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;load init5km_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.1 right 62000.0 bottom 1.0 height 20000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 fric 0.00 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61200.0 ,   1000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 40.0 GROUP bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GLINE P1 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  1120.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; P2 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  61000.0 ,  19000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; r 80.0 GROUP rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color white den 2.5e3, fric 0.0, shear 2.9e9, poiss 0.2, hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue    range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black   range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fix x y   spin range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  DT 5e-2,  GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -9.8 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar  &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  print    &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt;  ps       &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop   ebmod 2e8 gbmod 2e8 tstrength 1e7 sstrength 2e7 fric 0.3 range x 1001.0 60999.0 y 1001.0  9000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color mg     range x 1001.0 60999.0 y 1700.0  2000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color violet range x 1001.0 60999.0 y 2700.0  3000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range x 1001.0 60999.0 y 3700.0  4000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   range x 1001.0 60999.0 y 4700.0  5000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black  range x 1001.0 60999.0 y 5700.0  9000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   fric 0.3 range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue   fric 0.3 range group rig_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color red    fric 0.3 range group bom_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ini  xv 2.0, range group lef_wall
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 1, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  500.0 , 2000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;    500.0 ,   3000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e3 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e3 color black fric 0.0  xv  2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xmove &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt; print 1000.0 ps 1000.0 vtk 1000.0 sav 2000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China(Tectonophysics)</title>
+      <link>https://geovbox.com/en/blog/20220406/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20220406/</guid>
+      <description>&lt;div id=&#34;refer-chen2022&#34;&gt;&lt;/div&gt;
+[Chen, J., He, D., Tian, F., Huang, C., Ma, D., Zhang, W., 2022. Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China. **Tectonophysics** 830, 229307. doi: 10.1016/j.tecto.2022.229307. IF2020 = 3.933 ](https://doi.org/10.1016/j.tecto.2022.229307) 
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Control of mechanical stratigraphy on the stratified style of strike-slip faults in the central Tarim Craton, NW China&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Jiajun Chen&lt;sup&gt;1, 2&lt;/sup&gt;， Dengfa He&lt;sup&gt;1, 2&lt;/sup&gt;, Fanglei Tian&lt;sup&gt;1, 2&lt;/sup&gt;, Cheng Huang&lt;sup&gt;3&lt;/sup&gt;, Debo Ma&lt;sup&gt;4&lt;/sup&gt;, Weikang Zhang&lt;sup&gt;1, 2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Energy Resources, China University of Geosciences Beijing, Beijing 100083, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Marine Reservoir Evolution and Hydrocarbon Enrichment Mechanism, Ministry of Education, Beijing 100083, China&lt;/li&gt;
+&lt;li&gt;Northwest Oilfield Branch Company, SINOPEC, Urumqi, Xinjiang 830011, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum and Development, PetroChina, Beijing 100083, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The large-scale (tens to hundreds of kilometers long) but small-displacement (&amp;lt;2 km) strike-slip faults in the Shunbei region of the Tarim Basin, NW China, provide an opportunity to document the role of mechanical stratigraphy in an intracratonic strike-slip situation. Uniaxial compression test results and dipole acoustic logging data illustrate that the lower Paleozoic mechanical profile in the Shunbei region consists of 2 incompetent layers (middle Cambrian and Upper Ordovician) and 3 competent layers (Sinian–lower Cambrian, upper Cambrian–Middle Ordovician, and Silurian). Borehole and high-resolution 3D seismic data illustrate that the 3 competent layers are characterized by low-amplitude folds and isolated brittle faults. The discrete element method (DEM) modeling results indicate that mechanical stratigraphy is an important factor controlling the softlinked faulting style that is independent of multiphase deformation. A pre-existing structure promotes the formation of narrow and localized fault zones. The early–middle Silurian evolution of the Shunbei No. 1 fault zone reflects a classic stratigraphically decoupled deformation model: the middle fault arrays (upper Cambrian–Middle Ordovician layers) and en echelon normal faults (Silurian layer) synchronously experienced leftlateral slip. These two styles of faulting have different geometries (fault dips, slips, and arrangements) but are kinematically coupled and genetically related. This proposed deformation model provides mechanical support to document deeply buried structures by characterizing genetically related shallow structures, which may be widely employed as multiphase inheritance structures with mechanical stratigraphy. We also point out that vertical fault connectivity is a key research aspect of hydrocarbon exploration in the Shunbei oilfield.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_e311db206c6d2f762ef2348060f7f6a8.webp 400w,
+               /en/blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_1074eda291c884471c2e2a40fc8a85be.webp 760w,
+               /en/blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220406/Figure1_hue997c9c5ced444a248a0002ba01235c6_1062489_e311db206c6d2f762ef2348060f7f6a8.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Caption: Distribution map of (a) the structural elements in the Paleozoic tectonostratigraphic unit and intracratonic small-displacement (&lt; 2 km) strike-slip faults of the Shuntuoguole Lower Uplift, (b) stratigraphic column, and fault distributions (modified after Deng et al., 2018) at the (c) top of the Middle Ordovician (T74), (d) top of the Ordovician (T70), and (e) top of the Silurian (T60). (1) = Paleozoic rock sampling location; (2) = Mesozoic rock sampling location; SRS = seismic reflection surface; TS = tectonostratigraphic unit; U = Upper; M = Middle; L = lower; Qu. = Quaternary; Ca. = Carboniferous; PDZ = principal displacement zone.
+ &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_9d44bf81617dd7c6bebee5c837954c17.webp 400w,
+               /en/blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_3a686d3d5024536accae7e58b3b7b06a.webp 760w,
+               /en/blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220406/Figure6_hu1dad4777c9af76e3dcbf102ff4e15257_1461581_9d44bf81617dd7c6bebee5c837954c17.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;586&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; 
+Caption: Interpreted seismic cross-sections and related mechanical profiles (see Fig. 1a for location). a) W–E-oriented cross-section showing the pop-up structure of the Shunbei No. 5 fault zone (C–C&#39;); b) W–E-oriented cross-section showing the pull-apart structure of the Shunbei No. 5 fault zone (D–D&#39;); c) NW–SE-oriented cross-section showing the Shunbei No. 1 fault zone (E–E&#39;).
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_64562d67b3dc0e673901269a59a3462a.webp 400w,
+               /en/blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_125faa9bff0f036b3101a9cbc89111d8.webp 760w,
+               /en/blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220406/Figure8_huf5e79439a73070b4c3b3b5877ca6b145_967367_64562d67b3dc0e673901269a59a3462a.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;
+Caption: 2D numerical simulation results of the 4 models, including the (a, d, g, and j) deformations, (b, e, h, and k) volumetric strains, and (c, f, i, and l) distortional strains.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_9ae3b421ced90c9609ac880cc0048d64.webp 400w,
+               /en/blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_675862d1929ad82050f11827b7e56dc0.webp 760w,
+               /en/blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220406/Figure10_huce26ee8e6cdaea1b97269e26195bae73_505757_9ae3b421ced90c9609ac880cc0048d64.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Caption: Comparison of the (a) non-stratigraphically decoupled deformation (modified after Fossen, 2016) and potential structures formed in the upward widening shear zone and (b) early–middle Silurian stratigraphically decoupled deformation in the Tarim intracratonic left-lateral slip scenario (e.g., Shunbei No. 1 and 5 fault zones). PDZ is the principal displacement zone; R and R′ are the synthetic and antithetic shear fractures, respectively; P is the secondary shear fracture and connects the R and R′ surfaces; Φ is the angle of internal friction.&lt;/h5&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;The authors wish to thank the Northwest Oilfield Branch Company (SINOPEC) and Research Institute of Petroleum Exploration and Development (CNPC) for granting access to the data. The numerical calculations in this manuscript were performed at the computing facilities of the High Performance Computing Center (HPCC) of Nanjing University. This research was financially supported by the National Natural Science Foundation of China [grant number U19B6003-01] and the National Key Research and Development Program of China [grant number 2017YFC0601405]. The authors would like to thank Julia K. Morgan for generously sharing their postprocessing scripts and algorithms, which have been used to process and display the model outputs presented here.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-Willis1893&#34;&gt;&lt;/div&gt;
+Willis, B., 1893. The mechanics of Appalachian structure. In: US Geol. Survey. 13th Ann. Rept, pp. 211–282.
+&lt;div id=&#34;refer-Laubach2019&#34;&gt;&lt;/div&gt;
+Laubach, S.E., Lander, R.H., Criscenti, L.J., et al, 2019. The role of chemistry in fracture pattern development and opportunities to advance interpretations of geological materials. Rev. Geophys. 57, 1065–1111. https://doi.org/10.1029/2019RG000671
+&lt;div id=&#34;refer-Yun2021&#34;&gt;&lt;/div&gt;
+Lu Yun , 2021. Controlling effect of NE strike-slip fault system on reservoir development and hydrocarbon accumulation in the eastern Shunbei area and its geological significance, Tarim Basin. China Petroleum Exploration, 26(03): 41-52.
+&lt;div id=&#34;refer-Den2018&#34;&gt;&lt;/div&gt;
+Shang Deng ,Huili  Li , Zhongpei Zhang , et al., 2018. Characteristics of differential activities in major strike-slip fault zones and their control on hydrocarbon enrichment in Shunbei area and its surroundings, Tarim Basin. Petroleum and Natural Gas Geology, 39(5): 878-888.
+&lt;div id=&#34;refer-Li2019&#34;&gt;&lt;/div&gt;
+Changsheng Li , 2019. Quantitative analysis and simulation of fold-thrust belt deformation based on the discrete element method. Ph.D. dissertation. Nanjing: Nanjing University.
+&lt;div id=&#34;refer-Morgan2015&#34;&gt;&lt;/div&gt;
+Morgan J K., 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120(5): 3870-3896.
+&lt;div id=&#34;refer-Fossen2016&#34;&gt;&lt;/div&gt;
+Fossen H., 2016. Structural Geology. 2nd. United Kingdom: Cambridge University Press.
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression</title>
+      <link>https://geovbox.com/en/blog/20210824/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210824/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Download&lt;/strong&gt;
+&lt;a href=&#34;https://doi.org/10.3389/feart.2021.655173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li C, Yin H, Wu Z, Zhou P, Wang W, Ren R, Guan S, Li X, Luo H and Jia D (2021) Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models. Front. Earth Sci. 9:655173.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Effects of Salt Thickness on the Structural Deformation of Foreland Fold-and-Thrust Belt in the Kuqa Depression, Tarim Basin: Insights From Discrete Element Models&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Changsheng Li&lt;sup&gt;1,2,3&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;3*&lt;/sup&gt;, Zhenyun Wu&lt;sup&gt;1,2*&lt;/sup&gt;, Peng Zhou&lt;sup&gt;4&lt;/sup&gt;, Wei Wang&lt;sup&gt;3&lt;/sup&gt;, Rong Ren&lt;sup&gt;5&lt;/sup&gt;, Shuwei Guan&lt;sup&gt;5&lt;/sup&gt;, Xiangyun Li&lt;sup&gt;6&lt;/sup&gt;, Haoyu Luo&lt;sup&gt;6&lt;/sup&gt; and Dong Jia&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Resource Exploration Office, Tarim Oilfield Branch Company, PetroChina, Korla, China&lt;/li&gt;
+&lt;li&gt;PetroChina Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, Tarim Oilfield Branch Company, PetroChina, Korla, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The salt layer is critical for the structural deformation in the salt-bearing fold-and-thrust system, which not only acts as the efficient décollement layer but also flows to form salt tectonics. Kuqa Depression has a well-preserved thin-skinned fold-and-thrust system with the salt layer as the décollement. To investigate the effects of salt thickness on the structural deformation in the Kuqa Depression, three discrete element models with different salt thicknesses were constructed. The experiment without salt was controlled by several basal décollement dominant faults, forming several imbricate sheets. The experiments with salt developed the decoupled deformation with the salt layer as the upper décollement (subsalt, intrasalt, and suprasalt), significantly similar to the Kuqa Depression along the northern margin of Tarim Basin. Basal décollement dominant imbricated thrusts formed at the subsalt units, while the monoclinal structure formed at the suprasalt units. The decoupled deformation was also observed in the tectonic deformation graphics, distortional strain fields, and max shear stress fields. However, the salt layer was thickened in the thick salt model, and the salt thickness of the thin salt model varied slightly because the thin salt weakened the flowability of the salt. The lower max shear stress zone was easily formed in the distribution region of salt under the action of compression stress, which is conducive to the flow convergence of salt and the crumpled deformation of interlayer in salt. The results are well consistent with the natural characteristics of structural deformation in the Kuqa Depression. Our modeling result concerns the structural characteristics and evolution of salt-related structures and the effects of salt thickness on the structural deformation in the compressional stress field, which might be helpful for the investigations of salt-related structures in other salt-bearing fold-and-thrust belts.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210824/feart-09-655173-g005_huce5bcdf3e3dd616ff1b0a530bd7ac663_111266_c6f86cfb51e649b27b3789750b803b84.webp 400w,
+               /en/blog/20210824/feart-09-655173-g005_huce5bcdf3e3dd616ff1b0a530bd7ac663_111266_da425f0e4f7eec32b8d5103e1421b131.webp 760w,
+               /en/blog/20210824/feart-09-655173-g005_huce5bcdf3e3dd616ff1b0a530bd7ac663_111266_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210824/feart-09-655173-g005_huce5bcdf3e3dd616ff1b0a530bd7ac663_111266_c6f86cfb51e649b27b3789750b803b84.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;608&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;FIGURE 5. Final deformations of three shortening experiments with different salt thicknesses after 12 km of shortening. A) Reference experiment. B) Experiment with thin salt (ca. 300 m). C) Experiment with thick salt (ca. 1,000 m). White and gray denote the subsalt layer. Red denotes the salt layer. Blue and gray denote the prekinematic layer. Violet and yellow denote the synkinematic layer. Bonds of assigned strengths (Table 2) were introduced at all interparticle contacts, except the synkinematic layer (violet and yellow) and salt layer (red). Dashed lines denote faults. The figures of each step are included in the Supplementary Material. &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210824/feart-09-655173-g007_hu9959092851c17f4dd17a76e182574919_81840_37be2f8ab4d5599cf8ca6f69b42d07f7.webp 400w,
+               /en/blog/20210824/feart-09-655173-g007_hu9959092851c17f4dd17a76e182574919_81840_48ac8d6cedf390a8d4a1b224feb7690d.webp 760w,
+               /en/blog/20210824/feart-09-655173-g007_hu9959092851c17f4dd17a76e182574919_81840_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210824/feart-09-655173-g007_hu9959092851c17f4dd17a76e182574919_81840_37be2f8ab4d5599cf8ca6f69b42d07f7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;672&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;FIGURE 7. Max shear stress illustrated after 12 km of shortening. A) Reference experiment. B) Experiment with thin salt (ca. 300 m). C) Experiment with thick salt (ca. 1,000 m). The final structure of each series is superimposed by plotting regions of high distortional strain (i.e., the absolute value is greater than 4.8 in Figure 6) in black. Dashed lines denote faults. The areas that are trapped by the white solid line denote the salt. The figures of max shear stress for each step are included in the Supplementary Material.&lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;The authors would like to thank Julia K. Morgan and Thomas Fournier for generously sharing their postprocessing scripts and algorithms, which have been used to process and display the model outputs presented here. HY would like to thank Prof. Morgan for generously sharing her discrete element code RICEBAL (v. 5.1, modified from Peter Cundall’s TRUBAL v. 1.51) and Rice University for hosting his collaborative visit in 2009, providing him with the opportunity to further develop his knowledge of DEM and geomechanics principles and learn the capabilities of these methods. The authors also would like to thank Wenqiao XU for the fruitful discussions on this manuscript. The authors are grateful for thoughtful reviews by two reviewers, which resulted in significant improvements in this paper. The authors acknowledge Beijing PARATERA Tech CO., Ltd. (&lt;a href=&#34;https://paratera.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paratera.com&lt;/a&gt;) for providing HPC resources that have contributed to the research results reported within this paper. Data used in this paper and the discrete element software ZDEM will be available online at &lt;a href=&#34;https://geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com&lt;/a&gt;, and more examples are given on this website. Modeling results and information can be obtained by contacting CL at &lt;a href=&#34;mailto:lichangsheng@ecut.edu.cn&#34;&gt;lichangsheng@ecut.edu.cn&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;supplementary-material&#34;&gt;Supplementary Material&lt;/h4&gt;
+&lt;p&gt;The Supplementary Material for this article can be found online at: &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/feart.2021.655173/full#supplementary-material&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.frontiersin.org/articles/10.3389/feart.2021.655173/full#supplementary-material&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</title>
+      <link>https://geovbox.com/en/blog/20210716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210716/</guid>
+      <description>&lt;div id=&#34;refer-wu2021&#34;&gt;&lt;/div&gt;
+[Wu Z, Yin H, Li C, Yang X, Wang L, Wang F, Dong S and Jia D (2021) Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts:
+Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold- Thrust Belt. Front. Earth Sci. 9:659682. doi: 10.3389/feart.2021.659682](https://doi.org/10.3389/feart.2021.659682) 
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts: Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold-Thrust Belt&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wu Z&lt;sup&gt;1,2&lt;/sup&gt;, Yin H&lt;sup&gt;3&lt;/sup&gt;, Li C&lt;sup&gt;1,2&lt;/sup&gt;, Yang X&lt;sup&gt;2&lt;/sup&gt;, Wang L&lt;sup&gt;2&lt;/sup&gt;, Wang F&lt;sup&gt;2&lt;/sup&gt;, Dong S&lt;sup&gt;3&lt;/sup&gt; and Jia D&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Four groups of discrete element models (DEMs) were set-up to simulate and analyze the influence of regional erosion and sedimentary loading on the formation and spatial-temporal evolution of faults in the southern and central Longmen Shan (LMS) active fold-thrust belt. The interior characteristics of faults in the southern and central LMS fold-thrust belt were also evaluated during the interaction of tectonic processes and surface processes according to the stress-strain analysis from DEM results. The results showed that synkinematic erosion promoted the reactivation of pre-existing faults in thrust wedges and also retarded the formation and development of new incipient faults in the pre-wedge regions. Meanwhile, synkinematic sedimentation also delayed the development of new incipient faults in the pre-wedge regions by promoting the development of thrust faults in the front of thrust wedges, causing these thrust wedges in supercritical stages with relatively narrow wedge lengths. According to these DEM results, we infer that: 1) The characteristics of erosion and sedimentation in the central and southern LMS have important influences on the activities of large faults which are extended into the deep detachment layer; 2) Besides differential erosion, the differential sedimentary loading may also be one of the important factors for the along-strike differential evolution of the LMS fold-thrust belt. This kind of differential deposition may lead to differential fault activity and uplift in the interior thrust wedge and pre-wedge region in the central and southern LMS; 3) Compared to the northern LMS, the central LMS and southern LMS is more conducive to the occurrence of earthquakes, because of synkinematic sedimentation (such as the growth of Chengdu plain) has a greater blocking effect on the stress propagation and strain convergence on the fault planes of front faults of an active thrust wedge.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_a64577ba159971b6f7b4cb45958c9f59.webp 400w,
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_9c49bf9ee36bdac3434efbaddd801c9e.webp 760w,
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_a64577ba159971b6f7b4cb45958c9f59.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;669&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;FIGURE 1 | Regional map of the LMS fold-thrust belt (A) and its geological structure map (B) (modified from [(Sun et al.,2016)](#refer-sun2016), Co-seismic rupture zones from [(Xu et al.,2009)](#refer-xu2009). (C) shows the thickness contour lines (100 m interval) of the Upper Pliocene and Quaternary (syntectonic sedimentary strata) beneath the Chengdu plain (cited from [(Li et al.,2018)](#refer-li2018). JTF, Jintang Fault; WLF, Wulong Fault; WMF, Wenxian-Maoxian Fault; SDF, Shuangshi-Dachuan Fault; PGF, Pengxian-Guanxian Fault; YBF, Yingxiu-Beichuan Fault; YAF, Yaan Fault; LQF, Longquanshan Fault; QCF, Qingchuan Fault; MJF, Minjiang Fault; HYF, Huya Fault; RFBT, Range Front Blind Thrust. &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_0f7a07aa20d7c3efc3df725b5231fd69.webp 400w,
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_ae7b2af93a7060e9b53310216e6c3057.webp 760w,
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_0f7a07aa20d7c3efc3df725b5231fd69.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;461&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; FIGURE 10 | Stress analysis of DEM simulations in Model 1 (A), Model 2 (B), Model 3 (C), and Model 4 (D). Mean stress (upper figure) and maximum shear stress (lower figure) are presented after every 2 units shortening. The main fault shapes (shades of black) are assigned to the stress maps.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1463a9bd03c3f133e08298fc12810054.webp 400w,
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_85a3d6e2691cf755d0c45d27a456a1b3.webp 760w,
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1463a9bd03c3f133e08298fc12810054.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;FIGURE 13 | The DEM results in this paper (A) and the conceptual model modified from Liu et al., 2020(B) present the occurrence of recess and salient in the front of thrust wedges.&lt;/h5&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-li2018&#34;&gt;&lt;/div&gt;
+Li, Z., Zhang, P., Zheng, W., Jia, D., Hubbard, J., Almeida, R., et al. (2018b). Oblique Thrusting and Strain Partitioning in the Longmen Shan Fold-Andthrust belt, Eastern Tibetan Plateau. J. Geophys. Res. Solid Earth 123, 4431-4453. doi:10.1029/2018JB015529
+&lt;div id=&#34;refer-sun2016&#34;&gt;&lt;/div&gt;
+Sun, C., Jia, D., Yin, H., Chen, Z., Li, Z., Shen, L., et al. (2016). Sandbox Modeling of Evolving Thrust Wedges with Different Preexisting Topographic Relief: Implications for the Longmen Shan Thrust belt, Eastern Tibet. J. Geophys. Res. Solid Earth 121, 4591–4614. doi:10.1002/2016jb013013
+&lt;div id=&#34;refer-xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., et al. (2009). Coseismic Reverse- and Oblique-Slip Surface Faulting Generated by the 2008 Mw 7.9 Wenchuan Earthquake, China. Geology 37 (6), 515–518. doi:10.1130/g25462a.1
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calibration of the discrete element method and modelling of shortening experiments (Data)</title>
+      <link>https://geovbox.com/en/blog/li2021en/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/li2021en/</guid>
+      <description>&lt;p&gt;LI Changsheng, YIN Hongwei*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. &lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.3389/feart.2021.636512&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Original Research: The discrete element method (DEM) is becoming widely accepted as an effective method of addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analogue model (AM). However, the previous experiments &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Accepted on 05 May 2021&lt;/p&gt;
+&lt;h2 id=&#34;evolution-process&#34;&gt;Evolution Process&lt;/h2&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/en/blog/li2021en/dem_am.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;800px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Unit (cm)&lt;br&gt;&lt;br&gt;Tectonic Evolution Process(DEM)&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/li2021en/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_25a6a7503875033275e400c89eb76f9d.webp 400w,
+               /en/blog/li2021en/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_ef7996dff98135e3f211edec64bf6818.webp 760w,
+               /en/blog/li2021en/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/li2021en/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_25a6a7503875033275e400c89eb76f9d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/li2021en/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_0c260b79653e2e3111ebc50a2dc1d1e5.webp 400w,
+               /en/blog/li2021en/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_f2b1146d1b9899ff5ce42598394d652f.webp 760w,
+               /en/blog/li2021en/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/li2021en/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_0c260b79653e2e3111ebc50a2dc1d1e5.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/li2021en/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_c57e80f3e1c8f618c32bc03a8584bed6.webp 400w,
+               /en/blog/li2021en/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_66fb51aceb409d7630c78e6b06e05983.webp 760w,
+               /en/blog/li2021en/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/li2021en/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_c57e80f3e1c8f618c32bc03a8584bed6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/li2021en/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_8b2048d3d20f153c8afb0cbf5bea99e6.webp 400w,
+               /en/blog/li2021en/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_90db5d1b5e2164f694526ed9161f7c06.webp 760w,
+               /en/blog/li2021en/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/li2021en/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_8b2048d3d20f153c8afb0cbf5bea99e6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/li2021en/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_52a66a01b2a27a49b7f31dc06ec2d398.webp 400w,
+               /en/blog/li2021en/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_f30c7b89e2556104a94f00f3765912d6.webp 760w,
+               /en/blog/li2021en/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/li2021en/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_52a66a01b2a27a49b7f31dc06ec2d398.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;center&gt;&lt;h5&gt;&#34;The first image (AM) shows the physical model; the second image (DEM) shows the discrete element numerical simulation; the third image shows the DEM deformation strain diagram.&lt;/h5&gt;&lt;/center&gt;
+&lt;h2 id=&#34;zdem-script&#34;&gt;ZDEM script:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;deposition process. &lt;a href=&#34;gen.py&#34;&gt;gen.py&lt;/a&gt; is as follows：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 离散元数值模拟与构造物理模拟对比试验:1 沉积&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2021-05-16&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk hex
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 fric 0.3 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 4, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3  158.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  5.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 5, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 6, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 605.0e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3   158.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen grid idmin &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt; rad discrete 0.1e-3 0.1e-3 0.2e-3 0.2e-3 0.25e-3 0.3e-3,  x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;5.0e-3,  605.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;5.0e-3, 155.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, GROUP ball_rand 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX spin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET frac 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -10.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  save  &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  print &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  ps    &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , kinetic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , step
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PLOT hist &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;60000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DEL range x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;4.0e-3, 606.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;30.0e-3, 1.0&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#save 2del.sav&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EXP ini_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;STOP
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;push process. &lt;a href=&#34;push.py&#34;&gt;push.py&lt;/a&gt; is as follows：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 离散元数值模拟与构造物理模拟对比试验:2 挤压&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2021-05-16&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LOAD  ini_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET disk hex
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 fric 0.3 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 4, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3  110.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  5.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 5, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 6, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 605.0e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3   110.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX spin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET frac 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -10.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , kinetic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , step
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PLOT  &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET damp lsm 0.04
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP fric 0.30 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color lg
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y   9.0e-3  10.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  blue, range x 0.0  615.0e-3 y  14.0e-3  15.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y  19.0e-3  20.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  blue, range x 0.0  615.0e-3 y  24.0e-3  25.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y  29.0e-3  30.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; fric 0.30 xv 40e-3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; fric 0.30
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; fric 0.30
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 160e-3 save 20e-3 print 10e-3 ps 10e-3  vtk 10e-3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;the-quantitative-method-of-the-thrust-wedge-based-on-mesh-data&#34;&gt;The quantitative method of the thrust wedge based on mesh (Data)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Download：&lt;a href=&#34;analogmodel.7z&#34;&gt;analogmodel.7z&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The images of the analog model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations</title>
+      <link>https://geovbox.com/en/blog/20210329/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210329/</guid>
+      <description>&lt;div id=&#34;refer-xu2021&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu, W., Yin, H., Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*, Dong Jia&lt;sup&gt;1&lt;/sup&gt;, Changsheng Li&lt;sup&gt;2&lt;/sup&gt;, Wei Wang&lt;sup&gt;1&lt;/sup&gt;, Gengxiong Yang&lt;sup&gt;1&lt;/sup&gt;,
+Wanhui He&lt;sup&gt;1&lt;/sup&gt;, Zhuxin Chen&lt;sup&gt;3&lt;/sup&gt; and Rong Ren&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Science, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The northwestern Sichuan Basin has experienced Meso-Cenozoic intracontinental compressional tectonic processes and formed multi-detachment stratigraphic distribution of foreland basins and fold-thrust belts, which have caused complicated structural deformations in the deep buried layers. Rapid uplift with accelerated erosion and two sets of detachments in the Lower Triassic and Lower Cambrian controlled the multilevel deformation structure. We conducted discrete numerical simulations with double weak detachments and erosion under extrusion conditions in order to examine the mechanics and kinematics of the frontal piedmont zones of the NW Sichuan Basin. The following findings were made. (1) With continuous compression, the weak detachments promoted the decoupled and ladder-like deformation of the thrust belt, where the deformation above the slip layer extended further than it did below it. Rapid uplift and erosion at the thrust front contributed to the formation of a passive roof fault and a monocline in the upper layer, a series of forward and backward thin-skinned thrust-buried structures in the middle layer sandwiched between two weak detachments and stacking structures in the lower layer. (2) Erosion effectively prevents the deformation from propagating above the upper detachment, but can advance a horizontal transition in the deformation style generated within the middle brittle layer: from oblique and tight fault propagation folds to symmetrical, wide, and gentle detachment folds. (3) The model results consistent with tectonic deformation in the NW Sichuan Basin indicate a possible evolutionary mechanism under compression. There is hierarchical deformation of uncoordinated contraction controlled by the Lower Triassic and Early Cambrian weak layers, with the characteristics of the shallow monocline, the middle thin-skinned thrusts, and the deeper basement-involved folds. Continuous compression contributed a sequential pattern of steps as a whole, from the frontal piedmont zones to the foreland basin, autochthonous stacking thrusts, and the huge buried structure in the NW Sichuan Basin. During the Himalayan period, syntectonic erosion along with the uplifted thrust front maintained the development of a passive-roof duplex and a huge forward buried structure.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ca456cfee1d045e470a8521736609ee7.webp 400w,
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ead459a602e197bff238b9a0493e1b1d.webp 760w,
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ca456cfee1d045e470a8521736609ee7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments due to the left-wall displacement &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_cc9061a1674012e221bb9023d395e56f.webp 400w,
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_6c836fc80390172d2800b85c646f5038.webp 760w,
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_cc9061a1674012e221bb9023d395e56f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;569&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments and erosions due to the left-wall displacement&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_e6fb306b4c6a685344ad9e96f4e6d9d5.webp 400w,
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_d5ccd3bfc2519fb7579f73e03ab14fe9.webp 760w,
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_e6fb306b4c6a685344ad9e96f4e6d9d5.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Comparison of the slope angle versus shortening for the two models&lt;/h5&gt;&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/en/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/international-journal-of-geomechanics/</guid>
+      <description>&lt;p&gt;Download：MATLAB codes &lt;a href=&#34;Solve_T1_T2_T3_T4.m&#34;&gt;Solve_T1_T2_T3_T4.m&lt;/a&gt; &lt;a href=&#34;Fs.m&#34;&gt;Fs.m&lt;/a&gt; PFC codes &lt;a href=&#34;Fn_T1_T2final.txt&#34;&gt;Fn_T1_T2final.txt&lt;/a&gt; &lt;a href=&#34;Fs_T3_T4final.txt&#34;&gt;Fs_T3_T4final.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The stability of a single contact system in discrete element model was tested from the analytical solution, see &lt;a href=&#34;https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full Paper&lt;/a&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

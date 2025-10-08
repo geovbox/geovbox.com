@@ -1,0 +1,1396 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="原文见： https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA 2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）1" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://geovbox.com/en/blog/20211023/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/20211023/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/20211023/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/20211023/" />
+  <meta property="og:title" content="CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办 | ZDEM官网" />
+  <meta property="og:description" content="原文见： https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA 2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）1" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-10-23T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-10-23T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办 | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="884ca17760e0f98ddb08e86398d30b68" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>中文 (简体)</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://geovbox.com/en/blog/20211023/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E6%9D%8E%E9%95%BF%E5%9C%A3/">李长圣</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2021年10月23日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E4%BC%9A%E8%AE%AE/">会议</a>, <a href="/category/%E6%8A%A5%E5%91%8A/">报告</a>, <a href="/category/%E7%8F%A0%E6%B5%B7/">珠海</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>原文见： <a href="https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA</a></p>
+<p>2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在前瞻全球超算技术发展趋势，汇聚创新技术应用，展示前沿学术结果，促进超算产学研数字化升级转型，打造全球化、开放化、学术化交流平台。</p>
+<p>CCF HPC China 2021由中国计算机学会主办，中国计算机协会高性能计算专业委员会、珠海横琴新区管理委员会、珠海市科技创新局、澳门大学、澳门科技大学共同承办，北京并行科技股份有限公司、暨南大学、广东琴智科技研究院有限公司、珠海大横琴有限公司协办。</p>
+<p>在本次学术年会的第八届“国产应用软件”专题论坛上，国产应用软件重要开发单位齐聚一堂，共同探讨国产应用软件的现状和发展瓶颈，需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题，以期中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp 400w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_56d83771bd474dbf9aaac8e1f5478930.webp 760w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<p>其中，东华理工大学李长圣博士进行了《用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用》主题分享。随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。随后，他介绍了离散元原理以及基于OpenMP、CUDA的并行设计。他还分享了ZDEM在构造模拟方面的应用以及ZDEM的未来。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp 400w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_014b434f570f03328a9738b9f9da31e1.webp 760w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div></figure></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/blog/20211019/01.PNG" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/blog/20211019/34.PNG" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-ppt快递">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/blog/20211019/40.PNG" alt="PPT快递" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      PPT快递
+    </figcaption></figure></p>
+<p>最后，此次论坛主席兼主持人北京并行科技股份有限公司总经理陈健博士在论坛总结上表示：国产应用软件仍存在底层核心技术的不足，其涉及的不仅仅是软件产品，背后还关系到复杂的专业领域知识、计算机技术、数学、物理，这是一系列底层生态的构建，需要长期的巨大投入，生态打造依旧任重道远。而在大环境方面，国内的应用软件市场也开始成熟，更多的企业愿意为正版软件付费，并且愿意使用国产软件。再加上政策层面红利不断，我们可以看到，整体国产应用软件市场的成熟度正在快速提高。期待第九届国产应用软件专题论坛与各位再次相见，共话国产应用软件的新发展。</p>
+<ul>
+<li>图文直播：http://www.citmt.cn/s/hpcchina2021/</li>
+<li>2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 <a href="https://hpcchina.ccf.org.cn/" target="_blank" rel="noopener">https://hpcchina.ccf.org.cn/</a></li>
+<li>第八届“国产应用软件”专题论坛 详细介绍见：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ</li>
+<li>ZDEM3D预览 <a href="https://3d.geovbox.com/" target="_blank" rel="noopener">https://3d.geovbox.com/</a></li>
+<li>关注ZDME 微信公众号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-geovbox">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg" alt="geovbox" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      geovbox
+    </figcaption></figure></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/20211023/&amp;text=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/20211023/&amp;t=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e&amp;body=https://geovbox.com/blog/20211023/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/20211023/&amp;title=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e%20https://geovbox.com/blog/20211023/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/20211023/&amp;title=CCF%20HPC%20China%202021%20%e7%ac%ac%e5%85%ab%e5%b1%8a&amp;#34;%e5%9b%bd%e4%ba%a7%e5%ba%94%e7%94%a8%e8%bd%af%e4%bb%b6&amp;#34;%e4%b8%93%e9%a2%98%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>相关</h3>
+    <ul>
+      
+      <li><a href="/blog/20211019/">ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</a></li>
+      
+      <li><a href="/blog/20201111/">基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+    <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+      <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>语言:</div>
+      <div class="p-2">中文 (简体)</div>
+      
+        <div class="p-2"><a href="https://geovbox.com/en/blog/20211023/">English</a></div>
+      
+    </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2025 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>

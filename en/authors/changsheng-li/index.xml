@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changsheng Li | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/changsheng-li/</link>
+      <atom:link href="https://geovbox.com/en/authors/changsheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Changsheng Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Changsheng Li</title>
+      <link>https://geovbox.com/en/authors/changsheng-li/</link>
+    </image>
+    
+    <item>
+      <title>CGU Report - Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Oil and Gas Bearing Basins(2023-10-16)</title>
+      <link>https://geovbox.com/en/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20231015/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;2023 China Geoscience Union Annual Meeting&lt;br&gt;
+Session 97: New Advances in Structural Theory, Technology and Practice of Oil and Gas Bearing Basins&lt;br&gt;
+Time：&lt;strong&gt;October 16th&lt;/strong&gt;&lt;br&gt;
+Location：&lt;strong&gt;Zhuhai, Zhuhai International Convention and Exhibition Center, Exhibition Center, 2nd Floor, VIP-1&lt;/strong&gt;&lt;br&gt;
+Title：&lt;strong&gt;Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Oil and Gas Bearing Basins: Research Status, Application Examples, Advantages and Challenges&lt;/strong&gt;&lt;br&gt;
+Reporter：&lt;em&gt;Changsheng Li&lt;/em&gt;&lt;br&gt;
+Authors：Changsheng Li&lt;sup&gt;1*&lt;/sup&gt;，Hongwei Yin&lt;sup&gt;2&lt;/sup&gt;，Wenqiao Xu&lt;sup&gt;2&lt;/sup&gt;，Wei Wang&lt;sup&gt;2&lt;/sup&gt;，Zhenyun Wu&lt;sup&gt;1&lt;/sup&gt;，Zhao Zhang&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, Jiangxi 330013, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, Jiangsu 210023, China
+*Corresponding Author E-mail: &lt;a href=&#34;mailto:lichangsheng@ecut.edu.cn&#34;&gt;lichangsheng@ecut.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**Abstract:**With the development of discrete element theory and computer technology, the discrete element method has been widely applied to the quantitative analysis of structural deformation in oil and gas bearing basins. Compared with traditional sandbox analog experiments, the discrete element method can more accurately control the boundary conditions of experiments, quantitatively reveal the spatiotemporal evolution characteristics of stress and strain during structural deformation, and deepen researchers&amp;rsquo; understanding of structural deformation mechanisms from multiple perspectives. Previous studies have achieved a large number of research results based on the discrete element numerical simulation method in the study of structural deformation in oil and gas bearing basins and hydrocarbon resource exploration. However, the discrete element method also has some limitations and shortcomings in the study of structural deformation in oil and gas bearing basins. Restricted by the computational power of computers, current research on basin structural deformation mainly adopts two-dimensional discrete element simulation. However, the study of related issues such as the lateral migration of salt structures and the three-dimensional evolution of strike-slip faults still relies on the application of three-dimensional discrete element simulation methods.
+This paper combines the research status of the discrete element method in the quantitative analysis of structural deformation in oil and gas bearing basins, showcases its application examples in the quantitative study of compressional structures, extensional structures, and strike-slip faults, and summarizes its future development advantages and challenges. The discrete element method regards the granular aggregate model as a collection of several discrete units, allowing large displacements between particles, which is particularly suitable for the quantitative study of structural deformation in oil and gas bearing basins. It has great potential in the quantitative study of structural deformation, stress-strain, and fracture prediction, and is one of the main methods for the quantitative study of structural deformation in oil and gas bearing basins in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords: Numerical Simulation, Sedimentary Basin, Structural Deformation, Quantitative Analysis, Stress-Strain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partial PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_995d95fdf741b44cbc8217a1f61e5a8d.webp 400w,
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_b939b19f1fe8476ef1394c7b34e56da8.webp 760w,
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_995d95fdf741b44cbc8217a1f61e5a8d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp 400w,
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_3a78d80b300400620b31c8f66102bde7.webp 760w,
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp 400w,
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_faf163fedfabb2c87884169c6dc84f90.webp 760w,
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp 400w,
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_952f4bcf9be0904f07587a062ff4e107.webp 760w,
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp 400w,
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_e2ad3a1f9ef67ab949caa25fab352a07.webp 760w,
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp 400w,
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_9edd007d1f0fcff2f2588ad91fc30d06.webp 760w,
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp 400w,
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7cc5813ad30a93a387da8c93b06c0e44.webp 760w,
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp 400w,
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_a3e03f820ba72cf921d38fa345c01dc2.webp 760w,
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp 400w,
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_615fda3e68dacd1bcc1bb43a77cdd24e.webp 760w,
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference Report - Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Sedimentary Basins - Research Status, Application Examples, Advantages and Challenges(2023-04-16)</title>
+      <link>https://geovbox.com/en/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20230413/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The 6th National Symposium on Ore Field Structure and Deep Ore Deposit Prediction&lt;br&gt;
+（一）Ore Field Structural Theory, Experiment and Technical Methods&lt;br&gt;
+Time：&lt;strong&gt;April 16th, 11:55-12:15&lt;/strong&gt;&lt;br&gt;
+Location：&lt;strong&gt;Changsha, Grand Hyatt Changsha, 5th Floor, Multifunctional Hall 5&lt;/strong&gt;&lt;br&gt;
+Title：&lt;strong&gt;Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Sedimentary Basins: Research Status, Application Examples, Advantages and Challenges&lt;/strong&gt;&lt;br&gt;
+Reporter：&lt;em&gt;Changsheng Li&lt;/em&gt; East China University of Technology&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**Abstract:**With the development of discrete element theory and computer technology, the discrete element method has been widely applied to the quantitative analysis of structural deformation in sedimentary basins. Compared with traditional sandbox analog experiments, the discrete element method can more accurately control the boundary conditions of experiments, quantitatively reveal the stress and strain characteristics during structural deformation, and deepen researchers&amp;rsquo; understanding of structural deformation mechanisms from multiple perspectives. Previous studies have achieved a large number of research results based on the discrete element numerical simulation method in the study of structural deformation in sedimentary basins and hydrocarbon resource exploration. However, the discrete element method also has some limitations and shortcomings in the study of structural deformation in sedimentary basins. Restricted by the computational power of computers, current research on basin structural deformation mainly adopts two-dimensional discrete element simulation. However, the study of related issues such as the lateral migration of salt structures and the three-dimensional distribution and development process of strike-slip faults still relies on the application of three-dimensional discrete element simulation methods.
+This report will combine the research status of discrete element method in the quantitative analysis of structural deformation in sedimentary basins, explain its application examples in the quantitative study of compressional structures, extensional structures, and strike-slip faults, and summarize its future development advantages and challenges. The discrete element method regards the granular aggregate model as a collection of several discrete units, allowing large displacements between particles, which is particularly suitable for the quantitative study of structural deformation in sedimentary basins. It has great potential in the quantitative study of structural deformation, stress-strain, and fracture prediction, and is one of the main methods for the quantitative study of structural deformation in sedimentary basins in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords: Numerical Simulation, Sedimentary Basin, Structural Deformation, Quantitative Analysis, Stress-Strain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partial PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_cce11cdb5dbc7547a4d4a9b854ca55fe.webp 400w,
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_13489283c3d0bcebbec35153ed1c4df0.webp 760w,
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_cce11cdb5dbc7547a4d4a9b854ca55fe.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp 400w,
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_3a78d80b300400620b31c8f66102bde7.webp 760w,
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp 400w,
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_faf163fedfabb2c87884169c6dc84f90.webp 760w,
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp 400w,
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_952f4bcf9be0904f07587a062ff4e107.webp 760w,
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp 400w,
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_e2ad3a1f9ef67ab949caa25fab352a07.webp 760w,
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp 400w,
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_9edd007d1f0fcff2f2588ad91fc30d06.webp 760w,
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp 400w,
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7cc5813ad30a93a387da8c93b06c0e44.webp 760w,
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp 400w,
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_a3e03f820ba72cf921d38fa345c01dc2.webp 760w,
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp 400w,
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_615fda3e68dacd1bcc1bb43a77cdd24e.webp 760w,
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Successful Holding of the 7th Structural Numerical Simulation Practice Course at the College of Oceanography, Hohai University</title>
+      <link>https://geovbox.com/en/blog/20220922/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20220922/</guid>
+      <description>&lt;p&gt;On September 22, 2022, the 7th numerical simulation practice course was successfully held at the College of Oceanography, Hohai University. Professor Wang Maomao from Hohai University, along with 7 graduate students from Hohai University and 3 graduate students from Nanjing University, participated in the training. We thank the teachers and students for their support.&lt;/p&gt;
+&lt;p&gt;To date, VBOX/ZDEM software training has been successfully held seven times:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;April 2019, Nanjing University&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;June 2019, Nanjing University&lt;/li&gt;
+&lt;li&gt;December 2019, East China University of Technology&lt;/li&gt;
+&lt;li&gt;January 2020, China National Petroleum Corporation Exploration and Development Research Institute&lt;/li&gt;
+&lt;li&gt;May 2020, China University of Geosciences (Beijing) Online &lt;a href=&#34;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bilibili.com/video/BV1st4y1C7b5?p=1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;July 2021, zdem2.1@Parallel Supercomputing Cloud Live Exchange Online &lt;a href=&#34;https://www.bilibili.com/video/BV1m64y1z7dR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bilibili.com/video/BV1m64y1z7dR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 2022, Hohai University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Students who have not participated in the ZDEM structural numerical simulation practice course can self-study&lt;/strong&gt; &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Primary Tutorial of Discrete Element Numerical Simulation Software ZDEM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Location: College of Oceanography, Hohai University
+Time: September 22, 2022 (Thursday), 14:00-17:00
+Lecturer: Changsheng Li, ZDEM Developer
+Content:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theory: Structural Simulation and Discrete Element Method&lt;/li&gt;
+&lt;li&gt;Software: Introduction and Operation Demonstration of ZDEM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During the practical session, the example &lt;a href=&#34;https://geovbox.com/example/ex1_push/&#34;&gt;Learning ZDEM with One Example&lt;/a&gt;was explained, and 9 example scripts were provided.
+Among them, 7 examples are publicly available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex1_push/&#34;&gt;Learning ZDEM with One Example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex2_syn_erosion/&#34;&gt;Erosion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex3_syn_sedimentaion/&#34;&gt;Sedimentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex4_pre_struct/&#34;&gt;Fault&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex5_detachment/&#34;&gt;Detachment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex6_palaeohigh/&#34;&gt;Palaeohigh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geovbox.com/example/ex7_extens_rigid/&#34;&gt;Extensional Structure with Rigid Basement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Extensional Structure with Ductile Basement (To be released)&lt;/li&gt;
+&lt;li&gt;Arbitrary Shape Basement Generation (To be released)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partialppt&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PartialPPT&#34; srcset=&#34;
+               /en/blog/20220922/1_hub06117f14264e74d8bd1cf249114a261_1231723_3a0246ba8ad0289c5f6f3320de5c1765.webp 400w,
+               /en/blog/20220922/1_hub06117f14264e74d8bd1cf249114a261_1231723_4244baa0967ab246dba6a5e3dcc949ba.webp 760w,
+               /en/blog/20220922/1_hub06117f14264e74d8bd1cf249114a261_1231723_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220922/1_hub06117f14264e74d8bd1cf249114a261_1231723_3a0246ba8ad0289c5f6f3320de5c1765.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PartialPPT
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partialppt1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PartialPPT1&#34; srcset=&#34;
+               /en/blog/20220922/2_hu05d8d85124dbbffecc6599f1edb61900_1250853_f269877c1c9b1dbd2f2598e69261eff9.webp 400w,
+               /en/blog/20220922/2_hu05d8d85124dbbffecc6599f1edb61900_1250853_7e9b7a9300c8a81de6e45c7e79ab60eb.webp 760w,
+               /en/blog/20220922/2_hu05d8d85124dbbffecc6599f1edb61900_1250853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220922/2_hu05d8d85124dbbffecc6599f1edb61900_1250853_f269877c1c9b1dbd2f2598e69261eff9.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PartialPPT1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partialppt2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PartialPPT2&#34; srcset=&#34;
+               /en/blog/20220922/3_hu05d8d85124dbbffecc6599f1edb61900_1280379_f32d4258459c33a6161626a1d3e45cbe.webp 400w,
+               /en/blog/20220922/3_hu05d8d85124dbbffecc6599f1edb61900_1280379_557357630ca77d8b565cef73fbd88e3f.webp 760w,
+               /en/blog/20220922/3_hu05d8d85124dbbffecc6599f1edb61900_1280379_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220922/3_hu05d8d85124dbbffecc6599f1edb61900_1280379_f32d4258459c33a6161626a1d3e45cbe.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PartialPPT2
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partialppt3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PartialPPT3&#34; srcset=&#34;
+               /en/blog/20220922/4_huab358253df5a4dfc69ab5c8a6e1256a9_110230_e129d3f0ddc2cab795ff6894b40f214c.webp 400w,
+               /en/blog/20220922/4_huab358253df5a4dfc69ab5c8a6e1256a9_110230_4c50b27907b5e8a37e623a0e9d9236c5.webp 760w,
+               /en/blog/20220922/4_huab358253df5a4dfc69ab5c8a6e1256a9_110230_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220922/4_huab358253df5a4dfc69ab5c8a6e1256a9_110230_e129d3f0ddc2cab795ff6894b40f214c.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PartialPPT3
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CCF HPC China The 8th Forum on Domestic Application Software 2021 was successfully held</title>
+      <link>https://geovbox.com/en/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20211023/</guid>
+      <description>&lt;p&gt;See original text： &lt;a href=&#34;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 2021 CCF National Academic Conference on High-Performance Computing (CCF HPC China 2021) was grandly held in Hengqin, Zhuhai from October 21st to 23rd. With the theme of &amp;ldquo;Empowering Intelligence, Building a Shared Future,&amp;rdquo; the conference aimed to foresee global trends in supercomputing technology, bring together innovative technological applications, showcase cutting-edge academic achievements, promote the digital transformation and upgrading of supercomputing in academia, industry, and research, and create a global, open, and academic exchange platform.&lt;/p&gt;
+&lt;p&gt;CCF HPC China 2021 was hosted by the China Computer Federation (CCF), and co-organized by the High-Performance Computing Professional Committee of the China Computer Federation, the Management Committee of Zhuhai Hengqin New Area, the Zhuhai Science and Technology Innovation Bureau, the University of Macau, and the Macau University of Science and Technology. It was also supported by Beijing Parallel Technologies Co., Ltd., Jinan University, Guangdong Qinzhi Technology Research Institute Co., Ltd., and Zhuhai Da Hengqin Co., Ltd.&lt;/p&gt;
+&lt;p&gt;At the 8th Forum on Domestic Application Software during this academic conference, key developers of domestic application software gathered to jointly discuss the current status and development bottlenecks of domestic application software, the support needed, market promotion strategies, and future development trends. It is hoped that China&amp;rsquo;s domestic application software can continue to develop steadily with the support of multiple parties and occupy a place in the mainstream international market.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_ddf96fb874f7aec576a8ada921452ffb.webp 400w,
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_33038126bff6caa19775d7b66192a659.webp 760w,
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_ddf96fb874f7aec576a8ada921452ffb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;During the event, Dr. Li Changsheng from East China University of Technology delivered a presentation on the theme of &amp;ldquo;ZDEM: A Discrete Element Numerical Simulation Software for Structural Deformation Research: Theory, Software, and Applications&amp;rdquo;. With the gradual development of China&amp;rsquo;s oil and gas geological theories and exploration practices, oil and gas exploration has shifted towards the deep basins. How to carry out deep structural research in petroliferous basins has become a frontier issue in basin structural research. Conducting quantitative research from the perspective of discrete element numerical simulation can provide quantitative experimental evidence for deep structural analysis. Discrete element numerical simulation has high requirements for the computing environment, so it is particularly important to develop a high-performance discrete element numerical simulation software suitable for structural deformation research. Subsequently, he introduced the principles of discrete elements and the parallel design based on OpenMP and CUDA. He also shared the applications of ZDEM in structural simulation and its future prospects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a6c9128d6b0f280ee2154728841b9885.webp 400w,
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a656b3419eafedacde3e93b5a33144fa.webp 760w,
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a6c9128d6b0f280ee2154728841b9885.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/01.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/34.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt-express&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/40.PNG&#34; alt=&#34;PPT Express&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT Express
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Finally, Dr. Chen Jian, the chairman and moderator of the forum and the general manager of Beijing Parallel Technologies Co., Ltd., expressed in his closing remarks that domestic application software still lacks underlying core technologies, which involves not only software products but also complex domain-specific knowledge, computer technology, mathematics, and physics. This is the construction of a series of underlying ecosystems that require long-term significant investments. There is still a long way to go in building the ecosystem. In terms of the overall environment, the domestic application software market is also beginning to mature, with more companies willing to pay for genuine software and use domestic software. Coupled with continuous policy dividends, we can see that the overall maturity of the domestic application software market is rapidly improving. We look forward to meeting everyone again at the 9th Domestic Application Software Forum to discuss the new development of domestic application software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Text and Graphics Broadcast：http://www.citmt.cn/s/hpcchina2021/&lt;/li&gt;
+&lt;li&gt;2021 CCF National Annual Academic Conference on High-Performance Computing（CCF HPC China 2021）Official Website &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 8th Forum on Domestic Application Software for detailed information, please visit：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D Preview &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow ZDME on WeChat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZDEM Report - The 8th Forum on Domestic Application Software | CCF HPC China 2021(October 23, 2021)</title>
+      <link>https://geovbox.com/en/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20211019/</guid>
+      <description>&lt;h3 id=&#34;ccf-hpc-china-introduction-to-the-8th-forum-on-domestic-application-software-2021&#34;&gt;CCF HPC China Introduction to the 8th Forum on Domestic Application Software 2021&lt;/h3&gt;
+&lt;p&gt;Industrial software represents a core and crucial technology for China&amp;rsquo;s transition from a manufacturing powerhouse to a design powerhouse. Achieving independent innovation breakthroughs in high-end fields such as research and development, and enabling China&amp;rsquo;s industrial enterprise software system to become autonomous and controllable have become key focuses of national attention. With the support of national major science and technology projects and relevant industrial policies, and against the backdrop of the international environment, domestic application software in the HPC field has developed rapidly. A complete domestic industrial software product system has now been formed, providing a strong guarantee for the development of domestic industrial software.&lt;/p&gt;
+&lt;p&gt;This forum invites key developers of domestic application software to jointly discuss the current status, development bottlenecks, required support, market promotion strategies, and future development trends of domestic application software. It is hoped that China&amp;rsquo;s domestic application software can continue to develop steadily with the support of multiple parties and occupy a place in the mainstream international market.&lt;/p&gt;
+&lt;h3 id=&#34;report-title-zdem-a-discrete-element-numerical-simulation-software-for-structural-deformation-research-theory-software-and-applications&#34;&gt;Report Title: ZDEM: A Discrete Element Numerical Simulation Software for Structural Deformation Research: Theory, Software, and Applications&lt;/h3&gt;
+&lt;h4 id=&#34;time-1645-1710-october-23rd&#34;&gt;Time: 16:45-17:10, October 23rd&lt;/h4&gt;
+&lt;h4 id=&#34;location-zhuhai--zhuhai-international-convention-centerroom-402&#34;&gt;Location: Zhuhai · Zhuhai International Convention Center&lt;strong&gt;Room 402&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Presenter:&lt;/strong&gt;&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Report Abstract:&lt;/strong&gt;&lt;br&gt;
+With the gradual development of China&amp;rsquo;s petroleum geological theory and exploration practices, oil and gas exploration has shifted towards deep basins. How to carry out deep structural research in petroliferous basins has become a frontier issue in basin structural research. Conducting quantitative research from the perspective of discrete element numerical simulation can provide quantitative experimental evidence for deep structural analysis. Discrete element numerical simulation has high requirements for the computing environment, so it is particularly important to develop a high-performance discrete element numerical simulation software suitable for structural deformation research. This report will introduce the past and future of the discrete element numerical simulation software ZDEM from three aspects: theory, software, and applications.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_29aa891d1b99aa9bb6a579fd58b8fd09.webp 400w,
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_4bddd038276f48c59bb4c6d40f8a71e2.webp 760w,
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_29aa891d1b99aa9bb6a579fd58b8fd09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_8c7c55ec472eede3893c7071658b6de7.webp 400w,
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_fa9e32b26b74b58e9cdb3eb29870cbfa.webp 760w,
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_8c7c55ec472eede3893c7071658b6de7.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_7aa51b8feca307f927cb9f36e423f487.webp 400w,
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_b25369a707757c2c399e70e6d74def05.webp 760w,
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_7aa51b8feca307f927cb9f36e423f487.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_841e556c3857607d367e012d00cf8c3d.webp 400w,
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_606b503e494571e882c3e214f01c4c8b.webp 760w,
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_841e556c3857607d367e012d00cf8c3d.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b5400cd043b9bf56be27c1287e461c17.webp 400w,
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b65e41098894977ba9ba4dde946be406.webp 760w,
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b5400cd043b9bf56be27c1287e461c17.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt-express&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PPT Express&#34; srcset=&#34;
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_2868e83892282653f910de2ae4d84fb6.webp 400w,
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_c62c91317fc35bc425d19f79a44b5e88.webp 760w,
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_2868e83892282653f910de2ae4d84fb6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT Express
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 CCF National Annual Academic Conference on High-Performance Computing（CCF HPC China 2021）Official Website &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 8th Forum on Domestic Application Software for detailed information, please visit：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D Preview &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow ZDME on WeChat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analysis and Modeling of Structural Deformation in Fold-Thrust Belts Based on the Discrete Element Method</title>
+      <link>https://geovbox.com/en/blog/20210721/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210721/</guid>
+      <description>&lt;h4 id=&#34;title-quantitative-analysis-and-numerical-modeling-of-structural-deformation-in-fold-thrust-belts-using-the-discrete-element-method&#34;&gt;Title: Quantitative Analysis and Numerical Modeling of Structural Deformation in Fold-Thrust Belts Using the Discrete Element Method&lt;/h4&gt;
+&lt;h4 id=&#34;author-changsheng-li&#34;&gt;Author: Changsheng Li&lt;/h4&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The Discrete Element Method (DEM), as a novel approach for studying structural deformation, enables quantitative observation and analysis of stress and strain evolution within models. This method aids in revealing the deformation characteristics and mechanisms of fold-thrust belts, as well as evaluating the influence of stress-strain distribution on the physical properties of hydrocarbon reservoirs, demonstrating significant theoretical and practical value.Building upon literature review, field geological investigations, seismic profile interpretation, and analog tectonic modeling, this study employs DEM-based numerical simulations to comprehensively analyze the structural deformation features, evolutionary mechanisms, and controlling factors of fold-thrust belts. The main findings include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A structured array was employed to construct the fundamental data architecture of the Discrete Element Method (DEM). The grid-based neighbor search algorithm was optimized to accelerate neighbor detection and contact evaluation. By reorganizing the modules for neighbor search, contact judgment, and contact force updates, a lock-free and high-efficiency parallel computing framework was achieved. The linear elastic and Hertz-Mindlin contact mechanics models were integrated to develop VBOX, a highly scalable and high-performance DEM program tailored for tectonic simulations, along with a standardized testing protocol.&lt;/li&gt;
+&lt;li&gt;The concepts of equivalent parameters and equivalent models were introduced. Through angle-of-repose and biaxial tests, the mesoscopic parameters of quartz sand particles reflecting macroscopic mechanical properties were calibrated. A comparative study between physical analog modeling and DEM numerical simulation was designed, proposing a grid-based quantitative analysis method for thrust wedges. Key geometric parameters (e.g., slope angle, fault dip) were systematically compared to evaluate the similarities and differences between these two approaches in studying tectonic deformation.&lt;/li&gt;
+&lt;li&gt;A comprehensive correspondence table between particle-scale mesoscopic parameters and rock macroscopic properties was established via systematic DEM simulations. The controlling effects of stratigraphic cohesion, internal friction angle, décollement strength, and thickness on fold-thrust belt evolution were investigated. Quantitative analysis of deformation characteristics and mechanisms provided foundational support for advancing theories of complex fold-thrust systems. Low-cohesion strata exhibit dispersed strain distribution with random fracture networks, while high-cohesion strata develop localized strain with larger fault displacements and potential back-thrusts. Weakly cohesive rocks with diffuse fractures form porous reservoirs favorable for hydrocarbon storage, whereas strongly cohesive rocks develop fracture corridors serving as preferential migration pathways. Décollement strength predominantly controls structural style: high-friction décollements produce forward-propagating imbricate thrusts, whereas low-friction décollements generate pop-up structures with alternating fore- and back-thrusts. Stratigraphic competence shows minor influence, with overall deformation mainly governed by basal décollement strength. Décollement thickness exhibits negligible impact on structural patterns.&lt;/li&gt;
+&lt;li&gt;Focusing on the Cenozoic Kuqa fold-thrust belt, mesoscopic parameters corresponding to rock salt macro-properties were calibrated. Numerical simulations demonstrated that syn-tectonic sedimentation critically controls deformation partitioning, revealing its key role in the Qiulitag salt diapir evolution. Salt produces vertically stratified deformation: sub-salt structures feature closely spaced thrust faults, while supra-salt domains develop broad folds. Initial salt basin width was identified as the primary factor controlling along-strike structural variability in western Kuqa. Lateral segmentation of deformation results from variations in initial salt basin width and thickness. Stress stratification divides the section into three domains: maximum stress below salt, minimum stress within salt, and intermediate stress above salt. Salt flow exhibits directional preference, with layer-parallel movement enhanced by syn-tectonic sedimentation, showing overall flow direction consistent with compression.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;keywords-discrete-element-method-parallel-computing-stress-strain-thrust-wedge-salt-tectonics&#34;&gt;Keywords: discrete element method; parallel computing; stress-strain; thrust wedge; salt tectonics&lt;/h4&gt;
+&lt;h4 id=&#34;contents&#34;&gt;Contents：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Prolegomenon
+&lt;ul&gt;
+&lt;li&gt;1.1 Significance of Research and Rationale for Topic Selection&lt;/li&gt;
+&lt;li&gt;1.2 Research Status of Quantitative Analysis Methods for Tectonic Deformation
+&lt;ul&gt;
+&lt;li&gt;1.2.1 Balanced cross - section technique&lt;/li&gt;
+&lt;li&gt;1.2.2 Critical Angle Coulomb Wedge Model&lt;/li&gt;
+&lt;li&gt;1.2.3 Tectonic physical simulatio&lt;/li&gt;
+&lt;li&gt;1.2.4 Tectonic numerical simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;1.3 Summary of This Paper&lt;/li&gt;
+&lt;li&gt;1.4 Methodology and Technical Implementation Framework&lt;/li&gt;
+&lt;li&gt;1.5 Innovative Contributions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Development and Validation of Discrete Element Software
+&lt;ul&gt;
+&lt;li&gt;2.1 Discrete Element Theory and Software&lt;/li&gt;
+&lt;li&gt;2.2 Data Structure&lt;/li&gt;
+&lt;li&gt;2.3 Neighbor Searching and Contact Detection&lt;/li&gt;
+&lt;li&gt;2.4 Particle Position Update&lt;/li&gt;
+&lt;li&gt;2.5 Contact Force Calculation
+&lt;ul&gt;
+&lt;li&gt;2.5.1 Linear Elastic Model&lt;/li&gt;
+&lt;li&gt;2.5.2 Hertz-Mindlin Contact Model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.6 Damping and Time Step&lt;/li&gt;
+&lt;li&gt;2.7 Stress-Strain Characterization Methods
+&lt;ul&gt;
+&lt;li&gt;2.7.1 Stress&lt;/li&gt;
+&lt;li&gt;2.7.2 Strain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.8 Concurrent Design&lt;/li&gt;
+&lt;li&gt;2.9 Concurrent Design
+&lt;ul&gt;
+&lt;li&gt;2.9.1 Single Particle&lt;/li&gt;
+&lt;li&gt;2.9.2 Two Particles&lt;/li&gt;
+&lt;li&gt;2.9.3 Particle Aggregate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.10 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Parameter Selection and Calibration in Structural Numerical Simulation
+&lt;ul&gt;
+&lt;li&gt;3.1 Equivalent Parameters and Equivalent Models&lt;/li&gt;
+&lt;li&gt;3.2 Calibration of Discrete Element Mesoscopic Parameters for Quartz Sand
+&lt;ul&gt;
+&lt;li&gt;3.2.1 Angle of Repose Test&lt;/li&gt;
+&lt;li&gt;3.2.2 Biaxial Test&lt;/li&gt;
+&lt;li&gt;3.2.3 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3.3 Physical Simulation&lt;/li&gt;
+&lt;li&gt;3.4 Numerical Simulation&lt;/li&gt;
+&lt;li&gt;3.5 Comparison Between Physical and Numerical Simulations
+&lt;ul&gt;
+&lt;li&gt;3.5.1 Deformation and Strain Analysis&lt;/li&gt;
+&lt;li&gt;3.5.2 Structural Interpretation&lt;/li&gt;
+&lt;li&gt;3.5.3 Wedge Evolution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3.6 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deformation Mechanisms and Influencing Factors of Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;4.1 Parameter Selection and Tuning&lt;/li&gt;
+&lt;li&gt;4.2 Initial Conditions and Computational Equipment&lt;/li&gt;
+&lt;li&gt;4.3 Rock Layer Cohesion&lt;/li&gt;
+&lt;li&gt;4.4 Internal Friction Angle of Rock Layers&lt;/li&gt;
+&lt;li&gt;4.5 Rock Layer Thickness&lt;/li&gt;
+&lt;li&gt;4.6 Influence of Detachment Layers on Structural Deformation of Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;4.6.1 Strength of Basal Detachment Layers&lt;/li&gt;
+&lt;li&gt;4.6.2 Thickness of Basal Detachment Layers&lt;/li&gt;
+&lt;li&gt;4.6.3 Discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;4.7 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Numerical Simulation of Salt Structures in Fold-Thrust Belts
+&lt;ul&gt;
+&lt;li&gt;5.1 Salt Rocks and Salt Structures&lt;/li&gt;
+&lt;li&gt;5.2 Mesoscopic Parameters of Salt Rock Particles&lt;/li&gt;
+&lt;li&gt;5.3 Numerical Simulation of the Kuqa Foreland Basin
+&lt;ul&gt;
+&lt;li&gt;5.3.1 Syn-tectonic Sedimentation&lt;/li&gt;
+&lt;li&gt;5.3.2 Initial Salt Basin Width&lt;/li&gt;
+&lt;li&gt;5.3.3 Salt Layer Thickness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;5.4 Summary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Conclusions and Future Directions
+&lt;ul&gt;
+&lt;li&gt;6.1 Conclusions&lt;/li&gt;
+&lt;li&gt;6.2 Future Directions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Appendix
+&lt;ul&gt;
+&lt;li&gt;7.1 Hardware and Software Environment&lt;/li&gt;
+&lt;li&gt;7.2 Numerical Simulation of Biaxial Tests on Quartz Sand&lt;/li&gt;
+&lt;li&gt;7.3 Biaxial Tests on Rocks
+&lt;ul&gt;
+&lt;li&gt;7.3.1 Biaxial Test Results Under Different Confining Pressures&lt;/li&gt;
+&lt;li&gt;7.3.2 Biaxial Test Results Under Different Friction Coefficients&lt;/li&gt;
+&lt;li&gt;7.3.3 Biaxial Test Results Under Different Bond Parameters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;7.4 Growth Fault&lt;/li&gt;
+&lt;li&gt;7.5 Test Cases N0, N1, S0, and S1&lt;/li&gt;
+&lt;li&gt;7.6 Plane Geometry in Discrete Element Method 192&lt;/li&gt;
+&lt;li&gt;7.7 Initial Conditions and Computational Equipment M1C1, M1C2, M2C1, M3C1, M4C1&lt;/li&gt;
+&lt;li&gt;7.8 Rock Layer Cohesion C1, C10, C19, C24&lt;/li&gt;
+&lt;li&gt;7.9 Internal Friction Angle of Rock Layers φ5, φ13, φ17, φ20, 217&lt;/li&gt;
+&lt;li&gt;7.10 Strength of Basal Detachment Layers μ0, μ1, μ2, μ3&lt;/li&gt;
+&lt;li&gt;7.11 Thickness of Basal Detachment Layers D0, D300, D500, D1000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;8 References&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;relevant-literature&#34;&gt;Relevant Literature&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt; (2019) Quantitative Analysis and Simulation of Structural Deformation in Fold-Thrust Belts Based on Discrete Element Method. &lt;strong&gt;Doctoral Dissertation&lt;/strong&gt;. Nanjing University.&lt;/a&gt; &lt;strong&gt;Recommended Download&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latest Revised Edition&lt;/a&gt; Extraction Code &lt;code&gt;zdem&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt;, Yin, H.W.*,et al.&lt;strong&gt;(2021)&lt;/strong&gt; Quantitative Analysis and Simulation of Compressional Structures Based on Discrete Element Method. Tectonics and Metallogeny. (Accepted for Publication)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.655173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Li, C.S.&lt;/strong&gt;, Yin, H.W.*, , et al.&lt;strong&gt;(2021)&lt;/strong&gt; Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Li, C.S.&lt;/strong&gt;, Yin, H.W.*, et al.&lt;strong&gt;(2021)&lt;/strong&gt; Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science, 9:636512.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;, YIN H.W.*, et al. &lt;strong&gt;(2018)&lt;/strong&gt;. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.7.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,YIN H.W.*,Chun Liu, Shenyang Cai. &lt;strong&gt;2017&lt;/strong&gt; Design and Testing of Shared-Memory Parallel Discrete Element Program. Journal of Nanjing University (Natural Sciences),(06):1161-1170.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;invention-patent&#34;&gt;Invention Patent&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,Rong Ren,Shuwei Guan,Hongwei Yin. A Discrete Element-Based Simulation Method and Device for the Uplift Process of Paleo-Uplifts [P]. Application Date: 2021. (To be Published)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kns8.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&amp;amp;dbname=SCPD2020&amp;amp;filename=CN111008472A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LI C.S.&lt;/strong&gt;,YIN H.W.,Zhenyun Wu,Dong Jia,Wenqiao Xu,Wei Wang. A Discrete Element-Based Simulation Method for the Extension Process of Rift Basins[P]. CN111008472A,Application Date：2019-12-02&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;software-copyright&#34;&gt;Software Copyright：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Post-processing System for Discrete Element Numerical Simulation&lt;/strong&gt; V1.0. East China University of Technology, Jun Zhong, &lt;strong&gt;LI C.S.&lt;/strong&gt;, Wenqiao Xu,Huajing Wei , Zhenyun Wu. &lt;strong&gt;2021&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Virtual Sandbox Software&lt;/strong&gt; V1.0. Nanjing University. &lt;strong&gt;2015&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_f13e9a1d5367af9703bf0b564ce67fa2.webp 400w,
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_88b637593e6617857559a66e313f658c.webp 760w,
+               /en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/1_hu76d953290d8db1ba09946f0420a3a2d1_44125_f13e9a1d5367af9703bf0b564ce67fa2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_030008111300d8fdba5194fe237b5d92.webp 400w,
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_630e39c5d14eb6abde7bbca9b2f9fe5b.webp 760w,
+               /en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/2_hu8d658964a75a7f0ace5923a298f40b8a_34765_030008111300d8fdba5194fe237b5d92.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_061995f13491ab21613201c2720a7bfb.webp 400w,
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_17bbc54568eb64472a27d4b329443d71.webp 760w,
+               /en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/3_hu685395e4c1931ecdb917d3a2e857cce1_82120_061995f13491ab21613201c2720a7bfb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_e22c653e34ee445a0d4440539aefc11e.webp 400w,
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_adabc8310a058bbcfefa30d3e91edcd0.webp 760w,
+               /en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/4_hu0106a0b9211109f7c824dacb95df0d64_75928_e22c653e34ee445a0d4440539aefc11e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_66d1dff1dbb9c3c44fcb77cbd7d36ab7.webp 400w,
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_733821b17b3e144a8c2f6cf9a20072eb.webp 760w,
+               /en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/5_hub831a034b0524f722e20d19732cf106d_74676_66d1dff1dbb9c3c44fcb77cbd7d36ab7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_99d75be7c319b04a8fbbc1cfc6b02226.webp 400w,
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_e0677d35ed0534a64c50fa092d74a01d.webp 760w,
+               /en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/6_hubb18786dd24081086f6d31c9adc2bccf_69044_99d75be7c319b04a8fbbc1cfc6b02226.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partial-ppt&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Partial PPT&#34; srcset=&#34;
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_be1dae82fb34b1cd06e49e2a158e48bf.webp 400w,
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_7ec613ce0337f12103216e0718a6daf7.webp 760w,
+               /en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/7_hubf57477ed4340a1687ef8d6b886ba4ec_85097_be1dae82fb34b1cd06e49e2a158e48bf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Partial PPT
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-defense-poster&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Defense Poster&#34; srcset=&#34;
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_2af4341d89cb2d42445e6e261285cf15.webp 400w,
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_1dc58d19837d72cde687572c322c5e75.webp 760w,
+               /en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210721/poster_hu3b652d78303874fbd7238ada323d5707_64238_2af4341d89cb2d42445e6e261285cf15.webp&#34;
+               width=&#34;504&#34;
+               height=&#34;710&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Defense Poster
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Beginner&#39;s Video Tutorial for ZDEM is now online!</title>
+      <link>https://geovbox.com/en/blog/video-totorial-publish/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/video-totorial-publish/</guid>
+      <description>&lt;p&gt;After nearly half a month of meticulous production (2020/02/18–2020/02/29), the beginner&amp;rsquo;s video tutorial for ZDEM is finally online today!&lt;/p&gt;
+&lt;p&gt;This video tutorial is approximately 2 hours long and is designed for users with no prior experience. Upon completing the tutorial, you will be able to use VBOX for structural numerical simulations.
+The VBOX command scripts follow the standards of the particle discrete element numerical simulation software &lt;em&gt;PFC4.0&lt;/em&gt;, allowing PFC4.0 users to get started directly without additional learning.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The video tutorial is published on &lt;strong&gt;geovbox@Bilibili&lt;/strong&gt;. For details, see &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beginner&amp;rsquo;s Tutorial on Discrete Element Numerical Simulation Software ZDEM (DEM)&lt;/a&gt;.。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;tutorial-contents&#34;&gt;Tutorial Contents&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Principles of Discrete Element Method &amp;amp; Introduction to VBOX (Subtitles:Changsheng  Li )&lt;/li&gt;
+&lt;li&gt;Learning Methods for VBOX (Subtitles: Changsheng  Li )&lt;/li&gt;
+&lt;li&gt;Getting Started with VBOX in 10 Minutes (Subtitles: Chenjie Bi, Wenqiao Xu)&lt;/li&gt;
+&lt;li&gt;Free Fall Simulation &amp;amp; Paraview Color Configuration (Subtitles: Dawa Ciren, Changsheng  Li)&lt;/li&gt;
+&lt;li&gt;Linux Command Line Basics (Subtitles: Zhenyun Wu )&lt;/li&gt;
+&lt;li&gt;Learning VBOX Through an Example (Subtitles: Qiyang Ye)&lt;/li&gt;
+&lt;li&gt;VBOX File Formats (Subtitles: Wenqiao Xu, Li Wang)&lt;/li&gt;
+&lt;li&gt;Generating JPG, GIF &amp;amp; Parsing DAT Files (Subtitles: Yanjie Feng)&lt;/li&gt;
+&lt;li&gt;Submitting Computation Tasks Using LSF (Subtitles: Fuyuan Wang )&lt;/li&gt;
+&lt;li&gt;Submitting Computation Tasks Using SGE (Subtitles: Wenqiao Xu)&lt;/li&gt;
+&lt;li&gt;Troubleshooting Errors(Subtitles: Changsheng  Li )&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The videos were recorded and edited by Changsheng Li, with subtitles reviewed by Wenqiao Xu, Zhenyun Wu, Yanjie Feng, Qiyang Ye, Fuyuan Wang, Chenjie Bi, Li Wang, and Dawa Ciren. The final version was compiled by Changsheng Li.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;Wenqiao Xu　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;Zhenyun Wu&lt;/a&gt;　Yanjie Feng　Qiyang Ye　Fuyuan Wang　Chenjie Bi　Li Wang　Dawa Ciren&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Xinsong Zhang&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
