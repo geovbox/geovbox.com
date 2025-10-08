@@ -1,7 +1,6 @@
 ---
 title: 李长圣
-date: 2024-12-31
-tags:
+date: 2025-10-08
     - 网站维护者
     - zdem开发者
 authors:
@@ -26,7 +25,7 @@ images:
 
 **东华理工大学地球科学学学院官网李长圣简历：**  https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm
 
-**2025年硕士研究生招生，优先考虑对 ```构造地质``` 感兴趣的学生，其次考虑对 ```软件开发``` 感兴趣的学生，2025年9月入学后科研项目为：**
+**2026年硕士研究生招生，优先考虑对 ```构造模拟``` ```软件开发``` ```含油气盆地构造解析``` 感兴趣的资源勘查工程、地球信息科学与技术、地质、计算机、岩土等相关专业学生，2026年9月入学后科研方向为：**
 
 - 构造变形数值模拟
 - 数值模拟软件开发
@@ -39,14 +38,12 @@ images:
 - 地质体三维可视化
 - **人工智能**与地球科学
 
-QQ：``836745132`` (小z)  
-邮箱： lichangsheng@ecut.edu.cn ; sheng0619@163.com
+邮箱： lichangsheng@ecut.edu.cn
 
 - [geovbox@哔哩哔哩](https://space.bilibili.com/31815571)
 - [李长圣@个人网站](https://sheng.geovbox.com)  
 - [李长圣@GitHub](https://github.com/demsheng)  
 - [李长圣@ResearchGate](https://www.researchgate.net/profile/Li_Changsheng2)  
-- 南京大学 构造数值模拟集群管理员  
 
 ## 离散元视频教程
 
@@ -62,7 +59,7 @@ QQ：``836745132`` (小z)
 
 ## 研究生课程
 
-- 地质工程研究进展（2020年、2022年、2023年、2024年参与教学）
+- 地质工程研究进展（2020年、2022年、2023年、2024年、2025年参与教学）
 
 ## 工作和教育经历
 
@@ -77,14 +74,19 @@ QQ：``836745132`` (小z)
 ## 专利和软件著作权
 
 - 发明专利
-	1. [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
+	- [汪伟; 陈永权; **李长圣**; 张勇; 杨生超中国科学院南京地质古生物研究所,东华理工大学.一种基于离散元的褶皱冲断带构造-沉积协同变形的定量模拟方法、设备及储存介质:202511061684.0[P].2025-08-29.](https://kns-cnki-net-s.atrust.ecut.edu.cn/kcms2/article/abstract?v=F0lYaGTXfx_6aEPvHr2VpBmpnmxU6b5U2CFQI_LYBsoziW2DvR2rMvt2-SmRinEyORnkBDxrOzJ6pz_y6gcjpn2HT3BgcP3V6yjiCUKfG3VDbVL_DTPSVxcvwH46KDAZa-i1Va6aCJ65brBDKucZOLK6IHfGi38OUE7LOmLUBaTlwZvlK9d1_w==&uniplatform=NZKPT&language=CHS)(授权)
+	- [马德波; 杨敏; **李长圣**; 王珊; 曹颖辉; 管树巍.基于三维离散元的走滑断裂分层变形过程模拟方法及装置:202510537419.9[P].2025-09-12.](https://kns-cnki-net-s.atrust.ecut.edu.cn/kcms2/article/abstract?v=F0lYaGTXfx_6aEPvHr2VpBmpnmxU6b5U2CFQI_LYBsoziW2DvR2rMloc4dRostpyA5DIKvwlnoaBtf57iweW34KYOzO86Dwaf1bU3Z3GKcpPJUi5FwAOhSoyFa7rOHwAmtkdrfjH9_0oyD7Mo6hJiMGp1OvDdAGoVireCphHnTi-pKfvIBxW8g==&uniplatform=NZKPT&language=CHS)(公开)
+	- [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
 	- [马德波,**李长圣**,赵喆,等.基于三维离散元的走滑断裂模拟方法、装置、设备和介质.北京市:CN202310147610.3,2024-08-20.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4Srm8Qb3L4ZObGgVTRiMZmbooOk0N5__QhtWP3tfmAaG4aWt6G-vPnCayEBzhJczi-wmquaIpqwTjqIIAr0r30U-TAVb_k-qiwIZZRRFgPq77Arhkbx0eUeIKE93YG8N4VmTIzMXilloobUjaFcSKfDk4td80-y1JS-L1FEx5eoB7iX5tgI_OYL&uniplatform=NZKPT&language=CHS)(公开)
 	- [**李长圣**,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&uniplatform=NZKPT&src=copy) (授权)
 	- [**李长圣**,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法.江西省：CN111008472B,2023-11-21.](https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&uniplatform=NZKPT&flag=copy)  (授权)
 	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置.北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)(公开)
 	
 - 软件著作权：
-	1. **地质三维可视化软件** V1.0. 东华理工大学;邹宗良;**李长圣**;吴珍云;梅强. **2024**.  
+
+	- **地质标本数据管理系统** V1.0. 东华理工大学;梅强;**李长圣**. **2025**.
+	- **地质三维可视化软件** V2.0. 东华理工大学;梅强;**李长圣**;邹宗良;吴珍云. **2025**.
+	- **地质三维可视化软件** V1.0. 东华理工大学;邹宗良;**李长圣**;吴珍云;梅强. **2024**.  
 	- **基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统** V1.0. 东华理工大学, 钟军, **李长圣**, 张召，邹宗良. **2023**.  
 	- **离散元数值模拟后处理系统** V1.0. 东华理工大学, 钟军, **李长圣**, 徐雯峤, 魏华敬, 吴珍云. **2021**.  
 	- **覆岩变形分布式监测数据处理系统** V1.0. 张丹, **李长圣**. **2019**.  
@@ -92,10 +94,12 @@ QQ：``836745132`` (小z)
 
 
 ## 论文发表
-
+- **2025**
+	- [**Li, C.S.**, Li S.J., Hu Z.Q., et al. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 2025, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
+	- [**Li, C.S.**, Zhang X.S. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 2025, 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
+	- [张新松,**李长圣***,钟军,等.基于神经网络的土石混合体CT图像分割及三维重建[J].工程地质学报,2025,33(03):1230-1239.DOI:10.13544/j.cnki.jeg.2024-0253.](https://doi.org/10.13544/j.cnki.jeg.2024-0253)
 - **2024**
-	- [张新松,**李长圣***,钟军,等.基于神经网络的土石混合体CT图像分割及三维重建[J/OL].工程地质学报,1-13[2025-02-07].https://doi.org/10.13544/j.cnki.jeg.2024-0253.](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273eZxsjEtS6ty10QspQe0P4K0gs74sJPo90jZ6K_9O6Wmc3-POykWJOzjKmoOZYZBPAgm2Y-FY_o8NTM-HRIVlha9f03oAaED8uEgovMdK_Y6RiRnXEHoFeqz66qc6-9Kt68cmdtXn-uo7nl0SXLp7TIOhmHzX3kvqVu4_im6eNZvCOBy8QNd55&uniplatform=NZKPT&language=CHS)
-	- [Xu, W., Yin, H., Zhao, S.,Zhang, **C., Li**, B., Jia, D., Li, C., Wang, W., **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
+	- [Xu W., Yin H., Zhao S.,Zhang C., Li B., Jia D., **Li, C.S.**, Wang W., **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
 - **2023**
 	- [尹宏伟,贾东,汪伟,**李长圣**,徐雯峤,杨庚兄 & 贺婉慧.**2023**.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报(09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.)
 	- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,**李长圣**.川东南泸州地区多滑脱层构造特征及变形机制[J/OL].高校地质学报:1-11[2023-02-25].DOI:10.16108/j.issn1006-7493.2022029.](https://doi.org/10.16108/j.issn1006-7493.2022029)
@@ -157,13 +161,15 @@ QQ：``836745132`` (小z)
 ## 科研项目
 
 - **2019-至今**
-	1. **国家自然科学基金地区基金**：克拉通盆地内小位移走滑断裂分层变形的三维离散元定量模拟研究——以塔里木盆地顺北5号断裂为例, 2025.01.01-2028.12.31, **主持**
-	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**
-	- **江西省自然科学基金青年基金**: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, **主持**
+	1. **新型油气勘探开发国家科技重大专项**：柴达木盆地盆山体系油气成藏机制与新领域勘探技术, 2025.05-2030.12, **课题骨干**，**在研**
+	- **国家自然科学基金地区基金**：克拉通盆地内小位移走滑断裂分层变形的三维离散元定量模拟研究——以塔里木盆地顺北5号断裂为例, 2025.01.01-2028.12.31, **主持**，**在研**
+	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**，结题
+	- **江西省自然科学基金青年基金**: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, **主持**，**在研**
+	- 开放基金： 走滑和逆冲断裂形成演化过程数值模拟方法研究，中油油气勘探软件国家工程研究中心，2025-2026， **主持**，**在研**
 	- 横向课题： 走滑断裂数值模拟，中国石油勘探开发研究院，2023-2024， **主持**，结题
-	- 中石化开放基金： 走滑模拟，2022-2024， **主持**
+	- 开放基金： 走滑模拟，中国石油化工股份有限公司石油勘探开发研究院，2022-2024， **主持**，结题
 	- 横向课题： 库车构造模拟, 中国科学院地质与地球物理研究所,  2022-2022, **主持**, 结题
-	- 横向课题： 川南页岩层系变形模拟，2022-2022， **主持**,结题
+	- 横向课题： 川南页岩层系变形模拟，中国石油勘探开发研究院，2022-2022， **主持**，结题
 	- 横向课题： 走滑断裂数值模拟，中国石油勘探开发研究院，2021-2022， **主持**，结题
 	- **国家自然科学基金面上项目**：四川盆地南部高应变构造变形与诱发地震的相关性研究, 2022.01.01-2025.12.31, 参与
 	- 横向课题：塔里木盆地山前褶皱冲断带变形过程的构造数值模拟, 中国科学院地质与地球物理研究所, 2021.06-2021.09, **主持**, 结题
@@ -196,7 +202,7 @@ QQ：``836745132`` (小z)
 
 ## 其他论文
 
-1. 徐雯峤,尹宏伟,汪伟,**李长圣**. 库车坳陷西段构造变形演化的数值模拟[A]. 2020年中国地球科学联合学术年会论文集,2020:1.
+- 徐雯峤,尹宏伟,汪伟,**李长圣**. 库车坳陷西段构造变形演化的数值模拟[A]. 2020年中国地球科学联合学术年会论文集,2020:1.
 - [杨庚兄,尹宏伟,汪伟,贾东,王斌,**李长圣**.塔里木盆地玛扎塔格构造带深层构造分析[J].大地构造与成矿学,2020,44(05):819-830.](https://doi.org/10.16539/j.ddgzyckx.2020.05.002).
 - 杨庚兄,尹宏伟,朱继田,汪伟,熊小峰,**李长圣**.三维扫描技术在构造物理模拟中的应用——以琼东南盆地为例[J].实验室研究与探索,2020,39(05):8-11+45.
 - 徐雯峤,尹宏伟,**李长圣**,汪伟. 构造转换带变形特征与变形机制：基于离散元数值模拟的认识[A].2019年中国地球科学联合学术年会论文集.2019:2.

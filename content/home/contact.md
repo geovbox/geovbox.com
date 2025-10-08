@@ -157,23 +157,6 @@ subtitle = ""
 </div>
 {{% /col %}}
 
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/zhangzhao/zhangzhao.png" alt="张召" class="img-circle" >
-		<div class="author-name"> 张召</div>
-	</div> 
-</div>
-{{% /col %}}
-
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/wangziheng/wangziheng.png" alt="王子恒" class="img-circle" >
-		<div class="author-name"> 王子恒</div>
-	</div> 
-</div>
-{{% /col %}}
 
 {{< /row >}}
 
@@ -241,14 +224,7 @@ subtitle = ""
 </div>
 {{% /col %}}
 
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/pengxin/pengxin.png" alt="彭鑫" class="img-circle" >
-		<div class="author-name"> 彭鑫</div>
-	</div> 
-</div>
-{{% /col %}}
+
 
 {{% col 2 %}}
 <div class="row author-list">
@@ -259,16 +235,7 @@ subtitle = ""
 </div>
 {{% /col %}}
 
-{{% col 2 %}}
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<a href="https://liang.geovbox.com" >
-			<img src="/about/zouzongliang/zouzongliang.png" alt="邹宗良" class="img-circle" >
-			<div class="author-name"> 邹宗良</div>
-		</a>
-	</div> 
-</div>
-{{% /col %}}
+
 
 {{< /row >}}
 
@@ -338,8 +305,8 @@ subtitle = ""
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/huanghaozhuo/huanghaozhuo.png" alt="黄浩卓" class="img-circle" >
-		<div class="author-name"> 黄浩卓</div>
+		<img src="/about/zhangzhao/zhangzhao.png" alt="张召" class="img-circle" >
+		<div class="author-name"> 张召  <br>东华理工博</div>
 	</div> 
 </div>
 {{% /col %}}
@@ -347,8 +314,29 @@ subtitle = ""
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<img src="/about/yeqiyang/yeqiyang.png" alt="叶启洋[已毕业]" class="img-circle" >
-		<div class="author-name"> 叶启洋</div>
+		<img src="/about/wangziheng/wangziheng.png" alt="王子恒" class="img-circle" >
+		<div class="author-name"> 王子恒 <br>公务员</div>
+	</div> 
+</div>
+{{% /col %}}
+
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/pengxin/pengxin.png" alt="彭鑫" class="img-circle" >
+		<div class="author-name"> 彭鑫 <br>出国工作<br> </div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<a href="https://liang.geovbox.com" >
+			<img src="/about/zouzongliang/zouzongliang.png" alt="邹宗良" class="img-circle" >
+			<div class="author-name"> 邹宗良  <br>地大武汉研</div>
+		</a>
 	</div> 
 </div>
 {{% /col %}}
@@ -358,8 +346,26 @@ subtitle = ""
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 		<a href="https://jun.geovbox.com" >
 			<img src="/about/zhongjun/zhongjun.png" alt="钟军" class="img-circle" >
-			<div class="author-name"> 钟军</div>
+			<div class="author-name"> 钟军 <br>南京师范研</div>
 		</a>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/huanghaozhuo/huanghaozhuo.png" alt="黄浩卓" class="img-circle" >
+		<div class="author-name"> 黄浩卓 <br>地大北京研</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/yeqiyang/yeqiyang.png" alt="叶启洋[已毕业]" class="img-circle" >
+		<div class="author-name"> 叶启洋 <br>国企工作 </div>
 	</div> 
 </div>
 {{% /col %}}
