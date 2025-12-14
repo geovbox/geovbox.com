@@ -93,6 +93,10 @@ subtitle = ""
 - **李鑫** **东北石油大学**
 - [**孟庆峰**](https://geori.upc.edu.cn/2021/0513/c10382a335351/page.htm) 教授 **中国石油大学(华东)**
 - **郭清涛** **中国石油大学(北京)**
+- **韦央平** **中国地质科学院**
+- [**张欲清**](http://scholar.cugb.edu.cn/scholar/scholarDetail/3034.shtml) 副教授 **中国地质大学(北京)**
+- [**李志刚**](https://gs.sysu.edu.cn/teacher/LiZhigang) 副教授 **中山大学**
+- **郭泽清** **中国石油勘探开发研究院**
 {{% /col %}}
 {{< /row >}}
 
