@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学士 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E5%AD%A6%E5%A3%AB/</link>
+      <atom:link href="https://geovbox.com/category/%E5%AD%A6%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
+    <description>学士</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>学士</title>
+      <link>https://geovbox.com/category/%E5%AD%A6%E5%A3%AB/</link>
+    </image>
+    
+    <item>
+      <title>多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例</title>
+      <link>https://geovbox.com/blog/20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20210724/</guid>
+      <description>&lt;h4 id=&#34;论文下载&#34;&gt;论文下载：&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;冯彦杰 (2019). 多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例. &lt;strong&gt;本科论文&lt;/strong&gt;. 南京大学.&lt;/a&gt; 提取码 &lt;code&gt;zdem&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例&#34;&gt;题目：多滑脱层褶皱冲断构造分析模拟-以龙门山断层马角坝断裂为例&lt;/h4&gt;
+&lt;h4 id=&#34;作者冯彦杰&#34;&gt;作者：冯彦杰&lt;/h4&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;本文基于离散元数值模拟技术设计了多组二维水平挤压实验，模拟了多滑脱层褶皱冲断带的形成与演化过程，分析了多滑脱层褶皱冲断带变形机制，取得了如下认识：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;膏盐滑脱层的受力形变主要为塑形流变，常见强烈体应变和剪应变，但内	部	不发育断层。&lt;/li&gt;
+&lt;li&gt;滑脱层的位置、厚度会影响褶皱冲断带应力应变的分布，其中，基底滑脱层是影响整体构造演化的主要因素。&lt;/li&gt;
+&lt;li&gt;离散元数值模拟方法能在一定程度	上定量解释褶皱冲断构造演化过程与变形机制，有较好的发展前景。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;关键词滑脱层离散元模型褶皱冲断带构造变形&#34;&gt;关键词：滑脱层；离散元模型；褶皱冲断带；构造变形&lt;/h4&gt;
+&lt;h4 id=&#34;目录&#34;&gt;目录：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;第一章 前言
+&lt;ul&gt;
+&lt;li&gt;1.1 研究意义和选题依据&lt;/li&gt;
+&lt;li&gt;1.2 构造变形定量化研究现状&lt;/li&gt;
+&lt;li&gt;1.3 创新点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;第二章 方法概论
+&lt;ul&gt;
+&lt;li&gt;2.1 离散元方法简介&lt;/li&gt;
+&lt;li&gt;2.2 VBOX软件简介&lt;/li&gt;
+&lt;li&gt;2.3 Hertz-Mindlin接触模型介绍&lt;/li&gt;
+&lt;li&gt;2.4 应力应变分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;第三章 数值模拟实验
+&lt;ul&gt;
+&lt;li&gt;3.1 实验一 无膏盐层&lt;/li&gt;
+&lt;li&gt;3.2 实验二 底部膏盐层&lt;/li&gt;
+&lt;li&gt;3.3 实验三 含一条膏盐间层&lt;/li&gt;
+&lt;li&gt;3.4 实验四 含两条膏盐间层&lt;/li&gt;
+&lt;li&gt;3.5 实验五 改变膏盐层厚度&lt;/li&gt;
+&lt;li&gt;3.6 实验六 边界延长实验&lt;/li&gt;
+&lt;li&gt;3.7 实验七 改变滑脱层的密度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;第四章 讨论：与龙门山断层马角坝断裂的对比&lt;/li&gt;
+&lt;li&gt;第五章 结论&lt;/li&gt;
+&lt;li&gt;参考文献&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;结论&#34;&gt;结论&lt;/h4&gt;
+&lt;p&gt;根据实验结果，结合实际情况分析，我们可以得出以下主要结论：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;膏盐滑脱层自身变形主要是塑形流变，内部不发育断层，可见强烈的体应变和剪应变。&lt;/li&gt;
+&lt;li&gt;滑脱层的厚度、密度、分布会显著影响应力应变的传播与分布。水平向传播上滑脱层会让应力应变更容易传播；垂向上的滑脱层是构成变形垂向分层的关键因素，滑脱层上下有明显不同的构造变形模式。双滑脱层的存在会加快应力应变的传播速度，同时也会影响传播的最远距离。&lt;/li&gt;
+&lt;li&gt;四川龙门山断层马角坝地区的复杂构造，可能为双滑脱层影响，受重力滑脱和区域水平挤压两期先后不同的构造地质运动的驱动而形成。&lt;/li&gt;
+&lt;li&gt;VBOX软件可以较好用于模拟褶皱冲断构造变形，模拟结果与实际地质构造有较好的吻合度。同时VBOX软件还搭载了其他多种基础模型数据，加上其开放的多端口设计和方便高效的并行运算设计，在构造地质模拟上有较好的潜力，随着计算软硬件设施不断更新，构造数值模拟会有更广阔的发展空间。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_76e29f677068800c24261f9ff320ae75.webp 400w,
+               /blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_14e5475d2ad0467c6828917bb6a37b00.webp 760w,
+               /blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_76e29f677068800c24261f9ff320ae75.webp&#34;
+               width=&#34;414&#34;
+               height=&#34;629&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;(km)&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;实验六&lt;/h5&gt;&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

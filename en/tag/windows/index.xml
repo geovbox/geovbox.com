@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows | ZDEM官网</title>
+    <link>https://geovbox.com/en/tag/windows/</link>
+      <atom:link href="https://geovbox.com/en/tag/windows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Windows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Windows</title>
+      <link>https://geovbox.com/en/tag/windows/</link>
+    </image>
+    
+    <item>
+      <title>2017 AGU Fall Meeting Comparative Analysis of Discrete Element Numerical Modeling and Physical Analog Modeling in Geosciences</title>
+      <link>https://geovbox.com/en/blog/agu2017/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/agu2017/</guid>
+      <description>&lt;p&gt;Download：&lt;a href=&#34;Li2017_Poster_AGU.pdf&#34;&gt;posters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The discrete element method has various stringent assumptions. *Can it simulate construction? Can it replicate real physical events in the laboratory? *These are the questions that concern us in this meeting.
+The team presented the paper &amp;ldquo;Comparison of Discrete Element Numerical Simulation and Physical Simulation&amp;rdquo; at the American Geophysical Union 2017 Fall Meeting, held from December 10-16, 2017.&lt;/p&gt;
+&lt;p&gt;We participated in the American Geophysical Union (AGU) 2017 Fall Meeting with the presentation titled &lt;strong&gt;Comparison of Discrete Element Numerical Simulation and Physical Simulation&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
