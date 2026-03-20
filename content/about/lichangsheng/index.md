@@ -1,6 +1,7 @@
 ---
 title: 李长圣
 date: 2025-12-15
+tags:
     - 网站维护者
     - zdem开发者
 authors:
@@ -25,14 +26,9 @@ images:
 
 **东华理工大学地球科学学学院官网李长圣简历：**  https://dkxy.ecut.edu.cn/93/7f/c6814a103295/page.htm
 
-**2026年硕士研究生招生，优先考虑对 ```构造模拟``` ```软件开发``` ```含油气盆地构造解析``` 感兴趣的资源勘查工程、地球信息科学与技术、地质、计算机、岩土等相关专业学生，2026年9月入学后科研方向为：**
+**每年拟招硕士研究生2名，优先考虑对 ```构造模拟``` ```软件开发``` ```含油气盆地构造解析``` 感兴趣的资源勘查工程、地球信息科学与技术、地质、计算机、岩土等相关专业学生，选研究方向如下：**  
 
-- 构造变形数值模拟
-- 数值模拟软件开发
-
-**每年拟招硕士研究生一名，欢迎地质、计算机、岩土等相关专业学生报考，可选研究方向如下：**  
-
-- 数值模拟软件研发：``GPU`` | ``MPI`` | ``OpenMP`` 并行、云端CAE、离散元 | 有限元 | 物质点法软件开发
+- 数值模拟软件研发：``GPU`` | ``MPI`` | ``OpenMP`` 并行、云端CAE、离散元 | 有限差分 软件开发
 - **构造变形**数值模拟：褶皱冲断带、多层滑脱、诱发地震等（应用研究）
 - **地质灾害**数值模拟：城市地面塌陷、滑坡、洞室群稳定性等（应用研究）
 - 地质体三维可视化
@@ -84,7 +80,7 @@ images:
 	
 - 软件著作权：
 
-	- **地质标本数据管理系统** V1.0. 东华理工大学;梅强;**李长圣**. **2025**.
+	1. **地质标本数据管理系统** V1.0. 东华理工大学;梅强;**李长圣**. **2025**.
 	- **地质三维可视化软件** V2.0. 东华理工大学;梅强;**李长圣**;邹宗良;吴珍云. **2025**.
 	- **地质三维可视化软件** V1.0. 东华理工大学;邹宗良;**李长圣**;吴珍云;梅强. **2024**.  
 	- **基于改进UNet 全卷积神经网络的土石混合体CT图像三维重建系统** V1.0. 东华理工大学, 钟军, **李长圣**, 张召，邹宗良. **2023**.  
@@ -95,43 +91,43 @@ images:
 
 ## 论文发表
 - **2025**
-	- [**Li, C.S.**, Li S.J., Hu Z.Q., et al. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 2025, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
-	- [**Li, C.S.**, Zhang X.S. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 2025, 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
-	- [张新松,**李长圣***,钟军,等.基于神经网络的土石混合体CT图像分割及三维重建[J].工程地质学报,2025,33(03):1230-1239.DOI:10.13544/j.cnki.jeg.2024-0253.](https://doi.org/10.13544/j.cnki.jeg.2024-0253)
+	- [**Li C.S.**, Li S.J., Hu Z.Q., et al. 2025. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
+	- [**Li C.S.**, Zhang X.S. 2025. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
+	- [张新松,**李长圣***,钟军,等. 2025. 基于神经网络的土石混合体CT图像分割及三维重建[J].工程地质学报, 33(03):1230-1239.](https://doi.org/10.13544/j.cnki.jeg.2024-0253)
 - **2024**
-	- [Xu W., Yin H., Zhao S.,Zhang C., Li B., Jia D., **Li, C.S.**, Wang W., **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
+	- [Xu W.Q., Yin H.W., Zhao S.,Zhang C., Li B., Jia D., **Li C.S.**, Wang W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling, **Journal of Structural Geology**, 180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
 - **2023**
-	- [尹宏伟,贾东,汪伟,**李长圣**,徐雯峤,杨庚兄 & 贺婉慧.**2023**.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报(09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.)
-	- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,**李长圣**.川东南泸州地区多滑脱层构造特征及变形机制[J/OL].高校地质学报:1-11[2023-02-25].DOI:10.16108/j.issn1006-7493.2022029.](https://doi.org/10.16108/j.issn1006-7493.2022029)
-	- [吴珍云,杨秀磊,尹宏伟,董少春,**李长圣**,汪伟,贾东.库车坳陷西段阿瓦特构造转换带盐构造演化特征及影响因素[J/OL].地球科学:1-25[2023-02-25].](http://kns.cnki.net/kcms/detail/42.1874.p.20220830.1133.006.html)
+	- [尹宏伟,贾东,汪伟,**李长圣**,徐雯峤,杨庚兄, 贺婉慧.**2023**.数值模拟在沉积盆地褶皱冲断构造变形研究中的应用与发展. 地质学报, (09),2914-2926.](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136.)
+	- [赵圣贤,徐雯峤,杨学锋,尹宏伟,李博,汪伟,张成林,贾东,刘永旸,谢伟,张洞君,**李长圣**. 2023. 川东南泸州地区多滑脱层构造特征及变形机制. 高校地质学报, 29 (05): 726-734..](https://doi.org/10.16108/j.issn1006-7493.2022029)
+	- [吴珍云,杨秀磊,尹宏伟,董少春,**李长圣**,汪伟,贾东. 2023. 库车坳陷西段阿瓦特构造转换带盐构造演化特征及影响因素. 地球科学, 48(04):1271-1287](http://dx.doi.org/10.3799/dqkx.2022.312)
 
 - **2022**  
 
-    - [**李长圣**,尹宏伟,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
+    - [**李长圣**,尹宏伟*,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
 - **2021** 
-    - [**Li, C.S.**, Yin, H.W.*, , et al.**(2021)** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
-	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. (2021) Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
-	- [**LI C.S.**, YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
-	- [Xu, W.Q., Yin, H.W., Jia, D., **Li, C.S.**, Wang, W., Yang, G.X., He, W.H., Chen, Z.X., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
+    - [**Li C.S.**, Yin H.W.* , WU Z.Y.* , et al. 2021. Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. 2021. Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Frontiers in Earth Science. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+	- [**LI C.S.**, YIN H.W.*, WU C., et al. 2021. Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+	- [Xu W.Q., Yin H.W.*, Jia, D., **Li C.S.**, Wang W., Yang G.X., He W.H., Chen Z.X., Ren R. 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 
 - **2020**  
 
-	- [徐雯峤,汪伟*,尹宏伟,贾东,**李长圣**,杨庚兄,李刚.库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 2020, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
+	- [徐雯峤,汪伟*,尹宏伟,贾东,**李长圣**,杨庚兄,李刚. 2020. 库车坳陷东西段盐下构造变形差异演化数值模拟分析.**地质学报**, 94(06): 1740-1751. ](http://t.cn/A6y6QcwC)  
 
 - **2019**  
 
-	- [张迎朝,**李长圣***,朱继田,尹宏伟,熊小峰,吴珍云.伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索,2019,38(11):78-82.](http://t.cn/A6hj2FNU)  
-	- [**李长圣** (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
-	- [吴珍云,尹宏伟,**李长圣**,孙业君,李丽梅,杜航,何奕成,刘博雅.断陷盆地正反转构造实验模拟及对茅东断裂带的启示[J].**南京大学学报(自然科学),2019**,55(05):869-878.](http://t.cn/AisBmv8f)  
+	- [张迎朝,**李长圣***,朱继田,尹宏伟,熊小峰,吴珍云. 2019. 伸展构造离散元数值模拟-以琼东南盆地为例[J].实验室研究与探索, 38(11):78-82.](http://t.cn/A6hj2FNU)  
+	- [**李长圣**. 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+	- [吴珍云,尹宏伟,**李长圣**,孙业君,李丽梅,杜航,何奕成,刘博雅. 2019. 断陷盆地正反转构造实验模拟及对茅东断裂带的启示. 南京大学学报(自然科学), 55(05):869-878.](http://t.cn/AisBmv8f)  
 
 - **2018**  
 
-	- [**Li C.S.**, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
+	- [**Li C.S.**, Yin H.W.*, Jia D., et al. 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
 
 
 - **2017**  
 
-	- [**李长圣**,尹宏伟*,刘春,蔡申阳.共享内存式并行离散元程序的设计与测试.**南京大学学报(自然科学)**,2017(06):1161-1170.](http://t.cn/EiaL0Ad)  
+	- [**李长圣**,尹宏伟*,刘春,蔡申阳. 2017. 共享内存式并行离散元程序的设计与测试.南京大学学报(自然科学), (06):1161-1170.](http://t.cn/EiaL0Ad)  
 
 
 - **2016**  
@@ -146,7 +142,7 @@ images:
 
 ## 会议
 
-1. 第七届全国颗粒材料计算力学会议暨第四届计算颗粒技术国际研讨会. 基于深度学习的颗粒材料应力应变曲线预测. 南京.2024-05
+- 第七届全国颗粒材料计算力学会议暨第四届计算颗粒技术国际研讨会. 基于深度学习的颗粒材料应力应变曲线预测. 南京.2024-05
 - 2023年中国地球科学联合学术年会.离散元数值模拟在含油气盆地构造变形定量分析中的应用.珠海.2023-10.特邀报告
 - 第六届全国矿田构造与深部找矿预测学术研讨会.离散元数值模拟在沉积盆地构造变形定量分析中的应用.长沙.2023-04.报告
 - 第五届全国颗粒材料计算力学会议 （CMGM 2021）.用于构造变形研究的离散元软件开发与试验验证.武汉.2021-03.摘要
@@ -161,7 +157,7 @@ images:
 ## 科研项目
 
 - **2019-至今**
-	1. **新型油气勘探开发国家科技重大专项**：柴达木盆地盆山体系油气成藏机制与新领域勘探技术, 2025.05-2030.12, **课题骨干**，**在研**
+	- **新型油气勘探开发国家科技重大专项**：柴达木盆地盆山体系油气成藏机制与新领域勘探技术, 2025.05-2030.12, **课题骨干**，**在研**
 	- **国家自然科学基金地区基金**：克拉通盆地内小位移走滑断裂分层变形的三维离散元定量模拟研究——以塔里木盆地顺北5号断裂为例, 2025.01.01-2028.12.31, **主持**，**在研**
 	- **国家自然科学基金青年基金**：双层滑脱对四川盆地西南部冲断带新生代构造变形过程影响的离散元数值模拟研究, 2022.01.01-2024.12.31, **主持**，结题
 	- **江西省自然科学基金青年基金**: 高放废物黏土岩地质处置库洞室群稳定性数值模拟, 2023.07.01-2026.06.30, **主持**，**在研**

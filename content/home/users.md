@@ -63,7 +63,7 @@ subtitle = ""
 - [**陈汉林**](https://person.zju.edu.cn/hlchentectonic) 教授 **浙江大学**
 - **管树巍**　高级工程师　**中国石油勘探开发研究院** 
 - [**黎广荣**](https://dkxy.ecut.edu.cn/92/3d/c259a37437/page.htm) 副教授 **东华理工大学**
-- [**裴仰文**](http://geori.upc.edu.cn/2019/0505/c10381a204727/page.htm) 副教授 **中国石油大学（华东）**
+- [**裴仰文**](http://geori.upc.edu.cn/2019/0505/c10381a204727/page.htm) 教授 **中国石油大学（华东）**
 - [**何登发**](https://www1.cugb.edu.cn/profAbout.action?zgh=2006012028) 教授 **中国地质大学（北京）**
 - [**赵斐宇**](https://sgmt.ecut.edu.cn/6e/b1/c3800a93873/page.htm) 博士 **东华理工大学**
 - **申方乐**  **河北地质大学**
@@ -97,6 +97,10 @@ subtitle = ""
 - [**张欲清**](http://scholar.cugb.edu.cn/scholar/scholarDetail/3034.shtml) 副教授 **中国地质大学(北京)**
 - [**李志刚**](https://gs.sysu.edu.cn/teacher/LiZhigang) 副教授 **中山大学**
 - **郭泽清** **中国石油勘探开发研究院**
+- **童政毅** **中国石油集团东方地球物理勘探有限责任公司西南物探研究院**
+- **崔键** **中国石油勘探开发研究院西北分院**
+- **姜思宇** **青海大学**
+
 {{% /col %}}
 {{< /row >}}
 

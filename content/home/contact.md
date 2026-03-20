@@ -98,17 +98,7 @@ subtitle = ""
 
 {{% /col %}}
 
-{{% col 3 %}}
 
-<div class="row author-list">
-	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
-		<a href="/about/xuwenqiao/" >
-			<img src="/about/xuwenqiao/xuwenqiao.png" alt="徐雯峤" class="img-circle" >
-			<div class="author-name"> 徐雯峤</div>
-		</a>
-	</div> 
-</div>
-{{% /col %}}
 {{< /row >}}
 
 {{< row >}}
@@ -193,6 +183,15 @@ subtitle = ""
 </div>
 {{% /col %}}
 
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+		<img src="/about/mobingyang/mobingyang.png" alt="莫冰洋" class="img-circle" >
+		<div class="author-name"> 莫冰洋</div>
+	</div> 
+</div>
+{{% /col %}}
+
 {{< /row >}}
 
 <!-- new col-->
@@ -236,22 +235,6 @@ subtitle = ""
 {{% /col %}}
 
 
-
-{{< /row >}}
-
-<!-- new col-->
-{{< row >}}
-{{% col 6 %}}
-
-
-
-
-{{% /col %}}
-{{< /row >}}
-
-{{< row "featurette" >}}
-
-
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
@@ -261,6 +244,7 @@ subtitle = ""
 </div>
 {{% /col %}}
 
+
 {{% col 2 %}}
 <div class="row author-list">
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
@@ -269,6 +253,19 @@ subtitle = ""
 	</div> 
 </div>
 {{% /col %}}
+
+{{< /row >}}
+
+<!-- new col-->
+{{< row >}}
+{{% col 6 %}}
+
+
+{{% /col %}}
+{{< /row >}}
+
+{{< row "featurette" >}}
+
 
 {{% col 2 %}}
 <div class="row author-list">
@@ -284,6 +281,25 @@ subtitle = ""
 	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
 			<img src="/about/liugaofeng/liugaofeng.png" alt="刘高峰" class="img-circle" >
 			<div class="author-name"> 刘高峰</div>
+	</div> 
+</div>
+{{% /col %}}
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/lizeyu/lizeyu.png" alt="李泽宇" class="img-circle" >
+			<div class="author-name"> 李泽宇</div>
+	</div> 
+</div>
+{{% /col %}}
+
+
+{{% col 2 %}}
+<div class="row author-list">
+	<div class="col-xs-6 col-sm-3 col-md-8 col-lg-8">
+			<img src="/about/liuxinran/liuxinran.png" alt="刘欣然" class="img-circle" >
+			<div class="author-name"> 刘欣然</div>
 	</div> 
 </div>
 {{% /col %}}
