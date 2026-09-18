@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>珠海 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E7%8F%A0%E6%B5%B7/</link>
+      <atom:link href="https://geovbox.com/category/%E7%8F%A0%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>珠海</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>珠海</title>
+      <link>https://geovbox.com/category/%E7%8F%A0%E6%B5%B7/</link>
+    </image>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>&lt;p&gt;原文见： &lt;a href=&#34;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在前瞻全球超算技术发展趋势，汇聚创新技术应用，展示前沿学术结果，促进超算产学研数字化升级转型，打造全球化、开放化、学术化交流平台。&lt;/p&gt;
+&lt;p&gt;CCF HPC China 2021由中国计算机学会主办，中国计算机协会高性能计算专业委员会、珠海横琴新区管理委员会、珠海市科技创新局、澳门大学、澳门科技大学共同承办，北京并行科技股份有限公司、暨南大学、广东琴智科技研究院有限公司、珠海大横琴有限公司协办。&lt;/p&gt;
+&lt;p&gt;在本次学术年会的第八届“国产应用软件”专题论坛上，国产应用软件重要开发单位齐聚一堂，共同探讨国产应用软件的现状和发展瓶颈，需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题，以期中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp 400w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_56d83771bd474dbf9aaac8e1f5478930.webp 760w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;其中，东华理工大学李长圣博士进行了《用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用》主题分享。随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。随后，他介绍了离散元原理以及基于OpenMP、CUDA的并行设计。他还分享了ZDEM在构造模拟方面的应用以及ZDEM的未来。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp 400w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_014b434f570f03328a9738b9f9da31e1.webp 760w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/01.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/34.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt快递&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/40.PNG&#34; alt=&#34;PPT快递&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT快递
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;最后，此次论坛主席兼主持人北京并行科技股份有限公司总经理陈健博士在论坛总结上表示：国产应用软件仍存在底层核心技术的不足，其涉及的不仅仅是软件产品，背后还关系到复杂的专业领域知识、计算机技术、数学、物理，这是一系列底层生态的构建，需要长期的巨大投入，生态打造依旧任重道远。而在大环境方面，国内的应用软件市场也开始成熟，更多的企业愿意为正版软件付费，并且愿意使用国产软件。再加上政策层面红利不断，我们可以看到，整体国产应用软件市场的成熟度正在快速提高。期待第九届国产应用软件专题论坛与各位再次相见，共话国产应用软件的新发展。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图文直播：http://www.citmt.cn/s/hpcchina2021/&lt;/li&gt;
+&lt;li&gt;2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第八届“国产应用软件”专题论坛 详细介绍见：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D预览 &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关注ZDME 微信公众号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</title>
+      <link>https://geovbox.com/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20211019/</guid>
+      <description>&lt;h3 id=&#34;ccf-hpc-china-2021-第八届国产应用软件专题论坛-简介&#34;&gt;CCF HPC China 2021 第八届“国产应用软件”专题论坛 简介&lt;/h3&gt;
+&lt;p&gt;工业软件是中国从制造大国向设计大国转变的核心关键技术，如何实现在研发、设计等高端领域的自主创新突破，使我国工业企业软件体系实现自主可控成为国家层面重点关注的焦点。在国家科技重大专项以及相关产业政策的支持下，在国际大环境背景下，HPC领域的国产应用软件发展迅速，目前已形成完整的国产工业软件产品体系，为国产工业软件的发展提供了强有力的保障。&lt;/p&gt;
+&lt;p&gt;本论坛邀请国产应用软件重要开发单位，共同探讨国产应用软件的现状、发展瓶颈、需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题。希望中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。&lt;/p&gt;
+&lt;h3 id=&#34;报告题目用于构造变形研究的离散元数值模拟软件zdem理论软件与应用&#34;&gt;报告题目：用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用&lt;/h3&gt;
+&lt;h4 id=&#34;时间10月23日1645-1710&#34;&gt;时间：10月23日16:45-17:10&lt;/h4&gt;
+&lt;h4 id=&#34;地点珠海珠海国际会议中心402会议室&#34;&gt;地点：珠海·珠海国际会议中心&lt;strong&gt;402会议室&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;报告人：&lt;/strong&gt;&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;报告摘要：&lt;/strong&gt;&lt;br&gt;
+随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。报告将从理论、软件及与应用三个方面介绍离散元数值模拟软件ZDEM的过去与未来。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_a46e4bf391e639c3186596f529736171.webp 400w,
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_9116fb1a640733b373f06cc00661a3e8.webp 760w,
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_a46e4bf391e639c3186596f529736171.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_9526bd022d90a706e9ca8e809d79d67d.webp 400w,
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_5adb953359debebd9eb4c0ff3a25dc3a.webp 760w,
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_9526bd022d90a706e9ca8e809d79d67d.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_678de95e44fccbfc9350371cfccb701c.webp 400w,
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_6ef9e31d49184e3985d913ff9cfbb84b.webp 760w,
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_678de95e44fccbfc9350371cfccb701c.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_6778fb4bd10995483704b5f65fd2f9fa.webp 400w,
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_b65c2f0df1c46065746768280c0e4d04.webp 760w,
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_6778fb4bd10995483704b5f65fd2f9fa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_a97b8bf21e04597ea52310a3d7bf6ce1.webp 400w,
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b78885022b5946405ea5d588b2b4d830.webp 760w,
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_a97b8bf21e04597ea52310a3d7bf6ce1.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt快递&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PPT快递&#34; srcset=&#34;
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_a3751cd0080b8ad3f54a6fb10e26649e.webp 400w,
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_340e6f60fd3f4469b5bd0a3e6d23d3c1.webp 760w,
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_a3751cd0080b8ad3f54a6fb10e26649e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT快递
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第八届“国产应用软件”专题论坛 详细介绍见：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D预览 &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关注ZDME 微信公众号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

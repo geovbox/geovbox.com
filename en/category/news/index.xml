@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/news/</link>
+      <atom:link href="https://geovbox.com/en/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://geovbox.com/en/category/news/</link>
+    </image>
+    
+    <item>
+      <title>CGU Report - Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Oil and Gas Bearing Basins(2023-10-16)</title>
+      <link>https://geovbox.com/en/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20231015/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;2023 China Geoscience Union Annual Meeting&lt;br&gt;
+Session 97: New Advances in Structural Theory, Technology and Practice of Oil and Gas Bearing Basins&lt;br&gt;
+Time：&lt;strong&gt;October 16th&lt;/strong&gt;&lt;br&gt;
+Location：&lt;strong&gt;Zhuhai, Zhuhai International Convention and Exhibition Center, Exhibition Center, 2nd Floor, VIP-1&lt;/strong&gt;&lt;br&gt;
+Title：&lt;strong&gt;Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Oil and Gas Bearing Basins: Research Status, Application Examples, Advantages and Challenges&lt;/strong&gt;&lt;br&gt;
+Reporter：&lt;em&gt;Changsheng Li&lt;/em&gt;&lt;br&gt;
+Authors：Changsheng Li&lt;sup&gt;1*&lt;/sup&gt;，Hongwei Yin&lt;sup&gt;2&lt;/sup&gt;，Wenqiao Xu&lt;sup&gt;2&lt;/sup&gt;，Wei Wang&lt;sup&gt;2&lt;/sup&gt;，Zhenyun Wu&lt;sup&gt;1&lt;/sup&gt;，Zhao Zhang&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, Jiangxi 330013, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, Jiangsu 210023, China
+*Corresponding Author E-mail: &lt;a href=&#34;mailto:lichangsheng@ecut.edu.cn&#34;&gt;lichangsheng@ecut.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**Abstract:**With the development of discrete element theory and computer technology, the discrete element method has been widely applied to the quantitative analysis of structural deformation in oil and gas bearing basins. Compared with traditional sandbox analog experiments, the discrete element method can more accurately control the boundary conditions of experiments, quantitatively reveal the spatiotemporal evolution characteristics of stress and strain during structural deformation, and deepen researchers&amp;rsquo; understanding of structural deformation mechanisms from multiple perspectives. Previous studies have achieved a large number of research results based on the discrete element numerical simulation method in the study of structural deformation in oil and gas bearing basins and hydrocarbon resource exploration. However, the discrete element method also has some limitations and shortcomings in the study of structural deformation in oil and gas bearing basins. Restricted by the computational power of computers, current research on basin structural deformation mainly adopts two-dimensional discrete element simulation. However, the study of related issues such as the lateral migration of salt structures and the three-dimensional evolution of strike-slip faults still relies on the application of three-dimensional discrete element simulation methods.
+This paper combines the research status of the discrete element method in the quantitative analysis of structural deformation in oil and gas bearing basins, showcases its application examples in the quantitative study of compressional structures, extensional structures, and strike-slip faults, and summarizes its future development advantages and challenges. The discrete element method regards the granular aggregate model as a collection of several discrete units, allowing large displacements between particles, which is particularly suitable for the quantitative study of structural deformation in oil and gas bearing basins. It has great potential in the quantitative study of structural deformation, stress-strain, and fracture prediction, and is one of the main methods for the quantitative study of structural deformation in oil and gas bearing basins in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords: Numerical Simulation, Sedimentary Basin, Structural Deformation, Quantitative Analysis, Stress-Strain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partial PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_995d95fdf741b44cbc8217a1f61e5a8d.webp 400w,
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_b939b19f1fe8476ef1394c7b34e56da8.webp 760w,
+               /en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_995d95fdf741b44cbc8217a1f61e5a8d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp 400w,
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_3a78d80b300400620b31c8f66102bde7.webp 760w,
+               /en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp 400w,
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_faf163fedfabb2c87884169c6dc84f90.webp 760w,
+               /en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp 400w,
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_952f4bcf9be0904f07587a062ff4e107.webp 760w,
+               /en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp 400w,
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_e2ad3a1f9ef67ab949caa25fab352a07.webp 760w,
+               /en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp 400w,
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_9edd007d1f0fcff2f2588ad91fc30d06.webp 760w,
+               /en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp 400w,
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7cc5813ad30a93a387da8c93b06c0e44.webp 760w,
+               /en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp 400w,
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_a3e03f820ba72cf921d38fa345c01dc2.webp 760w,
+               /en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp 400w,
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_615fda3e68dacd1bcc1bb43a77cdd24e.webp 760w,
+               /en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference Report - Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Sedimentary Basins - Research Status, Application Examples, Advantages and Challenges(2023-04-16)</title>
+      <link>https://geovbox.com/en/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20230413/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The 6th National Symposium on Ore Field Structure and Deep Ore Deposit Prediction&lt;br&gt;
+（一）Ore Field Structural Theory, Experiment and Technical Methods&lt;br&gt;
+Time：&lt;strong&gt;April 16th, 11:55-12:15&lt;/strong&gt;&lt;br&gt;
+Location：&lt;strong&gt;Changsha, Grand Hyatt Changsha, 5th Floor, Multifunctional Hall 5&lt;/strong&gt;&lt;br&gt;
+Title：&lt;strong&gt;Application of Discrete Element Numerical Simulation in Quantitative Analysis of Structural Deformation in Sedimentary Basins: Research Status, Application Examples, Advantages and Challenges&lt;/strong&gt;&lt;br&gt;
+Reporter：&lt;em&gt;Changsheng Li&lt;/em&gt; East China University of Technology&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**Abstract:**With the development of discrete element theory and computer technology, the discrete element method has been widely applied to the quantitative analysis of structural deformation in sedimentary basins. Compared with traditional sandbox analog experiments, the discrete element method can more accurately control the boundary conditions of experiments, quantitatively reveal the stress and strain characteristics during structural deformation, and deepen researchers&amp;rsquo; understanding of structural deformation mechanisms from multiple perspectives. Previous studies have achieved a large number of research results based on the discrete element numerical simulation method in the study of structural deformation in sedimentary basins and hydrocarbon resource exploration. However, the discrete element method also has some limitations and shortcomings in the study of structural deformation in sedimentary basins. Restricted by the computational power of computers, current research on basin structural deformation mainly adopts two-dimensional discrete element simulation. However, the study of related issues such as the lateral migration of salt structures and the three-dimensional distribution and development process of strike-slip faults still relies on the application of three-dimensional discrete element simulation methods.
+This report will combine the research status of discrete element method in the quantitative analysis of structural deformation in sedimentary basins, explain its application examples in the quantitative study of compressional structures, extensional structures, and strike-slip faults, and summarize its future development advantages and challenges. The discrete element method regards the granular aggregate model as a collection of several discrete units, allowing large displacements between particles, which is particularly suitable for the quantitative study of structural deformation in sedimentary basins. It has great potential in the quantitative study of structural deformation, stress-strain, and fracture prediction, and is one of the main methods for the quantitative study of structural deformation in sedimentary basins in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords: Numerical Simulation, Sedimentary Basin, Structural Deformation, Quantitative Analysis, Stress-Strain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partial PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_cce11cdb5dbc7547a4d4a9b854ca55fe.webp 400w,
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_13489283c3d0bcebbec35153ed1c4df0.webp 760w,
+               /en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_cce11cdb5dbc7547a4d4a9b854ca55fe.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp 400w,
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_3a78d80b300400620b31c8f66102bde7.webp 760w,
+               /en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_f993ebb6acee156e1a384abc0d96301e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp 400w,
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_faf163fedfabb2c87884169c6dc84f90.webp 760w,
+               /en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_900e31e8a01832d152363b35a0cfe809.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp 400w,
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_952f4bcf9be0904f07587a062ff4e107.webp 760w,
+               /en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_35e1aedf9ed1809a34bd5eab2d0d49f6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp 400w,
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_e2ad3a1f9ef67ab949caa25fab352a07.webp 760w,
+               /en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_893a94e8911c64a4324696dad3541359.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp 400w,
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_9edd007d1f0fcff2f2588ad91fc30d06.webp 760w,
+               /en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_b450e9b3c779e15c336cb86e18ee927a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp 400w,
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7cc5813ad30a93a387da8c93b06c0e44.webp 760w,
+               /en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_7be6c3ce6498a30097d32fbb027ec2aa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp 400w,
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_a3e03f820ba72cf921d38fa345c01dc2.webp 760w,
+               /en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_b0ffd61aeda95fefa4222df3d8ce6e73.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp 400w,
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_615fda3e68dacd1bcc1bb43a77cdd24e.webp 760w,
+               /en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_e75ebcea007678175f47bd92467eda09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Beginner&#39;s Video Tutorial for ZDEM is now online!</title>
+      <link>https://geovbox.com/en/blog/video-totorial-publish/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/video-totorial-publish/</guid>
+      <description>&lt;p&gt;After nearly half a month of meticulous production (2020/02/18–2020/02/29), the beginner&amp;rsquo;s video tutorial for ZDEM is finally online today!&lt;/p&gt;
+&lt;p&gt;This video tutorial is approximately 2 hours long and is designed for users with no prior experience. Upon completing the tutorial, you will be able to use VBOX for structural numerical simulations.
+The VBOX command scripts follow the standards of the particle discrete element numerical simulation software &lt;em&gt;PFC4.0&lt;/em&gt;, allowing PFC4.0 users to get started directly without additional learning.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The video tutorial is published on &lt;strong&gt;geovbox@Bilibili&lt;/strong&gt;. For details, see &lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beginner&amp;rsquo;s Tutorial on Discrete Element Numerical Simulation Software ZDEM (DEM)&lt;/a&gt;.。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;tutorial-contents&#34;&gt;Tutorial Contents&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Principles of Discrete Element Method &amp;amp; Introduction to VBOX (Subtitles:Changsheng  Li )&lt;/li&gt;
+&lt;li&gt;Learning Methods for VBOX (Subtitles: Changsheng  Li )&lt;/li&gt;
+&lt;li&gt;Getting Started with VBOX in 10 Minutes (Subtitles: Chenjie Bi, Wenqiao Xu)&lt;/li&gt;
+&lt;li&gt;Free Fall Simulation &amp;amp; Paraview Color Configuration (Subtitles: Dawa Ciren, Changsheng  Li)&lt;/li&gt;
+&lt;li&gt;Linux Command Line Basics (Subtitles: Zhenyun Wu )&lt;/li&gt;
+&lt;li&gt;Learning VBOX Through an Example (Subtitles: Qiyang Ye)&lt;/li&gt;
+&lt;li&gt;VBOX File Formats (Subtitles: Wenqiao Xu, Li Wang)&lt;/li&gt;
+&lt;li&gt;Generating JPG, GIF &amp;amp; Parsing DAT Files (Subtitles: Yanjie Feng)&lt;/li&gt;
+&lt;li&gt;Submitting Computation Tasks Using LSF (Subtitles: Fuyuan Wang )&lt;/li&gt;
+&lt;li&gt;Submitting Computation Tasks Using SGE (Subtitles: Wenqiao Xu)&lt;/li&gt;
+&lt;li&gt;Troubleshooting Errors(Subtitles: Changsheng  Li )&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The videos were recorded and edited by Changsheng Li, with subtitles reviewed by Wenqiao Xu, Zhenyun Wu, Yanjie Feng, Qiyang Ye, Fuyuan Wang, Chenjie Bi, Li Wang, and Dawa Ciren. The final version was compiled by Changsheng Li.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;Wenqiao Xu　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;Zhenyun Wu&lt;/a&gt;　Yanjie Feng　Qiyang Ye　Fuyuan Wang　Chenjie Bi　Li Wang　Dawa Ciren&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Xinsong Zhang&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report on CGU 2019 The Impact of Substrate Property Differences on the Geological Characteristics and Evolution of the East China Sea Shelf Basin</title>
+      <link>https://geovbox.com/en/blog/20191029/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20191029/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The 33rd Topic: Comprehensive Exploration of Mineral Resources in Sedimentary Basins&lt;br&gt;
+Location：Beijing International Conference Center, Beijing&lt;br&gt;
+Time：October 29, 2019&lt;br&gt;
+Presentation Title：The Influence of Substrate Property Differences on the Structural Characteristics and Evolution of the East China Sea Shelf Basin&lt;br&gt;
+Authors：&lt;strong&gt;Li Changsheng 1&lt;/strong&gt;，Yu Yixin2，Zhou Xinhuai3 ，Chen Shi 2&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, China University of Petroleum (Beijing)&lt;/li&gt;
+&lt;li&gt;CNOOC (China) Limited Shanghai Branch&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The East China Sea shelf basin is situated at the continental margin of East Asia, which can be divided into three major tectonic belts from west to east: the western depression belt, the central uplift belt, and the eastern depression belt (Hou Fanghui, 2014). Its vertical structural features are distinct: the western depression belt is characterized by a graben-like fault system, with a predominant eastward dip and an average basin depth of approximately 3000 to 4000 meters, while the eastern depression belt exhibits a symmetric, multi-fault graben structure with depths reaching 7000 to 9000 meters. This study focuses on the Lishui depression in the western depression belt and the Xihu depression in the eastern depression belt as key research subjects. The representative seismic profiles reveal significant differences in structural characteristics between the two depressions: the faults in the Lishui depression are predominantly asymmetrical, with major faults inclined westward, whereas the Xihu depression displays a symmetrical double-fault graben structure. To further investigate the underlying reasons for the notable structural differences between the eastern and western segments of the East China Sea shelf basin, we employed a structural simulation approach.&lt;/p&gt;
+&lt;p&gt;Over the past two decades, numerical simulation and quantitative analysis have advanced rapidly, transforming the study of extensional fault structures from purely qualitative research to quantitative analysis (Li Sanzhong et al., 2003). To examine the influence of the differences in substrate strength on the structural characteristics of the western and eastern depression belts of the East China Sea shelf basin, we conducted a series of discrete element numerical simulation experiments. The micro-parameters of the particles are detailed in Li Changsheng (2019). The left substrate was simulated as a rigid substrate, wherein the velocity discontinuity points (faults) would move with the blue substrate upon extension. The red substrate simulated a ductile substrate, composed of overlapping particles, while the cyan substrate remained fixed. Bonding points connected the cyan substrate and both the blue and red substrates. As the blue substrate moved to the right, the red ductile substrate was gradually extended to simulate the stretching effect of the ductile substrate.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-numerical-simulation-experiment&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Numerical Simulation Experiment&#34; srcset=&#34;
+               /en/blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_054057d788b4394c66845e02cfd8cf36.webp 400w,
+               /en/blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_d12235d512a280a7eeba7c833a9ebbf0.webp 760w,
+               /en/blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_054057d788b4394c66845e02cfd8cf36.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Numerical Simulation Experiment
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The experimental simulation results indicated that when the substrate is set as a rigid substrate (see Figure 1a), the structural characteristics of the depression exhibit asymmetrical half-graben features due to extensional forces, with dominant eastward-leaning bounding faults. The fault roots are situated at the velocity discontinuity points of the rigid substrate, leading to the sedimentary center being located on the west side of the depression. As a result, significantly more faults are developed on the eastern side of the depression compared to the western side, with the primary fault trend leaning westward (see Figure 1b, left side of the depression). Conversely, when the substrate is set as a ductile substrate (see Figure 1a), the structural characteristics of the depression demonstrate a symmetrical graben structure, where both roots of the double bounding faults reside within the ductile substrate. The faults within the depression are symmetrically distributed about the sedimentary center, with both sides having a similar number of faults exhibiting opposite inclinations (see Figure 1b, left side of the depression).&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The simulation results closely resemble the primary structural characteristics revealed in the seismic profiles of the study area, indicating that the differences in substrate strength significantly influence the tectonic evolution of the western depression belt (Lishui depression) and the eastern depression belt (Xihu depression) of the East China Sea shelf basin, leading to the distinct &amp;ldquo;east-west zonation&amp;rdquo; features observed in the region.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;We thank Professor Julia K. Morgan from Rice University for providing the discrete element software RICEBAL (v. 5.4, modified from Peter Cundall’s TRUBAL v. 1.51). The numerical simulations in this study were conducted using the discrete element program VBOX, which was independently developed by our research team. For more examples of structural simulations, please visit &lt;a href=&#34;http://www.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Hou Fanghui.2014.Research on the distribution and tectonic characteristics of the Mesozoic strata of the East China Sea Shelf Basin.Doctoral Dissertation.Ocean University of China.&lt;/li&gt;
+&lt;li&gt;Li Changsheng.2019.Quantitative analysis and simulation of structural deformation in the fold and thrust belt based on Discrete Element Method.Doctoral Dissertation.Nanjing University.&lt;/li&gt;
+&lt;li&gt;Li Sanzhong,Yue Yunfu,Gao Zhenping,et al. 2003. Features and genesis of faults in extensional basins.Geology and Mineral Resources of South China, (02):1-8.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator:Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019 CGU Report Discussion on the Inverted Tectonic Characteristics and Seismic Control Mechanisms of the Maodong Fault Zone in Eastern China</title>
+      <link>https://geovbox.com/en/blog/20191028/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20191028/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Topic 27: Regional Seismic Tectonics and Their Seismic Hazard and Seismological Geological Disasters&lt;br&gt;
+Location：Beijing, Beijing International Conference Center, Conference Room 10 (3rd Floor, Room 301)&lt;br&gt;
+Time：&lt;strong&gt;October 28, 2019 14:55-15:10&lt;/strong&gt;&lt;br&gt;
+Title：Inverted Tectonic Characteristics and Seismic Control Mechanisms of the Maodong Fault Zone in Eastern China: Insights from Discrete Element Numerical Simulation&lt;br&gt;
+Speaker：&lt;em&gt;Wu Zhenyun, Yin Hongwei, Li Changsheng&lt;/em&gt; Donghua University of Science and Technology, Nanjing University&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Abstract：By analyzing the geological structure and historical seismic characteristics of the Maodong Fault Zone, combined with discrete element simulation experiments, the tectonic inversion and fault activity characteristics of the faulted basin under compressive stress were analyzed. The study explored the inverted tectonic characteristics of the Maodong Fault Zone, as a faulted basin, under the current regional stress field and the mechanism of normal fault inversion for seismic control. The results indicate that:（1）Under compressive stress, tectonic inversion occurs in the faulted basin, which reactivates pre-existing normal faults and leads to the deformation of shallow strata, but the pre-existing faults in the basin generally maintain a normal fault shape；&lt;strong&gt;（2）During the process of tectonic inversion, stress-strain convergence is more likely to occur preferentially along the basal fault plane, gradually propagating into the sedimentary strata, ultimately triggering structural deformation at the shallow surface；&lt;/strong&gt;（3）The Maodong Fault Zone is an active fault group, with the Maodong Fault and other boundary faults (basal faults) controlling basin activity. Along such faults, stress-strain convergence is evident, making them capable of generating medium to large earthquakes. Additionally, other concealed secondary pre-existing faults within the faulted basin may also have the potential for activity, with stress-strain convergence occurring in the strata between fault blocks under compressive-torsional stress fields, making them capable of generating shallow-source small earthquakes.
+&lt;strong&gt;Keywords: Faulted Basin; Discrete Element Simulation; Maodong Fault Zone; Tectonic Inversion; Fault Activity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The eastern part of China is influenced by the combined effects of the subduction of the Pacific Plate to the west and the subduction of the Philippine Plate to the northwest towards the Eurasian continent. The main characteristics of the modern tectonic stress field are expressed as compressive stress in the northeast-east to southwest-west direction (Figure 1a). Affected by the dextral strike-slip movement along the Tan-Lu Fault Zone and the dextral strike-slip movement along the southeastern coastal fault zones, the eastern part of the Lower Yangtze Block is mainly located in the compressive-torsional transition zone between these forces (Figure 1a). The modern tectonic stress field in the Lower Yangtze Block shows distinct compressive-torsional characteristics, leading to the development of both normal and reverse fault structures within the faulted basins of the region (Figure 1b).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-regional-location-map-of-the-study-area-and-distribution-of-historical-earthquakes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Regional Location Map of the Study Area and Distribution of Historical Earthquakes&#34; srcset=&#34;
+               /en/blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_2308be86190e1669b3cd4a8cc482a154.webp 400w,
+               /en/blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_94054b6454aa68c8e8fe961e212cbdb8.webp 760w,
+               /en/blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_2308be86190e1669b3cd4a8cc482a154.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Regional Location Map of the Study Area and Distribution of Historical Earthquakes
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;maodong-faulted-basin&#34;&gt;Maodong Faulted Basin&lt;/h2&gt;
+&lt;p&gt;Within the faulted basin (e.g., the Zhiqi Bridge Depression), high-angle faults are distributed, and these faults generally exhibit normal fault characteristics (Figure 2a). On the western side of the depression, the faults dip to the southeast (SEE); on the eastern side of the depression, the faults dip to the northwest (NWW) (Figure 2a). Previous studies along the Maodong Fault have conducted detailed geological surveys, resulting in representative surface geological profiles of the Maodong Faulted Basin (Figures 2b to 2d). These geological profiles indicate that along the Maodong Fault, the strata have undergone varying degrees of folding deformation. In addition, along the Maodong Fault, some Quaternary sedimentary strata in the faulted basin have been disrupted by faulting (Figure 2b) or have experienced co-tectonic deformation (Figure 2d), further demonstrating that the reverse faulting activity along the Maodong Fault has persisted into the Quaternary.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-exploration-profile-of-the-maodong-faulted-basin&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Exploration Profile of the Maodong Faulted Basin&#34; srcset=&#34;
+               /en/blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_1950297af4e9c4091e7df3929b5e88a0.webp 400w,
+               /en/blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_7abc4f8f6fed19bf0303b163bada4af8.webp 760w,
+               /en/blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_1950297af4e9c4091e7df3929b5e88a0.webp&#34;
+               width=&#34;666&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Exploration Profile of the Maodong Faulted Basin
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;model-design&#34;&gt;Model Design&lt;/h2&gt;
+&lt;p&gt;The initial model for the discrete element simulation experiment in this study is shown in Figure 5. The model includes two types of basic particles representing rock grains, with radii set to 40 m and 60 m, respectively. All particles are randomly distributed within a closed square box, and they are allowed to settle and compact under the influence of gravity. In the experimental design, pre-existing normal faults (weakened faults) within the basin are defined, and the hanging wall and footwall of the faults are allowed to deform freely, so as to observe the deformation patterns of the hanging and footwalls during the compressive inversion process. To facilitate observation, the particles are marked with different colors: red represents the pre-existing normal fault, gray represents the basement strata, and blue, purple, and yellow represent the sedimentary strata. The left and bottom boundaries of the model are fixed, while the right boundary is pushed leftward to generate a compressive effect.
+In this experiment, the experimental model parameters were set based on previous designs. The particle density of the basement rock layer is 2500 kg·m^-3, and the particle density of the cover rock layer is 2200 kg·m^-3. At the same time, the friction coefficient for each layer is set to 0.3, and the particles exhibit cohesive forces. The friction coefficient between the pre-existing weakened faults is set to 0, and there is no cohesive force between the faults and any particles. The Poisson&amp;rsquo;s ratio for all particles in the model is set to 0.2.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-discrete-element-numerical-simulation-experimental-model-design-for-tectonic-inversion-in-faulted-basins&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Discrete Element Numerical Simulation Experimental Model Design for Tectonic Inversion in Faulted Basins&#34; srcset=&#34;
+               /en/blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_385d45f8d237b3fecadf0e926dd57d7e.webp 400w,
+               /en/blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_e21f094d03cb8d1fa80fd7bf96ea4ce6.webp 760w,
+               /en/blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_385d45f8d237b3fecadf0e926dd57d7e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;263&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Discrete Element Numerical Simulation Experimental Model Design for Tectonic Inversion in Faulted Basins
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;In the initial stage of the experiment, the model did not exhibit significant tectonic deformation (Figure 4a1). However, strain analysis of the model revealed the development of volumetric and shear strains, primarily distributed along the pre-existing basement fault surface. This indicates that, in this stage, compressive stress mainly concentrated along the pre-existing basement fault, while the stress concentration in the sedimentary layers (cover layers) was minimal, resulting in almost no strain distribution (Figures 4a2 to 4a3). As compressive stress continued to act (e.g., when the compressive displacement reached 4%), the internal structural deformation and strain distribution remained concentrated along the basement fault, with only slight volumetric strain starting to develop in the shallow layers of the sedimentary cover (Figure 4b). When the compressive displacement reached 6.5%, the pre-existing basement fault began to reverse and activate, resulting in displacement (the fault maintained a normal fault character overall). Strain began to expand gradually from the basement fault surface into the sedimentary cover layers, and slight surface topography changes occurred within the model (Figure 4c), indicating that the stress had propagated to the surface and caused minor surface deformation.&lt;/p&gt;
+&lt;h2 id=&#34;experimental-results&#34;&gt;Experimental Results&lt;/h2&gt;
+&lt;p&gt;As the compressive displacement continued to increase (8.5%–13%), the degree of subsidence within the model began to increase, while the reverse displacement of the pre-existing basement fault showed little change, and the overall structural morphology also remained nearly unchanged (Figures 4d to 4e). On the side near the compressive end, a triangular strain region formed in the upper sedimentary layers (cover layers) above the concealed pre-existing basement fault (Figures 4d2 to 4d3). In this region, both volumetric strain and shear strain gradually increased with the increase in compressive displacement, indicating that compressive stress along the pre-existing basement fault gradually concentrated in this area. Additionally, along the large fault at the left basement boundary, strain also gradually extended into the shallow layers, and the fault reverse displacement started to gradually increase.
+When the compressive displacement increased to 15.5%, the large fault along the left basement boundary exhibited significant displacement, and reverse fault-related folds began to develop (Figures 4g1 to 4i1). In the basement horst and graben basin, the pre-existing faults experienced some degree of rotation and distortion due to the compressive stress. At this stage, the pre-existing faults in both the basement and the sedimentary layers (cover layers) were activated simultaneously, causing the volumetric strain and shear strain in the sedimentary layers to continue increasing. When the compressive displacement reached 20%, significant drag folding structural deformation occurred in the sedimentary layers above the large basement fault, while the cover layers inside the graben basin exhibited an overall folding pattern, forming a &amp;ldquo;folded above and faulted below&amp;rdquo; and &amp;ldquo;convex above and concave below&amp;rdquo; structural morphology.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_9f724054ba52790b886b35d3b2b25492.webp 400w,
+               /en/blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_0ea8a60861237b5950e04932a9997228.webp 760w,
+               /en/blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_9f724054ba52790b886b35d3b2b25492.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_9dc03125bffc50d23539ebd08017819d.webp 400w,
+               /en/blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_6b0e8786d843826f79fdc7558ab0ac08.webp 760w,
+               /en/blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_9dc03125bffc50d23539ebd08017819d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-evolution-of-structural-normal-reverse-inversion-in-a-graben-basin-based-on-discrete-element-simulation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 4: Evolution of Structural Normal-Reverse Inversion in a Graben Basin Based on Discrete Element Simulation&#34; srcset=&#34;
+               /en/blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_9bf456cc0e7f2d3fb21866b03ef7ddf7.webp 400w,
+               /en/blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_95ac5d20a60dc0f0b97104dcf8897192.webp 760w,
+               /en/blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_9bf456cc0e7f2d3fb21866b03ef7ddf7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 4: Evolution of Structural Normal-Reverse Inversion in a Graben Basin Based on Discrete Element Simulation
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;implications-of-the-research-results-for-the-maodong-graben-zone&#34;&gt;Implications of the Research Results for the Maodong Graben Zone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Maodong Graben Basin exhibits characteristics of both normal and reverse structural inversion&lt;/li&gt;
+&lt;li&gt;The reverse fault inversion controls the occurrence of earthquakes in this region.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Acknowledgements  The numerical simulation experiment in this paper was conducted using the RICEBAL discrete element computational program and the subsequent stress-strain analysis code provided by Professor Julia Morgan from Rice University, USA. Constructive feedback and suggestions were provided by two anonymous reviewers during the manuscript review process. We would like to express our sincere gratitude to them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The same experiment can also be conducted using VBOX&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Wu, Z.Y., Yin, H.W., Li, C.S., et al. Experimental Simulation of Normal-Reverse Inversion in Graben Basins and Its Implications for the Maodong Fault Zone.&lt;strong&gt;Journal of Nanjing University (Natural Sciences)&lt;/strong&gt;,2019,5(55):869-878.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report on the 2nd &#34;Young Scholars Forum on Tectonic Geology and Geodynamics&#34;</title>
+      <link>https://geovbox.com/en/blog/201903/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/201903/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Topic 11: Coupling of Basin-Mountain Tectonics and Sedimentation&lt;br&gt;
+Location：Conference Room A125, First Floor, Zhugongshan Building (School of Earth Sciences), Xianlin Campus, Nanjing University
+Time：&lt;strong&gt;March 31, 2019 (Sunday) 10:45-11:00&lt;/strong&gt;&lt;br&gt;
+Title：The Impact of Co-Tectonic Sedimentation on the Salt Structure Deformation Evolution and Stress-Strain Distribution in the Kuqa Depression
+Speaker：Li Changsheng* Nanjing University&lt;br&gt;
+&lt;a href=&#34;vbox%e6%a6%82%e8%a7%8820190326.pdf&#34;&gt;Download poster&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Discrete element numerical simulation is an important method for studying the process and mechanisms of tectonic deformation, particularly suited for investigating geological issues related to tectonic deformation.
+VBOX uses a mature contact mechanics model and is equipped with comprehensive software manuals and structural simulation examples. It significantly outperforms other discrete element numerical simulation software （such as&lt;a href=&#34;https://www.itascacg.com/software/pfc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFC2D&lt;/a&gt;，&lt;a href=&#34;https://yade-dev.gitlab.io/trunk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YADE&lt;/a&gt;）。 Furthermore, researchers with no programming background can also master VBOX in a short period of time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprehensive software manual&lt;br&gt;
+&lt;a href=&#34;https://doc.geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doc.geovbox.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contact mechanics model suitable for structural simulation
+&lt;a href=&#34;http://pdfs.semanticscholar.org/9d92/6eda2b7a1e31b35c451c503bcd95dfe7c877.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardy et al, 2009&lt;/a&gt;; &lt;a href=&#34;http://scholarship.rice.edu/bitstream/1911/80855/1/jgrb51133.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morgan, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The related calculations can be completed within a day&lt;/li&gt;
+&lt;li&gt;Rich structural simulations&lt;a href=&#34;https://geovbox.com/gallery/&#34;&gt;instance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Log in to the High-Performance Computing Center of Nanjing University &lt;a href=&#34;http://hpcc.nju.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hpcc.nju.edu.cn&lt;/a&gt;，It is ready to use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will present the topic &lt;strong&gt;The Impact of Co-Tectonic Sedimentation on the Salt Structure Deformation Evolution and Stress-Strain Distribution in the Kuqa Depression&lt;/strong&gt; at the 2nd &amp;ldquo;Young Scholars Forum on Tectonic Geology and Geodynamics,&amp;rdquo; held from March 29 to April 3, 2019.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_da2c6dea521054157b1943c1f00b3947.webp 400w,
+               /en/blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_d010db775d6e4aad6c506d1a8555659e.webp 760w,
+               /en/blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_da2c6dea521054157b1943c1f00b3947.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_531645df47e96139ef20cb2a14feab3f.webp 400w,
+               /en/blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_987ab091d5ec58ad286cbfc8c5d8f6c3.webp 760w,
+               /en/blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_531645df47e96139ef20cb2a14feab3f.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;Hardy S, McClay K, Anton Muñoz J. 2009. Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. Mar Petrol Geol, 26: 232-248.&lt;/li&gt;
+&lt;li&gt;Morgan J K. 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120: 3870-3896.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 AGU Fall Meeting Comparative Analysis of Discrete Element Numerical Modeling and Physical Analog Modeling in Geosciences</title>
+      <link>https://geovbox.com/en/blog/agu2017/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/agu2017/</guid>
+      <description>&lt;p&gt;Download：&lt;a href=&#34;Li2017_Poster_AGU.pdf&#34;&gt;posters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The discrete element method has various stringent assumptions. *Can it simulate construction? Can it replicate real physical events in the laboratory? *These are the questions that concern us in this meeting.
+The team presented the paper &amp;ldquo;Comparison of Discrete Element Numerical Simulation and Physical Simulation&amp;rdquo; at the American Geophysical Union 2017 Fall Meeting, held from December 10-16, 2017.&lt;/p&gt;
+&lt;p&gt;We participated in the American Geophysical Union (AGU) 2017 Fall Meeting with the presentation titled &lt;strong&gt;Comparison of Discrete Element Numerical Simulation and Physical Simulation&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 Annual Meeting of the Chinese Geoscience Union:The Influence of Detachment Layer Strength on Compressional Tectonics</title>
+      <link>https://geovbox.com/en/blog/cgu2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/cgu2017/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Location：Beijing&lt;br&gt;
+Time：&lt;strong&gt;2017&lt;/strong&gt;&lt;br&gt;
+Topic：Effects of Detachment Layer Strength on Compressional Structures: Insights from Discrete Element Numerical Modeling&lt;br&gt;
+Download：[posters](Li Changsheng 2017 The Influence of Detachment Zone Strength on Contractional Tectonics-A Discrete Element Modeling Approach-CGU posters.pdf)
+[Thesis](Li Changsheng 2017 The Influence of Detachment Layer Strength on Compressional Structures-A Discrete Element Numerical Simulation Study-CGU thesis.pdf)
+&lt;a href=&#34;http://t.cn/EX34QrW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNKI link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Discrete Element Method (DEM) numerical simulation has emerged as a pivotal approach for investigating tectonic deformation processes and mechanisms. This technique effectively overcomes the rheological and scaling limitations inherent in physical analog modeling. In contrast to continuum-based numerical methods, DEM simulates system dynamics through particle-particle interactions, enabling researchers to directly observe and quantify kinematic evolution. Its unique capacity to accommodate large interparticle displacements makes it particularly suited for modeling high-strain deformation, offering distinct advantages in addressing geological problems related to structural deformation.&lt;/p&gt;
+&lt;p&gt;Our team presented the research &lt;strong&gt;The Influence of Detachment Zone Strength on Compressional Tectonics: A Discrete Element Modeling Approach&lt;/strong&gt; at the 2017 Annual Meeting of the Chinese Geoscience Union (CGU) as a [poster&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-initial-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial model&#34; srcset=&#34;
+               /en/blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_ef325676450bc84d0a4fd9774b0fe9ee.webp 400w,
+               /en/blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_e4af5c84eec269ddd7cc921356232d5f.webp 760w,
+               /en/blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_ef325676450bc84d0a4fd9774b0fe9ee.webp&#34;
+               width=&#34;377&#34;
+               height=&#34;141&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Initial model
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-when-the-extrusion-capacity-is-10kmtectonic-deformation-and-strain&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;When the extrusion capacity is 10km，Tectonic deformation and strain&#34; srcset=&#34;
+               /en/blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_9d11c41d18e772026562146806bee057.webp 400w,
+               /en/blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_b478a0a308d8c6552349ffa207e2bfcf.webp 760w,
+               /en/blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_9d11c41d18e772026562146806bee057.webp&#34;
+               width=&#34;312&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      When the extrusion capacity is 10km，Tectonic deformation and strain
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congratulations on the launch of ZDEM&#39;s official website</title>
+      <link>https://geovbox.com/en/blog/webpublish/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/webpublish/</guid>
+      <description>&lt;p&gt;After weeks of meticulous design and regulatory filing, ZDEM has officially launched its corporate website. The platform serves as a dedicated hub for publishing cutting-edge research developments and computational case studies, with ongoing efforts to complete and release supporting software packages and technical manuals.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wu Zhenyun | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/wu-zhenyun/</link>
+      <atom:link href="https://geovbox.com/en/authors/wu-zhenyun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wu Zhenyun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Wu Zhenyun</title>
+      <link>https://geovbox.com/en/authors/wu-zhenyun/</link>
+    </image>
+    
+    <item>
+      <title>Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts</title>
+      <link>https://geovbox.com/en/blog/20210716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210716/</guid>
+      <description>&lt;div id=&#34;refer-wu2021&#34;&gt;&lt;/div&gt;
+[Wu Z, Yin H, Li C, Yang X, Wang L, Wang F, Dong S and Jia D (2021) Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts:
+Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold- Thrust Belt. Front. Earth Sci. 9:659682. doi: 10.3389/feart.2021.659682](https://doi.org/10.3389/feart.2021.659682) 
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Influence of Regional Erosion and Sedimentary Loading on Fault Activities in Active Fold-Thrust Belts: Insights From Discrete Element Simulation and the Southern and Central Longmen Shan Fold-Thrust Belt&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wu Z&lt;sup&gt;1,2&lt;/sup&gt;, Yin H&lt;sup&gt;3&lt;/sup&gt;, Li C&lt;sup&gt;1,2&lt;/sup&gt;, Yang X&lt;sup&gt;2&lt;/sup&gt;, Wang L&lt;sup&gt;2&lt;/sup&gt;, Wang F&lt;sup&gt;2&lt;/sup&gt;, Dong S&lt;sup&gt;3&lt;/sup&gt; and Jia D&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Four groups of discrete element models (DEMs) were set-up to simulate and analyze the influence of regional erosion and sedimentary loading on the formation and spatial-temporal evolution of faults in the southern and central Longmen Shan (LMS) active fold-thrust belt. The interior characteristics of faults in the southern and central LMS fold-thrust belt were also evaluated during the interaction of tectonic processes and surface processes according to the stress-strain analysis from DEM results. The results showed that synkinematic erosion promoted the reactivation of pre-existing faults in thrust wedges and also retarded the formation and development of new incipient faults in the pre-wedge regions. Meanwhile, synkinematic sedimentation also delayed the development of new incipient faults in the pre-wedge regions by promoting the development of thrust faults in the front of thrust wedges, causing these thrust wedges in supercritical stages with relatively narrow wedge lengths. According to these DEM results, we infer that: 1) The characteristics of erosion and sedimentation in the central and southern LMS have important influences on the activities of large faults which are extended into the deep detachment layer; 2) Besides differential erosion, the differential sedimentary loading may also be one of the important factors for the along-strike differential evolution of the LMS fold-thrust belt. This kind of differential deposition may lead to differential fault activity and uplift in the interior thrust wedge and pre-wedge region in the central and southern LMS; 3) Compared to the northern LMS, the central LMS and southern LMS is more conducive to the occurrence of earthquakes, because of synkinematic sedimentation (such as the growth of Chengdu plain) has a greater blocking effect on the stress propagation and strain convergence on the fault planes of front faults of an active thrust wedge.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_a64577ba159971b6f7b4cb45958c9f59.webp 400w,
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_9c49bf9ee36bdac3434efbaddd801c9e.webp 760w,
+               /en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure1_hu8e275880bcc8aa2d700fea64bca65f5d_184003_a64577ba159971b6f7b4cb45958c9f59.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;669&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;FIGURE 1 | Regional map of the LMS fold-thrust belt (A) and its geological structure map (B) (modified from [(Sun et al.,2016)](#refer-sun2016), Co-seismic rupture zones from [(Xu et al.,2009)](#refer-xu2009). (C) shows the thickness contour lines (100 m interval) of the Upper Pliocene and Quaternary (syntectonic sedimentary strata) beneath the Chengdu plain (cited from [(Li et al.,2018)](#refer-li2018). JTF, Jintang Fault; WLF, Wulong Fault; WMF, Wenxian-Maoxian Fault; SDF, Shuangshi-Dachuan Fault; PGF, Pengxian-Guanxian Fault; YBF, Yingxiu-Beichuan Fault; YAF, Yaan Fault; LQF, Longquanshan Fault; QCF, Qingchuan Fault; MJF, Minjiang Fault; HYF, Huya Fault; RFBT, Range Front Blind Thrust. &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_0f7a07aa20d7c3efc3df725b5231fd69.webp 400w,
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_ae7b2af93a7060e9b53310216e6c3057.webp 760w,
+               /en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure10_hufcdf19d454cb25bf5766cae5987f37bf_172946_0f7a07aa20d7c3efc3df725b5231fd69.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;461&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; FIGURE 10 | Stress analysis of DEM simulations in Model 1 (A), Model 2 (B), Model 3 (C), and Model 4 (D). Mean stress (upper figure) and maximum shear stress (lower figure) are presented after every 2 units shortening. The main fault shapes (shades of black) are assigned to the stress maps.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1463a9bd03c3f133e08298fc12810054.webp 400w,
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_85a3d6e2691cf755d0c45d27a456a1b3.webp 760w,
+               /en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210716/figure13_hu8883d115a79024024736e905a393e2f8_91185_1463a9bd03c3f133e08298fc12810054.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;FIGURE 13 | The DEM results in this paper (A) and the conceptual model modified from Liu et al., 2020(B) present the occurrence of recess and salient in the front of thrust wedges.&lt;/h5&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-li2018&#34;&gt;&lt;/div&gt;
+Li, Z., Zhang, P., Zheng, W., Jia, D., Hubbard, J., Almeida, R., et al. (2018b). Oblique Thrusting and Strain Partitioning in the Longmen Shan Fold-Andthrust belt, Eastern Tibetan Plateau. J. Geophys. Res. Solid Earth 123, 4431-4453. doi:10.1029/2018JB015529
+&lt;div id=&#34;refer-sun2016&#34;&gt;&lt;/div&gt;
+Sun, C., Jia, D., Yin, H., Chen, Z., Li, Z., Shen, L., et al. (2016). Sandbox Modeling of Evolving Thrust Wedges with Different Preexisting Topographic Relief: Implications for the Longmen Shan Thrust belt, Eastern Tibet. J. Geophys. Res. Solid Earth 121, 4591–4614. doi:10.1002/2016jb013013
+&lt;div id=&#34;refer-xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., et al. (2009). Coseismic Reverse- and Oblique-Slip Surface Faulting Generated by the 2008 Mw 7.9 Wenchuan Earthquake, China. Geology 37 (6), 515–518. doi:10.1130/g25462a.1
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course on Basin Tectonic Analysis and Tectonic Simulation</title>
+      <link>https://geovbox.com/en/blog/20200513/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20200513/</guid>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;course-playback&#34;&gt;Course Playback&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bilibili　https://www.bilibili.com/video/BV1AC4y1p7KJ/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tencent-meeting-ended&#34;&gt;Tencent Meeting (Ended)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course Time: 2020/5/15 19:00-21:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click to Join：https://meeting.tencent.com/s/QItAu0F7kUOG&lt;/li&gt;
+&lt;li&gt;Meeting ID：397 756 829&lt;/li&gt;
+&lt;li&gt;Meeting ID: &lt;a href=&#34;https://meeting.tencent.com/l/nhCMLpFYjLeF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meeting.tencent.com/l/nhCMLpFYjLeF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meeting Password: 200515&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;course-introduction&#34;&gt;Course Introduction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation Title: Basin Tectonic Analysis and Tectonic Simulation - A Case Study of the Salt Structures in the Kuqa Depression&lt;/li&gt;
+&lt;li&gt;Presenter: Wu Zhenyun&lt;/li&gt;
+&lt;li&gt;Content Summary:
+&lt;ol&gt;
+&lt;li&gt;Introduction to basin (salt) tectonics and its research significance;&lt;/li&gt;
+&lt;li&gt;How to conduct basin (salt) tectonic analysis and the introduction of key technologies;&lt;/li&gt;
+&lt;li&gt;Introduction to tectonic physical simulation and numerical simulation techniques;&lt;/li&gt;
+&lt;li&gt;Overview of the current research progress on the salt structures in the Kuqa Depression.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;This course is part of the graduate program &amp;ldquo;Research Progress in Geological Resources and Geological Engineering&amp;rdquo; at East China University of Technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200513/1_hua3c56cfa5b11b5a8fdcec22f308efcc7_220699_11fc3f4a6f716cd6ab4cf9db5d7f4dbb.webp 400w,
+               /en/blog/20200513/1_hua3c56cfa5b11b5a8fdcec22f308efcc7_220699_916063667758c40fdbaba14b2fbf1174.webp 760w,
+               /en/blog/20200513/1_hua3c56cfa5b11b5a8fdcec22f308efcc7_220699_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200513/1_hua3c56cfa5b11b5a8fdcec22f308efcc7_220699_11fc3f4a6f716cd6ab4cf9db5d7f4dbb.webp&#34;
+               width=&#34;564&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200513/2_hu44ee3eb915b447311e05ab7592bd91b4_376971_23ead861d59a9361d849f50941144474.webp 400w,
+               /en/blog/20200513/2_hu44ee3eb915b447311e05ab7592bd91b4_376971_c229f128768df7bc4f15a613816621b5.webp 760w,
+               /en/blog/20200513/2_hu44ee3eb915b447311e05ab7592bd91b4_376971_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200513/2_hu44ee3eb915b447311e05ab7592bd91b4_376971_23ead861d59a9361d849f50941144474.webp&#34;
+               width=&#34;562&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200513/3_hu1e14333417ee6b59661b9efe13b8533e_268728_c88bba86c2269c928177dbe6635c2663.webp 400w,
+               /en/blog/20200513/3_hu1e14333417ee6b59661b9efe13b8533e_268728_7bbc6945f71f4886b5875e3d63b6b215.webp 760w,
+               /en/blog/20200513/3_hu1e14333417ee6b59661b9efe13b8533e_268728_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200513/3_hu1e14333417ee6b59661b9efe13b8533e_268728_c88bba86c2269c928177dbe6635c2663.webp&#34;
+               width=&#34;565&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200513/4_hu24bb790d014fff20c443ea14fe07ca65_261636_e25c223b6bd5dd1c26bb0fb1afc0ac34.webp 400w,
+               /en/blog/20200513/4_hu24bb790d014fff20c443ea14fe07ca65_261636_4c8c65d8a8cad05495122982bf43b073.webp 760w,
+               /en/blog/20200513/4_hu24bb790d014fff20c443ea14fe07ca65_261636_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200513/4_hu24bb790d014fff20c443ea14fe07ca65_261636_e25c223b6bd5dd1c26bb0fb1afc0ac34.webp&#34;
+               width=&#34;562&#34;
+               height=&#34;421&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-部分内容&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;部分内容&#34; srcset=&#34;
+               /en/blog/20200513/5_hub9be27f32ff32fe06c6b9f6b87bd7037_258759_110387ccd74a6932a697ea21ef08b5e4.webp 400w,
+               /en/blog/20200513/5_hub9be27f32ff32fe06c6b9f6b87bd7037_258759_d8a40f3ac0f900e7109483ca97d1feb5.webp 760w,
+               /en/blog/20200513/5_hub9be27f32ff32fe06c6b9f6b87bd7037_258759_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200513/5_hub9be27f32ff32fe06c6b9f6b87bd7037_258759_110387ccd74a6932a697ea21ef08b5e4.webp&#34;
+               width=&#34;563&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      部分内容
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

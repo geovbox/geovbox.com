@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E8%AE%BA%E6%96%87/</link>
+      <atom:link href="https://geovbox.com/category/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>论文</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>论文</title>
+      <link>https://geovbox.com/category/%E8%AE%BA%E6%96%87/</link>
+    </image>
+    
+    <item>
+      <title>Validation Tests for Discrete Element Codes Using Single-Contact Systems</title>
+      <link>https://geovbox.com/blog/international-journal-of-geomechanics/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/international-journal-of-geomechanics/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;下载：MATLAB codes &lt;a href=&#34;Solve_T1_T2_T3_T4.m&#34;&gt;Solve_T1_T2_T3_T4.m&lt;/a&gt; &lt;a href=&#34;Fs.m&#34;&gt;Fs.m&lt;/a&gt; PFC codes &lt;a href=&#34;Fn_T1_T2final.txt&#34;&gt;Fn_T1_T2final.txt&lt;/a&gt; &lt;a href=&#34;Fs_T3_T4final.txt&#34;&gt;Fs_T3_T4final.txt&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;论文基于VBOX从解析解角度测试了离散元中单接触系统的稳定性，见 &lt;a href=&#34;https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全文&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
