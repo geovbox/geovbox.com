@@ -16,9 +16,9 @@ images:
     </div>
 </div>
 
-**PhD, Lecturer, Master's Supervisor**
+**PhD, Associate professor, Master's Supervisor**
 
-School of Earth Sciences,
+School of Earth and Planetary Sciences,
 East China University of Technology,
 Nanchang, Jiangxi Province 330032
 P.R. of China
@@ -34,7 +34,8 @@ Email: lichangsheng@ecut.edu.cn
 > My research interests reside in structural geology, discrete element model and analogue model, as well as high performance computing (OpenMP, GPU).
 
 ## Employment
-- **03/2019-Present**    Scientific research and teaching in Structural Geology, School of Earth Sciences, East China University of Technology, China
+- **09/2026-Present**    Post-doctoral fellow, Institut de Physique du Globe de Paris (IPGP) of Université Paris Cité, France
+- **03/2019-Present**    Scientific research and teaching in Structural Geology, School of Earth and Planetary Sciences, East China University of Technology, China
 - **2019.11~2020.11**    Visiting Scholar at the Research Institute of Petroleum Exploration and Development (RIPED), China National Petroleum Corporation (CNPC) 
 
 ## Education
