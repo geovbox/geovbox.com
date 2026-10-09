@@ -55,56 +55,40 @@ Email: lichangsheng@ecut.edu.cn
 
 ## Publications:
 
-
+- **2026**
+	- [Li L., **Li C.S.***, Zhang X.\*, et al. (2026). Analysis and Calibration of DEM Parameters for Rock Materials Based on Interpretable Machine Learning. Geotechnics, 6(4), 104.](https://doi.org/10.3390/geotechnics6040104) 
+- **2025**
+	- [**Li C.S.**, Li S.J., Hu Z.Q., et al. 2025. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
+	- [**Li C.S.**, Zhang X.S. 2025. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
+	- [ZHANG XinSong, **LI ChangSheng***, et al. CT image segmentation and 3d reconstruction of soil-rock mixture based on neural network.Journal of Engineering Geology, 33(03):1230-1239.](https://doi.org/10.13544/j.cnki.jeg.2024-0253)
 **2024**
-- [ZHANG XinSong, **LI ChangSheng**, et al. CT image segmentation and 3d reconstruction of soil-rock mixture based on neural network.Journal of Engineering Geology,1-13[2025-02-07].https://doi.org/10.13544/j.cnki.jeg.2024-0253.](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273eZxsjEtS6ty10QspQe0P4K0gs74sJPo90jZ6K_9O6Wmc3-POykWJOzjKmoOZYZBPAgm2Y-FY_o8NTM-HRIVlha9f03oAaED8uEgovMdK_Y6RiRnXEHoFeqz66qc6-9Kt68cmdtXn-uo7nl0SXLp7TIOhmHzX3kvqVu4_im6eNZvCOBy8QNd55&uniplatform=NZKPT&language=CHS)
-- [Xu WenQiao., Yin HongWei, Zhao ShengXian,Zhang ChenLin, **Li ChangSheng**, et al. **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
+	- [Xu WenQiao., Yin HongWei, Zhao ShengXian,Zhang ChenLin, **Li ChangSheng**, et al. **2024**. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,**Journal of Structural Geology**,180:105068.](https://doi.org/10.1016/j.jsg.2024.105068) 
 **2023**
-- [YIN HongWei, JIA Dong, WANG Wei,**LI ChangSheng**, XU WenQiao, et al.**2023**.Application and development of numerical simulation in the study of fold-and-thrust belts in sedimentary basins. Acta Geologica Sinica(09),2914-2926. (in Chinese with English abstract)](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136)
-- [ZHAO Shengxian,XU Wenqiao, Yang Xuefeng, Yin Hongwei,Li Bo,Wang Wei, ... & **Li Changsheng**. **2023**. Structural characteristics and deformation mechanisms of multipledetachments in Luzhou area, southeastern Sichuan Basin. Geological Journal of China Universities, 29(5), 726. (in Chinese with English abstract)](https://doi.org/10.16108/j.issn1006-7493.2022029)
-
+	- [YIN HongWei, JIA Dong, WANG Wei,**LI ChangSheng**, XU WenQiao, et al.**2023**.Application and development of numerical simulation in the study of fold-and-thrust belts in sedimentary basins. Acta Geologica Sinica(09),2914-2926. (in Chinese with English abstract)](https://doi.org/10.19762/j.cnki.dizhixuebao.2023136)
+	- [ZHAO Shengxian,XU Wenqiao, Yang Xuefeng, Yin Hongwei,Li Bo,Wang Wei, ... & **Li Changsheng**. **2023**. Structural characteristics and deformation mechanisms of multipledetachments in Luzhou area, southeastern Sichuan Basin. Geological Journal of China Universities, 29(5), 726. (in Chinese with English abstract)](https://doi.org/10.16108/j.issn1006-7493.2022029)
 **2022**  
-
-- [**LI ChangSheng**, YIN HongWei, XU WenQiao, et al. 2022. Quantitative Analysis and Simulation of Compressive Tectonics Based on Discrete Element Method. Geotectonica et Metallogenia, 46(04): 645-661. (in Chinese with English abstract)](https://link.oversea.cnki.net/doi/10.16539/j.ddgzyckx.2022.04.001) 
-
+	- [**LI ChangSheng**, YIN HongWei, XU WenQiao, et al. 2022. Quantitative Analysis and Simulation of Compressive Tectonics Based on Discrete Element Method. Geotectonica et Metallogenia, 46(04): 645-661. (in Chinese with English abstract)](https://link.oversea.cnki.net/doi/10.16539/j.ddgzyckx.2022.04.001) 
 **2021** 
-
-- [**Li Changheng**, Yin Hongwei*, et al. **2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
-- [Wu Zhengyun*, **LI Changsheng**, Yin Hongwei, et al. **2021**. Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
-- [**Li Changsheng**, Yin Hongwei*, et al. **2021**. Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
-- [Xu Wenqiao, Yin HongWei, Jia Dong, **Li ChangSheng**, et al. **2021**. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
-
+	- [**Li Changheng**, Yin Hongwei*, et al. **2021** Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+	- [Wu Zhengyun*, **LI Changsheng**, Yin Hongwei, et al. **2021**. Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
+	- [**Li Changsheng**, Yin Hongwei*, et al. **2021**. Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+	- [Xu Wenqiao, Yin HongWei, Jia Dong, **Li ChangSheng**, et al. **2021**. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
 **2020**  
-
-- [Xu Wenqiao , Wang Wei, Yin Hongwei, Jia Dong, **Li Changsheng**, et al. (2020). Numerical simulation of different subsalt structural features and their evolution in the eastern and western segments of the Kuqa Depression. Acta Geologica Sinica, 94(6), 1740-1751.(in Chinese with English abstract)](http://t.cn/A6y6QcwC)  
-
+	- [Xu Wenqiao , Wang Wei, Yin Hongwei, Jia Dong, **Li Changsheng**, et al. (2020). Numerical simulation of different subsalt structural features and their evolution in the eastern and western segments of the Kuqa Depression. Acta Geologica Sinica, 94(6), 1740-1751.(in Chinese with English abstract)](http://t.cn/A6y6QcwC)  
 **2019**  
-
-- [Zhang Yinzhao,Li Changsheng, et al. (2019). Discrete Element Numerical Simulation of Extensional Tectonics-Examples of Qiongdongnan Basin. Research & Exploration in Laboratory, 38(11).(in Chinese with English abstract)](http://t.cn/A6hj2FNU)  
-- [Li Changsheng. **(2019)**. Quantitative Analysis and Simulation of Structural Deformation in the Fold and Thrust Belt Based on Discrete Element Method. Doctor Thesis. Nanjing, China: NanJing University.(in Chinese with English abstract)](http://t.cn/Ai9ruJY5) **Recommended Download** [Latest revised version](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) Extracted code `dgyc`  
-
+	- [Zhang Yinzhao,Li Changsheng, et al. (2019). Discrete Element Numerical Simulation of Extensional Tectonics-Examples of Qiongdongnan Basin. Research & Exploration in Laboratory, 38(11).(in Chinese with English abstract)](http://t.cn/A6hj2FNU)  
+	- [Li Changsheng. **(2019)**. Quantitative Analysis and Simulation of Structural Deformation in the Fold and Thrust Belt Based on Discrete Element Method. Doctor Thesis. Nanjing, China: NanJing University.(in Chinese with English abstract)](http://t.cn/Ai9ruJY5) **Recommended Download** [Latest revised version](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) Extracted code `dgyc`  
 **2018**
-
-- [**Li Changsheng**, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
-
+	- [**Li Changsheng**, Yin H.W.*, Jia D., Zhang J.X., Wang W., Xu S.J., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. **International Journal of Geomechanics** 18, 06018011.](https://ascelibrary.org/doi/10.1061/(ASCE)GM.1943-5622.0001133)
 **2017**
-
-- [**Li Changsheng**, Yin Hongwei*, et al. Comparisons between a high resolution discrete element model and analogue model. (2017 American Geophysical Union Fall Meeting, ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
-
-- [**Li shangsheng**, Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
-
-- [**Li Changsheng**, Yin Hongwei*, et al. Design and test of parallel discrete element method program of shared memory type. Journal of Nanjing University (Natural Science),2017,53(06):1161-1170. (in Chinese with English abstract)](/download/共享内存式并行离散元程序的设计与测试_李长圣.pdf)
-
-- **Li Changsheng**, Yin Hongwei*. Effects of décollement strength on the compressional tectonics: discrete element numerical simulation. 2017 Annual Meeting of Chinese Geoscience Union (CGU). (In Chinese)
-
+	- [**Li Changsheng**, Yin Hongwei*, et al. Comparisons between a high resolution discrete element model and analogue model. (2017 American Geophysical Union Fall Meeting, ABSTRACT)](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/208807)  
+	- [**Li shangsheng**, Yin, H., Jia, D., Zhang, J., Wang, W., Xu, S., 2018. Validation Tests for Discrete Element Codes Using Single-Contact Systems. International Journal of Geomechanics 18, 06018011.](/download/li2017.pdf)
+	- [**Li Changsheng**, Yin Hongwei*, et al. Design and test of parallel discrete element method program of shared memory type. Journal of Nanjing University (Natural Science),2017,53(06):1161-1170. (in Chinese with English abstract)](/download/共享内存式并行离散元程序的设计与测试_李长圣.pdf)
+	- **Li Changsheng**, Yin Hongwei*. Effects of décollement strength on the compressional tectonics: discrete element numerical simulation. 2017 Annual Meeting of Chinese Geoscience Union (CGU). (In Chinese)
 **2016**
-
-- [**Li Changsheng**, Zhang Dan, et al. **(2016)**. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 73: 179-188.](https://doi.org/10.1016/j.compgeo.2015.12.005)
-
+	- [**Li Changsheng**, Zhang Dan, et al. **(2016)**. Computed tomography based numerical simulation for triaxial test of soil–rock mixture. **Computers and Geotechnics**, 73: 179-188.](https://doi.org/10.1016/j.compgeo.2015.12.005)
 **2014**
-
-- **Li Changsheng**, Dan ZHANG*, et al. **2014**. 3D mesh generation for soil-rock mixture based on CT scanning. Rock & Soil Mechanics, 35(9):2731-2736. (In Chinese with English abstract)
-
+	- **Li Changsheng**, Dan ZHANG*, et al. **2014**. 3D mesh generation for soil-rock mixture based on CT scanning. Rock & Soil Mechanics, 35(9):2731-2736. (In Chinese with English abstract)
 
 ## Awards and Honors
 

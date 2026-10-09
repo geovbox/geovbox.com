@@ -71,14 +71,15 @@ images:
 ## 专利和软件著作权
 
 - 发明专利
-	- [汪伟; 陈永权; **李长圣**; 张勇; 杨生超中国科学院南京地质古生物研究所,东华理工大学.一种基于离散元的褶皱冲断带构造-沉积协同变形的定量模拟方法、设备及储存介质:202511061684.0[P].2025-08-29.](https://kns-cnki-net-s.atrust.ecut.edu.cn/kcms2/article/abstract?v=F0lYaGTXfx_6aEPvHr2VpBmpnmxU6b5U2CFQI_LYBsoziW2DvR2rMvt2-SmRinEyORnkBDxrOzJ6pz_y6gcjpn2HT3BgcP3V6yjiCUKfG3VDbVL_DTPSVxcvwH46KDAZa-i1Va6aCJ65brBDKucZOLK6IHfGi38OUE7LOmLUBaTlwZvlK9d1_w==&uniplatform=NZKPT&language=CHS)(授权)
+	- [**李长圣**;邹宗良;莫冰洋;张丹;吴珍云;夏菲;包羡钧;邓玥. 一种基于快速重叠判别算法的目标含石量土石混合体二维栅格图像高速制备方法:202610937885.0[P].2026-09-11.](https://oversea.cnki.net/kcms2/article/abstract?v=1RpLqATIpQzpwSJeVkA7ySpxteeA6n6WE8T1y6OAU6qrlAu0rSN_JVAPvTWSWrW3Jr2V9R2tqjYjJHnYSCujlpvf76Go9f_p8Pdi_IwQ2lAw7StJgnWDUHZ4tR4UMvJLb3fSYeE11HiHKyomvGI2DPYUPUmjn-0vWcf2gzeHMGRgGTMHPgxwNQ==&uniplatform=OVERSEA&language=CHS) (公开)
+	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置:202110577434.8[P].2026-05-26.](https://oversea.cnki.net/kcms2/article/abstract?v=1RpLqATIpQz5zV9X8KXSf3Piee82yIhogcuLs9595u4QAdLc1dxx6H7c6CMFf4_lHVIPDXaTgAy5vy3prW22HtmmgjcrRc4NCS-6apgqAygi_dnrrY1ybGqOMeca7w3i4TRLiyT7w8FYxurkY06JmfioMeoLFCL1vfTwvsCoXSV0vdzlWBuxKA==&uniplatform=OVERSEA&language=CHS) (授权)
+	- [汪伟; 陈永权; **李长圣**; 张勇; 杨生超中国科学院南京地质古生物研究所,东华理工大学.一种基于离散元的褶皱冲断带构造-沉积协同变形的定量模拟方法、设备及储存介质:202511061684.0[P].2025-08-29.](https://oversea.cnki.net/kcms2/article/abstract?v=1RpLqATIpQy7R2z8T4LKis-J6mC06g0B2g5BHAX9fVhI_GpSHkl2x8m5IYd6i5D4SpdL-wL3XIHfkLc-v77F2RDUKN-9GEtKNrz5t0jBnq9BmbhQs79Av1dZHEEHGwu712pfthFFm3eTX9gmHz3r0E5PUaGw0WWll7AkRyIm3kSGI7SEGnLa-Q==&uniplatform=OVERSEA&language=CHS)(授权)
 	- [马德波; 杨敏; **李长圣**; 王珊; 曹颖辉; 管树巍.基于三维离散元的走滑断裂分层变形过程模拟方法及装置:202510537419.9[P].2025-09-12.](https://kns-cnki-net-s.atrust.ecut.edu.cn/kcms2/article/abstract?v=F0lYaGTXfx_6aEPvHr2VpBmpnmxU6b5U2CFQI_LYBsoziW2DvR2rMloc4dRostpyA5DIKvwlnoaBtf57iweW34KYOzO86Dwaf1bU3Z3GKcpPJUi5FwAOhSoyFa7rOHwAmtkdrfjH9_0oyD7Mo6hJiMGp1OvDdAGoVireCphHnTi-pKfvIBxW8g==&uniplatform=NZKPT&language=CHS)(公开)
 	- [管树巍,**李长圣**,朱光有,等.基于离散元模拟边界位移差异走滑断裂的演化方法和装置.北京市:CN202310383685.1,2024-10-18.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4QeVjFonsgKsEK95XQ4rhZSXfdaTJ2gSfxOZTJWX8g5IzULZor9qci-F2bzBtzkU8vAYzM7nLDInnzmzNGbNbBu7O3LT_k0gUdEC384wifLVXfJtxy7ZZiGWEkZ_dhvumlvPJ6zG3Msd87OH3iGJAYfnxRsNBU-RKxG4mByN3HQ3Ejvl1S9F58a&uniplatform=NZKPT&language=CHS)(公开)
 	- [马德波,**李长圣**,赵喆,等.基于三维离散元的走滑断裂模拟方法、装置、设备和介质.北京市:CN202310147610.3,2024-08-20.](https://kns.cnki.net/kcms2/article/abstract?v=IylmbgxpP4Srm8Qb3L4ZObGgVTRiMZmbooOk0N5__QhtWP3tfmAaG4aWt6G-vPnCayEBzhJczi-wmquaIpqwTjqIIAr0r30U-TAVb_k-qiwIZZRRFgPq77Arhkbx0eUeIKE93YG8N4VmTIzMXilloobUjaFcSKfDk4td80-y1JS-L1FEx5eoB7iX5tgI_OYL&uniplatform=NZKPT&language=CHS)(公开)
 	- [**李长圣**,钟军,张丹,郭福生,独莎莎,张召,吴珍云,周万蓬,吴志春,黄映聪,李增华,邹宗良. 基于改进全卷积神经网络的土石混合体图像三维重建方法[P]. 江西省：CN115631301A,2023-01-20.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RDdB-2K0CC6mq7Go348IFbzBVWOCCDidKLfQx18-EPdP&uniplatform=NZKPT&src=copy) (授权)
 	- [**李长圣**,尹宏伟,吴珍云,等. 一种基于离散元的裂谷盆地伸展过程模拟方法.江西省：CN111008472B,2023-11-21.](https://kns.cnki.net/kcms2/article/abstract?v=Skeo7MzZydbnlVpkrvNpcHaAaho85ENh5lMs7Wo_-jAc8-dZK0ruYCsA6mSgArEyp_YTsYMNtXzyxpikL8ui74_4-AZtLg58Nxrba3X6a-kR-IT41BiuSQbUO8eh7WPV&uniplatform=NZKPT&flag=copy)  (授权)
-	- [**李长圣**,任荣,管树巍,尹宏伟. 基于离散元的古隆起隆升过程模拟方法及装置.北京市：CN115408803A,2022-11-29.](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocsw-69OJ-mWy28mtlary1nFwMUtY7eBGGchnzbWhvBUP_&uniplatform=NZKPT)(公开)
-	
+
 - 软件著作权：
 
 	1. **地质标本数据管理系统** V1.0. 东华理工大学;梅强;**李长圣**. **2025**.
@@ -91,6 +92,8 @@ images:
 
 
 ## 论文发表
+- **2026**
+	- [Li L., **Li C.S.***, Zhang X.\*, et al. 2026. Analysis and Calibration of DEM Parameters for Rock Materials Based on Interpretable Machine Learning. Geotechnics, 6(4), 104.](https://doi.org/10.3390/geotechnics6040104) 
 - **2025**
 	- [**Li C.S.**, Li S.J., Hu Z.Q., et al. 2025. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
 	- [**Li C.S.**, Zhang X.S. 2025. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
@@ -104,9 +107,9 @@ images:
 
 - **2022**  
 
-    - [**李长圣**,尹宏伟*,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
+	- [**李长圣**,尹宏伟*,徐雯峤,吴珍云,管树巍,贾 东,任 荣. 2022. 基于离散元的挤压构造定量分析与模拟. 大地构造与成矿学, 46(04): 645-661.](https://doi.org/10.16539/j.ddgzyckx.2022.04.001) 
 - **2021** 
-    - [**Li C.S.**, Yin H.W.* , WU Z.Y.* , et al. 2021. Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
+	- [**Li C.S.**, Yin H.W.* , WU Z.Y.* , et al. 2021. Effects of salt thickness on the structural deformation of foreland fold-and-thrust belt in the Kuqa Depression, Tarim Basin: Insights from discrete element models. Frontiers in Earth Science, 9:655173.](https://doi.org/10.3389/feart.2021.655173)
 	- [WU Z.Y.*, **LI C.S.**, YIN H.W., et al. 2021. Influence of regional erosion and sedimentary loading on fault activities in active fold-thrust belts: Insights from discrete element simulation and the southern and central Longmen Shan fold-thrust belt. Frontiers in Earth Science. 9:636512.](https://doi.org/10.3389/feart.2021.659682)
 	- [**LI C.S.**, YIN H.W.*, WU C., et al. 2021. Calibration of the discrete element method and modelling of shortening experiments. Frontiers in Earth Science. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
 	- [Xu W.Q., Yin H.W.*, Jia, D., **Li C.S.**, Wang W., Yang G.X., He W.H., Chen Z.X., Ren R. 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.](https://doi.org/10.3389/feart.2021.653395) 
