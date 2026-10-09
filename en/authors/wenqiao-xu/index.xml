@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenqiao Xu | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/wenqiao-xu/</link>
+      <atom:link href="https://geovbox.com/en/authors/wenqiao-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenqiao Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Wenqiao Xu</title>
+      <link>https://geovbox.com/en/authors/wenqiao-xu/</link>
+    </image>
+    
+    <item>
+      <title>Discrete Element Numerical Simulation of Differential Evolution of Subsalt Structural Deformation in the Eastern and Western Kuqa Depression(Acta Geologica Sinica)</title>
+      <link>https://geovbox.com/en/blog/20210409/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210409/</guid>
+      <description>&lt;p&gt;This study reveals that pre-existing faults influence the propagation of structures in fold-thrust belts, leading to variations in the morphology of subsalt wedges, the number of faults, and the structural styles of suprasalt deformation. Syntectonic sedimentation enhances the differential deformation between suprasalt and subsalt layers, while increased detachment layer strength reduces their stratified deformation. By comparing the simulation results with the structural characteristics of the eastern and western segments of the Kuqa Depression, we suggest that pre-existing faults may be a key factor driving the differential evolution of subsalt structures in the Kuqa Depression &lt;a href=&#34;#refer-xu2020&#34;&gt;(Xu et al., 2020)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-xu2020&#34;&gt;&lt;/div&gt;
+[Wenqiao Xu,Wei Wang*,Hongwei Yin,Dong Jia,Changsheng Li,Gengxiong Yang,Gang Li.Numerical simulation of different subsalt structural features and their evolution in the eastern and western segments of the Kuqa depression.**Acta Geologica Sinica**, 2020, 94(06): 1740-1751. ](https://doi.org/10.19762/j.cnki.dizhixuebao.2020083)   
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Numerical simulation of different subsalt structural features and their evolution in the eastern and western segments of the Kuqa depression&lt;/p&gt;
+&lt;h4 id=&#34;author&#34;&gt;Author&lt;/h4&gt;
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Wei Wang&lt;sup&gt;1&lt;/sup&gt;*, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;, Dong Jia&lt;sup&gt;1&lt;/sup&gt;, Changsheng Li&lt;sup&gt;2&lt;/sup&gt;, Gengxiong Yang&lt;sup&gt;1&lt;/sup&gt;,Gang Li&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, 211046&lt;/li&gt;
+&lt;li&gt;School of Earth Science,East China University of Technology, Nanchang, 330013&lt;/li&gt;
+&lt;li&gt;Resources Investigation Institute,Tarim Oilfield Company,PetroChina, Korla, Xinjiang, 841000&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The subsalt structural geometry in front of the north structural belt is quite different in eastern and western segments of the Kuqa depression. The subsalt structure is composed of an imbricate thrusting belt in the Kelasu structure of the western segment, while it is a faulted anticline in the Dongqiu structure of the eastern segment. In this paper, based on seismic interpretation, five discrete element models are designed to explore the influence of pre-existing faults, syntectonic sedimentation and properties of salt layer on the structural geometry and evolution of fold-and-thrust belts, as well as the causes behind the different structural features of the eastern and western segments in the Kuqa depression. The simulation results show that the deformations of units above and below the salt layer are decoupled. A pre-existing fault can affect the deformation propagation, causing the differences in subsalt wedge shape, fault numbers and suprasalt structural geometry. Syntectonic sedimentation could enhance the deformation decorrelation above and below the salt layer, while a stronger salt property decreases it. Comparing the simulation results with the structural features of the eastern and western segments in the Kuqa depression, we suggest that a pre-existing fault could be the controlling factor of the structural variations between eastern and western segments. In the eastern Kuqa depression, the location of pre-existing fault first deforms, forming the Dongqiu fault and the Dongqiu anticline above it. Besides, the pre-existing fault absorbs most of the shortening, and prevents the deformation from propagating forward, thus causing an out of sequence deformation propagation. In the western Kuqa depression, with no interruption from pre-existing fault, the deformation of subsalt units sequentially propagates forward and forms an imbricate thrusting belt.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210409/figure1_hu98f0a82ddc6259a55e7ec77f3ff10177_437237_30748b59f485b8f6a162326195308cda.webp 400w,
+               /en/blog/20210409/figure1_hu98f0a82ddc6259a55e7ec77f3ff10177_437237_56bf03a065de771ec007f5fe5972c43c.webp 760w,
+               /en/blog/20210409/figure1_hu98f0a82ddc6259a55e7ec77f3ff10177_437237_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210409/figure1_hu98f0a82ddc6259a55e7ec77f3ff10177_437237_30748b59f485b8f6a162326195308cda.webp&#34;
+               width=&#34;800px&#34;
+               height=&#34;412&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig.13 Deformation and distortional strain field for five models at the shortening of 11km. (Shear strain magnitude is shown by color intensity. Red denotes top to the right sense of shear; blue denotes top to the left sense of shear) &lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;The numerical simulations were conducted using the discrete element modeling software VBOX (&lt;a href=&#34;http://www.geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com&lt;/a&gt;). We sincerely appreciate Professor Julia Morgan from Rice University for her valuable assistance in discrete element simulations and stress-strain analysis. We also extend our gratitude to the editors and reviewers for their thorough and professional review of this manuscript. Their insightful and constructive comments have significantly improved the quality of this study, for which we are deeply grateful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator:  Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

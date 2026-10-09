@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孙闯 | ZDEM官网</title>
+    <link>https://geovbox.com/authors/%E5%AD%99%E9%97%AF/</link>
+      <atom:link href="https://geovbox.com/authors/%E5%AD%99%E9%97%AF/index.xml" rel="self" type="application/rss+xml" />
+    <description>孙闯</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>孙闯</title>
+      <link>https://geovbox.com/authors/%E5%AD%99%E9%97%AF/</link>
+    </image>
+    
+    <item>
+      <title>简单的挤压构造物理模拟</title>
+      <link>https://geovbox.com/blog/analogue-model/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/analogue-model/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/blog/analogue-model/AM_sun2017.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;材料参数&#34;&gt;材料参数&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;实验材料          &lt;br&gt;&lt;/th&gt;
+&lt;th&gt;颗粒直径           &lt;br&gt; &lt;em&gt;d&lt;/em&gt; (μm)&lt;/th&gt;
+&lt;th&gt;堆积密度           &lt;br&gt; &lt;em&gt;ρ&lt;/em&gt; (kg∙m&lt;sup&gt;-3&lt;/sup&gt;)&lt;/th&gt;
+&lt;th&gt;粘聚力           &lt;br&gt; &lt;em&gt;C&lt;sub&gt;o&lt;/sub&gt;&lt;/em&gt;(Pa)&lt;/th&gt;
+&lt;th&gt;内摩擦角          &lt;br&gt; &lt;em&gt;φ&lt;/em&gt;(°)&lt;/th&gt;
+&lt;th&gt;缩短速率          &lt;br&gt;  &lt;em&gt;υ&lt;/em&gt; (mm∙min&lt;sup&gt;-1&lt;/sup&gt;)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;石英砂&lt;/td&gt;
+&lt;td&gt;200~400&lt;/td&gt;
+&lt;td&gt;1300&lt;/td&gt;
+&lt;td&gt;~35&lt;/td&gt;
+&lt;td&gt;50-100&lt;/td&gt;
+&lt;td&gt;2.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;试验过程及结果&#34;&gt;试验过程及结果&lt;/h2&gt;
+&lt;p&gt;初始模型长100 cm，宽30 cm，高 3 cm。在水平砂箱底部铺上3毫米厚的玻璃微珠作为底部滑脱层，上覆2.7厘米厚的水平石英砂层。实验的变形过程由数码相机定时拍摄并保存，拍摄时间间隔为1分钟。最后实验结束后，砂箱模型被喷洒上水至饱和，然后沿挤压方向进行切片获得模型内部的构造形态信息。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-简单挤压试验构造演化过程&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;简单挤压试验构造演化过程&#34; srcset=&#34;
+               /blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_46d6216d810bce9a414e811a6a409d1f.webp 400w,
+               /blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_33739c8daa946f3bd8a8ddb26ff086ea.webp 760w,
+               /blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_46d6216d810bce9a414e811a6a409d1f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      简单挤压试验构造演化过程
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;图中阿拉伯数字代表断层形成的相对次序，每个阶段照片顶部带箭头粉色线条标示变形带的宽度，而箭头表示变形的传递方向。&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;孙闯. 2017. 龙门山褶皱冲断带构造物理模拟研究. 博士论文. 南京大学.&lt;/li&gt;
+&lt;li&gt;Sun C, Jia D, Yin H, et al. 2016. Sandbox Modeling of Evolving Thrust Wedges with Different Preexisting Topographic Relief: Implications for the Longmen Shan Thrust Belt, Eastern Tibet. Journal of Geophysical Research: Solid Earth.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

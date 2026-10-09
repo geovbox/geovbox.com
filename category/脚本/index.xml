@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>脚本 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E8%84%9A%E6%9C%AC/</link>
+      <atom:link href="https://geovbox.com/category/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <description>脚本</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>脚本</title>
+      <link>https://geovbox.com/category/%E8%84%9A%E6%9C%AC/</link>
+    </image>
+    
+    <item>
+      <title>物理模拟和数值模拟对比实验(Excellent Important Nice)</title>
+      <link>https://geovbox.com/blog/ex8/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/ex8/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;下载：
+&lt;a href=&#34;gen.py&#34;&gt;gen.py&lt;/a&gt; |
+&lt;a href=&#34;push.py&#34;&gt;push.py&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;~10万颗粒，~13万时步，16核并行(Intel Xeon E5-2650)，耗时 ~&lt;strong&gt;3小时&lt;/strong&gt; 完成计算。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/blog/ex8/dem_am.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;800px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;strong&gt;&lt;center&gt;单位 (cm)&lt;br&gt;离散元数值模拟结果&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通过休止角试验和双轴试验标定了石英砂颗粒的细观参数，构建了一个典型的构造物理模拟(AM)和离散元数值模拟(DEM)试验，对比两种方法在构造变形研究中的差异与相似点，通过定性和定量（如坡角、断层倾角等）的方法，分析了两种方法的异同点。DEM与AM模拟结果较为一致，基本反映了AM中石英砂的变形行为。AM中材料选取有限（如硅胶、粘土、微玻璃珠等），而DEM材料选取范围大，但其模拟结果依赖参数选取。AM和DEM作为两种独立的方法，有很好的互补性 &lt;a href=&#34;#%e6%9d%8e%e9%95%bf%e5%9c%a32019&#34;&gt;(李长圣,2019;&lt;/a&gt; &lt;a href=&#34;#refer-li2021&#34;&gt;Li et al.,2021)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-li2021&#34;&gt;&lt;/div&gt;
+[LI C.S., YIN H.W.*, et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. 9:636512.](https://doi.org/10.3389/feart.2021.636512)
+&lt;h4 id=&#34;评审意见-font-colorredexcellentfont-font-colorredimportantfont-font-colorrednicefont&#34;&gt;评审意见 &lt;font color=red&gt;&lt;strong&gt;Excellent&lt;/strong&gt;&lt;/font&gt; &lt;font color=red&gt;&lt;strong&gt;Important&lt;/strong&gt;&lt;/font&gt; &lt;font color=red&gt;&lt;strong&gt;Nice&lt;/strong&gt;&lt;/font&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jonny Wu(Guest Associate Editor):&lt;/strong&gt; The manuscript is an &lt;font color=red&gt;&lt;strong&gt;excellent work&lt;/strong&gt;&lt;/font&gt; and  &lt;font color=red&gt;&lt;strong&gt;important to publish&lt;/strong&gt;&lt;/font&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stuart Hardy:&lt;/strong&gt; This is an &lt;font color=red&gt;&lt;strong&gt;important paper&lt;/strong&gt;&lt;/font&gt; from a methodological point of view - &lt;font color=red&gt;&lt;strong&gt;a reference almost&lt;/strong&gt;&lt;/font&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amanda Hughes:&lt;/strong&gt; This study does a &lt;font color=red&gt;&lt;strong&gt;nice job&lt;/strong&gt;&lt;/font&gt; filling an existing need in modeling based studies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;Calibration of the discrete element method and modelling of shortening experiments&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;Changsheng Li &lt;sup&gt;1,2,3,4&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;3*&lt;/sup&gt;, Chuang Wu&lt;sup&gt;3&lt;/sup&gt;, Yingchun Zhang&lt;sup&gt;3&lt;/sup&gt;, Jiaxing Zhang&lt;sup&gt;3&lt;/sup&gt;,
+Zhenyun Wu&lt;sup&gt;1,2&lt;/sup&gt;, Wei Wang&lt;sup&gt;3&lt;/sup&gt;, Dong Jia &lt;sup&gt;3&lt;/sup&gt;, Shuwei Guan&lt;sup&gt;4&lt;/sup&gt; and Rong Ren&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Nuclear Resources and Environment, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, PetroChina, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;The discrete element method (DEM) is becoming widely accepted as an effective method for addressing tectonic problems in granular materials. It is capable of reproducing structures observed in the analog model (AM). However, the previous experiments also pointed to variability among DEM models and AMs in the number of fault zones, their dip angle and spacing, and the evolution of the surface slope of a thrust wedge. The accuracy of the DEM depends on the input parameter values, so the calibration of the discrete element method is very important. Microscopic properties of particles and macroscopic properties of loose quartz sand were calibrated through a series of repose angle and biaxial tests. Furthermore, an AM was constructed to simulate the evolution of the thrust wedge to compare with DEM results. DEM and AM results indicate an encouraging overall agreement in model evolution. Based on a new automated wedge quantification method, DEM results were systematically compared with AM results on the number of fault zones, their dip angle and spacing, the evolution of the surface slope of a thrust wedge, and other parameters. &lt;strong&gt;Our study provides a necessary comparison between commonly applied modeling approaches, which is important for more confidently applying these methods to understand real fold and thrust belt systems.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;休止角试验&#34;&gt;休止角试验&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_96e1e0ea2766e28eed8a94842fab4ceb.webp 400w,
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_d44e9d4e291953cfe2f5c17dc69baa05.webp 760w,
+               /blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.1_hu99ec1c04c2a69a8b5a6ad045c0d091f1_265031_96e1e0ea2766e28eed8a94842fab4ceb.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;a）室内试验三维视图 b）室内试验正视图 c）当 μ=0.3时，离散元模拟结果。&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;休止角试验&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_84db23a4eeb155f43a3e0ade13d26f4e.webp 400w,
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_c7c1561b06bdb0f9fb8d68fe8685233a.webp 760w,
+               /blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.2_hu42f1e3a9d2d4bf641b421da22d280b2b_118076_84db23a4eeb155f43a3e0ade13d26f4e.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;599&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;strong&gt;&lt;center&gt;颗粒集合体的休止角 θ与颗粒间摩擦系数 μ的关系&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;双轴剪切试验&#34;&gt;双轴剪切试验&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_85b2fef2b44c11d770a2f1c9bff57073.webp 400w,
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_d731784d7161c7189b458c67dbb74b43.webp 760w,
+               /blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.3_hub4feda61bbd59288f9272f52f993133b_541361_85b2fef2b44c11d770a2f1c9bff57073.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;a）随机生成颗粒，颗粒直径较小，为 0.1 0.2 0.25和 0.3 mm b）半径膨胀颗粒之间变为 0.2 0.4 0.5和 0.6 mm；；c) 删除虚线外颗粒；d）设置颜色 ；e)颗粒的应变 20%时的形变；f)试样的变形应变场，颜色深浅表征剪切应变的大小，红色 表示 顺时针剪切，蓝色 表示 逆时针剪切，计算方法见 [Morgan(2015)](#Morgan2015)。&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;双轴试验过程&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_7c459d553c3fca3724a9800132749506.webp 400w,
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_bf928c81df5a0a0d3ac58165db032fa4.webp 760w,
+               /blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.4_hue74cbf0ded35e3f53bd95489177ffa1a_334850_7c459d553c3fca3724a9800132749506.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;269&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;a）不同围压下，试样的应力应变曲线 b）双轴试样的莫尔强度包络线。&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;当颗粒间摩擦系数 μ=0.3时，双轴试验。&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_d3c05589cc6117cb95e9bde807b2427a.webp 400w,
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_64a74df6529ac722c704b624b43df133.webp 760w,
+               /blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.6_hu2188ee68ccecd7e19800ef64e65659ae_165137_d3c05589cc6117cb95e9bde807b2427a.webp&#34;
+               width=&#34;500px&#34;
+               height=&#34;634&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;其中，圆点是 [Klinkmüller et al.(2016)](#Klinkmüller2021)给出的环剪试验的结果 ，五角星为本文DEM计算结果。&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;室内试验测得的内摩擦角与粘聚力与DEM计算结果对比&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;演化过程&#34;&gt;演化过程&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_3668aa72321b4822a33a1d90933f3692.webp 400w,
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_c3648a08365297511bbcfcdc4621cd24.webp 760w,
+               /blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/dem_and_am02_hu02a309036ff644c90a116e4907dec1de_86115_3668aa72321b4822a33a1d90933f3692.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_b2447bb100966501c978c3ba4a6d30a6.webp 400w,
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_c529870b586a3e93cab649b661d2ff11.webp 760w,
+               /blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/dem_and_am04_hu3ddd832cd733b6649e4d4794bbe5cbd0_83948_b2447bb100966501c978c3ba4a6d30a6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_436f40c4fac8a346e93e54862f1345c6.webp 400w,
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_1131fe0529c63877cac1ce484142af6d.webp 760w,
+               /blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/dem_and_am08_hua7abc56b8d75909ec7d1fb499ca02138_85319_436f40c4fac8a346e93e54862f1345c6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_9497df4ec5682b5caadbcc6c2fa71e69.webp 400w,
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_3feffb469c8fa4fa1b025125b730de1f.webp 760w,
+               /blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/dem_and_am12_huf45607197d8b8e29024850f8d987c840_86686_9497df4ec5682b5caadbcc6c2fa71e69.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_4a82266eea13cae0cf6c134b470be54f.webp 400w,
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_c12441b3873a1799b635ddcab8f8b4c2.webp 760w,
+               /blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/dem_and_am16_hu3f09ba6986288c2c23f1b48b9394c54b_85230_4a82266eea13cae0cf6c134b470be54f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;第一幅(AM)构造物理模拟；第二幅(DEM)离散元数值模拟；第三幅DEM变形应变图。&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;定量对比&#34;&gt;定量对比&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_cf83e649b0880b49f264d0b3616d795b.webp 400w,
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_92ac392d8b62270a81b8a42656375a04.webp 760w,
+               /blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/ex8/Fig.12_huc69d13ac6dc52c70b084fffff764619d_309260_cf83e649b0880b49f264d0b3616d795b.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;a）楔体坡角、宽度和高度测量方法示意图；b）物理模拟坡角；c) 楔体宽度演化；d) 楔体高度演化。&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;AM和DEM的楔体坡角、宽度和高度演化过程对比图&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;zdem-script&#34;&gt;ZDEM script:&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;表 1  颗粒微观参数表.&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;em&gt;d&lt;/em&gt;(mm)  &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;k&lt;/em&gt;(N·m&lt;sup&gt;−1&lt;/sup&gt;)  &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;ρ&lt;/em&gt;(kg·m&lt;sup&gt;−2&lt;/sup&gt;)  &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;g&lt;/em&gt;(m·s&lt;sup&gt;−2&lt;/sup&gt;)   &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;f&lt;/em&gt;  &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;μ&lt;/em&gt; &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;η&lt;/em&gt;(N·s·m&lt;sup&gt;−1&lt;/sup&gt;)  &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;υ&lt;/em&gt;(m·s&lt;sup&gt;−1&lt;/sup&gt;)  &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0.6&lt;/td&gt;
+&lt;td&gt;7.5e3&lt;/td&gt;
+&lt;td&gt;1.3e3&lt;/td&gt;
+&lt;td&gt;10.0&lt;/td&gt;
+&lt;td&gt;0.4  &lt;/td&gt;
+&lt;td&gt;0.3  &lt;/td&gt;
+&lt;td&gt;0.04  &lt;/td&gt;
+&lt;td&gt; 0.04 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The particle packing consists of four particle sizes, with diameters and quantity ratio of 0.2 mm, 0.4 mm, 0.5 mm, and 0.6 mm and 2:2:1:1, respectively. &lt;em&gt;d&lt;/em&gt;, largest particle diameter. &lt;em&gt;ρ&lt;/em&gt;, particle density. &lt;em&gt;g&lt;/em&gt;, gravitational acceleration. &lt;em&gt;f&lt;/em&gt;, safety factor of the time step. &lt;em&gt;k&lt;/em&gt;, stiffness of the contact. &lt;em&gt;μ&lt;/em&gt;, friction coefficient. &lt;em&gt;η&lt;/em&gt;, dynamic viscosity. &lt;em&gt;υ&lt;/em&gt;, velocity of the mobile wall.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;沉积过程。&lt;a href=&#34;gen.py&#34;&gt;gen.py&lt;/a&gt; 中内容如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 离散元数值模拟与构造物理模拟对比试验:1 沉积&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2021-05-16&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; disk hex
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 fric 0.3 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 4, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3  158.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  5.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 5, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id 6, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 605.0e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3   158.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen grid idmin &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt; rad discrete 0.1e-3 0.1e-3 0.2e-3 0.2e-3 0.25e-3 0.3e-3,  x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;5.0e-3,  605.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;5.0e-3, 155.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, GROUP ball_rand 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX spin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET frac 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -10.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  save  &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  print &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  ps    &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , kinetic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , step
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PLOT hist &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;60000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DEL range x &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;4.0e-3, 606.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, y &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;30.0e-3, 1.0&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;20000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#save 2del.sav&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;EXP ini_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;STOP
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;挤压过程。&lt;a href=&#34;push.py&#34;&gt;push.py&lt;/a&gt; 中内容如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 离散元数值模拟与构造物理模拟对比试验:2 挤压&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2021-05-16&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ref: Li et al. (2021) Calibration of the discrete element method and modelling of shortening experiments. Front. Earth Sci. doi: 10.3389/feart.2021.636512&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LOAD  ini_xyr.dat
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET disk hex
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 0.5e-3 right 615.0e-3 bottom 0.5e-3 height 110.0e-3 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;1.5e4 fric 0.3 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 4, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3  110.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  5.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 5, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;     5e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3     5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 6, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 605.0e-3    5.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;605.0e-3   110.0e-3&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 1.5e4 fric 0.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color red den 1.3e3, fric 0.0, kn  1.5e4, ks  1.5e4 damp 0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FIX spin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET frac 0.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -10.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET  stepbar &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , kinetic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HIST ID &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; INTERVAL &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt; , step
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PLOT  &lt;span class=&#34;m&#34;&gt;2&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET damp lsm 0.04
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP fric 0.30 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color lg
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y   9.0e-3  10.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  blue, range x 0.0  615.0e-3 y  14.0e-3  15.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y  19.0e-3  20.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  blue, range x 0.0  615.0e-3 y  24.0e-3  25.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PROP color  red , range x 0.0  615.0e-3 y  29.0e-3  30.0e-3  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; fric 0.30 xv 40e-3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; fric 0.30
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;6&lt;/span&gt; fric 0.30
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 160e-3 save 20e-3 print 10e-3 ps 10e-3  vtk 10e-3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stop
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;the-quantitative-method-of-the-thrust-wedge-based-on-mesh-data&#34;&gt;The quantitative method of the thrust wedge based on mesh (Data)&lt;/h4&gt;
+&lt;p&gt;Download：&lt;a href=&#34;analogmodel.7z&#34;&gt;analogmodel.7z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The images of the analog model.&lt;/p&gt;
+&lt;h4 id=&#34;参考文献&#34;&gt;参考文献&lt;/h4&gt;
+&lt;div id=&#34;Hardy2009&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.marpetgeo.2007.12.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardy S, et al (2009) Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. &lt;strong&gt;Marine and Petroleum Geology&lt;/strong&gt; 26:232-248.&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;Klinkmüller2021&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.tecto.2016.01.017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Klinkmüller, M., Schreurs, G., Rosenau, M., and Kemnitz, H. (2016). Properties of Granular Analogue Model Materials: A Community Wide Survey. &lt;strong&gt;Tectonophysics&lt;/strong&gt; 684, 23–38. doi:10.1016/j.tecto.2016.01.017&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;Morgan2015&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. &lt;strong&gt;Journal of Geophysical Research: Solid Earth&lt;/strong&gt; 120:3870-3896.&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;李长圣2019&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.cn/Ai9ruJY5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京大学.&lt;/a&gt; &lt;strong&gt;推荐下载&lt;/strong&gt; &lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最新修订版&lt;/a&gt; 提取码 &lt;code&gt;zdem&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
