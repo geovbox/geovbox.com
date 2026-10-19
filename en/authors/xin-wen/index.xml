@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Wen | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/xin-wen/</link>
+      <atom:link href="https://geovbox.com/en/authors/xin-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Wen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Xin Wen</title>
+      <link>https://geovbox.com/en/authors/xin-wen/</link>
+    </image>
+    
+    <item>
+      <title>Session 3 Application Tectonic Simulation Based on Discrete Elements</title>
+      <link>https://geovbox.com/en/blog/20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20200605/</guid>
+      <description>&lt;h3 id=&#34;course-playback&#34;&gt;Course Playback&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;geovbox@Bilibili　https://www.bilibili.com/video/BV1st4y1C7b5?p=3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tencent-meeting-ended&#34;&gt;Tencent Meeting (Ended)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course Time: 2020/06/05 19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click to Join: &lt;a href=&#34;https://meeting.tencent.com/s/QmMCiJSHewVj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meeting.tencent.com/s/QmMCiJSHewVj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meeting ID: 731 904 875&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;course-introduction-three-reports&#34;&gt;Course Introduction (Three Reports)&lt;/h3&gt;
+&lt;p&gt;This session invites graduate students Xu Wenqiao from Nanjing University and Xin Wen from Zhejiang University to explain their research published in the Journal of Geology.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Application: Tectonic Simulation Based on Discrete Elements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenter: Li Changsheng&lt;/li&gt;
+&lt;li&gt;Content Summary:
+&lt;ul&gt;
+&lt;li&gt;Main controlling factors of fold-thrust structures&lt;/li&gt;
+&lt;li&gt;Compressive structures of dual detachment layers: Kuqa&lt;/li&gt;
+&lt;li&gt;Deep-shallow structural coupling and polycyclic structural superposition: Southwestern Tarim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Presenter: Xu Wenqiao&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content Summary:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geological overview of the Kuqa Depression region
+&lt;ul&gt;
+&lt;li&gt;Eastern and Western segments&lt;/li&gt;
+&lt;li&gt;Southern and Northern zones&lt;/li&gt;
+&lt;li&gt;Upper and Lower stratification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Initial model setup:
+&lt;ul&gt;
+&lt;li&gt;Experiment 1: No pre-existing faults - no homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 2: Weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 3: No pre-existing faults - homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 4: Pre-existing faults - homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 5: Strong salt rock layer model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Simulation results and analysis:
+&lt;ul&gt;
+&lt;li&gt;Pre-existing faults influence the propagation manner of fold-thrust structures, resulting in differences in the morphology of sub-salt wedges, number of fractures, and surface structural patterns;&lt;/li&gt;
+&lt;li&gt;Homogeneous sedimentation and the nature of different detachment layers primarily affect the extent of vertical decoupling deformation in saline fold-thrust belts, with homogeneous sedimentation enhancing decoupling deformation above and below the salt, while an increase in detachment layer properties weakens the decoupling deformation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenter: Xin Wen&lt;/li&gt;
+&lt;li&gt;Content Summary：
+&lt;ul&gt;
+&lt;li&gt;Introduction to geological background: distribution map and survey line positions of the fold-thrust belt in the northwestern margin of the Kashgar region of Xinjiang.&lt;/li&gt;
+&lt;li&gt;Initial model setup:
+&lt;ul&gt;
+&lt;li&gt;Experiment 1: Initial model with pre-existing faults;&lt;/li&gt;
+&lt;li&gt;Experiment 2: Weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 3: Pre-existing faults - weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 4: Pre-existing faults - moderately cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 5: Pre-existing faults - strongly cohesive detachment layer initial model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Simulation results and analysis:
+&lt;ul&gt;
+&lt;li&gt;Effects of pre-existing faults and detachment layers on the deformation of the thrust belt;&lt;/li&gt;
+&lt;li&gt;Influence of detachment layer strength on the structural deformation of the study area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This course is recommended by experts Guanshuwei from the Research Institute of Petroleum Exploration and Development, China Petroleum, and Professor He Dengfa from the School of Energy at China University of Geosciences (Beijing), comprising three sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Session 1 Theory: Tectonic Simulation and Discrete Elements (Week 1)&lt;/li&gt;
+&lt;li&gt;Session 2 Software: Introduction to VBOX and Operation Demonstration (Week 2)&lt;/li&gt;
+&lt;li&gt;Session 3 Application: Tectonic Simulation Based on Discrete Elements (Week 3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_5cc565854ac0e2d78ff63d3a5e11a401.webp 400w,
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_51a5d421431a601cb68c72a77960bb43.webp 760w,
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_5cc565854ac0e2d78ff63d3a5e11a401.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_4eed003b2f74e6a1a43cb9076105b3ea.webp 400w,
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_1833b74700d7f6cbade9cd11cadd885c.webp 760w,
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_4eed003b2f74e6a1a43cb9076105b3ea.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_ac28200272f92521b70146a3c3a33032.webp 400w,
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_7a48b40b4f12381bc405a420ee5bcf25.webp 760w,
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_ac28200272f92521b70146a3c3a33032.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_14b74873c00b23214852dded2bb28dff.webp 400w,
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_1cf1d84cd2feb1fd87d0838dba43e625.webp 760w,
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_14b74873c00b23214852dded2bb28dff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_e8b1147774739b0f8534b1974a29bf1b.webp 400w,
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_d59753559d0bab6710c4e7c6597f4015.webp 760w,
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_e8b1147774739b0f8534b1974a29bf1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-application-tectonic-simulation-based-on-discrete-elements---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Application: Tectonic Simulation Based on Discrete Elements - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_c4b8f2178866fa24772519cbacc589da.webp 400w,
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_3bd7a8f667a632561dc9f5fda5b41d17.webp 760w,
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_c4b8f2178866fa24772519cbacc589da.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Application: Tectonic Simulation Based on Discrete Elements - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a9947d8d8aaaaed293a22ebe8e2c9b9a.webp 400w,
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_cfc57cb417a4a50618b577b354bc6f0a.webp 760w,
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a9947d8d8aaaaed293a22ebe8e2c9b9a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_c05dbe281adf989fafca878acf7bceb0.webp 400w,
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_82ef3ccfb96d3ab1a284cd181217e6c6.webp 760w,
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_c05dbe281adf989fafca878acf7bceb0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-numerical-simulation-analysis-of-the-evolutionary-differences-in-sub-salt-structural-deformation-of-the-eastern-and-western-segments-of-the-kuqa-depression---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_6fe7328ef769098ce4a73e18d0557773.webp 400w,
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_3f877ed62d336a15db527469146f0450.webp 760w,
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_6fe7328ef769098ce4a73e18d0557773.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_76f68a00a90d4a24d45be5d20116f404.webp 400w,
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_c1ebb2cf76dcd78ccf29644cee36080d.webp 760w,
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_76f68a00a90d4a24d45be5d20116f404.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_4166d38fabfa5b8202d0e8e6f712a44d.webp 400w,
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_d463e279d0559764a92529dff13cedf2.webp 760w,
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_4166d38fabfa5b8202d0e8e6f712a44d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_870fdf6c86351d3a1477439ff01fecdb.webp 400w,
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_0940b7a2c58a581d3d4de2e80bd9f48c.webp 760w,
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_870fdf6c86351d3a1477439ff01fecdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-study-on-the-controlling-factors-of-structural-deformation-of-the-fore-thrust-belt-at-the-southwestern-tianshan-based-on-discrete-element-numerical-simulation---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_30e2dee32d74009d95c1aa94cc6d9ecd.webp 400w,
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_df43af4cc3445584122bea9059237e61.webp 760w,
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_30e2dee32d74009d95c1aa94cc6d9ecd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

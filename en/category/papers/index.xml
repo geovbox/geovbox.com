@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/papers/</link>
+      <atom:link href="https://geovbox.com/en/category/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Papers</title>
+      <link>https://geovbox.com/en/category/papers/</link>
+    </image>
+    
+    <item>
+      <title>Differential salt-related structural deformation in the Eastern segment of the Qiulitage fold and thrust belt, Kuqa Foreland Basin - Evidences from seismic interpretation and numerical simulation analysis(Journal of Structural Geology)</title>
+      <link>https://geovbox.com/en/blog/20250219/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20250219/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2025.105372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhu Y ,Li C ,Jiang X , et al.Differential salt-related structural deformation in the Eastern segment of the Qiulitage fold and thrust belt, Kuqa Foreland Basin: Evidences from seismic interpretation and numerical simulation analysis.Journal of Structural Geology,2025,194105372-105372.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;title&lt;/h4&gt;
+&lt;p&gt;Differential salt-related structural deformation in the Eastern segment of the Qiulitage fold and thrust belt, Kuqa Foreland Basin: Evidences from seismic interpretation and numerical simulation analysis.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;authors&lt;/h4&gt;
+&lt;p&gt;Yingzhong,Zhu&lt;sup&gt;a&lt;/sup&gt;，Chuanxin,Li&lt;sup&gt;a&lt;/sup&gt;,*，Xinyi,Jiang&lt;sup&gt;b&lt;/sup&gt;，Yibo,Zhao&lt;sup&gt;a&lt;/sup&gt;，Gulifeire,Tulujun&lt;sup&gt;a&lt;/sup&gt;，Bencai,Zhang&lt;sup&gt;a&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;a, School of Energy Resources, China University of Geosciences (Beijing), Beijing, 100083, China
+b, Key Laboratory of Tectonics and Petroleum Resources of Ministry of Education, China University of Geosciences (Wuhan), Wuhan, 430074, China&lt;/p&gt;
+&lt;p&gt;*Corresponding author ：E-mail: &lt;a href=&#34;mailto:chuanxin_li@163.com&#34;&gt;chuanxin_li@163.com&lt;/a&gt;&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure1_hu4e3fc17e91c79d1af4468194f5b1ae65_571111_d619a7663daeab489711a4882ed4912e.webp 400w,
+               /en/blog/20250219/Figure1_hu4e3fc17e91c79d1af4468194f5b1ae65_571111_0c81ea4f877f0741f323cad3032b3c89.webp 760w,
+               /en/blog/20250219/Figure1_hu4e3fc17e91c79d1af4468194f5b1ae65_571111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure1_hu4e3fc17e91c79d1af4468194f5b1ae65_571111_d619a7663daeab489711a4882ed4912e.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 1 Tectonic framework map of the Kuqa Foreland Basin.&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;The KFB, located in the northern Tarim Basin, is characterized by its Cenozoic compressional salt structures. The KFB in the northern Tarim Basin hosts prominent Cenozoic compressional salt structures, with surface-exposed salt-related features being rare yet significant The QFTB is situated along the southern margin of the KFB, to the north of the Baicheng Depression–Yiqikelike Structural Belt, and to the south, it is adjacent to the Tabeishan Uplift–Yangxia Depression(Fig 1). Laterally, it is positioned between the Wensu Uplift and the Tuerke Ming Structural Belt(Wang et al 2017; Xie et al, 2014; Li et al 2020; He et al 2023; Ju et al 2023;Zhu et al 2024).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure6_hu64f906fc975165a6f57f65c07e552d6d_1447334_db1b4c63d671bdc83110b2ebf3fa6186.webp 400w,
+               /en/blog/20250219/Figure6_hu64f906fc975165a6f57f65c07e552d6d_1447334_9462ad0bba4c71e0dfaafe0d60cda94c.webp 760w,
+               /en/blog/20250219/Figure6_hu64f906fc975165a6f57f65c07e552d6d_1447334_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure6_hu64f906fc975165a6f57f65c07e552d6d_1447334_db1b4c63d671bdc83110b2ebf3fa6186.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 6 Structural interpretation of the A-A&#39; Profile.&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;Profile A-A&amp;rsquo; of the Central Qiulitage Segment (Fig 6) is located about 7 km from the paleo-uplift, where the detachment layer of the Jurassic-Triassic strata is approximately 1,000 m thick. This thickness exceeds that of the detachment layer in the Dongqiu area (800 m) and the Dina area (600 m). The region features dual salt layers, including the Jidike Formation salt layer (approximately 800 m thick) and the Kumugeliemu Formation salt layer (about 150 m thick).Fault-bend folds are predominantly developed beneath the salt layers. Fault F1 has a cutting angle of 29°, a horizontal thrust distance of about 500 m, and a structural width of 2 km. Fault F2 has a cutting angle of 26°, a horizontal thrust distance of about 500 m, and a structural width of 4 km. Similarly, Fault F3 has a cutting angle of 25°, a horizontal thrust distance of about 300 m, and a structural width of 3km.In the northernmost section, Y-shaped faults (part of the Kelasu structural belt) are observed. Together with the Qiulitage fold-thrust belt, they form the thrust-nappe system of the Kuqa Depression. Above the salt layers, counterthrust blocks are evident, and growth strata in the Kangcun Formation suggest that the main tectonic activity occurred during the Himalayan orogeny.The Central Qiulitage Segment is characterized by a relatively thick lower detachment layer and the development of dual salt layers, forming multi-detachment-layer folding deformation. The paleo-uplift&amp;rsquo;s obstruction effect is most pronounced here, leading to smaller fault dip angles, shorter thrust distances, and the forward propagation of three imbricate caprock-detachment faults.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure7_hu883dfa7fafa382e2ef10c4b660753e77_1647357_3a5e202ad7259b0560065409548272f6.webp 400w,
+               /en/blog/20250219/Figure7_hu883dfa7fafa382e2ef10c4b660753e77_1647357_e6d06c64e95b37b1a7934094548bffb1.webp 760w,
+               /en/blog/20250219/Figure7_hu883dfa7fafa382e2ef10c4b660753e77_1647357_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure7_hu883dfa7fafa382e2ef10c4b660753e77_1647357_3a5e202ad7259b0560065409548272f6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;437&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 7 Structural interpretation of the B-B&#39; Profile&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;The Profile B-B&amp;rsquo; of the Eastern Qiulitage Segment(Fig 7), located about 12 km from the paleo-uplift, the Jurassic-Triassic detachment layer is approximately 800 m thick, which exceeds the thickness in the Dina area (600 m). This region belongs to the Jidike Formation salt development zone, where the average salt layer thickness is about 600 m. Fault-bend folds dominate the structural deformation beneath the salt layer. Fault F1 has a cutting angle of 24°, a horizontal thrust distance of about 3 km, and a structural width of 7 km. Secondary faults are developed, forming box-shaped folds. Fault F2 has a cutting angle of 21° and a horizontal thrust distance of about 300 m.Secondary faults related to Fault F2 disrupt the integrity of the anticline structure.Above the salt layer, fault-related folds are visible, and growth strata in the Kangcun Formation suggest that the main tectonic activity occurred during the Himalayan orogeny.The Eastern Qiulitage section is characterized by a relatively thick lower detachment layer, which results in smaller fault dip angles. The paleo-uplift exerts a strong obstruction effect in this area, leading to longer horizontal thrust distances and the formation of two forward-propagating caprock-detachment faults.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure8_hu07395343953e2e6d320fca20f1a1ddf8_1808415_70acecfead55bf75108e77ef48feb2ee.webp 400w,
+               /en/blog/20250219/Figure8_hu07395343953e2e6d320fca20f1a1ddf8_1808415_4c3d4f5be913872f2dd15ddc168329e6.webp 760w,
+               /en/blog/20250219/Figure8_hu07395343953e2e6d320fca20f1a1ddf8_1808415_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure8_hu07395343953e2e6d320fca20f1a1ddf8_1808415_70acecfead55bf75108e77ef48feb2ee.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;529&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 8 Structural interpretation of the C-C&#39; Profile&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;The Profile C-C&amp;rsquo; of the Dina area(Fig 8), located near the orogenic belt and approximately 25 km from the paleo-uplift, the basement dip angle is relatively low, and the structural stress is the strongest. The Jurassic-Triassic detachment layer is approximately 600 m thick, which is thinner than the lower detachment layers in the Zhongqiu section (1,000 m) and the Dongqiu section (800 m).This area represents the pinch-out zone of the Jidike Formation salt layer, where the average salt thickness is only 400 m.Fault-bend folds dominate the structural features beneath the salt layer. Fault F1 exhibits a cutting angle of 37°, a horizontal thrust distance of 900 m, and a structural width of 5 km. These features, combined with high-angle faults in the northern structural zone, create a staircase-like fault system. Growth strata in the Kangcun Formation above the salt layer suggest that the main tectonic activity phase occurred during the Himalayan orogeny.The Dina section is the region of the QFTB that experiences the strongest structural stress.Owing to the weak obstructive effect of the paleo-uplift and the thin lower detachment layer, faults in this area show larger dip angles and longer thrust distances. A single row of basement-involved faults characterizes this region, reflecting its unique tectonic features.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure14_hu4facd1ceebabc04dbe73897b06c1f480_1718901_24816cb0750ceab16602a826a025c709.webp 400w,
+               /en/blog/20250219/Figure14_hu4facd1ceebabc04dbe73897b06c1f480_1718901_738e596d6d168f1e7c656db9effb03e9.webp 760w,
+               /en/blog/20250219/Figure14_hu4facd1ceebabc04dbe73897b06c1f480_1718901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure14_hu4facd1ceebabc04dbe73897b06c1f480_1718901_24816cb0750ceab16602a826a025c709.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 14 Experimental Results Comparison of the Thickness Model of Qiulitage Fold and Thrust Belt&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;In models with varying detachment layer thicknesses (200 m, 400 m, and 600 m), the F1 fault forms first, elevating progressively with compression and deforming the overlying salt layers. The F2 fault develops with further compression; in the 200m model, the F2-controlled anticline reaches its maximum scale. As detachment thickness increases, this scale decreases, and in the 600 m model, the F3 fault initiates formation at the front, with a structural width of less than 1 km, indicating a reduced scale compared to other models. In both the base model (800 m) and the 1000 m model, only the F1 fault remains a basal thrust fault, while F2 transitions into a cover-layer detachment fault. Development of the F3 fault is significantly enhanced, and overall thrust distance is considerably greater than in the first three models. This suggests that with a detachment layer under 800m, two basal-involved faults form, leading to a shorter thrust distance. With detachment layers over 800m, only one basal thrust fault forms, and two cover-layer detachment faults propagate at the front, creating a total thrust distance of approximately 25 km(Fig 14).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure15_huf2d3250a5a967eebd9f06d3f145a23e0_1047200_a87bb1c37d37ff0dcf905897072fdbdf.webp 400w,
+               /en/blog/20250219/Figure15_huf2d3250a5a967eebd9f06d3f145a23e0_1047200_be81c5f7f2b2571218f9a887b6c37747.webp 760w,
+               /en/blog/20250219/Figure15_huf2d3250a5a967eebd9f06d3f145a23e0_1047200_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure15_huf2d3250a5a967eebd9f06d3f145a23e0_1047200_a87bb1c37d37ff0dcf905897072fdbdf.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;478&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 15 Experimental Results Comparison of the Dip Angle Model of Qiulitage Fold and Thrust Belt&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;Despite significant differences in stratigraphic dip angles, the overall fault and fold development patterns remain consistent across models, with minor variations in fault propagation and fold amplitudes. In each model, the F1 fault forms at the compressional front as a basement-involved thrust, F2 controls box fold development, and F3 controls the secondary anticline at the front, with both F2 and F3 being cover-layer detachment faults. In the 0° dip angle model, overall thrust displacement is greatest, and the folds controlled by F2 and F3 exhibit the largest amplitudes and displacements. In the 3°dip angle model, thrust displacement is shortest, and structural development is most compact, with folds controlled by F2 and F3 exhibiting amplitudes reduced by 30% compared to the 0° model. Thus, we conclude that as the dip angle increases, thrust displacement gradually shortens, structural scale decreases, but the development pattern remains unchanged(Fig 15).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure16_hucbd2edf3cc8bf09f939ae76624eb5b3e_746617_ed18662065595629c61b1f81eba33c0a.webp 400w,
+               /en/blog/20250219/Figure16_hucbd2edf3cc8bf09f939ae76624eb5b3e_746617_e84f18bdb64f264b7eff6741c517c8c1.webp 760w,
+               /en/blog/20250219/Figure16_hucbd2edf3cc8bf09f939ae76624eb5b3e_746617_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure16_hucbd2edf3cc8bf09f939ae76624eb5b3e_746617_ed18662065595629c61b1f81eba33c0a.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;327&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 16 Experimental Results Comparison of the Double Salt Layer of Qiulitage Fold and Thrust Belt&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;With the addition of an extra gypsum salt layer, the overall structural development pattern remains similar to the base model, with both showing basal-involved faults (F1) and two sets of cover-layer detachment faults (F2 and F3) at the front that control fold formation. However, a notable difference appears in the anticline controlled by the secondary faults at the front: adding the gypsum salt layer results in a 20-30% increase in the amplitude and wavelength of the frontal anticline. Thus, we conclude that deformation under double salt-layer control can increase the structural scale by enhancing fold amplitudes by 50%(Fig 16).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250219/Figure17_hudac3070ba94627ac01156d0363837ec2_1878609_628769938ea2b9e6faf979a65896b20d.webp 400w,
+               /en/blog/20250219/Figure17_hudac3070ba94627ac01156d0363837ec2_1878609_4feb522830913c399671a4d68f0e0a00.webp 760w,
+               /en/blog/20250219/Figure17_hudac3070ba94627ac01156d0363837ec2_1878609_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250219/Figure17_hudac3070ba94627ac01156d0363837ec2_1878609_628769938ea2b9e6faf979a65896b20d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;440&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Fig 17 Comparison Diagram of Experimental Model and Geological Model&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;To validate the conclusions from the experimental model, we compared the results, reflecting actual model parameters, with real seismic profiles(Fig 17). In the actual geological model, the profiles Central Qiulitage segment A-A&amp;rsquo;, Eastern Qiulitage segment B-B&amp;rsquo;, and Dina segment C-C&amp;rsquo; correspond to a-a&amp;rsquo;, b-b&amp;rsquo;, and c-c&amp;rsquo; in the simulation model, respectively. Comparison between the typical profile A-A&amp;rsquo; from the Central Qiulitage segment and the simulation result a-a&amp;rsquo; shows that, under the double salt-layer model, the QFTB develops three sets of detachment thrust faults. Notably, the size of the anticline controlled by the frontal faults is significantly enlarged, and the experimental observations closely match the actual seismic profile interpretation. Similarly, a comparison between the typical profile B-B&amp;rsquo; from the Eastern Qiulitage segment shows a detachment layer thickness exceeding 800 m, whereas the experimental model assumes a fixed thickness of 800 m. Both profiles develop two sets of cover-layer detachment thrust faults, accompanied by box-shaped fold structures, with the experimental results aligning well with the seismic interpretation.In the Dina segment, a comparison between profile C-C&amp;rsquo; and the simulation result c-c&amp;rsquo; indicates that when the detachment layer thickness is less than 800 m, two sets of step-like basement-involved reverse faults develop, consistent with the northern structural zone and the QFTB observed in the actual geological model, exhibiting similar morphological characteristics. The experimental results replicate key features observed in the seismic profiles, such as the geometry and spacing of the reverse faults in the northern structural zone.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;references&lt;/h3&gt;
+&lt;p&gt;Zhu Y ,Li C ,Jiang X , et al.Differential salt-related structural deformation in the Eastern segment of the Qiulitage fold and thrust belt, Kuqa Foreland Basin: Evidences from seismic interpretation and numerical simulation analysis[J].Journal of Structural Geology,2025,194105372-105372. &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2025.105372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jsg.2025.105372&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
