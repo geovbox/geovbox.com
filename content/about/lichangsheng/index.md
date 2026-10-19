@@ -94,7 +94,9 @@ images:
 ## 论文发表
 - **2026**
 	- [Li L., **Li C.S.***, Zhang X.\*, et al. 2026. Analysis and Calibration of DEM Parameters for Rock Materials Based on Interpretable Machine Learning. Geotechnics, 6(4), 104.](https://doi.org/10.3390/geotechnics6040104) 
+	- [巴素玉, **李长圣**, 汪伟*, 宋亮, 谷今, 卢宁, 池禹, 张新松, 朱素芹, 张勇, 2026. 准噶尔盆地西北缘哈山构造带断裂性质与演化. 地球科学, 51(5): 1893-1907.](https://doi.org/10.3799/dqkx.2025.298)
 - **2025**
+	- [宋亮,**李长圣***,范昱林,等.2025.先存断层对准噶尔盆地西北缘哈山构造带变形的影响:来自离散元数值模拟的启示.东华理工大学学报(自然科学版), 48(6): 563-573.](https://doi.org/10.3969/j.issn.1674-3504.2025.06.005)
 	- [**Li C.S.**, Li S.J., Hu Z.Q., et al. 2025. Growth Mechanisms of Small-Displacement Strike–Slip Faults in Cratonic Basins: Insights from Material Point Method Simulations. Processes, 13(6): 1946.](https://doi.org/10.3390/pr13061946)
 	- [**Li C.S.**, Zhang X.S. 2025. Prediction of stress-strain behavior of rock materials under biaxial compression using a deep learning approach. Plos One. 20(4): e0321478.](https://doi.org/10.1371/journal.pone.0321478)
 	- [张新松,**李长圣***,钟军,等. 2025. 基于神经网络的土石混合体CT图像分割及三维重建[J].工程地质学报, 33(03):1230-1239.](https://doi.org/10.13544/j.cnki.jeg.2024-0253)
