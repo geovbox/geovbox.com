@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杨文雄 | ZDEM官网</title>
+    <link>https://geovbox.com/authors/%E6%9D%A8%E6%96%87%E9%9B%84/</link>
+      <atom:link href="https://geovbox.com/authors/%E6%9D%A8%E6%96%87%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>杨文雄</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>杨文雄</title>
+      <link>https://geovbox.com/authors/%E6%9D%A8%E6%96%87%E9%9B%84/</link>
+    </image>
+    
+    <item>
+      <title>逆冲断层相关褶皱离散元数值模拟及其对后翼变形的启示（Journal of Structural Geology）</title>
+      <link>https://geovbox.com/blog/20250801/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20250801/</guid>
+      <description>&lt;p&gt;逆冲断层相关褶皱理论揭示断层活动及其伴生褶皱的几何学特征与运动学过程，尤其是与断坡相关的褶皱(e.g., Suppe, 1983; Suppe and Medwedeff, 1990; Strayer and Hudleston, 1997; He et al., 2005; Shaw et al., 2005; Brandes and Tanner, 2014; Yan et al., 2016; Plotek et al., 2021; Connors et al., 2021; Sun et al., 2022; Ju et al., 2023; Khalifeh-Soltani et al., 2023)。迄今为止，关于断坡褶皱前翼的几何特征、运动学演化及其主要控制因素，已有大量学者开展了构造定量分析和实验模拟研究。相比之下，对断坡后翼的褶皱变形及其伴生断层的发育演化仍需进一步研究(e.g., Hardy and Ford, 1997; Allmendinger, 1998; Zehnder and Allmendinger, 2000; Hardy and Finch, 2007; Hughes et al., 2014; Pei et al., 2014; Hughes and Shaw, 2014; Chiama et al., 2023; Plotek et al., 2021)。已有研究表明，后翼反冲断层可能直接传播到地表，形成显著的断层崖（如四川盆地西南部的邛西断层）(Jia et al., 2011; Wang et al., 2013)；也有可能局限于断坡上盘下部地层中，表现出明显的分层结构。学者普遍认为，断坡上盘地层的相对强度、局部滑脱层的存在与否，以及断坡的摩擦系数等因素对断坡后翼构造演化具有重要影响(Serra, 1977; Chester et al., 1991; Maillot and Koyi, 2006; Li et al., 2018)。如何更准确地重建这一复杂构造演化过程，并评估各因素的相对贡献，仍是当前亟需解决的关键问题。
+本文通过开展二维离散元数值模拟（&lt;strong&gt;ZDEM&lt;/strong&gt;），系统探讨逆冲断层相关褶皱的形成与演化特征。研究成果不仅有助于深化对其运动学机制的理解，也为挤压褶皱-冲断地区油气成藏研究和高效勘探提供理论支撑。此外，反冲断层发育机制对于揭示深部隐伏构造的发震机理亦具有重要的指示意义。
+研究表明：
+（1）断坡褶皱演化过程中，地层强度的垂向非均质性对反冲逆断层的发育具有重要影响。当上、下两层表现出一致的力学特性时，沿褶皱轴面更容易发育贯通断层。相反，当力学性能存在差异时，变形更倾向于在在较弱岩层内呈现弥散状态。
+（2）断坡的摩擦系数控制着上盘的变形强度。断坡较低的摩擦系数促进断坡再活化，以及应变沿断坡传播，导致上覆岩层中褶皱和相关断层发育。相反，较高的摩擦系数抑制了断坡再活化，使变形主要集中在断坡后翼，限制了演化后期应变沿断坡的传播。
+（3）当上构造层和下构造层之间存在一个中间滑脱层时，解耦变形导致呈现不同的结构样式。反冲作用在强度分布均匀的地层中更具有局部化。在上层强度明显大于下层的情况下，反冲作用局限于中间滑脱层之下的区域。此类构造变形特征与柴达木盆地西部的自然实例具有高度相似性，特别是与深部断裂F2相关的反冲断层，其发育范围仅限于沿E32组顶部盐层发育的狮子沟逆冲断层以下区域。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2025.105442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang, W., Rao, G., Tang, P., Zhu, C., Wang, R., 2025. Discrete-element numerical simulations of thrust-related folding: Insights into back-limb deformation. Journal of Structural Geology 197, 105442.https://doi.org/10.1016/j.jsg.2025.105442&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;逆冲断层相关褶皱离散元数值模拟及其对后翼变形的启示&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;杨文雄&lt;sup&gt;1&lt;/sup&gt;, 饶刚&lt;sup&gt;1,2*&lt;/sup&gt;, 唐鹏程&lt;sup&gt;3&lt;/sup&gt;, 朱超&lt;sup&gt;3&lt;/sup&gt;, 汪仁富&lt;sup&gt;4&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;西南石油大学 地球科学与技术学院， 成都 610500&lt;/li&gt;
+&lt;li&gt;西南石油大学 石油和化工行业山前带油气地球物理勘探技术重点实验室， 成都 610500&lt;/li&gt;
+&lt;li&gt;中国石油杭州地质研究所，杭州 310023&lt;/li&gt;
+&lt;li&gt;中石化西南油气田分公司勘探开发研究院，成都 610041&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;通讯作者: 饶刚(&lt;a href=&#34;mailto:raogangss@126.com&#34;&gt;raogangss@126.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;The theory of thrust-related folding has significantly enhanced our comprehension of the kinematic evolution of folds, especially those associated with fault ramps. Despite extensive research into the deformation mechanisms of the fore-limb in the hanging wall folds, the factors influencing back-limb deformation remain relatively underexplored. This study employs a series of discrete-element simulations to investigate the evolution of ramp related folding, particularly focusing on the factors governing the development of back-thrusts. Comparative analyses reveal diverse deformation styles within the hanging wall of a ramp fold. Notably, when the upper layer exhibits significantly greater strength relative to the lower layer, and an intermediate décollement exists between them, decoupled deformation occurs, characterized by back-thrusting predominantly in the lower layer. This phenomenon is analogous to the deep thrust belts beneath the Shizigou anticline in the western Qaidam Basin, northern Tibetan Plateau, where multiple hydrocarbon-bearing layers have been identified. The findings offer significant insights into the mechanisms of thrust-related folding, thereby improving efficient hydrocarbon exploration in relevant regions. Furthermore, unlike the commonly reported nucleation of a fault ramp from the basal d ́ecollement or at an intermediate level, our observations indicate initiation from the shallow section. The detailed mechanism underlying such differential deformation warrant further investigation.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure1_hu310a081b0f69001453809f59d5860220_217234_be831ec6b8a11575972498ec1610bc79.webp 400w,
+               /blog/20250801/Figure1_hu310a081b0f69001453809f59d5860220_217234_4a62204659bc7108bae1f7dd1907baec.webp 760w,
+               /blog/20250801/Figure1_hu310a081b0f69001453809f59d5860220_217234_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure1_hu310a081b0f69001453809f59d5860220_217234_be831ec6b8a11575972498ec1610bc79.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;618&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图1. 与斜坡相关褶皱相关的断层发育：（a）示意图显示斜坡褶皱顶部壁中后翼断层的形成； (b) 融合地震反射和钻探数据的英雄山脉西部构造带综合地质剖面和地层柱状图（改编自Li等，2018）。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure2_huf06faff41ee82e34158d1094fbee50e1_125618_ed557d4ac746f052bcd014ae4f2ba66e.webp 400w,
+               /blog/20250801/Figure2_huf06faff41ee82e34158d1094fbee50e1_125618_4b17b5de8612b3c9668a37bcf9bff385.webp 760w,
+               /blog/20250801/Figure2_huf06faff41ee82e34158d1094fbee50e1_125618_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure2_huf06faff41ee82e34158d1094fbee50e1_125618_ed557d4ac746f052bcd014ae4f2ba66e.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;253&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图2. 岩石变形实验表明，后推断主要局限于下部的砂岩层（改编自Chester等，1991）。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure3_hufd9589072044198a627601248b500036_217854_49041a0612599237c1b9e632cb288a4d.webp 400w,
+               /blog/20250801/Figure3_hufd9589072044198a627601248b500036_217854_28d7e309db3997652f5fb7c8a3f3e01c.webp 760w,
+               /blog/20250801/Figure3_hufd9589072044198a627601248b500036_217854_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure3_hufd9589072044198a627601248b500036_217854_49041a0612599237c1b9e632cb288a4d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;301&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图3. 实验模型的初始配置差异：（a）上层与下层直接接触，（b）上层与下层之间由100米厚的间隔剥离层分隔。在两种配置中，模型左半部分在缩短前均存在基底剥离层。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure4_hu0f016886235c4a67e304fd0a6ac573a9_491616_aeda17ca6ad71279f1374c9e90f6539d.webp 400w,
+               /blog/20250801/Figure4_hu0f016886235c4a67e304fd0a6ac573a9_491616_3f88f51b388dc73546a057cdd8719e73.webp 760w,
+               /blog/20250801/Figure4_hu0f016886235c4a67e304fd0a6ac573a9_491616_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure4_hu0f016886235c4a67e304fd0a6ac573a9_491616_aeda17ca6ad71279f1374c9e90f6539d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图4. 实验1–4的结果。在没有中间脱离层的情况下，下层配置为粘结参数集T2，而上层分别在实验1至4中被分配参数集T1至T4。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure5_hudf0b93802b8c2cc9e712ff0d9a3c0848_515126_33db56173abfa565fe6eafb35ba9c3a5.webp 400w,
+               /blog/20250801/Figure5_hudf0b93802b8c2cc9e712ff0d9a3c0848_515126_a6db7d66207822b774ac2f6701111f26.webp 760w,
+               /blog/20250801/Figure5_hudf0b93802b8c2cc9e712ff0d9a3c0848_515126_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure5_hudf0b93802b8c2cc9e712ff0d9a3c0848_515126_33db56173abfa565fe6eafb35ba9c3a5.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;517&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图5. 实验5–8的结果。与初始的四个模型（实验1–4）相比，每个模型中都引入了额外的中间脱离层。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure6_hu37f31870dfff36663c97554f98070842_498272_e0872b9c6e922c0e2c68751c1f16a7e4.webp 400w,
+               /blog/20250801/Figure6_hu37f31870dfff36663c97554f98070842_498272_36d04f13855fbbac9e0d8747066eda8d.webp 760w,
+               /blog/20250801/Figure6_hu37f31870dfff36663c97554f98070842_498272_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure6_hu37f31870dfff36663c97554f98070842_498272_e0872b9c6e922c0e2c68751c1f16a7e4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;511&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图6. 实验9至11的结果。在实验8观察到解耦变形后，在保持上层为T4的情况下，对下层材料的强度进行了变化研究。具体而言，实验9、10和11中使用的下层材料温度分别设定为T1、T3和T4。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure7_hua182d92ff2d6d7431aab9b42dd680ac1_5642645_2e9db67a4e2d234df7f93b291b558922.webp 400w,
+               /blog/20250801/Figure7_hua182d92ff2d6d7431aab9b42dd680ac1_5642645_7a7c8732c59eac43c35f22e3c717f21d.webp 760w,
+               /blog/20250801/Figure7_hua182d92ff2d6d7431aab9b42dd680ac1_5642645_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure7_hua182d92ff2d6d7431aab9b42dd680ac1_5642645_2e9db67a4e2d234df7f93b291b558922.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;679&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图7. 实验12–14的摩擦系数变化结果。与先前实验中使用的0.1系数不同，实验12、13和14分别采用了0.00、0.05和0.2的系数。&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250801/Figure8_hu916cf9fdfaeaf1c4ddc9d723ab8f8ada_362632_c6144cf2f0955b38604cdc2bc7306311.webp 400w,
+               /blog/20250801/Figure8_hu916cf9fdfaeaf1c4ddc9d723ab8f8ada_362632_a6718b3525e3b23ea17515e910380b06.webp 760w,
+               /blog/20250801/Figure8_hu916cf9fdfaeaf1c4ddc9d723ab8f8ada_362632_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250801/Figure8_hu916cf9fdfaeaf1c4ddc9d723ab8f8ada_362632_c6144cf2f0955b38604cdc2bc7306311.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;372&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;图8. 在均匀16%体积缩短后代表性模型的比较分析：（a）实验1；（b）实验2；（c）实验4；（d）实验5；（e）实验6；及（f）实验8。&lt;/h5&gt;&lt;/center&gt;
+&lt;h3 id=&#34;结论&#34;&gt;结论&lt;/h3&gt;
+&lt;p&gt;The results of our discrete-element numerical simulations concerning the back-limb deformation during ramp folding lead to the following conclusions.
+(1) The vertical heterogeneity in stratal strength under ramp folding has a significant influence on the development of back-thrusts. When the upper and lower layers exhibit uniform mechanical properties, a through-going fault is more likely to develop along the axial plane of the fold. Conversely, when there is a disparity in mechanical properties, deformation tends to be more diffuse within the weaker layer.
+(2) The friction coefficient of the ramp governs the deformation intensity of the hanging wall. A lower ramp friction promotes reactivation of the ramp and facilitates strain propagation along it, leading to folding of the overlying strata and associated fault development. Conversely, higher friction coefficients suppress ramp reactivation, concentrating deformation predominantly in the hinterland region and limiting strain propagation to the ramp position during later stages of evolution.
+(3) When an intermediate d ́ecollement exists between the upper and lower layers, decoupled deformation results in distinctly different structural styles. Back-thrusting is more localized in strata with uniform strength distribution. In cases where the upper layer exhibits significantly greater strength relative to the lower layer, back-thrusting is confined to the region beneath the intermediate detachment layer. These modelled tectonic characteristics align with the patterns observed in natural examples from the western Qaidam Basin, particularly where back-thrusting associated with the deep fault F2 is confined to the area beneath the Shizigou thrust fault, which developed along the salt layer at the top of the E32 formation.&lt;/p&gt;
+&lt;h3 id=&#34;致谢&#34;&gt;致谢&lt;/h3&gt;
+&lt;p&gt;本研究中，作者使用ZDEM软件（https://geovbox.com/en/）进行了模拟实验。我们感谢莱斯大学的Julia Morgan提供其离散元代码（RICEBAL v5.4）及后处理脚本和算法，这些工具已被用于处理并展示本研究中呈现的模型输出结果。我们对李长生博士在数值模拟过程中提供的宝贵建议表示感谢。我们还感谢编辑和两位审稿人提出的建设性反馈和深刻建议，这些建议显著提升了本文的清晰度。本研究得到国家自然科学基金（编号：42272271）和中国石油科技重大项目（编号：2023ZZ02）的支持。&lt;/p&gt;
+&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
+&lt;p&gt;限于篇幅，参考文献详见：Yang, W., Rao, G., Tang, P., Zhu, C., Wang, R., 2025. Discrete-element numerical simulations of thrust-related folding: Insights into back-limb deformation. Journal of Structural Geology 197, 105442. &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2025.105442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jsg.2025.105442&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

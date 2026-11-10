@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>辛文 | ZDEM官网</title>
+    <link>https://geovbox.com/authors/%E8%BE%9B%E6%96%87/</link>
+      <atom:link href="https://geovbox.com/authors/%E8%BE%9B%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>辛文</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>辛文</title>
+      <link>https://geovbox.com/authors/%E8%BE%9B%E6%96%87/</link>
+    </image>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟</title>
+      <link>https://geovbox.com/blog/20230315/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20230315/</guid>
+      <description>&lt;h4 id=&#34;论文下载&#34;&gt;论文下载：&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://kns.cnki.net/kcms/detail/detail.aspx?filename=1022401115.nh&amp;amp;dbcode=CMFD&amp;amp;dbname=CMFD2022&amp;amp;v=vYLskAae-kRbfWamkMVYDbEC0D9yhdwvELrXuIsr1SwyGyi3UJFE11z7bBAEeGHb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;辛文 (2021). 西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟. &lt;strong&gt;硕士论文&lt;/strong&gt;. 浙江大学.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目西南天山山前冲断带构造变形控制因素研究基于离散元数值模拟&#34;&gt;题目：西南天山山前冲断带构造变形控制因素研究——基于离散元数值模拟&lt;/h4&gt;
+&lt;h4 id=&#34;作者辛文&#34;&gt;作者：辛文&lt;/h4&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;西南天山山前褶皱冲断带东段和西段变形具有显著差异，西段喀什北缘冲断带以发育“堆垛”构造和基底卷入逆冲构造为特征，与其相邻的东段柯坪冲断带却发育大规模叠瓦状薄皮滑脱构造，是什么因素控制了冲断带的变形差异。论文基于地震解释剖面，采用离散元数值模拟研究手段，分析单变量控制因素对冲断带变形的影响。论文共设计二十八组实验，探讨滑脱层强度、滑脱层位置、盖层厚度、先存断裂、单双向挤压及双向挤压距离等因素对西南天山山前褶皱冲断带构造变形的影响。 根据实验结果得出以下结论：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;滑脱层内聚力的大小对变形具有重要的控制作用。滑脱层内聚力大小控制其下断裂向上突破的难易程度，滑脱层内聚力较强时，沿先存薄弱带易突破滑脱层形成逆冲推覆构造；滑脱层内聚力较弱时，滑脱层将发育成逆冲体系的顶板断裂，阻碍滑脱层之下单元中先存断裂活化后向上传播。弱内聚力滑脱层可以促进变形前锋向前传播得更快、更远；限定变形主要发生在滑脱层之上单元，滑脱层之上单元易形成三角带和冲起构造，滑脱层之下单元构造变形相对较弱。滑脱层内聚力越小，越容易形成叠瓦状薄皮滑脱构造；上覆地层越厚形成的逆冲片规模越大、数量越少，逆冲片间距越大。&lt;/li&gt;
+&lt;li&gt;在单、双向挤压时，应力、应变主要集中在滑脱层和断裂等薄弱带位置，靠近挤压端应力和应变较强；滑脱层内聚力越小，应力越容易向远处传播。近距离双向挤压时，应力可以通过弱内聚力滑脱层传播至远端，从而对远端的变形产生影响；远距离双向挤压时，不会对另一侧的变形产生影响。&lt;/li&gt;
+&lt;li&gt;上白垩统—古近系膏盐滑脱层和新生代之前的先存断层，是喀什北缘冲断带发育的堆垛式变形主要控制因素；同时，帕米尔弧形构造带由南向北的挤压作用也影响了喀什北缘冲断带变形样式。古近系的膏盐层可以作为区域内有效滑脱层，在挤压过程中，前新生代先存断裂依次活化并相互叠覆形成系列逆冲片，上白垩统—古近系膏盐滑脱层作为顶板断裂阻碍其下深部断裂继续向上和向南传播，靠近挤压端形成“堆垛”构造。喀什北缘冲断带位于帕米尔和南天山对接带，其南侧前锋断裂受到帕米尔弧形构造带由南向北逆冲作用影响，阻碍喀什北缘冲断带前缘隐伏逆冲断裂向南和向上突破，导致喀什北缘冲断带没有形成类似柯坪冲断带叠瓦状薄皮滑脱构造。&lt;/li&gt;
+&lt;li&gt;柯坪冲断带发育大规模的叠瓦状薄皮滑脱构造变形与中寒武统膏盐滑脱层和古生代厚沉积盖层有着密切关系。柯坪地区发育较厚的古生代和新生代地层导致作为有效弱内聚力滑脱层的中寒武统膏盐滑脱层的有效性增强，在挤压过程中形成一系列向下归一到中寒武统滑脱层内的逆冲片，发育大规模的叠瓦状薄皮滑脱构造。此外，柯坪地区距离西昆仑—帕米尔冲断带较远，其变形不受西昆仑—帕米尔冲断带由南向北挤压作用的影响。在柯坪冲断带内部，柯坪冲断带以皮羌断裂为界进一步划分为东西两段，西段的寒武系膏泥盐滑脱层埋藏较深，上覆沉积地层较厚；而东段的寒武系膏泥盐滑脱层埋藏较浅，上覆沉积地层相对较薄，导致柯坪冲断带西侧逆冲片比东侧逆冲片规模更大、间隔更大和数量更少。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;关键词西南天山褶皱冲断带构造变形控制因素数值模拟&#34;&gt;关键词：西南天山，褶皱冲断带，构造变形，控制因素，数值模拟&lt;/h4&gt;
+&lt;h4 id=&#34;目录&#34;&gt;目录：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;第一章 绪论&lt;/li&gt;
+&lt;li&gt;第二章 冲断带数值模拟研究&lt;/li&gt;
+&lt;li&gt;第三章 区域地质概况&lt;/li&gt;
+&lt;li&gt;第四章 喀什北缘冲断带变形控制因素的数值模拟分析&lt;/li&gt;
+&lt;li&gt;第五章 滑脱层及其上覆地层厚度对柯坪冲断带变形的影响&lt;/li&gt;
+&lt;li&gt;第六章 喀什北缘冲断带和柯坪冲断带变形差异控制因素分析&lt;/li&gt;
+&lt;li&gt;第七章 认识与结论&lt;/li&gt;
+&lt;li&gt;参考文献&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230315/ex3.6_huf3130f51138f61552c20cab4ebb1efea_682081_c6bdb08200f6499276017a0119069c0e.webp 400w,
+               /blog/20230315/ex3.6_huf3130f51138f61552c20cab4ebb1efea_682081_7fa0bd48a1c6cf7475b9a55824adea92.webp 760w,
+               /blog/20230315/ex3.6_huf3130f51138f61552c20cab4ebb1efea_682081_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230315/ex3.6_huf3130f51138f61552c20cab4ebb1efea_682081_c6bdb08200f6499276017a0119069c0e.webp&#34;
+               width=&#34;589&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;柯坪冲断带数值模拟实验变形-应变结果&lt;/h5&gt;&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>西南天山山前冲断带构造变形控制因素的离散元数值模拟（地质学报）</title>
+      <link>https://geovbox.com/blog/20210410/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20210410/</guid>
+      <description>&lt;p&gt;本文主要揭示滑脱层、先存断裂等因素对冲断带变形的影响，认为西南天山山前冲断带发育堆垛构造主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂&lt;a href=&#34;#refer-xin2020&#34;&gt;(辛文 等.,2020)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-xin2020&#34;&gt;&lt;/div&gt;
+[辛文，陈汉林，安凯旋，张欲清，杨树锋，程晓敢，林秀斌. 2020. 基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究. 地质学报, 94(6): 1704-1715. ](https://doi.org/10.19762/j.cnki.dizhixuebao.2020078)   
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;辛文&lt;sup&gt;1,2&lt;/sup&gt;, 陈汉林&lt;sup&gt;1,2&lt;/sup&gt;*, 安凯旋&lt;sup&gt;1,2&lt;/sup&gt;, 张欲清&lt;sup&gt;1,2&lt;/sup&gt;, 杨树锋&lt;sup&gt;1,2&lt;/sup&gt;, 程晓敢&lt;sup&gt;1,2&lt;/sup&gt;,
+林秀斌&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;浙江大学地球科学学院, 杭州, 310027&lt;/li&gt;
+&lt;li&gt;教育部含油气盆地构造研究中心, 杭州, 310027&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;西南天山山前褶皱冲断带的变形与其东侧的柯坪冲断带的大规模薄皮滑脱明显不同，它以发育“堆垛”构造和基底卷入逆冲构造为特征，是什么因素控制了该冲断带的变形。本文基于地震解释剖面，采用离散元数值模拟研究手段，单因素变量控制方法，设计了先存断裂模型，滑脱层模型和先存断裂与不同内聚力的滑脱层组合模型共5组数值模拟实验,分析西南天山山前褶皱冲断带的构造变形的控制因素。实验结果表明：滑脱层岩石强度控制了其下先存断裂向上突破的难易程度，滑脱层内聚力较强时，沿先存薄弱带易突破滑脱层形成逆冲推覆构造；滑脱层内聚力较弱时，滑脱层将发育成逆冲体系的顶板断裂，阻碍滑脱层之下单元中先存断裂后期活动向上传播，易形成相互叠覆的逆冲片。弱内聚力滑脱层发育的地区，变形前锋向前陆方向传播得更快、更远,变形主要发生在滑脱层之上单元，易形成冲起构造和三角带，滑脱层之下单元构造变形相对较弱。通过对比分析，认为西南天山山前冲断带发育堆垛构造和基底卷入逆冲构造变形，主要受控于发育上白垩统-古近系的膏盐层和前新生代的先存断裂。&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210410/figure11_hu08a059d41311f3cb4e00a1a6184fbd98_753034_5e663b31e088bd4e9d14474dc47cd9cc.webp 400w,
+               /blog/20210410/figure11_hu08a059d41311f3cb4e00a1a6184fbd98_753034_5f8c6984a236f9f2b0126a56763885a3.webp 760w,
+               /blog/20210410/figure11_hu08a059d41311f3cb4e00a1a6184fbd98_753034_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210410/figure11_hu08a059d41311f3cb4e00a1a6184fbd98_753034_5e663b31e088bd4e9d14474dc47cd9cc.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;633&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;初始模型设置 &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210410/figure2_hue61a1b37510cfe43e0c0c63296826efd_382753_eabceec84659381a34c511f6fb4435ce.webp 400w,
+               /blog/20210410/figure2_hue61a1b37510cfe43e0c0c63296826efd_382753_5a35aa4d0757aa03165ac8f3feb7d6d7.webp 760w,
+               /blog/20210410/figure2_hue61a1b37510cfe43e0c0c63296826efd_382753_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210410/figure2_hue61a1b37510cfe43e0c0c63296826efd_382753_eabceec84659381a34c511f6fb4435ce.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;589&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;不同初始条件模型数值模拟结果对比 &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20210410/figure3_hu5f575b2840e34b38a8b1720e2e07c5bf_401558_77fddefad3b0e5ab58c457a125b5c7c7.webp 400w,
+               /blog/20210410/figure3_hu5f575b2840e34b38a8b1720e2e07c5bf_401558_68d5cb012e6c13ab3c39e4c60e1e774c.webp 760w,
+               /blog/20210410/figure3_hu5f575b2840e34b38a8b1720e2e07c5bf_401558_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20210410/figure3_hu5f575b2840e34b38a8b1720e2e07c5bf_401558_77fddefad3b0e5ab58c457a125b5c7c7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;607&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;不同强度滑脱层模型数值模拟结果对比 &lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;致谢&#34;&gt;致谢&lt;/h4&gt;
+&lt;p&gt;本文模拟实验使用的是由东华理工大学李长圣自主研发的离散元数值模拟软件VBOX，在此表示感谢。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第三节 应用：基于离散元的构造模拟</title>
+      <link>https://geovbox.com/blog/20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20200605/</guid>
+      <description>&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　https://www.bilibili.com/video/BV1st4y1C7b5?p=3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;腾讯会议已结束&#34;&gt;腾讯会议（已结束）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程时间：2020/06/05 19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;点击链接入会：https://meeting.tencent.com/s/QmMCiJSHewVj&lt;/li&gt;
+&lt;li&gt;会议 ID：731 904 875&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;课程简介共3个报告&#34;&gt;课程简介（共3个报告）&lt;/h3&gt;
+&lt;p&gt;本节课邀请了南京大学研究生徐雯峤和浙江大学研究生辛文讲解他们发表在《地质学报》上研究成果。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;应用：基于离散元的构造模拟&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主讲人：李长圣&lt;/li&gt;
+&lt;li&gt;内容简要：
+&lt;ul&gt;
+&lt;li&gt;褶皱冲断构造主控因素&lt;/li&gt;
+&lt;li&gt;双滑脱层的挤压构造：库车&lt;/li&gt;
+&lt;li&gt;深浅构造耦合及多期构造叠加：塔西南&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;库车坳陷东西段盐下构造变形差异演化数值模拟分析&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主讲人：徐雯峤&lt;/li&gt;
+&lt;li&gt;内容简要：
+&lt;ul&gt;
+&lt;li&gt;库车坳陷区域地质概况
+&lt;ul&gt;
+&lt;li&gt;东西分段&lt;/li&gt;
+&lt;li&gt;南北分带&lt;/li&gt;
+&lt;li&gt;上下分层&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;初始模型设置：
+&lt;ul&gt;
+&lt;li&gt;实验1：无先存断层-无同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验2：弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验3：无先存断层-同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验4：先存断层-同构造沉积模型；&lt;/li&gt;
+&lt;li&gt;实验5：强盐岩层模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;模拟结果及分析：
+&lt;ul&gt;
+&lt;li&gt;先存断裂会影响褶皱冲断带构造传播的方式，造成盐下楔体的形态、断裂数量和盐上构造样式的差异；&lt;/li&gt;
+&lt;li&gt;同构造沉积和差异滑脱层性质主要影响含盐褶皱冲断带垂向分层解耦合变形的程度，同构造沉积会增强盐上和盐下的解耦合变形，滑脱层性质增强会减弱盐上和盐下的解耦合变形。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主讲人：辛文&lt;/li&gt;
+&lt;li&gt;内容简要：
+&lt;ul&gt;
+&lt;li&gt;地质背景介绍：新疆喀什地区西北缘褶皱冲断带分布图和测线位置。&lt;/li&gt;
+&lt;li&gt;初始模型设置：
+&lt;ul&gt;
+&lt;li&gt;实验1：先存断裂初始模型；&lt;/li&gt;
+&lt;li&gt;实验2：弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验3：先存断裂-弱内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验4：先存断裂-中等内聚力滑脱层初始模型；&lt;/li&gt;
+&lt;li&gt;实验5：先存断裂-强内聚力滑脱层初始模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;模拟结果及分析：
+&lt;ul&gt;
+&lt;li&gt;先存断裂和滑脱层对冲断带构造变形的影响；&lt;/li&gt;
+&lt;li&gt;滑脱层强度对研究区构造变形的影响。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本次课程为中国石油勘探开发研究院管树巍专家和中国地质大学（北京）能源学院何登发教授推荐开设，共三节课&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一节 理论：构造模拟与离散元（第一周）&lt;/li&gt;
+&lt;li&gt;第二节 软件：VBOX简介与操作演示（第二周）&lt;/li&gt;
+&lt;li&gt;第三节 应用：基于离散元的构造模拟（第三周）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_d2fc45c6326e72bb58f8dae4cff9ad43.webp 400w,
+               /blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_1a5d6c0665d5509670c58d963a48cbd6.webp 760w,
+               /blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_d2fc45c6326e72bb58f8dae4cff9ad43.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_f0f1bdff2c2cbba9003583c16110b57f.webp 400w,
+               /blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_49f3b8ff6c695dd87bf93fb836691ccb.webp 760w,
+               /blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_f0f1bdff2c2cbba9003583c16110b57f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_4d02e82156d4d705273107f2e65cb780.webp 400w,
+               /blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_1e8a97dfa71c23bb666c746f25e81d99.webp 760w,
+               /blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_4d02e82156d4d705273107f2e65cb780.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_ad2460a2e4cbc99a49ecca7039f67479.webp 400w,
+               /blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_739f9c4d1e689d30b9953592409d66f1.webp 760w,
+               /blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_ad2460a2e4cbc99a49ecca7039f67479.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_48750a08a249dcdbccb5abea16317ec3.webp 400w,
+               /blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_fbb0bd7917822763bf71b0c14c127c6c.webp 760w,
+               /blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_48750a08a249dcdbccb5abea16317ec3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-应用基于离散元的构造模拟部分内容&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;应用：基于离散元的构造模拟　部分内容&#34; srcset=&#34;
+               /blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_573cf330550f1b6aad88b7b56d510705.webp 400w,
+               /blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_762b17713f5fdb54e0d1e5c05066c282.webp 760w,
+               /blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_573cf330550f1b6aad88b7b56d510705.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      应用：基于离散元的构造模拟　部分内容
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a894f60cdd53a645cc8a3441933d3788.webp 400w,
+               /blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_7f8b3fbbc2d057e28eb79118fcb7b8b6.webp 760w,
+               /blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a894f60cdd53a645cc8a3441933d3788.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_28bda9881ce1926976c3348299d4fe27.webp 400w,
+               /blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_09f6824602fbf89cae0d2495517ad2dc.webp 760w,
+               /blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_28bda9881ce1926976c3348299d4fe27.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-库车坳陷东西段盐下构造变形差异演化数值模拟分析部分内容&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;库车坳陷东西段盐下构造变形差异演化数值模拟分析　部分内容&#34; srcset=&#34;
+               /blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_c9bcfa8187bca86f83225d7240e72e7f.webp 400w,
+               /blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_356b30b9cfeda8ccdbe5d7c56781587e.webp 760w,
+               /blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_c9bcfa8187bca86f83225d7240e72e7f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      库车坳陷东西段盐下构造变形差异演化数值模拟分析　部分内容
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_c3305ce73c38bd51fc23beb59ff0c45b.webp 400w,
+               /blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_306f07aab7f11a32e926d49659612615.webp 760w,
+               /blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_c3305ce73c38bd51fc23beb59ff0c45b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_17a5377423b13cefe49ec4958c18c0bd.webp 400w,
+               /blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_704715c1942d576c6300f8959b632ab1.webp 760w,
+               /blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_17a5377423b13cefe49ec4958c18c0bd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_2c7ba5f8a0ec4c9a6f0953f514979340.webp 400w,
+               /blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_23a721ad69b580e21e001bbec209e53e.webp 760w,
+               /blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_2c7ba5f8a0ec4c9a6f0953f514979340.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究部分内容&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究　部分内容&#34; srcset=&#34;
+               /blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_60c45e082e35fb49e16eb64ab9a26a5d.webp 400w,
+               /blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_88f6cc8dea82e98a69b16adfab4b3de9.webp 760w,
+               /blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_60c45e082e35fb49e16eb64ab9a26a5d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      基于离散元数值模拟的西南天山山前冲断带构造变形控制因素研究　部分内容
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xu Wenqiao | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/xu-wenqiao/</link>
+      <atom:link href="https://geovbox.com/en/authors/xu-wenqiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xu Wenqiao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Xu Wenqiao</title>
+      <link>https://geovbox.com/en/authors/xu-wenqiao/</link>
+    </image>
+    
+    <item>
+      <title>Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin:insights from numerical modeling</title>
+      <link>https://geovbox.com/en/blog/20240214/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240214/</guid>
+      <description>&lt;div id=&#34;refer-xu2024&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu, W., Yin, H.*, Zhao, S.,Zhang, C., Li, B., Jia, D., Li, C., Wang, W., 2024. Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: Insights from numerical modeling,Journal of Structural Geology,180:105068.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Influence of multiple detachments on structural vergence and evolution of the thin-skinned fold-and-thrust belt in the eastern Sichuan Basin: insights from numerical modeling&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*,Shengxian Zhao&lt;sup&gt;2&lt;/sup&gt;, Chenglin Zhang&lt;sup&gt;2&lt;/sup&gt;, Bo Li&lt;sup&gt;2&lt;/sup&gt;, Dong Jia&lt;sup&gt;1&lt;/sup&gt;,
+Changsheng Li&lt;sup&gt;3&lt;/sup&gt; and Wei Wang&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;Shale Gas Institute of PetroChina Southwest Oil &amp;amp; Gasfield Company, Chengdu, China.&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences, East China University of Technology, Nanchang, China.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The thin-skinned fold-and-thrust belt with multiple detachments in the eastern Sichuan Basin is characterized by a series of fault-detachment folds with a backward preferred structural vergence, which is rare in nature and can’t be explained well by the classic critically taper theory. Here, three discrete element simulations were conducted to study the influence of multiple detachments on the structural vergence and evolution of the eastern Sichuan thin-skinned fold and thrust belt. The experimental results reveal that multiple detachment layers affected the bulk mechanical strength and facilitated a dually vergent thrust wedge with a backward preferred structural vergence. The addition of intermediate detachment layers influences structural vergence and fault activity of thrust wedges. With the increase in intermediate weak layers, the preferred structural vergence of these model results progressively moved from forward to nearly symmetric and eventually to backward. These results exhibit first-order structural similarities to the structural vergence and fault activity in the eastern Sichuan fold and thrust belt, which indicates that the influence of the internal distribution of weak layers within the eastern Sichuan Basin should not be ignored. The limited Cambrian evaporite layer and the widespread Silurian shale and Lower-Middle Triassic evaporite layers had significant impacts on the deformation of the fold-and-thrust belt in the eastern Sichuan basin. Consequently, we propose a kinematic model for the coupled geodynamic processes of the eastern Sichuan fold-and-thrust belt. The framework of the eastern Sichuan Basin with a number of backward fault-detachment folds was formed by Mesozoic northwestward propagation, and Cenozoic eastward propagation reactivated the folding and thrusting. The Huayingshan fault was affected by the limited Cambrian evaporite layer.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_069f38821e4936a9e50501935f2646d7.webp 400w,
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_8acbdecc6c691d7b00142fe8cbec42fa.webp 760w,
+               /en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure4-1_hud26fddf2a4ed6d8f25a729a0e739a4d1_162513_069f38821e4936a9e50501935f2646d7.webp&#34;
+               width=&#34;400px&#34;
+               height=&#34;358&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Interpreted seismic section (a) and corresponding geological cross-sectional view (b) across the ESB (modified from Gu et al., 2021), and its position is shown in Figure 1b. The black arrows illustrate the positions of the three detachments. (c) Fault displacement statistics within the anticlines across the ESB. The fault displacements record the displacement of Permian layer in faults that at least connect the basal and top detachment layers. The displacements of minor faults between adjacent detachment layers have been disregarded. (d) The ratio of forethrust/backthrust displacements to the total displacements within the anticlines.  &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_46b968a188e2a2dcb41d108351d13b7f.webp 400w,
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_41aa18d64c260519b7cb82509420ebd1.webp 760w,
+               /en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure6-1_hu6c0d8153b6a070b05dac0fb9c93e5e79_91737_46b968a188e2a2dcb41d108351d13b7f.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; Distribution of deformation (up) and velocity field (down) illustrated by (a) Model 1 with 10% BS, (b) Model 2 with 10% BS and (c) Model 3 with 10% BS and (d)14.3% BS, where γ is shear strain of the bulk overlying particles, Δt represents the period of time, Δu is the velocity between the upper surface and base, Δy represents the thickness of the particle layers, and Δx represents surface-bottom interface offset of particle motions. γ1-γ4 are measured by the angle of pink dash lines. Velocity schematic diagrams of back-vergent fold (e) and fore-vergent fold (f) with multiple detachment, which are interpreted from the squares in velocity fields of Model 3 with 10% BS and 14.3% BS, respectively.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_8e1ea504dbbdd01eb2fd907a86273ba8.webp 400w,
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_e0b64c162bd7d44d943ca1c0b40e6789.webp 760w,
+               /en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240214/figure8-2_hud9341578a4c7df5baaa9de89763ef8ac_44726_8e1ea504dbbdd01eb2fd907a86273ba8.webp&#34;
+               width=&#34;300px&#34;
+               height=&#34;246&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Proposed kinematic model for the coupled geodynamic processes of the ESB. The evolution of ESB during (a, b) the Mesozoic intracontinental deformation at 100-80 Ma, and (c) Cenozoic eastward growth of the Tibetan Plateau at ~30Ma (modified from Tian et al., 2018). &lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: XU WenQiao&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations</title>
+      <link>https://geovbox.com/en/blog/20210329/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210329/</guid>
+      <description>&lt;div id=&#34;refer-xu2021&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.653395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xu, W., Yin, H., Jia, D., Li, C., Wang, W., Yang, G., He, W., Chen, Z., Ren, R., 2021. Structural Features and Evolution of the Northwestern Sichuan Basin: Insights From Discrete Numerical Simulations. Frontiers in Earth Science, 9:653395.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Structural features and evolution of the northwestern Sichuan Basin Insights from discrete numerical simulations&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Wenqiao Xu&lt;sup&gt;1&lt;/sup&gt;, Hongwei Yin&lt;sup&gt;1&lt;/sup&gt;*, Dong Jia&lt;sup&gt;1&lt;/sup&gt;, Changsheng Li&lt;sup&gt;2&lt;/sup&gt;, Wei Wang&lt;sup&gt;1&lt;/sup&gt;, Gengxiong Yang&lt;sup&gt;1&lt;/sup&gt;,
+Wanhui He&lt;sup&gt;1&lt;/sup&gt;, Zhuxin Chen&lt;sup&gt;3&lt;/sup&gt; and Rong Ren&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Science and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Science, East China University of Technology, Nanchang, China&lt;/li&gt;
+&lt;li&gt;Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The northwestern Sichuan Basin has experienced Meso-Cenozoic intracontinental compressional tectonic processes and formed multi-detachment stratigraphic distribution of foreland basins and fold-thrust belts, which have caused complicated structural deformations in the deep buried layers. Rapid uplift with accelerated erosion and two sets of detachments in the Lower Triassic and Lower Cambrian controlled the multilevel deformation structure. We conducted discrete numerical simulations with double weak detachments and erosion under extrusion conditions in order to examine the mechanics and kinematics of the frontal piedmont zones of the NW Sichuan Basin. The following findings were made. (1) With continuous compression, the weak detachments promoted the decoupled and ladder-like deformation of the thrust belt, where the deformation above the slip layer extended further than it did below it. Rapid uplift and erosion at the thrust front contributed to the formation of a passive roof fault and a monocline in the upper layer, a series of forward and backward thin-skinned thrust-buried structures in the middle layer sandwiched between two weak detachments and stacking structures in the lower layer. (2) Erosion effectively prevents the deformation from propagating above the upper detachment, but can advance a horizontal transition in the deformation style generated within the middle brittle layer: from oblique and tight fault propagation folds to symmetrical, wide, and gentle detachment folds. (3) The model results consistent with tectonic deformation in the NW Sichuan Basin indicate a possible evolutionary mechanism under compression. There is hierarchical deformation of uncoordinated contraction controlled by the Lower Triassic and Early Cambrian weak layers, with the characteristics of the shallow monocline, the middle thin-skinned thrusts, and the deeper basement-involved folds. Continuous compression contributed a sequential pattern of steps as a whole, from the frontal piedmont zones to the foreland basin, autochthonous stacking thrusts, and the huge buried structure in the NW Sichuan Basin. During the Himalayan period, syntectonic erosion along with the uplifted thrust front maintained the development of a passive-roof duplex and a huge forward buried structure.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ca456cfee1d045e470a8521736609ee7.webp 400w,
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ead459a602e197bff238b9a0493e1b1d.webp 760w,
+               /en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure4-1_hu351b84480a4373bba1a4559171cfa7a8_266346_ca456cfee1d045e470a8521736609ee7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments due to the left-wall displacement &lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_cc9061a1674012e221bb9023d395e56f.webp 400w,
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_6c836fc80390172d2800b85c646f5038.webp 760w,
+               /en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure6-1_hu98e5311d15f70333dfc94863fafa45e6_253436_cc9061a1674012e221bb9023d395e56f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;569&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Modeled progress with two detachments and erosions due to the left-wall displacement&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_e6fb306b4c6a685344ad9e96f4e6d9d5.webp 400w,
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_d5ccd3bfc2519fb7579f73e03ab14fe9.webp 760w,
+               /en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210329/figure8-2_hu50d0b5b781cba189957162cb38723640_101522_e6fb306b4c6a685344ad9e96f4e6d9d5.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Comparison of the slope angle versus shortening for the two models&lt;/h5&gt;&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete Element Simulation of Extensional, Growth, and Fault-Propagation Folds (Basin Research)</title>
+      <link>https://geovbox.com/en/blog/20201102/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20201102/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The example is referenced from&lt;a href=&#34;#refer-hardy2019&#34;&gt;(Hardy,2019)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The example is referenced from (Hardy, 2019)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extensional fault-propagation folds are an important type of fold in extensional environments, caused by the activation of buried normal faults propagating upward, resulting in the bending of overlying strata &lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-qi2009&#34;&gt;(Qi Peng et al., 2009)&lt;/a&gt;. &lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-hardy2019&#34;&gt;(Hardy, 2019)&lt;/a&gt; simulated the evolutionary process of extensional fault-propagation folds via discrete element modeling.&lt;/p&gt;
+&lt;p&gt;Here, a discrete element numerical simulation &lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-code-1&#34;&gt;(script source code)&lt;/a&gt; reproduces the evolutionary process of extensional, growth, and fault-propagation folds.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/en/blog/20201102/normal_fault_synsed.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;600px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Unit (km)&lt;br&gt;&lt;br&gt;Tectonic Evolution Process&lt;/h5&gt;&lt;/center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201102/all_0000020000_ini_hu5a81d4d46a02575a8faf77cad5791258_38773_c8c68a66bdb8a40164f66e59eb7ba683.webp 400w,
+               /en/blog/20201102/all_0000020000_ini_hu5a81d4d46a02575a8faf77cad5791258_38773_685f1554bd380408a0ca9d36d7e65b26.webp 760w,
+               /en/blog/20201102/all_0000020000_ini_hu5a81d4d46a02575a8faf77cad5791258_38773_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201102/all_0000020000_ini_hu5a81d4d46a02575a8faf77cad5791258_38773_c8c68a66bdb8a40164f66e59eb7ba683.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201102/all_0000082000_hucc45c5e5012bad43e16215657fdc5eba_44552_3c5b55141fd54d88742df5c9e0e708ff.webp 400w,
+               /en/blog/20201102/all_0000082000_hucc45c5e5012bad43e16215657fdc5eba_44552_333a5c813a0f333958165c5ae78b5b0c.webp 760w,
+               /en/blog/20201102/all_0000082000_hucc45c5e5012bad43e16215657fdc5eba_44552_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201102/all_0000082000_hucc45c5e5012bad43e16215657fdc5eba_44552_3c5b55141fd54d88742df5c9e0e708ff.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201102/all_0000140000_ini_hu3023957a54f6f2a813758a64938c2e22_48357_4cf13f6f4a830df943480f19a3203c11.webp 400w,
+               /en/blog/20201102/all_0000140000_ini_hu3023957a54f6f2a813758a64938c2e22_48357_157a6d544c484f9d14c435ad32dc8af7.webp 760w,
+               /en/blog/20201102/all_0000140000_ini_hu3023957a54f6f2a813758a64938c2e22_48357_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201102/all_0000140000_ini_hu3023957a54f6f2a813758a64938c2e22_48357_4cf13f6f4a830df943480f19a3203c11.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201102/all_0000200000_ini_hubd551c9eeacad3ef1ea778b38a2cf698_54823_8dd6677769609b0021ca3edaec79765a.webp 400w,
+               /en/blog/20201102/all_0000200000_ini_hubd551c9eeacad3ef1ea778b38a2cf698_54823_20c42436bc8ffc158fcb30ce5cddd0fa.webp 760w,
+               /en/blog/20201102/all_0000200000_ini_hubd551c9eeacad3ef1ea778b38a2cf698_54823_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201102/all_0000200000_ini_hubd551c9eeacad3ef1ea778b38a2cf698_54823_8dd6677769609b0021ca3edaec79765a.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201102/all_0000260000_ini_hua319ed086e36dbce599628b23352ef23_58776_28f52abdb295b415294af945d0f06ea7.webp 400w,
+               /en/blog/20201102/all_0000260000_ini_hua319ed086e36dbce599628b23352ef23_58776_dfb5e8dec658e60d7ed1b3b698066ddd.webp 760w,
+               /en/blog/20201102/all_0000260000_ini_hua319ed086e36dbce599628b23352ef23_58776_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201102/all_0000260000_ini_hua319ed086e36dbce599628b23352ef23_58776_28f52abdb295b415294af945d0f06ea7.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;div id=&#34;refer-code-1&#34;&gt;&lt;/div&gt;
+&lt;h2 id=&#34;vbox-script-source-code-normal_fault_synsedpynormal_fault_synsedpy&#34;&gt;VBOX Script Source Code &lt;a href=&#34;normal_fault_synsed.py&#34;&gt;normal_fault_synsed.py&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# title: 正断层&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# date: 2020-10-30&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# authors: 李长圣，徐雯峤&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# E-mail: sheng0619@163.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 正断层上盘向右下角45度方向移动&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# more info, see www.geovbox.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET disk &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BOX left 1.0e-3 right 25000.0 bottom 1.0e-3 height 20000.0 &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;4e10 fric 0.30 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 0, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 1000.0 ,   4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   9000.0 ,  4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 color black
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 1, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 9000.0 ,   4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  21000.0 ,  4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 color blue
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 2, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 9000.0 ,   4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  13000.0 ,     0.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.0 color blue
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 3, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  1000.0 ,   18000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;   1000.0 ,  4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 color black
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WALL id 4, nodes &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 21000.0 ,   4000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;  21000.0 ,  18000.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;, &lt;span class=&#34;nv&#34;&gt;kn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 &lt;span class=&#34;nv&#34;&gt;ks&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;0e10 fric 0.3 color black
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21000.0, y 4000.0, 18000.0, GROUP ball_rand
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color black den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET STEPBAR  &lt;span class=&#34;m&#34;&gt;1000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET DT 5e-2,     
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SET GRAVITY &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt; 0.0,  -10.0 &lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DEL  range y 10000.0, 20000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DEL  range y 10000.0, 20000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;exp  initxyr.dat range group ball_rand
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SAV  initxyr.sav
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color mg     range group ball_rand
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range y  4000.0  5000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range y  6000.0  7000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range y  8000.0  9000.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color green  range y  10000.0 99999.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group ball_rand
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed1-1 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21200.0, y 8000.0, 10000.0, GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed1-2 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21400.0, y 8000.0, 10000.0, GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed1-3 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21600.0, y 8000.0, 10000.0, GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed1-4 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 21800.0, y 8000.0, 10000.0, GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed1-5 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22000.0, y 8000.0, 10000.0, GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed2-1 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22200.0, y 8000.0, 10000.0, GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed2-2 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22400.0, y 8000.0, 10000.0, GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed2-3 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22600.0, y 8000.0, 10000.0, GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed2-4 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 22800.0, y 8000.0, 10000.0, GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed2-5 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23000.0, y 8000.0, 10000.0, GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed3-1 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23200.0, y 8000.0, 10000.0, GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed3-2 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23400.0, y 8000.0, 10000.0, GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed3-3 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23600.0, y 8000.0, 10000.0, GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed3-4 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 23800.0, y 8000.0, 10000.0, GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed3-5 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24000.0, y 8000.0, 10000.0, GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color blue den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed4-1 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24200.0, y 8000.0, 10000.0, GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed4-2 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24400.0, y 8000.0, 10000.0, GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed4-3 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24600.0, y 8000.0, 10000.0, GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed4-4 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 24800.0, y 8000.0, 10000.0, GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;################################### sed4-5 ######################################&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gen NUM 100000, rad discrete 60.0 80.0,  x 1000.0, 25000.0, y 8000.0, 10000.0, GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop color gb den 2.5e3, fric 0.0, shear 2.8e9, poiss 0.2, damp 0.4, hertz,range GROUP sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; print -1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC  &lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;prop fric 0.3 range group sed4
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 2.0, yv -2.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 2.0, yv -2.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;imple wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xmove 200.0 print 100.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; xv 0.0, yv -0.0  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wall id &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; xv 0.0, yv -0.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CYC &lt;span class=&#34;m&#34;&gt;5000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;STOP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refer-qi2009&#34;&gt;&lt;/div&gt;
+[1] [Qi Peng and Zhang Junxia. (2009). Research Status of Extensional Fault-Propagation Folds. Journal of Geosciences in Universities, (03), 351-357.](http://t.cn/A6GL9zes)
+&lt;div id=&#34;refer-hardy2019&#34;&gt;&lt;/div&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://doi.org/10.1111/bre.12335&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardy, S. (2019). Discrete element modelling of extensional, growth, fault‐propagation folds. Basin Research, 31(3), 584-599.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 3 Application Tectonic Simulation Based on Discrete Elements</title>
+      <link>https://geovbox.com/en/blog/20200605/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20200605/</guid>
+      <description>&lt;h3 id=&#34;course-playback&#34;&gt;Course Playback&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;geovbox@Bilibili　https://www.bilibili.com/video/BV1st4y1C7b5?p=3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tencent-meeting-ended&#34;&gt;Tencent Meeting (Ended)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course Time: 2020/06/05 19:00-20:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click to Join: &lt;a href=&#34;https://meeting.tencent.com/s/QmMCiJSHewVj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meeting.tencent.com/s/QmMCiJSHewVj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meeting ID: 731 904 875&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;course-introduction-three-reports&#34;&gt;Course Introduction (Three Reports)&lt;/h3&gt;
+&lt;p&gt;This session invites graduate students Xu Wenqiao from Nanjing University and Xin Wen from Zhejiang University to explain their research published in the Journal of Geology.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Application: Tectonic Simulation Based on Discrete Elements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenter: Li Changsheng&lt;/li&gt;
+&lt;li&gt;Content Summary:
+&lt;ul&gt;
+&lt;li&gt;Main controlling factors of fold-thrust structures&lt;/li&gt;
+&lt;li&gt;Compressive structures of dual detachment layers: Kuqa&lt;/li&gt;
+&lt;li&gt;Deep-shallow structural coupling and polycyclic structural superposition: Southwestern Tarim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Presenter: Xu Wenqiao&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content Summary:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geological overview of the Kuqa Depression region
+&lt;ul&gt;
+&lt;li&gt;Eastern and Western segments&lt;/li&gt;
+&lt;li&gt;Southern and Northern zones&lt;/li&gt;
+&lt;li&gt;Upper and Lower stratification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Initial model setup:
+&lt;ul&gt;
+&lt;li&gt;Experiment 1: No pre-existing faults - no homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 2: Weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 3: No pre-existing faults - homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 4: Pre-existing faults - homogenous sedimentation model;&lt;/li&gt;
+&lt;li&gt;Experiment 5: Strong salt rock layer model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Simulation results and analysis:
+&lt;ul&gt;
+&lt;li&gt;Pre-existing faults influence the propagation manner of fold-thrust structures, resulting in differences in the morphology of sub-salt wedges, number of fractures, and surface structural patterns;&lt;/li&gt;
+&lt;li&gt;Homogeneous sedimentation and the nature of different detachment layers primarily affect the extent of vertical decoupling deformation in saline fold-thrust belts, with homogeneous sedimentation enhancing decoupling deformation above and below the salt, while an increase in detachment layer properties weakens the decoupling deformation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenter: Xin Wen&lt;/li&gt;
+&lt;li&gt;Content Summary：
+&lt;ul&gt;
+&lt;li&gt;Introduction to geological background: distribution map and survey line positions of the fold-thrust belt in the northwestern margin of the Kashgar region of Xinjiang.&lt;/li&gt;
+&lt;li&gt;Initial model setup:
+&lt;ul&gt;
+&lt;li&gt;Experiment 1: Initial model with pre-existing faults;&lt;/li&gt;
+&lt;li&gt;Experiment 2: Weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 3: Pre-existing faults - weakly cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 4: Pre-existing faults - moderately cohesive detachment layer initial model;&lt;/li&gt;
+&lt;li&gt;Experiment 5: Pre-existing faults - strongly cohesive detachment layer initial model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Simulation results and analysis:
+&lt;ul&gt;
+&lt;li&gt;Effects of pre-existing faults and detachment layers on the deformation of the thrust belt;&lt;/li&gt;
+&lt;li&gt;Influence of detachment layer strength on the structural deformation of the study area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This course is recommended by experts Guanshuwei from the Research Institute of Petroleum Exploration and Development, China Petroleum, and Professor He Dengfa from the School of Energy at China University of Geosciences (Beijing), comprising three sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Session 1 Theory: Tectonic Simulation and Discrete Elements (Week 1)&lt;/li&gt;
+&lt;li&gt;Session 2 Software: Introduction to VBOX and Operation Demonstration (Week 2)&lt;/li&gt;
+&lt;li&gt;Session 3 Application: Tectonic Simulation Based on Discrete Elements (Week 3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_5cc565854ac0e2d78ff63d3a5e11a401.webp 400w,
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_51a5d421431a601cb68c72a77960bb43.webp 760w,
+               /en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/1_hu9431b1427e32d64a2b46162633f635dd_58639_5cc565854ac0e2d78ff63d3a5e11a401.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_4eed003b2f74e6a1a43cb9076105b3ea.webp 400w,
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_1833b74700d7f6cbade9cd11cadd885c.webp 760w,
+               /en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/2_hueff4b80db313015b5352afa682519df5_644523_4eed003b2f74e6a1a43cb9076105b3ea.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_ac28200272f92521b70146a3c3a33032.webp 400w,
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_7a48b40b4f12381bc405a420ee5bcf25.webp 760w,
+               /en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/3_hu0572a69f21cc2abaae5710d19a78519e_272828_ac28200272f92521b70146a3c3a33032.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_14b74873c00b23214852dded2bb28dff.webp 400w,
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_1cf1d84cd2feb1fd87d0838dba43e625.webp 760w,
+               /en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/4_hu9569d9b4f031a348ded6ea3ff502b7b0_272369_14b74873c00b23214852dded2bb28dff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_e8b1147774739b0f8534b1974a29bf1b.webp 400w,
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_d59753559d0bab6710c4e7c6597f4015.webp 760w,
+               /en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/5_huca08f30a848b54001671eacc36801463_530523_e8b1147774739b0f8534b1974a29bf1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-application-tectonic-simulation-based-on-discrete-elements---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Application: Tectonic Simulation Based on Discrete Elements - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_c4b8f2178866fa24772519cbacc589da.webp 400w,
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_3bd7a8f667a632561dc9f5fda5b41d17.webp 760w,
+               /en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6_hue5d48503864437fb7e477cddf3c86616_315002_c4b8f2178866fa24772519cbacc589da.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Application: Tectonic Simulation Based on Discrete Elements - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a9947d8d8aaaaed293a22ebe8e2c9b9a.webp 400w,
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_cfc57cb417a4a50618b577b354bc6f0a.webp 760w,
+               /en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-1_huef275e0a82c9ef8005e12f6dffae40c8_96488_a9947d8d8aaaaed293a22ebe8e2c9b9a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_c05dbe281adf989fafca878acf7bceb0.webp 400w,
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_82ef3ccfb96d3ab1a284cd181217e6c6.webp 760w,
+               /en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-2_hua7993b5943e16da3cb92b918647b46ec_653653_c05dbe281adf989fafca878acf7bceb0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-numerical-simulation-analysis-of-the-evolutionary-differences-in-sub-salt-structural-deformation-of-the-eastern-and-western-segments-of-the-kuqa-depression---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_6fe7328ef769098ce4a73e18d0557773.webp 400w,
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_3f877ed62d336a15db527469146f0450.webp 760w,
+               /en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/6-3_hu90eda4bc99c880d05166d16de2104654_812926_6fe7328ef769098ce4a73e18d0557773.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Numerical Simulation Analysis of the Evolutionary Differences in Sub-salt Structural Deformation of the Eastern and Western Segments of the Kuqa Depression - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_76f68a00a90d4a24d45be5d20116f404.webp 400w,
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_c1ebb2cf76dcd78ccf29644cee36080d.webp 760w,
+               /en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-1_huf65385f041e780d8440ac0f4ea80b3a4_59448_76f68a00a90d4a24d45be5d20116f404.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_4166d38fabfa5b8202d0e8e6f712a44d.webp 400w,
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_d463e279d0559764a92529dff13cedf2.webp 760w,
+               /en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-2_hufcc36d307ba7c8573f8350237ec8c679_180121_4166d38fabfa5b8202d0e8e6f712a44d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_870fdf6c86351d3a1477439ff01fecdb.webp 400w,
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_0940b7a2c58a581d3d4de2e80bd9f48c.webp 760w,
+               /en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-3_hua467cfe133a0e483062a14cb9045f59a_392494_870fdf6c86351d3a1477439ff01fecdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-study-on-the-controlling-factors-of-structural-deformation-of-the-fore-thrust-belt-at-the-southwestern-tianshan-based-on-discrete-element-numerical-simulation---partial-content&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation - Partial Content&#34; srcset=&#34;
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_30e2dee32d74009d95c1aa94cc6d9ecd.webp 400w,
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_df43af4cc3445584122bea9059237e61.webp 760w,
+               /en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200605/7-4_hu5dbe12eac1cdfc740d9cb3ef3029518e_339420_30e2dee32d74009d95c1aa94cc6d9ecd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Study on the Controlling Factors of Structural Deformation of the Fore-thrust Belt at the Southwestern Tianshan Based on Discrete Element Numerical Simulation - Partial Content
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

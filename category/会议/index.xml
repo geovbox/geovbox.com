@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>会议 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E4%BC%9A%E8%AE%AE/</link>
+      <atom:link href="https://geovbox.com/category/%E4%BC%9A%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <description>会议</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>会议</title>
+      <link>https://geovbox.com/category/%E4%BC%9A%E8%AE%AE/</link>
+    </image>
+    
+    <item>
+      <title>CCF HPC China 2021 第八届&#34;国产应用软件&#34;专题论坛成功举办</title>
+      <link>https://geovbox.com/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20211023/</guid>
+      <description>&lt;p&gt;原文见： &lt;a href=&#34;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2021 CCF 全国高性能计算学术年会（CCF HPC China 2021）10月21-23日在珠海横琴隆重举行。本次大会以“智算赋能，共赢未来”为主题，旨在前瞻全球超算技术发展趋势，汇聚创新技术应用，展示前沿学术结果，促进超算产学研数字化升级转型，打造全球化、开放化、学术化交流平台。&lt;/p&gt;
+&lt;p&gt;CCF HPC China 2021由中国计算机学会主办，中国计算机协会高性能计算专业委员会、珠海横琴新区管理委员会、珠海市科技创新局、澳门大学、澳门科技大学共同承办，北京并行科技股份有限公司、暨南大学、广东琴智科技研究院有限公司、珠海大横琴有限公司协办。&lt;/p&gt;
+&lt;p&gt;在本次学术年会的第八届“国产应用软件”专题论坛上，国产应用软件重要开发单位齐聚一堂，共同探讨国产应用软件的现状和发展瓶颈，需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题，以期中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp 400w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_56d83771bd474dbf9aaac8e1f5478930.webp 760w,
+               /blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_dd211fcb9f82f587441e9be72f342ba3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;其中，东华理工大学李长圣博士进行了《用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用》主题分享。随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。随后，他介绍了离散元原理以及基于OpenMP、CUDA的并行设计。他还分享了ZDEM在构造模拟方面的应用以及ZDEM的未来。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp 400w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_014b434f570f03328a9738b9f9da31e1.webp 760w,
+               /blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_654dab6c5d3522b212bd16fe543181d0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/01.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/34.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt快递&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/40.PNG&#34; alt=&#34;PPT快递&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT快递
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;最后，此次论坛主席兼主持人北京并行科技股份有限公司总经理陈健博士在论坛总结上表示：国产应用软件仍存在底层核心技术的不足，其涉及的不仅仅是软件产品，背后还关系到复杂的专业领域知识、计算机技术、数学、物理，这是一系列底层生态的构建，需要长期的巨大投入，生态打造依旧任重道远。而在大环境方面，国内的应用软件市场也开始成熟，更多的企业愿意为正版软件付费，并且愿意使用国产软件。再加上政策层面红利不断，我们可以看到，整体国产应用软件市场的成熟度正在快速提高。期待第九届国产应用软件专题论坛与各位再次相见，共话国产应用软件的新发展。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图文直播：http://www.citmt.cn/s/hpcchina2021/&lt;/li&gt;
+&lt;li&gt;2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第八届“国产应用软件”专题论坛 详细介绍见：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D预览 &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关注ZDME 微信公众号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZDEM报告-第八届“国产应用软件”专题论坛 | CCF HPC China 2021(2021年10月23日)</title>
+      <link>https://geovbox.com/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20211019/</guid>
+      <description>&lt;h3 id=&#34;ccf-hpc-china-2021-第八届国产应用软件专题论坛-简介&#34;&gt;CCF HPC China 2021 第八届“国产应用软件”专题论坛 简介&lt;/h3&gt;
+&lt;p&gt;工业软件是中国从制造大国向设计大国转变的核心关键技术，如何实现在研发、设计等高端领域的自主创新突破，使我国工业企业软件体系实现自主可控成为国家层面重点关注的焦点。在国家科技重大专项以及相关产业政策的支持下，在国际大环境背景下，HPC领域的国产应用软件发展迅速，目前已形成完整的国产工业软件产品体系，为国产工业软件的发展提供了强有力的保障。&lt;/p&gt;
+&lt;p&gt;本论坛邀请国产应用软件重要开发单位，共同探讨国产应用软件的现状、发展瓶颈、需要得到什么样的支持、如何进行市场推广、未来发展趋势等问题。希望中国国产应用软件能够在多方支持下持续稳步发展，在国际主流市场占有一席之地。&lt;/p&gt;
+&lt;h3 id=&#34;报告题目用于构造变形研究的离散元数值模拟软件zdem理论软件与应用&#34;&gt;报告题目：用于构造变形研究的离散元数值模拟软件ZDEM：理论、软件与应用&lt;/h3&gt;
+&lt;h4 id=&#34;时间10月23日1645-1710&#34;&gt;时间：10月23日16:45-17:10&lt;/h4&gt;
+&lt;h4 id=&#34;地点珠海珠海国际会议中心402会议室&#34;&gt;地点：珠海·珠海国际会议中心&lt;strong&gt;402会议室&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;报告人：&lt;/strong&gt;&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;报告摘要：&lt;/strong&gt;&lt;br&gt;
+随着我国油气地质理论认识和勘探实践的逐步发展，油气勘探已经向盆地纵深转移，如何开展含油气盆地深部构造研究已是盆地构造研究的前沿问题。从离散元数值模拟的角度开展定量化研究，可以为深部构造解析提供定量化的实验依据。离散元数值模拟对计算环境的要求很高，开发一款适用于构造变形研究的高性能离散元数值模拟软件显得尤为重要。报告将从理论、软件及与应用三个方面介绍离散元数值模拟软件ZDEM的过去与未来。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_a46e4bf391e639c3186596f529736171.webp 400w,
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_9116fb1a640733b373f06cc00661a3e8.webp 760w,
+               /blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_a46e4bf391e639c3186596f529736171.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_9526bd022d90a706e9ca8e809d79d67d.webp 400w,
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_5adb953359debebd9eb4c0ff3a25dc3a.webp 760w,
+               /blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_9526bd022d90a706e9ca8e809d79d67d.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_678de95e44fccbfc9350371cfccb701c.webp 400w,
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_6ef9e31d49184e3985d913ff9cfbb84b.webp 760w,
+               /blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_678de95e44fccbfc9350371cfccb701c.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_6778fb4bd10995483704b5f65fd2f9fa.webp 400w,
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_b65c2f0df1c46065746768280c0e4d04.webp 760w,
+               /blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_6778fb4bd10995483704b5f65fd2f9fa.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_a97b8bf21e04597ea52310a3d7bf6ce1.webp 400w,
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b78885022b5946405ea5d588b2b4d830.webp 760w,
+               /blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_a97b8bf21e04597ea52310a3d7bf6ce1.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt快递&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PPT快递&#34; srcset=&#34;
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_a3751cd0080b8ad3f54a6fb10e26649e.webp 400w,
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_340e6f60fd3f4469b5bd0a3e6d23d3c1.webp 760w,
+               /blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_a3751cd0080b8ad3f54a6fb10e26649e.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT快递
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021CCF全国高性能计算学术年会（CCF HPC China 2021）官网 &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第八届“国产应用软件”专题论坛 详细介绍见：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D预览 &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关注ZDME 微信公众号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于离散元的构造变形数值模拟实验技术(会议报告)-第十二届全国石油地质实验技术学术会议(2020年11月13日)</title>
+      <link>https://geovbox.com/blog/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20201111/</guid>
+      <description>&lt;h3 id=&#34;第十二届全国石油地质实验技术学术会议-简介&#34;&gt;第十二届全国石油地质实验技术学术会议 简介&lt;/h3&gt;
+&lt;p&gt;石油地质实验技术在油气勘探开发中具有重要的作用。近年来，我国油气勘探开发面临一些新的挑战，对石油地质实验技术的发展提出更高要求。为了进一步推动我国石油地质实验技术的创新发展，促其在我国油气勘探开发中发挥更好的作用，中国石油学会石油地质专业委员会、中国石油学会石油科技装备专业委员会、中国地质学会石油地质专业委员会和石油地质勘探专业标准化委员会联合发起召开“第十二届全国石油地质实验技术学术会议”，初步决定于2020年11月11-13日召开，现将会议具体事项通知如下：&lt;/p&gt;
+&lt;p&gt;一、主办单位：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中国石油学会石油地质专业委员会&lt;/li&gt;
+&lt;li&gt;中国石油学会石油科技装备专业委员会&lt;/li&gt;
+&lt;li&gt;中国地质学会石油地质专业委员会&lt;/li&gt;
+&lt;li&gt;石油地质勘探专业标准化委员会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;二、承办单位：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中国石油勘探开发研究院&lt;/li&gt;
+&lt;li&gt;中国石油油气地球化学重点实验室&lt;/li&gt;
+&lt;li&gt;中国石油油气储层重点实验室&lt;/li&gt;
+&lt;li&gt;中国石油盆地构造与油气成藏重点实验室&lt;/li&gt;
+&lt;li&gt;陆相页岩油气成藏及高效开发教育部重点实验室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;三、会议主题及专题内容&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;会议主题：石油地质实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;专题内容：
+&lt;ol&gt;
+&lt;li&gt;地球化学实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;储层与地层实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;油气成藏实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;非常规油气地质实验新技术、新方法及应用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发地质、实验装备、大数据及实验管理&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;报告题目基于离散元的构造变形数值模拟实验技术&#34;&gt;报告题目：基于离散元的构造变形数值模拟实验技术&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;第五分会场：开发地质、实验装备、大数据及实验管理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;时  间：2020年11月13日周五8:40-8:55&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;地点：江西省南昌市 江西省委滨江宾馆 11号楼四层会议厅&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;报告人：&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;李长圣&lt;/strong&gt;&lt;/a&gt; 中国石油勘探开发研究院&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;内容简要：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究背景：构造模拟的意义；&lt;/li&gt;
+&lt;li&gt;理论方法：离散元理论；&lt;/li&gt;
+&lt;li&gt;软件开发：离散元软件VBOX的开发；&lt;/li&gt;
+&lt;li&gt;应用案例：
+&lt;ul&gt;
+&lt;li&gt;基于离散元的构造定量分析方法&lt;/li&gt;
+&lt;li&gt;伸展断层传播褶皱&lt;/li&gt;
+&lt;li&gt;川西北地区双鱼石区块膝折褶皱离散元数值模拟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;结论：
+&lt;ul&gt;
+&lt;li&gt;教学：帮助学生理解构造过程，提高构造地质的学习兴趣。&lt;/li&gt;
+&lt;li&gt;科研：定量分析构造变形的主控因素，揭示构造演化过程明确构造发育的时间。&lt;/li&gt;
+&lt;li&gt;优化构造解释方案：限于地震资料精度、地质构造复杂性，作为一种实验方法，指导、优化构造解释方案。&lt;/li&gt;
+&lt;li&gt;双鱼石：负载抑制断层发育，膝折褶皱形成于燕山期或者喜山期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;摘要&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数值模拟与理论分析和科学实验并称为现代科学研究的三大支柱，在构造地质学领域，从超大陆裂解的地球动力学到盆地构造变形的几何学与运动学研究，数值模拟都已成为重要的手段。&lt;/p&gt;
+&lt;p&gt;近年来，随着离散元理论和计算机技术的发展，离散元方法(&lt;a href=&#34;#refer-anchor-1&#34;&gt;Cundall and Strack, 1979&lt;/a&gt;)已经广泛应用到不同尺度的构造模拟中。相较于传统的沙箱模拟方法，离散元可以更精确地控制实验的边界条件，定量的分析构造变形过程，有助于从细观尺度深入认识地层力学性质及变形机制。离散元方法采用离散颗粒表征符合实际物理力学性质的岩石，能有效分析含有大量间断的问题。二十世纪九十年代以来，离散元被广泛应用于解决构造相关的地质问题。例如，分析盐刺穿过程中沉积盖层的破裂机制，研究地层内聚力对构造形态及应力应变分布的影响(&lt;a href=&#34;#refer-anchor-3&#34;&gt;Morgan,2015&lt;/a&gt;)。，揭示水平挤压环境下滑脱层的对构造变形过程中的应变分布变化与裂缝生成规律，解析裂陷盆地演化过程中分层伸展叠加变形的动力学演化过程，分析茅东断裂带作为断陷盆地在现今区域应力场作用下反转构造特性及正断层反转控震机制，揭示纯走滑拉分盆地发育过程中的断裂扩展和连接过程, 探讨库车前陆冲断带西部盐构造形成的控制因素及其形成机理等(&lt;a href=&#34;#refer-anchor-1&#34;&gt;李长圣,2019&lt;/a&gt;)。&lt;/p&gt;
+&lt;p&gt;Schreurs et al.&lt;a href=&#34;#refer-Schreurs-2016&#34;&gt;2016&lt;/a&gt;对比了全球多个物理模拟实验室的挤压构造实验，结果显示在采用相同的实验条件和方法下，不同的实验模拟结果无法完全一致。而，离散元在相同的初始条件（初始模型颗粒位置和半径一样）和边界条件下，试验结果均具有可重复性。其中，离散元的材料属性通过细观参数标定，可选择的材料较多。并且，所有的变量都可以实时监测，如位移、应力、应变、速递和能量等信息。在物理模拟中，变形需要通过图像分析（如粒子图像测速法）、激光扫描（微型激光测高）、利用计算机x射线断层扫描技术进行体扫描。如果没有这些设备，则只能通过对模型侧面进行拍照来观察模型侧面形变，或切割模型观察其内部形变。而离散元则可以给出每个变形阶段的所有信息，用这些信息可以计算出系统的应力应变场。同时，同一初始模型，模拟结果一致，利于单因素变量（如挤压速率、古隆起、先存断层等）研究。&lt;/p&gt;
+&lt;p&gt;综上，离散元数值模拟方法在构造形态、断裂预测及应力应变的定量分析上存在明显的优势。众多学者已经将离散元引入构造变形的模拟中，但分析的重点多集中于构造几何形态的定性解析。本文结合一个典型的挤压构造离散元数值模拟试验，模拟水平挤压环境下构造的形成过程，对变形过程中的应力、应变分布变化与裂缝生成规律进行分析。结果表明：（1）裂缝与断层形成有密切关系，局部区域内聚集的大量裂缝是产生断层的诱因。（2）体积应变可以表征裂缝类型（拉张或压缩），变形应变可以区分正向和反向逆冲断层。（3）平均应力大小与地形起伏呈正相关，最大剪切应力持续在将要形成的新断层处累积，直至该新断层形成，剪切应力开始消散，继续往前传播，在下一个将要形成的新断层处累积。该成果表明离散元方法在应力应变分析与裂缝预测研究中具有巨大潜力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_c3e4e1cf537cf8d1075019cf6b446f11.webp 400w,
+               /blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_98be4accde009c40af6bd3623b67c2a9.webp 760w,
+               /blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_c3e4e1cf537cf8d1075019cf6b446f11.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_85f8b909e84403e6df2bec19ac34e60f.webp 400w,
+               /blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_3fa9e9868eaa0d03afbc4cb542070446.webp 760w,
+               /blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_85f8b909e84403e6df2bec19ac34e60f.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_6032eaea618f053af6b2fa99b34f2c56.webp 400w,
+               /blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_44568565d20fdb39e97324cb8fe7cd47.webp 760w,
+               /blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_6032eaea618f053af6b2fa99b34f2c56.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_bed128c4cc461e2f9dcc4adfdff8b250.webp 400w,
+               /blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_203b9a68787a280bf8d954c17c7ee8bb.webp 760w,
+               /blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_bed128c4cc461e2f9dcc4adfdff8b250.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_53d33a61205d082a3219669c6cfd9b6a.webp 400w,
+               /blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_2bb7f3ab22fcd158bb602ebfa05d51f1.webp 760w,
+               /blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_53d33a61205d082a3219669c6cfd9b6a.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_f9fde5626e0b895597cb733148c898f0.webp 400w,
+               /blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_bab9060f86a233adb5fe1c2cd8739527.webp 760w,
+               /blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_f9fde5626e0b895597cb733148c898f0.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_5d769d41311e7ae847ba02cb6b4389c5.webp 400w,
+               /blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_04301ada5f30a286828ab5d8ab552002.webp 760w,
+               /blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_5d769d41311e7ae847ba02cb6b4389c5.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-部分ppt&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;部分PPT&#34; srcset=&#34;
+               /blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_ee2fb51123cdb6834749b73e9b597c64.webp 400w,
+               /blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_c22ee4959502add97e01df5fdf37314e.webp 760w,
+               /blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_ee2fb51123cdb6834749b73e9b597c64.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      部分PPT
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+&lt;p&gt;其中，应力应变分析代码修改自 RICE 大学Julia K. Morgan教授提供的计算脚本，在此感谢。&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+[李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+&lt;div id=&#34;refer-li-2017&#34;&gt;&lt;/div&gt;
+[李长圣,尹宏伟,刘春,蔡申阳.(2017)共享内存式并行离散元程序的设计与测试.南京大学学报(自然科学),53(06):1161-1170.](http://t.cn/EiaL0Ad)  
+&lt;div id=&#34;refer-liang-2019&#34;&gt;&lt;/div&gt;
+梁瀚,冉崎,狄贵东,等.(2019)川西北地区双鱼石区块栖霞组膝折褶皱的发现及其油气意义.天然气勘探与开发,42(04):1-7  
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.  
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+[Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
+&lt;div id=&#34;refer-Schreurs-2016&#34;&gt;&lt;/div&gt;
+Schreurs G, Buiter S J, Boutelier J, et al. Benchmarking analogue models of brittle thrust wedges. Journal of structural geology, 2016,92:116-139.
+</description>
+    </item>
+    
+    <item>
+      <title>龙门山新生代构造变形与模拟</title>
+      <link>https://geovbox.com/blog/20200724/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20200724/</guid>
+      <description>&lt;h3 id=&#34;课程回放&#34;&gt;课程回放&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;geovbox@哔哩哔哩　https://www.bilibili.com/video/BV1si4y137DX/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;时  间：2020年7月25日周六14:30-16:00&lt;br&gt;
+Zoom会议ID：3059179425&lt;br&gt;
+网址：https://zoom.com.cn/j/3059179425&lt;/p&gt;
+&lt;h3 id=&#34;构造网络论坛第十四期造山带构造演化龙门山&#34;&gt;构造网络论坛第十四期：造山带构造演化—龙门山&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;报告1: 龙门山符合逆冲带构造解析 中国地质大学（北京）颜丹平教授&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;报告2：龙门山新生代构造变形与模拟&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;报告人：&lt;a href=&#34;http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;王毛毛&lt;/strong&gt;&lt;/a&gt; 河海大学 海洋学院&lt;/li&gt;
+&lt;li&gt;内容简要：
+&lt;ul&gt;
+&lt;li&gt;青藏高原东缘：下地壳流VS上地壳缩短争论；&lt;/li&gt;
+&lt;li&gt;龙门山褶皱冲断带新生代构造变形；&lt;/li&gt;
+&lt;li&gt;新生代构造变形模拟的研究进展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;报告中的数值模拟采用VBOX完成；&lt;/li&gt;
+&lt;li&gt;模拟结果很好的解释了龙门山新生代前陆冲断带构造应变的差异性分布；&lt;/li&gt;
+&lt;li&gt;实验设计及边界条件控制值得学习。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;构造物理模拟及数值模拟可以通过准确的边界条件和参数设置，定量的分析褶皱冲断带构造变形特征，是定量研究褶皱冲断带构造变形过程与变形机制的重要方法。与构造物理模拟相比，数值模拟可以得到更多的系统内部的信息（如应力、应变等） ，并且可重复性高，边界条件设置更容易(&lt;a href=&#34;#refer-anchor-1&#34;&gt;李长圣,2019&lt;/a&gt;)。二十世纪七十年代，Cundall and Strack(&lt;a href=&#34;#refer-anchor-1&#34;&gt;1979&lt;/a&gt;)提出了基于非连续介质力学的离散元法（Discrete Element Method，简称DEM） ，用于研究岩土体的各种力学行为。该方法将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于构造变形研究，是未来的构造变形研究的主要方向之一(&lt;a href=&#34;#refer-anchor-3&#34;&gt;Morgan,2015&lt;/a&gt;)。&lt;/p&gt;
+&lt;p&gt;王毛毛副教授将在构造网络论坛中，介绍他的最新研究成果＂龙门山新生代构造变形与模拟＂。&lt;strong&gt;其中，数值模拟部分采用离散元数值模拟软件VBOX完成。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-海报&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;海报&#34; srcset=&#34;
+               /blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_f95c207442192ce43358492bf38c1a2d.webp 400w,
+               /blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_75b225184f91674695ba15dc45277459.webp 760w,
+               /blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_f95c207442192ce43358492bf38c1a2d.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;696&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      海报
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+&lt;p&gt;其中，应力应变分析代码修改自 RICE 大学Julia K. Morgan教授提供的计算脚本，在此感谢。&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+[李长圣 (2019) 基于离散元的褶皱冲断带构造变形定量分析与模拟. **博士论文**. 南京大学.](http://t.cn/Ai9ruJY5) **推荐下载** [最新修订版](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) 提取码 `dgyc`  
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.  
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+[Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
+</description>
+    </item>
+    
+  </channel>
+</rss>

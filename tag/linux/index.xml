@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | ZDEM官网</title>
+    <link>https://geovbox.com/tag/linux/</link>
+      <atom:link href="https://geovbox.com/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Linux</title>
+      <link>https://geovbox.com/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>2017年美国地球物理协会年会：离散元数值模拟与物理模拟对比</title>
+      <link>https://geovbox.com/blog/agu2017/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/agu2017/</guid>
+      <description>&lt;p&gt;下载：&lt;a href=&#34;Li2017_Poster_AGU.pdf&#34;&gt;海报&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;离散元有各种苛刻的假设，&lt;em&gt;它能否模拟构造？能否再现实验室中真实的物理事件？&lt;/em&gt; 是我们此次会议所关心的问题。
+团队携论文&amp;quot;离散元数值模拟与物理模拟对比&amp;quot;于2017年12月10-16日参加美国地球物理协会2017年年会&lt;/p&gt;
+&lt;p&gt;我们以 &lt;strong&gt;离散元数值模拟与物理模拟对比&lt;/strong&gt; 为题参加了美国地球物理协会AGU2017年年会。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
