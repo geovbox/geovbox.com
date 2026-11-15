@@ -72,6 +72,19 @@ subtitle = ""
 </div>
 {{%/ row %}}
 
+
+---
+
+{{% row %}}
+<h3 class="text-left"><i class="fa fa-video"></i> 基于离散元的构造变形数值模拟定量分析方法 </h3>
+<p>2026年11月<br/>主讲人：李长圣 <br/>中国地质大学(武汉)第377期资源学术论坛邀请报告<br/>第一节 应用；<br/>第二节 软件；<br/>第三节 DeepSeek Harness中使用ZDEM。</p>
+<div class="text-left">
+	<a href="https://www.bilibili.com/video/BV1VNWf67EJr/" class="btn btn-primary" role="button" style="color: white;">第一节 应用</a>
+  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&spm_id_from=333.788.videopod.episodes&p=2" class="btn btn-primary" role="button" style="color: white;">第二节 软件</a>
+  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&p=3&spm_id_from=333.788.videopod.episodes/" class="btn btn-primary" role="button" style="color: white;">第三节 DeepSeek Harness中使用ZDEM。</a>
+</div>
+{{%/ row %}}
+
 ---
 
 {{% row %}}
