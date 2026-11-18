@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bachelor | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/bachelor/</link>
+      <atom:link href="https://geovbox.com/en/category/bachelor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bachelor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Bachelor</title>
+      <link>https://geovbox.com/en/category/bachelor/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and Simulation of Multi-Detachment Fold-Thrust Structures - Taking the Majiaba Fault in the Longmen Shan Fault as an Example</title>
+      <link>https://geovbox.com/en/blog/20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20210724/</guid>
+      <description>&lt;h4 id=&#34;paper-download&#34;&gt;Paper Download：&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://pan.baidu.com/s/1JWORiC034DwWscT9SiLrGQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanjie Feng (2019). Analysis and Simulation of Multi-Detachment Fold-Thrust Structures - Taking the Majiaba Fault in the Longmen Shan Fault as an Example. &lt;strong&gt;Undergraduate Thesis&lt;/strong&gt;. Nanjing University.&lt;/a&gt; Extraction Code &lt;code&gt;zdem&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;titleanalysis-and-simulation-of-multi-detachment-fold-thrust-structures---taking-the-majiaba-fault-in-the-longmen-shan-fault-as-an-example&#34;&gt;Title：Analysis and Simulation of Multi-Detachment Fold-Thrust Structures - Taking the Majiaba Fault in the Longmen Shan Fault as an Example&lt;/h4&gt;
+&lt;h4 id=&#34;authoryanjie-feng&#34;&gt;Author：Yanjie Feng&lt;/h4&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Based on discrete element numerical simulation technology, this paper designs multiple sets of 2D horizontal compression experiments to simulate the formation and evolution processes of multi-detachment fold-thrust belts. It analyzes the deformation mechanisms of multi-detachment fold-thrust belts and draws the following conclusions:&lt;/p&gt;
+&lt;p&gt;1.The stress deformation of gypsum-salt detachment layers is mainly plastic rheology, often exhibiting strong bulk strain and shear strain, but no faults develop internally.
+2.The position and thickness of detachment layers can affect the distribution of stress and strain in fold-thrust belts. Among them, the basal detachment layer is the main factor influencing the overall structural evolution.
+3.The discrete element numerical simulation method can, to a certain extent, quantitatively explain the evolution processes and deformation mechanisms of fold-thrust structures, showing good development prospects.&lt;/p&gt;
+&lt;h4 id=&#34;keywords-detachment-layer-discrete-element-model-fold-thrust-belt-structural-deformation&#34;&gt;Keywords: Detachment Layer; Discrete Element Model; Fold-Thrust Belt; Structural Deformation&lt;/h4&gt;
+&lt;h4 id=&#34;table-of-contents&#34;&gt;Table of Contents：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 1 Introduction
+&lt;ul&gt;
+&lt;li&gt;1.1 Significance of Research and Basis for Topic Selection&lt;/li&gt;
+&lt;li&gt;1.2 Current Status of Quantitative Research on Structural Deformation&lt;/li&gt;
+&lt;li&gt;1.3 Innovations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chapter 2 Methodology Overview
+&lt;ul&gt;
+&lt;li&gt;2.1 Introduction to Discrete Element Method&lt;/li&gt;
+&lt;li&gt;2.2 Introduction to VBOX Software&lt;/li&gt;
+&lt;li&gt;2.3 Introduction to Hertz-Mindlin Contact Model&lt;/li&gt;
+&lt;li&gt;2.4 Stress-Strain Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chapter 3 Numerical Simulation Experiments
+&lt;ul&gt;
+&lt;li&gt;3.1 Experiment 1  Without Gypsum-Salt Layer&lt;/li&gt;
+&lt;li&gt;3.2 Experiment 2  With Gypsum-Salt Layer at the Bottom&lt;/li&gt;
+&lt;li&gt;3.3 Experiment 3  With One Gypsum-Salt Interlayer&lt;/li&gt;
+&lt;li&gt;3.4 Experiment 4  With Two Gypsum-Salt Interlayers&lt;/li&gt;
+&lt;li&gt;3.5 Experiment 5  Changing the Thickness of Gypsum-Salt Layer&lt;/li&gt;
+&lt;li&gt;3.6 Experiment 6  Boundary Extension Experiment&lt;/li&gt;
+&lt;li&gt;3.7 Experiment 7  Changing the Density of Detachment Layer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chapter 4 Discussion: Comparison with Majiaba Fault in Longmen Shan Fault&lt;/li&gt;
+&lt;li&gt;Chapter 5 Conclusions&lt;/li&gt;
+&lt;li&gt;References&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h4&gt;
+&lt;p&gt;Based on the experimental results and analysis of actual conditions, we can draw the following main conclusions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The deformation of the gypsum-salt detachment layer is mainly plastic rheology, with no faults developing internally, and significant bulk strain and shear strain are observed.&lt;/li&gt;
+&lt;li&gt;The thickness, density, and distribution of the detachment layer significantly affect the propagation and distribution of stress and strain. In terms of horizontal propagation, the detachment layer makes it easier for stress and strain to propagate. Vertically, the detachment layer is a key factor in the vertical stratification of deformation, with distinct structural deformation patterns above and below the detachment layer. The presence of double detachment layers accelerates the propagation speed of stress and strain and also affects the maximum propagation distance.&lt;/li&gt;
+&lt;li&gt;The complex structures in the Majiaba area of the Longmen Shan Fault in Sichuan may be influenced by double detachment layers, driven by two phases of tectonic geological movements: gravitational detachment and regional horizontal compression.&lt;/li&gt;
+&lt;li&gt;VBOX software can be effectively used to simulate fold-thrust structural deformation, and the simulation results show a good agreement with actual geological structures. Additionally, VBOX software is equipped with various basic model data, along with its open multi-port design and efficient parallel computing design, demonstrating good potential in tectonic geological simulation. With continuous updates in computing hardware and software facilities, tectonic numerical simulation will have broader development prospects.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_2e68f5a4b255555b29576499fb2b01b7.webp 400w,
+               /en/blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_a501e4d982673f4831d68c2506c7ee7f.webp 760w,
+               /en/blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20210724/ex3.6_hua747d0c4568223d6e1e1169f3636e81a_277710_2e68f5a4b255555b29576499fb2b01b7.webp&#34;
+               width=&#34;414&#34;
+               height=&#34;629&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;(km)&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;Experiment 6&lt;/h5&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

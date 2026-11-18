@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Zhou | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/chao-zhou/</link>
+      <atom:link href="https://geovbox.com/en/authors/chao-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Chao Zhou</title>
+      <link>https://geovbox.com/en/authors/chao-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Discrete element modeling of the structural vergence beneath intermediate décollements:Implications for along-strike variations in the Zagros Simply Folded Belt. GSA Bulletin（GSA Bulletin）</title>
+      <link>https://geovbox.com/en/blog/20250320/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20250320/</guid>
+      <description>&lt;p&gt;In a thrust wedge or fold-thrust belt, it is generally believed that a single detachment layer controls the structural vergence of the thrust system directly above it. However, this prevailing view fails to explain the widespread occurrence of completely different structural vergences (including forethrusting, doubly vergent thrusting, and backthrusting) above the basement detachment layer (the Hormuz Salt) along the strike of the Zagros Simply Folded Belt (Figure 1). Moreover, although the influence of intermediate detachment layers on the structural style of the Zagros Simply Folded Belt has been widely recognized, the mechanism by which they affect the structural vergence of the underlying thrust system remains unclear.&lt;/p&gt;
+&lt;p&gt;To address this scientific issue, Professor Jiankun He and his team, including Ph.D. student Chao Zhou, Associate Researcher Weimin Wang, and Senior Engineer Xinguo Wang from the Institute of Tibetan Plateau Research, Chinese Academy of Sciences, collaborated with Dr. Hao Su from the School of Earth and Space Sciences, University of Science and Technology of China; Dr. Jonas B. Ruh from the Institute of Marine Sciences, Spanish National Research Council (CSIC); and Associate Researchers Xun Wang and Zhengyang Pan from the Institute of Earthquake Forecasting, China Earthquake Administration. Supported by the National Natural Science Foundation of China (Grant No. 42120104004) and the “Second Tibetan Plateau Scientific Expedition and Research Program” (Grant No. 2019QZKK0708), they conducted discrete element numerical simulations using the ZDEM software (Changsheng Li, 2019) and performed stress-strain analysis (Morgan, 2015) to systematically investigate the influence of intermediate detachment layers on the structural vergence of the underlying thrust system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discrete Element Numerical Simulation Results Show:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Under conditions where the basal detachment layer is extremely weak (μ = 0), by varying the strength, thickness, and burial depth of the intermediate detachment layer, we successfully reproduced all types of thrust wedges (i.e., forethrusting, doubly vergent thrusting, and backthrusting) in the thrust system beneath the intermediate detachment layer. This indicates that the properties of the intermediate detachment layer determine the structural vergence of the underlying thrust system, challenging the traditional view that a single detachment layer only controls the structural vergence of the thrust system directly above it.&lt;/li&gt;
+&lt;li&gt;Specific combinations of the intermediate detachment layer’s properties (strength, thickness, and burial depth) and shortening rate are critical for the development of backthrust-dominated thrust wedges in the underlying thrust system. Mechanically, these parameter combinations may determine the magnitude of friction exerted by the upper thrust system on the lower thrust system. Therefore, we propose that frictional interactions between different thrust systems may provide a new mechanism for the formation of backthrust-dominated thrust wedges.&lt;/li&gt;
+&lt;li&gt;Combining geological and geophysical observations, we suggest that the variation in structural vergence above the widely distributed basal detachment layer (Hormuz Salt) along the strike of the Zagros Simply Folded Belt may result from differences in the strength, thickness, and burial depth of the intermediate detachment layer (Gachsaran Evaporites) along the strike. Thus, we propose that future research should focus on the interactions between thrust systems at different scales.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;refer-zhou2025&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1130/B37988.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhou, C., He, J., Su, H., Ruh, J.B., Wang, X., Wang, W., Wang, X., Pan, Z. (2025). Discrete element modeling of the structural vergence beneath intermediate décollements: Implications for along-strike variations in the Zagros Simply Folded Belt. GSA Bulletin. https://doi.org/10.1130/B37988.1 [IF2024 = 3.9]&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;Discrete element modeling of the structural vergence beneath intermediate décollements: Implications for along-strike variations in the Zagros Simply Folded Belt&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;Chao Zhou&lt;sup&gt;1,2&lt;/sup&gt;, Jiankun He&lt;sup&gt;1,2&lt;/sup&gt;, Hao Su&lt;sup&gt;3&lt;/sup&gt;, Jonas B. Ruh&lt;sup&gt;4&lt;/sup&gt;, Xun Wang&lt;sup&gt;5&lt;/sup&gt;, Weimin Wang&lt;sup&gt;1&lt;/sup&gt;, Xinguo Wang&lt;sup&gt;1&lt;/sup&gt;, Zhengyang Pan&lt;sup&gt;5&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Tibetan Plateau Earth System, Environment and Resources (TPESER), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China&lt;/li&gt;
+&lt;li&gt;University of Chinese Academy of Sciences, Beijing 100049, China&lt;/li&gt;
+&lt;li&gt;Laboratory of Seismology and Physics of Earth’s Interior, School of Earth and Space Sciences, University of Science and Technology of China, Hefei 230026, China&lt;/li&gt;
+&lt;li&gt;Institute of Marine Sciences, Consejo Superior de Investigaciones Científicas, 08003, Barcelona, Spain&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Earthquake Forecasting, Institute of Earthquake Forecasting, China Earthquake Administration, Beijing 100036, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Correspondence to: Jiankun He (&lt;a href=&#34;mailto:jkhe@itpcas.ac.cn&#34;&gt;jkhe@itpcas.ac.cn&lt;/a&gt;)    Hao Su (&lt;a href=&#34;mailto:suhao1226@ustc.edu.cn&#34;&gt;suhao1226@ustc.edu.cn&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;In thrust wedges with multiple weak layers, individual décollements are generally thought to control only the structural vergence of the thrust systems directly above them. However, along the strike of the Zagros Simply Folded Belt, the structures above a common basal décollement at the Hormuz salt layer exhibit different vergence, including forward-, doubly-, and backward-vergent thrust wedges. Despite the importance of intermediate décollements for determining structural styles in the Zagros Simply Folded Belt, their effects on the structural vergence of the thrust system beneath them remain poorly understood. To address this issue, we conducted systematic experiments using discrete element models with a basal décollement on top of the basement and an intermediate décollement within the overlying strata. By varying the strength, thickness, and depth of the intermediate décollement, we successfully reproduced all types of thrust wedges (i.e., forward-, doubly-, and backward-vergent) in the thrust system beneath it. This suggests that intermediate décollements can determine the vergence of the thrust wedges beneath them. Moreover, our results reveal that specific combinations of intermediate décollement properties and shortening rates are crucial for the development of a backward-vergent thrust wedge in the thrust system beneath the intermediate décollement. This provides an alternative mechanism for the formation of such wedges. Together with geological and geophysical observations, we propose that intermediate décollements are responsible for along-strike vergence variations in the Zagros Simply Folded Belt. Thus, the interactions between thrust systems at various scales should be emphasized.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250320/Figure1_hu93cf0d5dca03073447ef0aea8132134c_659310_7de438dd627afe21f698c12ad7c3757f.webp 400w,
+               /en/blog/20250320/Figure1_hu93cf0d5dca03073447ef0aea8132134c_659310_badcbff1e8692ab18e58711966251ed5.webp 760w,
+               /en/blog/20250320/Figure1_hu93cf0d5dca03073447ef0aea8132134c_659310_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250320/Figure1_hu93cf0d5dca03073447ef0aea8132134c_659310_7de438dd627afe21f698c12ad7c3757f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 1. Simplified tectonics and cross sections across the Zagros Fold-and-Thrust Belt. (A) Topographic relief map showing the tectonics of the Zagros Fold-and-Thrust Belt (modified from Sherkati et al., 2006). Sky blue vectors show GPS velocities with respect to the stable Eurasia frame (after Vernant et al., 2004). (B–E) Cross sections across the northwestern Fars (modified from Sherkati et al., 2006), Izeh (modified from Sherkati et al., 2006), and Lurestan (modified from Farzipour Saein et al., 2009). (F–H) Stratigraphic column of the Fars (after Najafi et al., 2014), Izeh (modified from Najafi et al., 2018; Najafi and Lajmorak, 2020), and Lurestan (after Casciello et al., 2009). The topographic relief base maps were prepared with the Generic Mapping Tools software (Wessel and Smith, 1995).&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250320/Figure3_hu93cf0d5dca03073447ef0aea8132134c_307050_3fc7b32d22069ff3cf798e3031be213c.webp 400w,
+               /en/blog/20250320/Figure3_hu93cf0d5dca03073447ef0aea8132134c_307050_c6dd633bdcf9feb83bb0344056251fc6.webp 760w,
+               /en/blog/20250320/Figure3_hu93cf0d5dca03073447ef0aea8132134c_307050_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250320/Figure3_hu93cf0d5dca03073447ef0aea8132134c_307050_3fc7b32d22069ff3cf798e3031be213c.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;702&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 3. Sequential deformed particle results of reference model, with the black and magenta lines showing the thrusts formed in the lower and upper thrust systems, respectively. Numbering denotes the initiation sequence of thrusts (same in the following figures). μud—friction coefficient of intermediate décollement; hud—thickness of intermediate décollement; Dud—depth of intermediate décollement; v—shortening rate.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250320/Figure4_hu93cf0d5dca03073447ef0aea8132134c_316071_a45503d9801bb6a3d762db48f5a7c5a2.webp 400w,
+               /en/blog/20250320/Figure4_hu93cf0d5dca03073447ef0aea8132134c_316071_289a087871297cb43267f9e8069974b1.webp 760w,
+               /en/blog/20250320/Figure4_hu93cf0d5dca03073447ef0aea8132134c_316071_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250320/Figure4_hu93cf0d5dca03073447ef0aea8132134c_316071_a45503d9801bb6a3d762db48f5a7c5a2.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 4. Sequential strain results of reference model. (A–F) Volumetric strain. (G–L) Distortional strain. Black and magenta lines show the thrusts formed in the lower and upper thrust systems, respectively. μud—friction coefficient of intermediate décollement; hud—thickness of intermediate décollement; Dud—depth of intermediate décollement; v—shortening rate.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250320/Figure5_hu93cf0d5dca03073447ef0aea8132134c_362935_49a228b86cc2fd8412148a1a5a2c6410.webp 400w,
+               /en/blog/20250320/Figure5_hu93cf0d5dca03073447ef0aea8132134c_362935_7cb1397514fe19086566cc4301e19b47.webp 760w,
+               /en/blog/20250320/Figure5_hu93cf0d5dca03073447ef0aea8132134c_362935_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250320/Figure5_hu93cf0d5dca03073447ef0aea8132134c_362935_49a228b86cc2fd8412148a1a5a2c6410.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;457&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 5. Sequential stress results of reference model. (A–F) Maximum shear stress (τmax). (G–L) Mean stress (σm). Black and magenta lines show the thrusts formed in the lower and upper thrust systems, respectively. μud—friction coefficient of intermediate décollement; hud—thickness of intermediate décollement; Dud—depth of intermediate décollement; v—shortening rate.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20250320/Figure6_hu93cf0d5dca03073447ef0aea8132134c_196268_9d79c6d6824761180feaaffcdd05506a.webp 400w,
+               /en/blog/20250320/Figure6_hu93cf0d5dca03073447ef0aea8132134c_196268_ab7df6b175673ba4447f3bd0c0e9e2f4.webp 760w,
+               /en/blog/20250320/Figure6_hu93cf0d5dca03073447ef0aea8132134c_196268_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20250320/Figure6_hu93cf0d5dca03073447ef0aea8132134c_196268_9d79c6d6824761180feaaffcdd05506a.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;369&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 6. Final particle configurations for (A) Model 1 without upper thrust system; (B) Model 2 without intermediate décollement; (C) reference model. Black and magenta lines show the thrusts formed in the lower and upper thrust systems, respectively.&lt;/h5&gt;&lt;/center&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Due to space limitations, please refer to: Zhou, C., He, J., Su, H., Ruh, J.B., Wang, X., Wang, W., Wang, X., Pan, Z. (2025). Discrete element modeling of the structural vergence beneath intermediate décollements: Implications for along-strike variations in the Zagros Simply Folded Belt. GSA Bulletin. &lt;a href=&#34;https://doi.org/10.1130/B37988.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1130/B37988.1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Xinsong Zhang&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus (Journal of Structural Geology)</title>
+      <link>https://geovbox.com/en/blog/20240726/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20240726/</guid>
+      <description>&lt;p&gt;The classical Coulomb critical wedge theory is the fundamental theory for explaining the growth process of thrust wedges (Chapple, 1978; Dahlen, 1990; Davis and Engelder, 1985; Davis et al., 1983). This theory posits that the deformation of a thrust wedge develops sequentially from the hinterland to the foreland, meaning that distal deformation occurs latest. However, increasing geological evidence suggests that the northern Tibetan and Iranian Plateaus, far from the southern collision zones, experienced deformation shortly after the collision of India and Arabia with Eurasia (Fig. 1). Furthermore, although a weak lower crust and distal pre-existing faults (or weak zones) are common, their relationship with early distal deformation remains unclear.&lt;/p&gt;
+&lt;p&gt;To address the above issues, Dr. Jiankun He, a researcher at the Institute of Tibetan Plateau Research, Chinese Academy of Sciences, and his team, including doctoral student Zhou Chao, Associate Researcher Wang Weimin, Senior Engineer Wang Xinguo, doctoral students Zhao Youjia and Jiang Yong, collaborated with Dr. Hao Su from the School of Earth and Space Sciences, University of Science and Technology of China. Supported by the National Natural Science Foundation of China (Nos. 42120104004, 42174112) and the &amp;ldquo;Second Tibetan Plateau Comprehensive Scientific Expedition and Research Program&amp;rdquo; (No. 2019QZKK0707), they used ZDEM (Li Changsheng, 2019) to conduct discrete element numerical simulation experiments and perform stress-strain analysis (Morgan, 2015), exploring the relationship between distal pre-existing faults, basal décollement, and early distal deformation propagation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discrete element numerical simulation experiments show：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The presence of pre-existing faults is a necessary condition for the occurrence of early distal deformation;&lt;/li&gt;
+&lt;li&gt;Whether distal pre-existing faults deform early depends on the strength of the basal décollement and is independent of the model width; a strong basal décollement cannot activate distal pre-existing faults, whereas a weak basal décollement can cause them to deform early;&lt;/li&gt;
+&lt;li&gt;In the case of a weak basal décollement, a slower shortening rate not only facilitates greater shortening absorption by the distal pre-existing fault at the early stage, but also results in a more pronounced deviation from the sequentially-forward deformation propagation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These findings demonstrate that &lt;strong&gt;the preferential deformation of distal pre-existing faults is mechanically controlled by a weak basal décollement layer&lt;/strong&gt;.Combining geological and geophysical observations, we suggest that the &lt;strong&gt;early deformations observed in the northern Tibetan and Iranian Plateaus shortly after the collision of the Arabian and Indian plates with the Eurasian plate are likely the result of the preferential reactivation of pre-existing faults (weak zones) under the influence of a weak lower crust&lt;/strong&gt;&lt;a href=&#34;#refer-zhou2024&#34;&gt;(Zhou et al., 2024)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-zhou2024&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhou, C., He, J., Su, H., Wang, W., Wang, X., Zhao, Y., Jiang, Y. (2024). Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus. Journal of Structural Geology, 184, 105150. [IF2023 = 3.1]&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Chao Zhou&lt;sup&gt;1,2&lt;/sup&gt;, Jiankun He&lt;sup&gt;1,2&lt;/sup&gt;, Hao Su&lt;sup&gt;3&lt;/sup&gt;, Weimin Wang&lt;sup&gt;1&lt;/sup&gt;, Xinguo Wang&lt;sup&gt;1&lt;/sup&gt;, Youjia Zhao&lt;sup&gt;1,2&lt;/sup&gt;, Yong Jiang&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State Key Laboratory of Tibetan Plateau Earth System, Environment and Resources (TPESER), Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Beijing 100101, China&lt;/li&gt;
+&lt;li&gt;University of Chinese Academy of Sciences, Beijing 100049, China&lt;/li&gt;
+&lt;li&gt;Laboratory of Seismology and Physics of Earth&amp;rsquo;s Interior, School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Correspondence to: Jiankun He (&lt;a href=&#34;mailto:jkhe@itpcas.ac.cn&#34;&gt;jkhe@itpcas.ac.cn&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Coulomb critical wedge theory predicts that thrust wedges would grow sequentially from the hinterland to the
+foreland, meaning that distal deformation occurs last. However, in the northern Tibetan and Iranian Plateaus, far
+away from the southern collision zones, widespread deformation occurs soon after collisions of Arabia and India
+with Eurasia. Additionally, despite the prevalence of weak lower crust and distal pre-existing faults or weak
+zones, their relationship to early distal deformation remains poorly understood. For this reason, we run systematic
+experiments of discrete element models involving basal d´ecollement layer as well as distal pre-existing
+fault. Our model results reveal that (1) the presence of pre-existing faults is necessary for the occurrence of early
+distal deformation; (2) the early deformation of distal pre-existing fault is dependent on basal d´ecollement
+strength and independent of model width; (3) strong basal d´ecollement fails to activate the distal pre-existing
+faults, instead weak basal d´ecollement can deform them at the early stage; (4) in the presence of weak basal
+d´ecollement, a slower shortening rate not only facilitates greater shortening absorption by the distal pre-existing
+fault at the early stage but also results in a more pronounced deviation from sequentially-forward deformation
+propagation. These findings demonstrate that the preferential reactivation deformations of distal pre-existing
+faults are mechanically controlled by a weak basal d´ecollement layer. Together with geological and geophysical
+observations, we suggest that the early deformations of northern Tibetan and Iranian Plateaus may be the
+result of the reactivation of pre-existing faults due to the existence of weak lower crust soon after collisions.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure1_huc92d6596012fbd1272b1c7c34faf047b_257449_8510bc600a7fd1c8fb125e29e86cc3f6.webp 400w,
+               /en/blog/20240726/Figure1_huc92d6596012fbd1272b1c7c34faf047b_257449_b9a515d8675590fd1b0c1fb18be5a331.webp 760w,
+               /en/blog/20240726/Figure1_huc92d6596012fbd1272b1c7c34faf047b_257449_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure1_huc92d6596012fbd1272b1c7c34faf047b_257449_8510bc600a7fd1c8fb125e29e86cc3f6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;457&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 1. (a) Early deformation superimposed on topographic reliefs at and around the Tibetan and Iranian Plateaus (Tectonic information modified from François et al., 2014; Gao et al., 2013; He and Chéry, 2008; Ye et al., 2021). The locations of collision zones (IYSZ and MZT) are drawn from Yin, 2006 and Su and Zhou, 2020. Sutures are drawn from Robert et al., 2014 and P. Zhang et al., 2022. IYSZ = Indus-Yarlung suture zone, MZT = Main Zagros Thrust, BS = Bangong-Nujiang suture zone, JS = Jinsha suture zone, KS = Kunlun suture zone, SQS = South Qilian suture zone, NQS = Nouth Qilian suture zone, NTP = northern Tibetan Plateau, NIP = northern Iranian Plateau. QTT = Qiman Tagh thrust, NKT = North Kunlun thrust, NQT = North Qaidam thrust. References: (1) He et al., 2018; (2) He et al., 2017a; (3) Y. Wang et al., 2015; (4) An et al., 2020; (5) Chen et al., 2011; (6) F. Wang et al., 2016; (7) G. Wang et al., 2007; (8) A. Wang et al., 2010; (9) Zhuang et al., 2018; (10) J. Zhang et al., 2015; (11) Lin et al., 2019; (12) B. Zhang et al., 2017; (13) X. Wang et al., 2016; (14) Qi et al., 2016; (15) Jian et al., 2018; (16) Du et al., 2018; (17) Cheng et al., 2016; (18) Qi et al., 2015; (19) He et al., 2022; (20) Li et al., 2012; (21) Yin and Harrison, 2000; (22) François et al., 2014; (23) Horton et al., 2008; (24) Rezaeian, 2008; (25) Ballato et al., 2010. (b) Representative N-S structural profile across the Tibetan Plateau (modified by Ding et al., 2022 after Kapp &amp; DeCelles, 2019). (c) Representative N-S structural profile across the Iranian Plateau (after Morley et al., 2009 based on data from Guest et al., 2006b and Ballato et al., 2008 for the Alborz Mountains, from McQuarrie, 2004 for the Zagros Mountains, and from Agard et al., 2005 for the Sanadaj-Sirjan zone).&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure3_hu87565b2d6b3ef3b8f608e6a276e5ffee_198310_49baf9b07ae94f7fee96c2df76e6a38d.webp 400w,
+               /en/blog/20240726/Figure3_hu87565b2d6b3ef3b8f608e6a276e5ffee_198310_cab0f10c056fe658d1281875e0513b61.webp 760w,
+               /en/blog/20240726/Figure3_hu87565b2d6b3ef3b8f608e6a276e5ffee_198310_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure3_hu87565b2d6b3ef3b8f608e6a276e5ffee_198310_49baf9b07ae94f7fee96c2df76e6a38d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 3. Results of Reference Model with distal pre-existing fault, low friction coefficient of basal décollement μb = 0.00, low friction coefficient of basal décollement μf = 0.00, faster shortening rate v = 5.0 × 10-3 units/s and initial width w = 200 units. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains. Numbering denotes the initiation sequence of thrusts (same in the following figures).&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure4_hu87565b2d6b3ef3b8f608e6a276e5ffee_219338_cd73deffa60d70824dd299f18376aeec.webp 400w,
+               /en/blog/20240726/Figure4_hu87565b2d6b3ef3b8f608e6a276e5ffee_219338_b22316d967b9673d28c5f2604b95d076.webp 760w,
+               /en/blog/20240726/Figure4_hu87565b2d6b3ef3b8f608e6a276e5ffee_219338_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure4_hu87565b2d6b3ef3b8f608e6a276e5ffee_219338_cd73deffa60d70824dd299f18376aeec.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;335&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 4. Stress results of Reference Model. (a-e) Maximum shear stress. (f-j) Mean stress.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure5_hu87565b2d6b3ef3b8f608e6a276e5ffee_191634_46b40e89ef4e1015cce91aa0d52f7625.webp 400w,
+               /en/blog/20240726/Figure5_hu87565b2d6b3ef3b8f608e6a276e5ffee_191634_40b2ab28123df22e0c4046e97c8cd039.webp 760w,
+               /en/blog/20240726/Figure5_hu87565b2d6b3ef3b8f608e6a276e5ffee_191634_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure5_hu87565b2d6b3ef3b8f608e6a276e5ffee_191634_46b40e89ef4e1015cce91aa0d52f7625.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 5. Results of Model 1. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure9_hu87565b2d6b3ef3b8f608e6a276e5ffee_200299_6e231f2bd42e83318f273d717f947593.webp 400w,
+               /en/blog/20240726/Figure9_hu87565b2d6b3ef3b8f608e6a276e5ffee_200299_19cae8c9af3e0ff818ca3c23a82ea01c.webp 760w,
+               /en/blog/20240726/Figure9_hu87565b2d6b3ef3b8f608e6a276e5ffee_200299_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure9_hu87565b2d6b3ef3b8f608e6a276e5ffee_200299_6e231f2bd42e83318f273d717f947593.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 9. Results of Model 6. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20240726/Figure10_hu87565b2d6b3ef3b8f608e6a276e5ffee_197123_60a1d03553dea4a9431ff860e618995b.webp 400w,
+               /en/blog/20240726/Figure10_hu87565b2d6b3ef3b8f608e6a276e5ffee_197123_9b70b38c0e16877120a63362cda4db16.webp 760w,
+               /en/blog/20240726/Figure10_hu87565b2d6b3ef3b8f608e6a276e5ffee_197123_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20240726/Figure10_hu87565b2d6b3ef3b8f608e6a276e5ffee_197123_60a1d03553dea4a9431ff860e618995b.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 10. Results of Model 7. (a-e) Sequential results with distortional strains superimposed on the deformed particles. (f-j) Sequential results of volumetric strains.&lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h4&gt;
+&lt;p&gt;The software used for the simulation experiments was ZDEM (&lt;a href=&#34;https://geovbox.com/en/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/)&lt;/a&gt;, a discrete element numerical simulation software developed by Dr. Chang-Sheng Li. We thank Julia Morgan at Rice University for providing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. We acknowledge Beijing PARATERA Tech CO., Ltd. for providing HPC resources that have contributed to the research results reported in this paper (&lt;a href=&#34;https://paratera.com/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paratera.com/)&lt;/a&gt;. This paper benefited significantly from the thorough and constructive comments and suggestions by two anonymous reviewers, and Editor Dr. Jianhua Li. This work was jointly supported by the Natural Science Foundation of China (No. 42120104004 and 42174112), and the Second Tibetan Plateau Scientific Expedition and Research Program (No. 2019QZKK0708).&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Due to space limitations, please refer to the detailed references in：Zhou, C., He, J., Su, H., Wang, W., Wang, X., Zhao, Y., Jiang, Y. 2024. Discrete element modeling of distal deformation propagation in thrust wedge and Implications for early deformation on Northern Tibetan and Iranian Plateaus. Journal of Structural Geology, 184, 105150. &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jsg.2024.105150&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;appendix-experimental-procedure&#34;&gt;Appendix (Experimental Procedure)&lt;/h3&gt;
+&lt;p&gt;Supplementary data to this article can be found online at &lt;a href=&#34;https://doi.org/10.1016/j.jsg.2024.105150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jsg.2024.105150&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Bao Xianjun&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

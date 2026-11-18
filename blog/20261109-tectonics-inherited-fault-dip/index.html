@@ -1,0 +1,1591 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="下载原文： Zheng et al. (2026), Tectonics, 45, e2025TC009335。 软件工具：" />
+
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3b4b7fe5371618b984124ff194544bed";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua235b20c26de23a006d4e436991121ab_912_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="ZDEM官网" />
+  <meta property="og:url" content="https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/" />
+  <meta property="og:title" content="先存断层倾角如何控制盆地反转？东海西湖凹陷的地震与数值模拟证据（Tectonics） | ZDEM官网" />
+  <meta property="og:description" content="下载原文： Zheng et al. (2026), Tectonics, 45, e2025TC009335。 软件工具：" /><meta property="og:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2026-11-09T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2026-11-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>先存断层倾角如何控制盆地反转？东海西湖凹陷的地震与数值模拟证据（Tectonics） | ZDEM官网</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="89ba6697deeb0ad0964c737dc2e89ad0" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ZDEM官网</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#"><span>首页</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>新闻</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#video"><span>视频教程</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#docs"><span>软件手册</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/gallery/" target="_blank" rel="noopener"><span>示例图库</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://doc.geovbox.com/latest/papers/" target="_blank" rel="noopener"><span>发表论文</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#download"><span>软件下载</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#users"><span>软件用户</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/index.xml"><span><i class="fas fa-rss"></i></span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>先存断层倾角如何控制盆地反转？东海西湖凹陷的地震与数值模拟证据（Tectonics）</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/%E9%83%91%E6%B4%A5%E6%9D%AD/">郑津杭</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2026年11月09日
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E6%96%87%E7%AB%A0/">文章</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <blockquote>
+<p><strong>下载原文：</strong> <a href="https://doi.org/10.1029/2025TC009335" target="_blank" rel="noopener">Zheng et al. (2026), Tectonics, 45, e2025TC009335</a>。<br>
+<strong>软件工具：</strong> 二维离散元软件（ZDEM）。本文的数据可用性声明未列出公开的实验脚本仓库；软件资料及数据说明见文末。</p>
+</blockquote>
+<p>盆地由伸展转入挤压后，原有正断层并不总是沿旧断面高效逆向滑动：有的断层承担了主要短缩，有的只发生部分逆向再活动，还有一些将更多变形转移至盖层褶皱和新生逆冲断层。东海西湖凹陷中央背斜构造带的嘉兴段与宁波段，正展示了这种差异：嘉兴段先存断层较陡，反转背斜更紧闭、构造起伏更高，伴生逆断层更突出；宁波段先存断层倾角较缓，形成较宽缓的背斜，沿原断层的逆向再活动也更连续。针对这一现象，将三维地震资料解释、局部深度域构造测量与五组二维离散元伸展—反转实验结合，追踪断层位移、应变局部化及应力重分布，建立了三类倾角相关的反转响应。<strong>研究的关键贡献，是将“先存断层倾角影响再活动”的几何认识，推进为“先存断层倾角控制短缩如何分配”的过程解释，并用嘉兴—宁波的断层倾角与褶皱几何定量对比加以检验。</strong> 这为解释反转盆地中相邻构造段的差异变形，以及识别原断层再活动、褶皱型构造和新生逆冲构造之间的关系，提供了力学依据。</p>
+<div id="refer-Zheng2026"></div>
+<p><strong>论文引用：</strong> Zheng, J., Wu, Z., Tang, X., He, X., Liu, Y., Yan, J., &amp; Miocic, J. M. (2026). Inherited fault angle control on basin inversion structures in the East China Sea: Insights from numerical simulations. <em>Tectonics, 45</em>, e2025TC009335. <a href="https://doi.org/10.1029/2025TC009335" target="_blank" rel="noopener">https://doi.org/10.1029/2025TC009335</a></p>
+<h4 id="题目">题目</h4>
+<p><strong>Inherited Fault Angle Control on Basin Inversion Structures in the East China Sea: Insights From Numerical Simulations</strong></p>
+<p><strong>继承性断层角度对东海盆地反转构造的控制作用：来自数值模拟的启示</strong></p>
+<h4 id="作者">作者</h4>
+<p>Jinhang Zheng<sup>1,2</sup>, Zhiping Wu<sup>1,2</sup>, Xianjun Tang<sup>3</sup>, Xinjian He<sup>3</sup>, Yiming Liu<sup>1,2</sup>, Jinliang Yan<sup>1,2</sup>, and Johannes M. Miocic<sup>4</sup></p>
+<ol>
+<li>State Key Laboratory of Deep Oil and Gas, China University of Petroleum (East China), Qingdao, China.</li>
+<li>School of Geosciences, China University of Petroleum (East China), Qingdao, China.</li>
+<li>Shanghai Branch of CNOOC Ltd, Shanghai, China.</li>
+<li>Energy and Sustainability Research Institute, University of Groningen, Groningen, The Netherlands.</li>
+</ol>
+<h4 id="摘要">摘要</h4>
+<p><strong>中文概述</strong></p>
+<p>盆地反转涉及先存伸展构造的收缩再活动，先存断层倾角是影响其再活动潜力的重要因素。研究以西湖凹陷中央背斜构造带嘉兴段与宁波段的差异反转构造为对象，结合地震—地层解释与二维离散元模拟，检验断层倾角如何影响反转过程中的变形分配。实验设置一组不预置先存断层的参考模型，以及初始倾角分别为30°、45°、60°和80°的四组先存断层模型，均经历8 km伸展和随后8 km短缩。结果显示：30°和45°模型以原断层高效逆向再活动为主；60°模型形成部分再活动、褶皱放大与新生逆断层共同作用的混合断层—褶皱体系；80°模型的原断层再活动效率较低，更多短缩由褶皱生长和下盘捷径逆冲断层承担。天然实例中，嘉兴段较陡的先存断层与较紧闭、高起伏的背斜相伴，宁波段较缓的先存断层则与较宽缓、低起伏的背斜和较连续的原断层再活动相伴。地震观测与模型共同支持：倾角相关的短缩分配，是解释嘉兴—宁波背斜构造带差异反转样式的重要机制。</p>
+<p><strong>Abstract（原文）</strong></p>
+<p>Basin inversion involves the contractional reactivation of inherited extensional structures, and inherited fault dip is known to influence reactivation potential: during inversion, lower-angle inherited faults are generally more favorably oriented for reverse reactivation than steep normal faults. In the Xihu Sag of the East China Sea, the Jiaxing and Ningbo segments of the Central Anticline Structural Zone show contrasting inversion styles. The principal inherited faults beneath these segments differ in dip, we combine seismic-stratigraphic interpretation with two-dimensional discrete-element models to test whether inherited fault dip explains this difference. The experiments include one reference model and inherited faults dipping 30°, 45°, 60°, and 80°, each subjected to extension followed by equal-magnitude shortening. The models reproduce three inversion modes: the 30° and 45° faults undergo efficient reverse reactivation and accommodate most shortening by slip reversal along the inherited plane; the 60° fault produces a hybrid fault-fold system in which shortening is partitioned among partial reactivation, fold amplification, and breakthrough thrusting; and the 80° fault is only weakly reactivated as shortening is transferred into fold growth and a footwall shortcut thrust. The Jiaxing segment contains steeper inherited faults associated with tighter and higher-relief folds, whereas the Ningbo segment contains more moderately dipping faults associated with broader, lower-amplitude folds and more continuous inherited-fault reactivation. Together with the seismic observations, these results suggest that dip-dependent shortening partitioning explains the contrasting inversion styles of the Jiaxing and Ningbo segments and provides a framework for interpreting structural differences in inverted rift basins.</p>
+<h3 id="研究主要内容">研究主要内容</h3>
+<h4 id="1-从断层是否再活动推进到短缩由谁承担">1. 从断层“是否再活动”，推进到短缩“由谁承担”</h4>
+<p>研究同时分析原断层逆向滑动、盖层褶皱放大和新生逆冲断层发育，将断层再活动与整个断层—褶皱体系的变形联系起来。不同倾角对应的关键差异，是这三种变形途径之间的分配关系：倾角较低时，短缩较易沿原弱面集中；倾角增大、原断层逆向滑动受抑制时，变形向邻近褶皱和新生逆断层转移。由此，断层几何被联系到完整的断层—褶皱响应，而不仅是一个最终断面形态。</p>
+<h4 id="2-用位移演化历史区分部分反转与累计净位移反转">2. 用位移演化历史区分部分反转与累计净位移反转</h4>
+<p>断层位移曲线以累计正断位移为正、累计逆断位移为负。短缩阶段曲线下降，表明早期正断位移正在被逆向滑动抵消；只有曲线越过零点，才表示整个伸展—短缩历程的累计净位移转为逆断性质。<strong>因此，“断层正在逆向滑动”“原有正断位移已被全部抵消”和“上方出现反转背斜”不是同一判据。</strong> 30°和45°模型的先存断层出现累计位移过零，而60°和80°模型仍可在未完全抵消早期正断位移的情况下，形成清楚的反转褶皱和新生逆断层。这一过程判别直接服务于地震解释。</p>
+<h4 id="3-将地震解释与模型比较落实到可量化的褶皱几何">3. 将地震解释与模型比较落实到可量化的褶皱几何</h4>
+<p>研究不仅比较模型与天然剖面“是否相似”，还报告了局部深度转换后的先存断层倾角、T16层位的参照相对起伏和半起伏全宽。嘉兴段断层倾角约65.8°，起伏—宽度比为0.375；宁波段倾角约48.2°，该比值为0.126。模型中60°和45°实验对应指标分别约为0.283和0.084，呈现相同的相对差异。<strong>天然构造、位移历史与褶皱几何三方面相互对应，是本文比单纯终态形态类比更有力的证据。</strong></p>
+<h4 id="4-将构造继承性的影响贯穿伸展反转全过程">4. 将构造继承性的影响贯穿伸展—反转全过程</h4>
+<p>五组模型先形成伸展断层体系、半地堑及同构造充填，再在同一体系上施加短缩，因而保留了裂陷阶段构造对后续反转的影响。实验比较揭示的是“初始断层倾角—伸展形成的盆地几何—反转短缩分配”的连续关系，而非仅对完全相同的盆地形态改变一个压缩阶段参数。其结果建立了从低倾角再活动主导，到中等倾角混合变形，再到陡倾断层附近褶皱—新生逆冲主导的比较框架。</p>
+<h3 id="代表性图件与主要研究结果">代表性图件与主要研究结果</h3>
+<h4 id="一问题的提出同一反转带为何发育不同形态的背斜">一、问题的提出：同一反转带为何发育不同形态的背斜？</h4>
+<p>西湖凹陷经历早期伸展及后续收缩再活动。中央背斜构造带内，嘉兴和宁波两个相邻区段的代表性剖面，在局部半地堑宽度、断层间距及断层密度总体可比的条件下，显示不同的主断层倾角与反转样式：前者较紧闭、起伏较高并伴生更明显的逆断层，后者较宽缓且沿原断层的再活动更连续。这一差异构成模型比较的天然出发点，而非先给定一种统一的反转模式再寻找对应实例。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure2_hu25d744f1b96eede93eb4b16e0082b6b6_2653693_d4dcff60fa8a0b0132dfffee2894c4e5.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure2_hu25d744f1b96eede93eb4b16e0082b6b6_2653693_928fd0e591e06d84a1a70aaef53a9d27.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure2_hu25d744f1b96eede93eb4b16e0082b6b6_2653693_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure2_hu25d744f1b96eede93eb4b16e0082b6b6_2653693_d4dcff60fa8a0b0132dfffee2894c4e5.webp"
+               width="900px"
+               height="678"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 2. 东亚板块背景、东海盆地构造格架及西湖凹陷T16地震界面时间构造图。研究区图展示主要断层、构造分区、井位、三维地震调查范围及嘉兴AA′和宁波BB′剖面位置，为沿同一反转带开展对比提供空间背景。色彩代表T16界面的双程走时，而非地形高程。</h5>
+<p><em>Figure 2. (a, b) Plate-tectonic setting of East Asia. (c) Structural framework of the East China Sea Basin. (d) Two-way-traveltime (TWT) structure map of the interpreted T16 seismic horizon in the Xihu Sag, showing faults, structural zones, wells, seismic profiles AA′ and BB′, and the 3D seismic survey extent.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure7_hu683c83af2870a72efe059142d78bdb42_13007838_28f225a1af518edacb7a44c16b401580.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure7_hu683c83af2870a72efe059142d78bdb42_13007838_0c747c1bdd809862c15c62c4eea4f570.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure7_hu683c83af2870a72efe059142d78bdb42_13007838_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure7_hu683c83af2870a72efe059142d78bdb42_13007838_28f225a1af518edacb7a44c16b401580.webp"
+               width="800px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 7. 嘉兴段AA′和宁波段BB′代表性地震剖面及解释。粗黑线突出用于对比的主要先存正断层，图内箭头指示有依据约束的反转期滑动方向。天然剖面揭示先存伸展构造、反转褶皱与伴生逆断层的组合关系。用于精确倾角及褶皱几何比较的是其中局部深度转换窗口，见Figure 16，不能将整条区域时间剖面视作等比例深度剖面。</h5>
+<p><em>Figure 7. Representative interpreted seismic sections extracted from the 3D seismic volume. (a) Section AA′ across the Jiaxing segment of the Central Anticline Structural Zone. (b) Section BB′ across the Ningbo segment. Locations are shown in Figure 2d. Thicker black lines highlight the principal inherited faults used in the comparison; horizon labels and slip indicators follow the original interpretation.</em></p>
+<h4 id="二实验设计同一加载序列下比较不同先存断层倾角">二、实验设计：同一加载序列下比较不同先存断层倾角</h4>
+<p>研究采用VBOX二维离散元方法，设置初始宽40 km、厚10 km的可变形颗粒体系，每组约15万个颗粒。基底由两块刚性板组成：一块固定，另一块与右侧边界共同移动，在板块接触处形成基底速度不连续界面（VD）。五组实验分别为无预置先存断层的参考模型，以及初始倾角30°、45°、60°和80°的弱带模型。</p>
+<p>各模型先伸展8 km，宽度由40 km增至48 km，伸展率为20%；随后短缩8 km，按反转初始48 km宽度计算，短缩率为16.7%。在伸展4 km和8 km阶段加入同构造标志层，记录盆地充填及其后续变形。相同的位移历程和材料设置，使不同模型的反转响应能够进行对照。这里的基底VD是施加的速度对比边界，并不是自由滑动的天然拆离层。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure6_hu9c22f2e9e269ec1321955bcd5c190b2f_520979_a8d94fb0327e441c0533d6910b5962d5.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure6_hu9c22f2e9e269ec1321955bcd5c190b2f_520979_042807b13614af488d01f68dba656642.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure6_hu9c22f2e9e269ec1321955bcd5c190b2f_520979_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure6_hu9c22f2e9e269ec1321955bcd5c190b2f_520979_a8d94fb0327e441c0533d6910b5962d5.webp"
+               width="900px"
+               height="455"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 6. 五组离散元模型的初始构型。（a）不预置先存断层的参考模型；（b–e）先存弱带倾角分别为80°、60°、45°和30°的模型。（f）引自Li（2019）的不同颗粒摩擦系数下差应力—轴向应变参考曲线，用于说明接触摩擦与颗粒集合体整体力学响应的关系，不是本文新增的一组倾角实验结果。</h5>
+<p><em>Figure 6. Initial configurations of the DEM models. (a) Reference model without an inherited fault. (b–e) Models with inherited weak zones dipping at 80°, 60°, 45°, and 30°, respectively. VD denotes the basal velocity discontinuity. (f) Reference differential stress–axial strain curves for different interparticle friction coefficients, adapted from Li (2019).</em></p>
+<h4 id="三过程证据中等倾角模型如何产生断层褶皱耦合">三、过程证据：中等倾角模型如何产生断层—褶皱耦合？</h4>
+<p>60°实验展示了最具代表性的过渡响应。伸展阶段，先存断层F1及另一条边界断层F2共同限定盆地，随后出现次级断层与Y形组合。短缩开始后，两条主断层累计正断位移减小，但至8 km短缩时仍未完全过零；与此同时，断层间褶皱放大，并形成连接原断层体系的新生反向逆冲断层F6。应变集中及最大剪应力的重新分布，显示变形并非始终沿原弱面集中，而是在主断层交汇部位、褶皱及新断层之间重新分配。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure10_hu25d744f1b96eede93eb4b16e0082b6b6_2009244_f03188d36e0bf57a97bb09156979449e.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure10_hu25d744f1b96eede93eb4b16e0082b6b6_2009244_83994863408458be12d0d35ab4403969.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure10_hu25d744f1b96eede93eb4b16e0082b6b6_2009244_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure10_hu25d744f1b96eede93eb4b16e0082b6b6_2009244_f03188d36e0bf57a97bb09156979449e.webp"
+               width="1000px"
+               height="611"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 10. 60°先存断层模型的伸展—反转演化。三列依次表示叠加于颗粒地层上的畸变应变、二维体积应变及最大剪应力；四行分别对应4 km、8 km伸展及4 km、8 km短缩。F1为预置先存断层，其余标注断层在实验中形成。二维体积应变表征颗粒集合体的局部扩容或压密，不表示单个颗粒的体积变化。</h5>
+<p><em>Figure 10. Distortional strain superimposed on the colored strata (column 1), two-dimensional volumetric strain (column 2), and maximum shear stress (column 3) for the 60° inherited-fault model at (a) 4 km and (b) 8 km of extension, followed by (c) 4 km and (d) 8 km of shortening. F1 is the inherited fault; F2–F6 formed during the experiment.</em></p>
+<h4 id="四数值模型位移演化历史发生逆向再活动不等于累计位移已经完全反转">四、数值模型位移演化历史：发生逆向再活动，不等于累计位移已经完全反转</h4>
+<p>Figure 14将四组先存断层F1的位移历史放在一起，直接显示反转阶段的差异。30°和45°模型中，继承性断层F1能够高效容纳逆向滑动，累计位移曲线穿过零点；60°和80°模型中，继承性断层F1累计正位移虽然下降，但仍保留伸展形成的净位移分量，更多短缩通过褶皱和新生逆断层消纳。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure14_hu3f1fa6a5bb5a2c8ead77b4c2ee062054_298559_0d0aa7cdfd59ed63f6dd5c61bd91bf6f.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure14_hu3f1fa6a5bb5a2c8ead77b4c2ee062054_298559_a18bdc60c76e2140f095eceb6cee7769.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure14_hu3f1fa6a5bb5a2c8ead77b4c2ee062054_298559_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure14_hu3f1fa6a5bb5a2c8ead77b4c2ee062054_298559_0d0aa7cdfd59ed63f6dd5c61bd91bf6f.webp"
+               width="850px"
+               height="576"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 14. 不同初始倾角先存断层在伸展及反转阶段的位移演化。正值与负值分别表示累计净正断位移和累计净逆断位移。短缩阶段曲线下降记录逆向再活动对早期正断位移的抵消，穿过零点才表示累计净位移由正断性质转为逆断性质。</h5>
+<p><em>Figure 14. Displacement behavior of inherited faults during extension and inversion for different initial dip angles. Positive and negative displacement values denote net cumulative normal-sense and reverse-sense displacement, respectively.</em></p>
+<h4 id="五机制归纳三类反转模式总结而非一种统一的断层逆冲模式">五、机制归纳：三类反转模式总结，而非一种统一的断层逆冲模式</h4>
+<table>
+<thead>
+<tr>
+<th>模型中的初始先存断层倾角</th>
+<th>主要变形途径</th>
+<th>代表性反转表现</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30°—45°</td>
+<td>原断层高效逆向再活动</td>
+<td>较多短缩集中为沿旧断面的逆向滑动，褶皱相对较宽缓；先存F1累计净位移可过零</td>
+</tr>
+<tr>
+<td>60°</td>
+<td>部分再活动、褶皱放大及新生逆断层共同作用</td>
+<td>形成混合断层—褶皱体系，新生反向逆冲断层参与变形分配</td>
+</tr>
+<tr>
+<td>80°</td>
+<td>褶皱生长与新生逆冲断层承担更多短缩</td>
+<td>陡倾原断层逆向再活动效率较低，形成下盘捷径逆冲断层并转移变形</td>
+</tr>
+</tbody>
+</table>
+<p>倾角的作用体现为应力在断层面上的分解与滑动阻力差异，以及由此产生的变形重新分配。随着先存断层变陡，原弱面不再始终是最有效的短缩吸收途径，体系可通过褶皱放大和新断层形成继续变形。本文的角度组别用于定义给定模型条件下的比较响应，不是自然界普遍适用的单一临界角度；褶皱最终几何同时保留了前期伸展盆地形态的影响。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure15_hu25d744f1b96eede93eb4b16e0082b6b6_3425673_131f567e9071bd1f6bed893a1c0b1238.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure15_hu25d744f1b96eede93eb4b16e0082b6b6_3425673_c679677c30c4127acea498c2ae991b52.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure15_hu25d744f1b96eede93eb4b16e0082b6b6_3425673_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure15_hu25d744f1b96eede93eb4b16e0082b6b6_3425673_131f567e9071bd1f6bed893a1c0b1238.webp"
+               width="900px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 15. 不同倾角模型的最终伸展构型、最终短缩构型及三类反转机制综合图。（a–d）30°、45°、60°和80°模型的伸展终态；（e–h）对应的短缩终态；（i–k）依次概括高倾角、中等倾角和低倾角反转响应。断面上的σn与τ箭头分别示意局部法向压应力与剪切牵引方向。下部块体图为二维模拟结果的概念归纳，不代表进行了三维数值实验。</h5>
+<p><em>Figure 15. (a–d) Final extensional-stage geometries for inherited faults dipping at 30°, 45°, 60°, and 80°. (e–h) Corresponding final shortening-stage geometries. (i–k) Schematic synthesis of the high-angle, intermediate, and low-angle inversion regimes. Paired arrows indicate conceptual local directions of normal compression, σn, and shear traction, τ.</em></p>
+<h4 id="六实例对比验证与褶皱幅度宽度比值的定量化嘉兴与宁波的差异不止于视觉形态">六、实例对比验证与褶皱幅度/宽度比值的定量化：嘉兴与宁波的差异不止于视觉形态</h4>
+<p>对局部深度转换后的剖面，研究选择主先存断层中较平直、受后期旋转影响较小的基底段测量倾角，并以T16地层界面比较褶皱几何。具体的量化结果如下：</p>
+<table>
+<thead>
+<tr>
+<th>天然构造指标</th>
+<th style="text-align:right">嘉兴段</th>
+<th style="text-align:right">宁波段</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>主先存断层剖面倾角</td>
+<td style="text-align:right"> 约65.8°</td>
+<td style="text-align:right"> 约48.2°</td>
+</tr>
+<tr>
+<td>T16参照相对构造起伏（km）</td>
+<td style="text-align:right"> 约0.72</td>
+<td style="text-align:right"> 约0.52</td>
+</tr>
+<tr>
+<td>半起伏全宽（km）</td>
+<td style="text-align:right"> 约1.91</td>
+<td style="text-align:right"> 约4.13</td>
+</tr>
+<tr>
+<td>起伏／宽度比</td>
+<td style="text-align:right"> 0.375</td>
+<td style="text-align:right"> 0.126</td>
+</tr>
+<tr>
+<td>对应的比较模型</td>
+<td style="text-align:right"> 60°模型</td>
+<td style="text-align:right"> 45°模型</td>
+</tr>
+<tr>
+<td>比较模型中的起伏／宽度比</td>
+<td style="text-align:right"> 约0.283</td>
+<td style="text-align:right"> 约0.084</td>
+</tr>
+</tbody>
+</table>
+<p>嘉兴段的褶皱起伏较高而特征宽度较小，宁波段的褶皱起伏较低但更宽。60°模型同样表现出比45°模型更集中的褶皱几何，并伴随部分再活动及新生逆断层；45°模型则表现为更高效的原断层累计位移反转和较宽缓的褶皱。<strong>断层倾角、褶皱集中程度和再活动方式的共同对应，使模型—天然对比不再局限于“形似”，而具有一致的几何与运动学依据。</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="quantitative_summary.jpg" alt="" loading="lazy" data-zoomable width="850px" /></div>
+  </div></figure>
+<h5>数据摘要图（本介绍稿依据原文数值新绘，非原论文图版）。天然T16界面与选定模型边界的起伏／半起伏全宽比。柱高采用主文第5.2节报告值；实色柱表示天然剖面，斜线柱表示模型。该图补充展示相对褶皱集中程度，不替代原文Figure 16的地震—模型对应。</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /blog/20261109-tectonics-inherited-fault-dip/Figure16_hu25d744f1b96eede93eb4b16e0082b6b6_2016687_9df8b30abbb16ac0975e5e00bde8514b.webp 400w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure16_hu25d744f1b96eede93eb4b16e0082b6b6_2016687_b8274a54d449b1f9fa8c696da67536a3.webp 760w,
+               /blog/20261109-tectonics-inherited-fault-dip/Figure16_hu25d744f1b96eede93eb4b16e0082b6b6_2016687_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/20261109-tectonics-inherited-fault-dip/Figure16_hu25d744f1b96eede93eb4b16e0082b6b6_2016687_9df8b30abbb16ac0975e5e00bde8514b.webp"
+               width="1000px"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h5>Figure 16. 局部深度转换后的天然地震解释与二维DEM结果对比。（a）嘉兴段局部解释；（b）60°模型短缩终态；（c）宁波段局部解释；（d）45°模型短缩终态。嘉兴段较陡的先存断层与紧闭、高起伏反转背斜及新生逆断层相伴，宁波段较缓的先存断层则与宽缓背斜及较连续的原断层再活动相伴。该图是全文天然证据与力学机制的综合对照，建议作为网页封面和核心展示图。</h5>
+<p><em>Figure 16. Comparison of locally depth-converted seismic interpretations and two-dimensional DEM results. (a) Jiaxing interpretation from the local window in Figure 7a. (b) Final shortening-stage configuration of the 60° model. (c) Ningbo interpretation from the local window in Figure 7b. (d) Final shortening-stage configuration of the 45° model.</em></p>
+<h3 id="conclusions主要结论">Conclusions｜主要结论</h3>
+<p><strong>（1）先存断层倾角控制反转阶段的缩短应变分配。</strong> 在本文二维DEM模型中，30°和45°先存断层较高效地容纳逆向滑动；60°模型表现为部分再活动、褶皱放大和新生逆断层共同作用；80°模型则将更多缩短应变分配转移至褶皱和下盘逆冲捷径断层。</p>
+<p><strong>（2）位移演化历史能够区分部分逆向再活动与累计净位移反转。</strong> 先存断层累计正断位移减小，说明反向滑动正在抵消早期伸展位移；只有累计位移过零，才表明净位移性质已经转为逆断。</p>
+<p><strong>（3）地震实例解释与模型响应具有一致的几何和运动学差异。</strong> 嘉兴段约65.8°的先存断层与紧闭、高起伏褶皱及较明显的伴生逆断层相伴，宁波段约48.2°的断层则与宽缓褶皱和较连续的原断层再活动相伴；T16构造界面的起伏—宽度比及模型对应指标进一步支持这一对比。</p>
+<p><strong>（4）研究建立了理解差异反转构造的力学框架与机制。</strong> 先存断层倾角通过改变原断层再活动、褶皱放大与新生逆断层之间的缩短分配，影响反转盆地的断层—褶皱组合，为反转盆地构造解释和断层控制圈闭的几何分析提供参考。</p>
+<h4 id="acknowledgments致谢">Acknowledgments｜致谢</h4>
+<p>本研究使用ZDEM软件开展离散元模拟。作者感谢编辑和审稿人对构造与运动学术语、图件表达、定量描述及模型—天然对比适用范围提出的建议；感谢Rice University的Julia Morgan提供RICEBAL v5.4代码及模型后处理脚本与算法，感谢ChangSheng Li在数值模拟方面的建议，以及中国海油相关研究单位提供地震和井资料。</p>
+<p>研究得到国家自然科学基金（<strong>42302155、42572170</strong>）和国家科技重大专项（<strong>2025ZD1402802</strong>）资助。以上基金信息依据本文正式发表版本。</p>
+<h3 id="data-availability-statement数据与软件">Data Availability Statement｜数据与软件</h3>
+<p>本文数据可用性声明给出的ZDEM网站为 <a href="http://geovbox.com/en/" target="_blank" rel="noopener">http://geovbox.com/en/</a>，提供VBOX 2.1的手册、教程、示例和参考资料。论文所用地震反射资料、井资料及构造图由中国海油上海分公司提供，<strong>不能公开发布</strong>。</p>
+<p>正式发表版本未列出实验脚本的公开存储地址；VBOX网站提供的是通用软件资料，而非本文完整实验输入与输出的公开下载包。</p>
+<h4 id="references主要参考文献">References｜主要参考文献</h4>
+<ol>
+<li><strong>Zheng, J., Wu, Z., Tang, X., He, X., Liu, Y., Yan, J., &amp; Miocic, J. M. (2026).</strong> Inherited fault angle control on basin inversion structures in the East China Sea: Insights from numerical simulations. <em>Tectonics, 45</em>, e2025TC009335. <a href="https://doi.org/10.1029/2025TC009335" target="_blank" rel="noopener">https://doi.org/10.1029/2025TC009335</a></li>
+<li><strong>Sibson, R. H. (1995).</strong> Selective fault reactivation during basin inversion: Potential for fluid redistribution through fault-valve action. <em>Geological Society, London, Special Publications, 88</em>(1), 3–19. <a href="https://doi.org/10.1144/GSL.SP.1995.088.01.02" target="_blank" rel="noopener">https://doi.org/10.1144/GSL.SP.1995.088.01.02</a></li>
+<li><strong>Turner, J. P., &amp; Williams, G. A. (2004).</strong> Sedimentary basin inversion and intra-plate shortening. <em>Earth-Science Reviews, 65</em>(3–4), 277–304. <a href="https://doi.org/10.1016/j.earscirev.2003.10.002" target="_blank" rel="noopener">https://doi.org/10.1016/j.earscirev.2003.10.002</a></li>
+<li><strong>Morgan, J. K. (2015).</strong> Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. <em>Journal of Geophysical Research: Solid Earth, 120</em>(5), 3870–3896. <a href="https://doi.org/10.1002/2014JB011455" target="_blank" rel="noopener">https://doi.org/10.1002/2014JB011455</a></li>
+<li><strong>Li, C., Yin, H., Wu, C., Zhang, Y., Zhang, J., Wu, Z., et al. (2021).</strong> Calibration of the discrete element method and modeling of shortening experiments. <em>Frontiers in Earth Science, 9</em>, 636512. <a href="https://doi.org/10.3389/feart.2021.636512" target="_blank" rel="noopener">https://doi.org/10.3389/feart.2021.636512</a></li>
+<li><strong>Li, C. (2019).</strong> Quantitative analysis and simulation of structural deformation in the fold and thrust belt based on discrete element method. Doctoral dissertation, Nanjing University.</li>
+</ol>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/%E4%B8%9C%E6%B5%B7%E9%99%86%E6%9E%B6%E7%9B%86%E5%9C%B0/">东海陆架盆地</a>
+  
+  <a class="badge badge-light" href="/tag/%E8%A5%BF%E6%B9%96%E5%87%B9%E9%99%B7/">西湖凹陷</a>
+  
+  <a class="badge badge-light" href="/tag/%E7%9B%86%E5%9C%B0%E5%8F%8D%E8%BD%AC/">盆地反转</a>
+  
+  <a class="badge badge-light" href="/tag/%E5%85%88%E5%AD%98%E6%96%AD%E5%B1%82/">先存断层</a>
+  
+  <a class="badge badge-light" href="/tag/%E7%9F%AD%E7%BC%A9%E5%88%86%E9%85%8D/">短缩分配</a>
+  
+  <a class="badge badge-light" href="/tag/%E7%A6%BB%E6%95%A3%E5%85%83%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F/">离散元数值模拟</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/&amp;text=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/&amp;t=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89&amp;body=https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/&amp;title=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89%20https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://geovbox.com/blog/20261109-tectonics-inherited-fault-dip/&amp;title=%e5%85%88%e5%ad%98%e6%96%ad%e5%b1%82%e5%80%be%e8%a7%92%e5%a6%82%e4%bd%95%e6%8e%a7%e5%88%b6%e7%9b%86%e5%9c%b0%e5%8f%8d%e8%bd%ac%ef%bc%9f%e4%b8%9c%e6%b5%b7%e8%a5%bf%e6%b9%96%e5%87%b9%e9%99%b7%e7%9a%84%e5%9c%b0%e9%9c%87%e4%b8%8e%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f%e8%af%81%e6%8d%ae%ef%bc%88Tectonics%ef%bc%89" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>相关</h3>
+    <ul>
+      
+      <li><a href="/blog/20240720/">边缘海盆地断层差异演化成因的数值模拟：以西湖凹陷平北斜坡带为例（海洋地质与第四纪地质）</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2017 – 2026 ZDEM官网.
+  </p>
+  
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.fab8b449b814cc9f95b22fcf2e45f05b.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/bash.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.5dd6318d852b1d2dade11ec83bf2a2ae.js"></script>
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physical simulation | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/physical-simulation/</link>
+      <atom:link href="https://geovbox.com/en/category/physical-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physical simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Physical simulation</title>
+      <link>https://geovbox.com/en/category/physical-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Simple compression structure physical simulation</title>
+      <link>https://geovbox.com/en/blog/analogue-model/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/analogue-model/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
+           src=&#34;https://geovbox.com/en/blog/analogue-model/AM_sun2017.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;material-parameters&#34;&gt;Material parameters&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Experimental materials          &lt;br&gt;&lt;/th&gt;
+&lt;th&gt;Particle diameter           &lt;br&gt; &lt;em&gt;d&lt;/em&gt; (μm)&lt;/th&gt;
+&lt;th&gt;Bulk density           &lt;br&gt; &lt;em&gt;ρ&lt;/em&gt; (kg∙m&lt;sup&gt;-3&lt;/sup&gt;)&lt;/th&gt;
+&lt;th&gt;Cohesion           &lt;br&gt; &lt;em&gt;C&lt;sub&gt;o&lt;/sub&gt;&lt;/em&gt;(Pa)&lt;/th&gt;
+&lt;th&gt;Internal friction angle          &lt;br&gt; &lt;em&gt;φ&lt;/em&gt;(°)&lt;/th&gt;
+&lt;th&gt;Shortening rate          &lt;br&gt;  &lt;em&gt;υ&lt;/em&gt; (mm∙min&lt;sup&gt;-1&lt;/sup&gt;)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Quartz sand&lt;/td&gt;
+&lt;td&gt;200~400&lt;/td&gt;
+&lt;td&gt;1300&lt;/td&gt;
+&lt;td&gt;~35&lt;/td&gt;
+&lt;td&gt;50-100&lt;/td&gt;
+&lt;td&gt;2.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experimental-process-and-results&#34;&gt;Experimental process and results&lt;/h2&gt;
+&lt;p&gt;The initial model is 100 cm long, 30 cm wide, and 3 cm high. A 3 mm thick layer of glass beads is placed at the bottom of the horizontal sandbox as the sliding layer, with a 2.7 cm thick layer of horizontal quartz sand placed on top. The deformation process of the experiment is recorded by a digital camera at regular intervals, with a capture time of 1 minute. At the end of the experiment, the sandbox model is sprayed with water until saturated, and then slices are taken along the compression direction to obtain information about the internal structural morphology of the model.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-simple-compression-test-structural-evolution-process&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Simple compression test structural evolution process&#34; srcset=&#34;
+               /en/blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_a1869c1c3d35a37428660dc8089c5d89.webp 400w,
+               /en/blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_b3ece4c992acb683e0077f287c333cc4.webp 760w,
+               /en/blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/analogue-model/AM_sun2017_a_f_hu323975852761164e8beab31f6dbde6f1_433623_a1869c1c3d35a37428660dc8089c5d89.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Simple compression test structural evolution process
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The Arabic numerals in the figure represent the relative sequence of fault formation. The pink lines with arrows at the top of each phase’s photo indicate the width of the deformation zone, and the arrows indicate the direction of deformation propagation.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sun Chuang. 2017. Structural Physical Simulation Study of the Longmenshan Fold-and-Thrust Belt.  PhD Dissertation. Nanjing University.&lt;/li&gt;
+&lt;li&gt;Sun C, Jia D, Yin H, et al. 2016. Sandbox Modeling of Evolving Thrust Wedges with Different Preexisting Topographic Relief: Implications for the Longmen Shan Thrust Belt, Eastern Tibet. Journal of Geophysical Research: Solid Earth.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

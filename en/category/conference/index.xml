@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | ZDEM官网</title>
+    <link>https://geovbox.com/en/category/conference/</link>
+      <atom:link href="https://geovbox.com/en/category/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference</title>
+      <link>https://geovbox.com/en/category/conference/</link>
+    </image>
+    
+    <item>
+      <title>CCF HPC China The 8th Forum on Domestic Application Software 2021 was successfully held</title>
+      <link>https://geovbox.com/en/blog/20211023/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20211023/</guid>
+      <description>&lt;p&gt;See original text： &lt;a href=&#34;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/jHOaaoT8KwFu28N4UsSWZA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 2021 CCF National Academic Conference on High-Performance Computing (CCF HPC China 2021) was grandly held in Hengqin, Zhuhai from October 21st to 23rd. With the theme of &amp;ldquo;Empowering Intelligence, Building a Shared Future,&amp;rdquo; the conference aimed to foresee global trends in supercomputing technology, bring together innovative technological applications, showcase cutting-edge academic achievements, promote the digital transformation and upgrading of supercomputing in academia, industry, and research, and create a global, open, and academic exchange platform.&lt;/p&gt;
+&lt;p&gt;CCF HPC China 2021 was hosted by the China Computer Federation (CCF), and co-organized by the High-Performance Computing Professional Committee of the China Computer Federation, the Management Committee of Zhuhai Hengqin New Area, the Zhuhai Science and Technology Innovation Bureau, the University of Macau, and the Macau University of Science and Technology. It was also supported by Beijing Parallel Technologies Co., Ltd., Jinan University, Guangdong Qinzhi Technology Research Institute Co., Ltd., and Zhuhai Da Hengqin Co., Ltd.&lt;/p&gt;
+&lt;p&gt;At the 8th Forum on Domestic Application Software during this academic conference, key developers of domestic application software gathered to jointly discuss the current status and development bottlenecks of domestic application software, the support needed, market promotion strategies, and future development trends. It is hoped that China&amp;rsquo;s domestic application software can continue to develop steadily with the support of multiple parties and occupy a place in the mainstream international market.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_ddf96fb874f7aec576a8ada921452ffb.webp 400w,
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_33038126bff6caa19775d7b66192a659.webp 760w,
+               /en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211023/20211027202227_hu6b60e79fb78f5849363c33a9eff5af34_91459_ddf96fb874f7aec576a8ada921452ffb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;During the event, Dr. Li Changsheng from East China University of Technology delivered a presentation on the theme of &amp;ldquo;ZDEM: A Discrete Element Numerical Simulation Software for Structural Deformation Research: Theory, Software, and Applications&amp;rdquo;. With the gradual development of China&amp;rsquo;s oil and gas geological theories and exploration practices, oil and gas exploration has shifted towards the deep basins. How to carry out deep structural research in petroliferous basins has become a frontier issue in basin structural research. Conducting quantitative research from the perspective of discrete element numerical simulation can provide quantitative experimental evidence for deep structural analysis. Discrete element numerical simulation has high requirements for the computing environment, so it is particularly important to develop a high-performance discrete element numerical simulation software suitable for structural deformation research. Subsequently, he introduced the principles of discrete elements and the parallel design based on OpenMP and CUDA. He also shared the applications of ZDEM in structural simulation and its future prospects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a6c9128d6b0f280ee2154728841b9885.webp 400w,
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a656b3419eafedacde3e93b5a33144fa.webp 760w,
+               /en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211023/20211027202430_huf3ce9d928bb2203dbda4b1aab1b7856e_81921_a6c9128d6b0f280ee2154728841b9885.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/01.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/34.PNG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt-express&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/blog/20211019/40.PNG&#34; alt=&#34;PPT Express&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT Express
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Finally, Dr. Chen Jian, the chairman and moderator of the forum and the general manager of Beijing Parallel Technologies Co., Ltd., expressed in his closing remarks that domestic application software still lacks underlying core technologies, which involves not only software products but also complex domain-specific knowledge, computer technology, mathematics, and physics. This is the construction of a series of underlying ecosystems that require long-term significant investments. There is still a long way to go in building the ecosystem. In terms of the overall environment, the domestic application software market is also beginning to mature, with more companies willing to pay for genuine software and use domestic software. Coupled with continuous policy dividends, we can see that the overall maturity of the domestic application software market is rapidly improving. We look forward to meeting everyone again at the 9th Domestic Application Software Forum to discuss the new development of domestic application software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Text and Graphics Broadcast：http://www.citmt.cn/s/hpcchina2021/&lt;/li&gt;
+&lt;li&gt;2021 CCF National Annual Academic Conference on High-Performance Computing（CCF HPC China 2021）Official Website &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 8th Forum on Domestic Application Software for detailed information, please visit：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D Preview &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow ZDME on WeChat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZDEM Report - The 8th Forum on Domestic Application Software | CCF HPC China 2021(October 23, 2021)</title>
+      <link>https://geovbox.com/en/blog/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20211019/</guid>
+      <description>&lt;h3 id=&#34;ccf-hpc-china-introduction-to-the-8th-forum-on-domestic-application-software-2021&#34;&gt;CCF HPC China Introduction to the 8th Forum on Domestic Application Software 2021&lt;/h3&gt;
+&lt;p&gt;Industrial software represents a core and crucial technology for China&amp;rsquo;s transition from a manufacturing powerhouse to a design powerhouse. Achieving independent innovation breakthroughs in high-end fields such as research and development, and enabling China&amp;rsquo;s industrial enterprise software system to become autonomous and controllable have become key focuses of national attention. With the support of national major science and technology projects and relevant industrial policies, and against the backdrop of the international environment, domestic application software in the HPC field has developed rapidly. A complete domestic industrial software product system has now been formed, providing a strong guarantee for the development of domestic industrial software.&lt;/p&gt;
+&lt;p&gt;This forum invites key developers of domestic application software to jointly discuss the current status, development bottlenecks, required support, market promotion strategies, and future development trends of domestic application software. It is hoped that China&amp;rsquo;s domestic application software can continue to develop steadily with the support of multiple parties and occupy a place in the mainstream international market.&lt;/p&gt;
+&lt;h3 id=&#34;report-title-zdem-a-discrete-element-numerical-simulation-software-for-structural-deformation-research-theory-software-and-applications&#34;&gt;Report Title: ZDEM: A Discrete Element Numerical Simulation Software for Structural Deformation Research: Theory, Software, and Applications&lt;/h3&gt;
+&lt;h4 id=&#34;time-1645-1710-october-23rd&#34;&gt;Time: 16:45-17:10, October 23rd&lt;/h4&gt;
+&lt;h4 id=&#34;location-zhuhai--zhuhai-international-convention-centerroom-402&#34;&gt;Location: Zhuhai · Zhuhai International Convention Center&lt;strong&gt;Room 402&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Presenter:&lt;/strong&gt;&lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Changsheng Li&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Report Abstract:&lt;/strong&gt;&lt;br&gt;
+With the gradual development of China&amp;rsquo;s petroleum geological theory and exploration practices, oil and gas exploration has shifted towards deep basins. How to carry out deep structural research in petroliferous basins has become a frontier issue in basin structural research. Conducting quantitative research from the perspective of discrete element numerical simulation can provide quantitative experimental evidence for deep structural analysis. Discrete element numerical simulation has high requirements for the computing environment, so it is particularly important to develop a high-performance discrete element numerical simulation software suitable for structural deformation research. This report will introduce the past and future of the discrete element numerical simulation software ZDEM from three aspects: theory, software, and applications.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_29aa891d1b99aa9bb6a579fd58b8fd09.webp 400w,
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_4bddd038276f48c59bb4c6d40f8a71e2.webp 760w,
+               /en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/01_hu79f4d3da1b4b5f1b8d203ecfe2814d7e_43218_29aa891d1b99aa9bb6a579fd58b8fd09.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_8c7c55ec472eede3893c7071658b6de7.webp 400w,
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_fa9e32b26b74b58e9cdb3eb29870cbfa.webp 760w,
+               /en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/34_hu7176893fcda1ba615b68f6adf042fe84_36255_8c7c55ec472eede3893c7071658b6de7.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_7aa51b8feca307f927cb9f36e423f487.webp 400w,
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_b25369a707757c2c399e70e6d74def05.webp 760w,
+               /en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/38_hub170c9b3c7ef2a1f258f5fcb36f16a7e_144726_7aa51b8feca307f927cb9f36e423f487.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_841e556c3857607d367e012d00cf8c3d.webp 400w,
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_606b503e494571e882c3e214f01c4c8b.webp 760w,
+               /en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/39_hu46fc4535fb3dacfbb7be2d33821b5e55_76952_841e556c3857607d367e012d00cf8c3d.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b5400cd043b9bf56be27c1287e461c17.webp 400w,
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b65e41098894977ba9ba4dde946be406.webp 760w,
+               /en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/40_hua442bf92fa97454dbcd30c2ca0516eeb_102896_b5400cd043b9bf56be27c1287e461c17.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ppt-express&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PPT Express&#34; srcset=&#34;
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_2868e83892282653f910de2ae4d84fb6.webp 400w,
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_c62c91317fc35bc425d19f79a44b5e88.webp 760w,
+               /en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20211019/42_hufd873487e922b1508bddb69207f377ab_453772_2868e83892282653f910de2ae4d84fb6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      PPT Express
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 CCF National Annual Academic Conference on High-Performance Computing（CCF HPC China 2021）Official Website &lt;a href=&#34;https://hpcchina.ccf.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpcchina.ccf.org.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 8th Forum on Domestic Application Software for detailed information, please visit：https://mp.weixin.qq.com/s/7rardQGBNbLVjiXfLW75FQ&lt;/li&gt;
+&lt;li&gt;ZDEM3D Preview &lt;a href=&#34;https://3d.geovbox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://3d.geovbox.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow ZDME on WeChat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-geovbox&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://geovbox.com/about/qrcode_for_gh_476c8523e40a_258.jpg&#34; alt=&#34;geovbox&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      geovbox
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Ouyang Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete Element-Based Numerical Simulation Experimental Techniques for Tectonic Deformation (Conference Report) - The 12th National Academic Conference on Petroleum Geology Experimental Technology (November 13, 2020)</title>
+      <link>https://geovbox.com/en/blog/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20201111/</guid>
+      <description>&lt;h3 id=&#34;introduction-to-the-12th-national-academic-conference-on-petroleum-geology-experimental-technology&#34;&gt;Introduction to the 12th National Academic Conference on Petroleum Geology Experimental Technology&lt;/h3&gt;
+&lt;p&gt;Petroleum geology experimental technology plays a crucial role in oil and gas exploration and development. In recent years, China&amp;rsquo;s oil and gas exploration and development have faced new challenges, raising higher requirements for the development of petroleum geology experimental technologies. To further promote innovation and development in China’s petroleum geology experimental technology and enhance its role in oil and gas exploration and development, the Petroleum Geology Professional Committee of the Petroleum Society of China, the Petroleum Technology Equipment Professional Committee of the Petroleum Society of China, the Petroleum Geology Professional Committee of the Geological Society of China, and the Standardization Committee for Petroleum Geology Exploration jointly initiated the “12th National Academic Conference on Petroleum Geology Experimental Technology,” tentatively scheduled for November 11-13, 2020. The specific details of the conference are as follows:&lt;/p&gt;
+&lt;p&gt;一、&lt;strong&gt;Organizers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Petroleum Geology Professional Committee of the Petroleum Society of China&lt;/li&gt;
+&lt;li&gt;Petroleum Technology Equipment Professional Committee of the Petroleum Society of China&lt;/li&gt;
+&lt;li&gt;Petroleum Geology Professional Committee of the Geological Society of China&lt;/li&gt;
+&lt;li&gt;Standardization Committee for Petroleum Geology Exploration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;二、&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;China Petroleum Exploration and Development Research Institute&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Petroleum Geochemistry, China Petroleum&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Oil and Gas Reservoirs, China Petroleum&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Basin Tectonics and Hydrocarbon Accumulation, China Petroleum&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Continental Shale Oil and Gas Accumulation and Efficient Development, Ministry of Education&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;三、&lt;strong&gt;Conference Theme and Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conference Theme: New Technologies, New Methods, and Applications in Petroleum Geology Experiments&lt;/li&gt;
+&lt;li&gt;Topics:
+&lt;ol&gt;
+&lt;li&gt;New Technologies, New Methods, and Applications in Geochemical Experiments&lt;/li&gt;
+&lt;li&gt;New Technologies, New Methods, and Applications in Reservoir and Stratum Experiments&lt;/li&gt;
+&lt;li&gt;New Technologies, New Methods, and Applications in Oil and Gas Accumulation Experiments&lt;/li&gt;
+&lt;li&gt;New Technologies, New Methods, and Applications in Unconventional Oil and Gas Geological Experiments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Development Geology, Experimental Equipment, Big Data, and Experimental Management&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;report-title-discrete-element-based-numerical-simulation-experimental-techniques-for-tectonic-deformation&#34;&gt;Report Title: Discrete Element-Based Numerical Simulation Experimental Techniques for Tectonic Deformation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Session 5:&lt;/strong&gt; Development Geology, Experimental Equipment, Big Data, and Experimental Management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; November 13, 2020, Friday, 8:40-8:55&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Conference Hall, 4th Floor, Building 11, Jiangxi Provincial Party Committee Binqiang Hotel, Nanchang City, Jiangxi Province&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; &lt;a href=&#34;https://geovbox.com/about/lichangsheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Li Changsheng&lt;/strong&gt;&lt;/a&gt;, China Petroleum Exploration and Development Research Institute&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Content Summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Background:&lt;/strong&gt; The significance of tectonic simulation;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theoretical Methods:&lt;/strong&gt; Discrete element theory;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software Development:&lt;/strong&gt; Development of the discrete element software VBOX;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Cases&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;Quantitative analysis methods based on discrete elements&lt;/li&gt;
+&lt;li&gt;Extensional fault-propagation folds&lt;/li&gt;
+&lt;li&gt;Discrete element numerical simulation of the knee fold in the Shuangyushi Block of Northwestern Sichuan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Teaching:&lt;/strong&gt; Helps students understand the tectonic process and enhances their interest in structural geology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research:&lt;/strong&gt; Quantitatively analyzes the main controlling factors of tectonic deformation and clarifies the timing of tectonic evolution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimizing Tectonic Interpretation Schemes:&lt;/strong&gt; Limited by seismic data accuracy and geological complexity, it serves as an experimental method to guide and optimize tectonic interpretation plans.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shuangyushi:&lt;/strong&gt; Load suppression of fault development, knee folds formed during the Yanshanian or Himalayan orogeny.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Numerical simulation, along with theoretical analysis and scientific experiments, forms one of the three pillars of modern scientific research. In the field of tectonic geology, numerical simulation has become an important tool ranging from the dynamics of supercontinent rifting to the geometric and kinematic studies of basin tectonic deformation.&lt;/p&gt;
+&lt;p&gt;In recent years, with the development of discrete element theory and computer technology, the Discrete Element Method (DEM) (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-1&#34;&gt;Cundall and Strack, 1979&lt;/a&gt;) has been widely applied to tectonic simulations at different scales. Compared to traditional sandbox modeling methods, discrete element methods can more precisely control experimental boundary conditions and quantitatively analyze tectonic deformation processes, aiding in a deeper understanding of the mechanical properties and deformation mechanisms at the micro-scale. The discrete element method employs discrete particles to represent rocks that conform to real physical and mechanical properties, effectively analyzing problems with numerous discontinuities. Since the 1990s, DEM has been widely used to address tectonically related geological issues. For example, it has been used to analyze the cracking mechanisms of sedimentary cover layers during salt piercement, study the effects of cohesion within strata on tectonic morphology and stress-strain distribution (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-3&#34;&gt;Morgan, 2015&lt;/a&gt;), reveal changes in strain distribution and fracture generation patterns in the deformation process of décollements under horizontal compression, clarify the dynamic evolution in layered extensional superposition during basin evolution, and analyze the inversion tectonic characteristics of the Maodong fault zone as a graben basin under current regional stress and the reverse control of normal faulting, revealing the fault propagation and connectivity processes during the development of pure strike-slip basins, and discussing the controlling factors and mechanisms of the salt structures in the western Kuqa foreland thrust belt (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-1&#34;&gt;Li Changsheng, 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Schreurs et al. (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-Schreurs-2016&#34;&gt;2016&lt;/a&gt;) compared compressional tectonic experiments from multiple physical modeling laboratories worldwide, showing that under the same experimental conditions and methods, different experimental simulation outcomes cannot be entirely consistent. However, under the same initial conditions (initial particle positions and radii) and boundary conditions, the discrete element results consistently exhibit reproducibility. Furthermore, the material properties of DEM can be calibrated through microparameters, and a variety of materials can be selected. All variables can be monitored in real-time, such as displacement, stress, strain, velocity, and energy. In physical simulations, deformation needs to be observed through image analysis (such as Particle Image Velocimetry), laser scanning (mini laser altimetry), and computed X-ray tomography scans. Without these devices, the only way to observe model deformation is to photograph the side of the model or cut the model to inspect internal deformation. In contrast, discrete elements can provide all information for each deformation stage, allowing calculations of the stress-strain fields in the system. Moreover, with the same initial model, consistent simulation results facilitate the study of single-factor variables (such as compression rates, paleouplift, pre-existing faults, etc.).&lt;/p&gt;
+&lt;p&gt;In summary, the discrete element numerical simulation method has obvious advantages in the quantitative analysis of tectonic morphology, fault prediction, and stress-strain. Many scholars have introduced discrete elements into simulations of tectonic deformation; however, the analysis has often focused on qualitative interpretations of structural geometries. This paper combines a typical compressional tectonic discrete element numerical simulation experiment to simulate the formation process of tectonics under horizontal compression and to analyze the changes in stress and strain distribution and fracture generation patterns during the deformation process. The results indicate that: (1) Fractures and faults are closely related; a large concentration of fractures in a localized area is the precursor to fault formation. (2) Volumetric strain can characterize fracture types (tensile or compressive), while deformation strain can differentiate between forward and reverse thrust faults. (3) The magnitude of average stress is positively correlated with topographic relief, with maximum shear stress accumulating at new faults about to form until the new fault forms, after which the shear stress begins to dissipate and continues to accumulate at the next new fault about to form. These findings demonstrate the significant potential of the discrete element method in stress-strain analysis and fracture prediction research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_e84bbb6e8ce5de881c5c4f210f7942ef.webp 400w,
+               /en/blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_b6e17cedd001288ecf9adc10e5fe4afc.webp 760w,
+               /en/blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/1_hu0cd7eef4ee11e1d332ae1687333a4291_53523_e84bbb6e8ce5de881c5c4f210f7942ef.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_606d270a2a3b2795724a104dbbd5bf8d.webp 400w,
+               /en/blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_6265e89c902e25a04ff658f5bcc9c18b.webp 760w,
+               /en/blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/5_huf3d604c02f1e2472943b1b9a6af40373_45107_606d270a2a3b2795724a104dbbd5bf8d.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_3c928daa7b425e78cfa5003f3b88f9f4.webp 400w,
+               /en/blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_9adaf8062122f591fade92a9c9a8fec2.webp 760w,
+               /en/blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/6_hu26a9c7eeec477e190d9cf2609feca09c_59169_3c928daa7b425e78cfa5003f3b88f9f4.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_9ee830b458e43f4502f4ec54668c0894.webp 400w,
+               /en/blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_414ddabd31f31a582bf2742a3bf88b75.webp 760w,
+               /en/blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/13_hue5d93906db19c373624228d5ca82fa2d_64179_9ee830b458e43f4502f4ec54668c0894.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_96e95e38f2bdf82d390270ce89caaaa4.webp 400w,
+               /en/blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_1566dd80327973c4b10e8e62426a1162.webp 760w,
+               /en/blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/27_hucdbcd96a5de646e5a4ce95859f2d5be0_77776_96e95e38f2bdf82d390270ce89caaaa4.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_620be03fac34aec78492116f2eafe8a1.webp 400w,
+               /en/blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_5ce81172203d035399122f8e93e66bfb.webp 760w,
+               /en/blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/31_hu0ad188daaa928221dbc0ecbc97b3d43b_47559_620be03fac34aec78492116f2eafe8a1.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_fe4459e2fd15a013f8d732b6dcd05166.webp 400w,
+               /en/blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_a8fab112fedec2faad0bab3b615c476e.webp 760w,
+               /en/blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/34_hucedfc463ddd3e4a836a2c3151aaffa30_33087_fe4459e2fd15a013f8d732b6dcd05166.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-partial-ppt&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Partial PPT&#34; srcset=&#34;
+               /en/blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_5b74761b69e77053c709d3eef2d9710b.webp 400w,
+               /en/blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_3484bf85b46e301c320b688c4a68ef53.webp 760w,
+               /en/blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20201111/37_huc2b818c7f44674d171d137e2e80e5ff8_67255_5b74761b69e77053c709d3eef2d9710b.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Partial PPT
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;The stress-strain analysis code has been modified from the computing script provided by Professor Julia K. Morgan at Rice University; special thanks to her.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+[Li Changsheng (2019) Quantitative Analysis and Simulation of Tectonic Deformation in Fold-Thrust Belts Based on Discrete Elements. **PhD Thesis**. Nanjing University.](http://t.cn/Ai9ruJY5) **Recommended Download** [Latest Revised Edition](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) Extraction Code `dgyc`
+&lt;div id=&#34;refer-li-2017&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.cn/EiaL0Ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li Changsheng, Yin Hongwei, Liu Chun, Cai Shenyang. (2017) Design and Testing of Shared Memory Parallel Discrete Element Program. Journal of Nanjing University (Natural Science), 53(06): 1161-1170.&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;refer-liang-2019&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Liang Han, Ran Qi, Di Guidong, et al. (2019) Discovery of the Knee Fold in the Qixia Formation of the Shuangyushi Block in Northwestern Sichuan and its Significance for Oil and Gas. Natural Gas Exploration and Development, 42(04): 1-7.&lt;/p&gt;
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.  
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+[Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
+&lt;div id=&#34;refer-Schreurs-2016&#34;&gt;&lt;/div&gt;
+Schreurs G, Buiter S J, Boutelier J, et al. Benchmarking analogue models of brittle thrust wedges. Journal of structural geology, 2016,92:116-139.
+&lt;hr&gt;
+&lt;p&gt;Translator: Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cenozoic Tectonic Deformation and Simulation of the Longmenshan</title>
+      <link>https://geovbox.com/en/blog/20200724/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20200724/</guid>
+      <description>&lt;h3 id=&#34;course-replay&#34;&gt;Course Replay&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;geovbox@Bilibili　https://www.bilibili.com/video/BV1si4y137DX/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Time: Saturday, July 25, 2020, 14:30-16:00&lt;br&gt;
+Zoom Meeting ID: 3059179425&lt;br&gt;
+URL：https://zoom.com.cn/j/3059179425&lt;/p&gt;
+&lt;h3 id=&#34;tectonic-network-forum-session-14-tectonic-evolution-of-orogenic-beltslongmenshan&#34;&gt;Tectonic Network Forum Session 14: Tectonic Evolution of Orogenic Belts—Longmenshan&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Report 1: Analysis of the Longmenshan Reverse Thrust Belt Structure&lt;/strong&gt; by Professor Yan Danping, China University of Geosciences (Beijing)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Report 2: Cenozoic Tectonic Deformation and Simulation of the Longmenshan&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenter: &lt;a href=&#34;http://hyxy.hhu.edu.cn/2016/0622/c8640a104824/page.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Wang Maomao&lt;/strong&gt;&lt;/a&gt;, School of Marine Science, Hohai University&lt;/li&gt;
+&lt;li&gt;Content Summary:
+&lt;ul&gt;
+&lt;li&gt;Eastern Tibetan Plateau: Debate on Lower Crustal Flow vs. Upper Crustal Shortening;&lt;/li&gt;
+&lt;li&gt;Cenozoic tectonic deformation of the Longmenshan fold-thrust belt;&lt;/li&gt;
+&lt;li&gt;Research progress on the simulation of Cenozoic tectonic deformation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The numerical simulations used in the report were completed using VBOX;&lt;/li&gt;
+&lt;li&gt;The simulation results effectively explain the differential distribution of structural strain in the Cenozoic foreland thrust belt of Longmenshan;&lt;/li&gt;
+&lt;li&gt;Experimental design and boundary condition control are worthy of study.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tectonic physical modeling and numerical simulation can quantitatively analyze the deformation characteristics of fold-thrust belts through accurate boundary conditions and parameter settings. This is an important method for quantifying the deformation processes and mechanisms of fold-thrust belts. Compared to physical modeling, numerical simulation can obtain more information from within the system (such as stress and strain) and has higher reproducibility, with easier boundary condition settings (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-1&#34;&gt;Li Changsheng, 2019&lt;/a&gt;). In the 1970s, Cundall and Strack (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-1&#34;&gt;1979&lt;/a&gt;) proposed the Discrete Element Method (DEM) based on the mechanics of discontinuous media to study various mechanical behaviors of geotechnical materials. This method treats a granular assembly model as a collection of discrete elements, allowing for large displacements between particles, making it particularly suitable for tectonic deformation research and is one of the main directions for future studies on tectonic deformation (&lt;a href=&#34;chrome-extension://ebldafnijcbblaaabcehdamipojmicmg/index.html#refer-anchor-3&#34;&gt;Morgan, 2015&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Associate Professor Wang Maomao will present his latest research findings titled “Cenozoic Tectonic Deformation and Simulation of the Longmenshan” in the Tectonic Network Forum. &lt;strong&gt;The numerical simulation part is completed using the discrete element numerical simulation software VBOX.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-poster&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Poster&#34; srcset=&#34;
+               /en/blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_c2f39c4d6a00ccab68f0b8315b9c04b4.webp 400w,
+               /en/blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_ba7fd987912bc15681d3db2649078550.webp 760w,
+               /en/blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20200724/1_hud957a2a041187e16f1c790552469431b_92504_c2f39c4d6a00ccab68f0b8315b9c04b4.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;696&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Poster
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;The stress-strain analysis code is modified from the computing script provided by Professor Julia K. Morgan at Rice University; special thanks to her.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refer-anchor-1&#34;&gt;&lt;/div&gt;
+[Li, Changsheng. (2019) Quantitative analysis and simulation of structural deformation in the fold and thrust belt based on Discrete Element Method. **Doctoral Dissertation**. Nanjing University.](http://t.cn/Ai9ruJY5) **Recommended Download:** [Latest Revised Version](https://pan.baidu.com/s/1s7qJXCUb2tP6jPkHixge6w) Access Code: `dgyc`  
+&lt;div id=&#34;refer-anchor-2&#34;&gt;&lt;/div&gt;
+Cundall P A, Strack O D. 1979. A discrete numerical model for granular assemblies. Geotechnique, 29: 47-65.  
+&lt;div id=&#34;refer-anchor-3&#34;&gt;&lt;/div&gt;
+[Morgan JK (2015) Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. **Journal of Geophysical Research: Solid Earth** 120:3870-3896.](http://onlinelibrary.wiley.com/doi/10.1002/2014JB011455/full)  
+&lt;hr&gt;
+&lt;p&gt;Translator:Zhu Suqin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

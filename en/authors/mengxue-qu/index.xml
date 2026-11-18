@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengxue Qu | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/mengxue-qu/</link>
+      <atom:link href="https://geovbox.com/en/authors/mengxue-qu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengxue Qu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>Mengxue Qu</title>
+      <link>https://geovbox.com/en/authors/mengxue-qu/</link>
+    </image>
+    
+    <item>
+      <title>The influence of double-décollement strength on the tectonic deformation of the northern margin of the Bogda Mountains Based on discrete element numerical simulation (Earth Sciences)</title>
+      <link>https://geovbox.com/en/blog/20220805/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/20220805/</guid>
+      <description>&lt;p&gt;This paper primarily investigates the influence of pre-existing structures and combinations of double décollement layers with varying cohesive strengths on the structural deformation of fold-and-thrust belts. The experimental results indicate that in the presence of two décollement layers with equal cohesive strengths, stress preferentially propagates along the upper décollement layer. By integrating this with the geological model of the Bogda Mountains, it is suggested that pre-existing structures and a double décollement layer configuration with &amp;ldquo;weaker upper and stronger lower&amp;rdquo; layers are the key factors controlling the Cenozoic structural deformation of the northern margin of the Bogda Mountains.&lt;a href=&#34;#refer-qu2022&#34;&gt;(Mengxue Qu et al.,2022)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-qu2022&#34;&gt;&lt;/div&gt;
+[[1]Mengxue Qu,Xiaogan Cheng ,Hefeng Tian ,Hanlin Chen ,Hongzhou Yu , Changjin Chen,Siyao Sun. The Influence of Double-Décollement Strength on Tectonic Deformation in the Northern Margin of the Bogda Mountains: Based on Discrete Element Numerical Simulation.[J/OL].Earth Sciences:1-14[（Acceptance and finalization of manuscript）Online first publication date：2022-06-24].](http://kns.cnki.net/kcms/detail/42.1874.P.20220623.1802.006.html)   
+&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;The Impact of Double Detachment Layer Strength on Structural Deformation along the Northern Margin of Bogda Mountain: Insights from Discrete Element Numerical Simulation&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;Mengxue Qu,&lt;sup&gt;1,2&lt;/sup&gt;,Xiaogan Cheng&lt;sup&gt;1,2&lt;/sup&gt;*,Huifeng Tian&lt;sup&gt;1,2&lt;/sup&gt;,Hanlin Chen&lt;sup&gt;1,2&lt;/sup&gt;,Hongzhou Yu&lt;sup&gt;3&lt;/sup&gt;,Changjin Chen&lt;sup&gt;1,2&lt;/sup&gt;,Siyao Sun&lt;sup&gt;1,2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;School of Earth Sciences, Zhejiang University, Hangzhou, 310027&lt;/li&gt;
+&lt;li&gt;Research Center for Petroleum Basin Tectonics, Ministry of Education, Hangzhou, 310027&lt;/li&gt;
+&lt;li&gt;Research Institute of Exploration and Development, Shengli Oilfield Company, Sinopec, Dongying, Shandong 257015&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The northern margin of Bogda Mountain is characterized by a fold-and-thrust belt that exhibits lateral segmentation, vertical stratification, superposition of multi-phase structural deformations, and well-developed pre-existing structures. It has two detachment layers, namely the Middle Jurassic Xishanyao Formation and the Lower Jurassic Badawan Formation. To explore the effects of the cohesion strength differences between these two detachment layers and the influence of pre-existing structures on the Cenozoic structural deformation of the thrust belt, this study employed discrete element numerical simulation methods. A total of five numerical simulation experiments were designed, including a model without detachment layers and models with double detachment layers of different cohesion strength combinations, all of which were set up with pre-existing structures. The results show that when the cohesion strengths of the two detachment layers are the same, the upper detachment layer dominates in stress propagation. When the cohesion strengths of the two detachment layers are different, stress tends to propagate along the weaker cohesion detachment layer. Moreover, when the cohesion strength of the lower detachment layer is weaker, the upper detachment layer may not function. By comparing the experimental results with the actual geological cross-sections, it is concluded that pre-existing structures control the overall pattern of structural deformation in the thrust belt, while the two detachment layers together control the decoupling of deformation in the vertical direction of the thrust belt. The cohesion strength of the upper detachment layer being weaker than that of the lower detachment layer is the key factor affecting the Cenozoic structural deformation in the study area.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220805/figure1_hu32090bddab81d0b356f77fafb7b71afc_620997_81fb2d56eff2473acd96533ad38cd730.webp 400w,
+               /en/blog/20220805/figure1_hu32090bddab81d0b356f77fafb7b71afc_620997_4d5f08c52d8b1543de8b633350806163.webp 760w,
+               /en/blog/20220805/figure1_hu32090bddab81d0b356f77fafb7b71afc_620997_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220805/figure1_hu32090bddab81d0b356f77fafb7b71afc_620997_81fb2d56eff2473acd96533ad38cd730.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;566&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 1 Simplified Geological Structure Diagram of the Western Segment of Bogda Mountain&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220805/figure2_hu32090bddab81d0b356f77fafb7b71afc_471519_e3292b22eca7481c25d14723de2e0b76.webp 400w,
+               /en/blog/20220805/figure2_hu32090bddab81d0b356f77fafb7b71afc_471519_e33ab5b96567deaf46dde1adc85d01c0.webp 760w,
+               /en/blog/20220805/figure2_hu32090bddab81d0b356f77fafb7b71afc_471519_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220805/figure2_hu32090bddab81d0b356f77fafb7b71afc_471519_e3292b22eca7481c25d14723de2e0b76.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 2 Typical Cross-Section Diagram of the Study Area&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220805/figure3_hu639e66a38c2c9b4085b89a575038a6ca_996833_c8efa12c48fd193f8369e7ef6b7fe245.webp 400w,
+               /en/blog/20220805/figure3_hu639e66a38c2c9b4085b89a575038a6ca_996833_7d2c0b353caaee0d1812a95cc86d4a9a.webp 760w,
+               /en/blog/20220805/figure3_hu639e66a38c2c9b4085b89a575038a6ca_996833_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220805/figure3_hu639e66a38c2c9b4085b89a575038a6ca_996833_c8efa12c48fd193f8369e7ef6b7fe245.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 3 Initial Model Design&lt;/h5&gt;&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/blog/20220805/figure4_hu639e66a38c2c9b4085b89a575038a6ca_1893616_039834a5cd434e9b9e93960088dddc7f.webp 400w,
+               /en/blog/20220805/figure4_hu639e66a38c2c9b4085b89a575038a6ca_1893616_11b054d181139ce640e3be64fd7737f3.webp 760w,
+               /en/blog/20220805/figure4_hu639e66a38c2c9b4085b89a575038a6ca_1893616_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/20220805/figure4_hu639e66a38c2c9b4085b89a575038a6ca_1893616_039834a5cd434e9b9e93960088dddc7f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;481&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt;Figure 4 Simulation Results and Volume Strain Comparison &lt;/h5&gt;&lt;/center&gt;
+&lt;h4 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h4&gt;
+&lt;p&gt;The numerical calculations for this paper were completed on the computing cluster at the High-Performance Computing Center of Nanjing University. The discrete element numerical simulation software VBOX(ZDEM) used in the simulation experiments was developed by Dr. Li Changsheng. The strain processing referred to the scripts provided by Julia Morgan. We express our gratitude to them.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator:Ouyang  Liujuan&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

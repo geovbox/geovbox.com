@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LiChangsheng | ZDEM官网</title>
+    <link>https://geovbox.com/en/authors/lichangsheng/</link>
+      <atom:link href="https://geovbox.com/en/authors/lichangsheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>LiChangsheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>LiChangsheng</title>
+      <link>https://geovbox.com/en/authors/lichangsheng/</link>
+    </image>
+    
+    <item>
+      <title>VBOX overview</title>
+      <link>https://geovbox.com/en/blog/vbox-overview/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/en/blog/vbox-overview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Download：&lt;a href=&#34;VBOX-overview.pdf&#34;&gt;VBOX Brief introduction&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;VBOX (Virtual Sandbox) is a 2D Discrete Element Method (DEM) software platform specifically designed for tectonic deformation research. Developed in 2014 using C language with OpenMP parallelization, this copyrighted system addresses critical limitations of analog sandbox experiments in stress-strain quantification and material rheology representation, providing a novel computational approach for structural geology studies.&lt;/p&gt;
+&lt;p&gt;The software suite and technical documentation will undergo progressive enhancements, with updates to be released incrementally. Please stay tuned for forthcoming developments！&lt;/p&gt;
+&lt;p&gt;VBOX(virtual sandbox) is a 2D DEM program to simulate the geological problems. It is developed by C-language. We takes  three years  to construct the new data structure and neighbor search algorithm based on grid for VBOX. Furthermore, GUI was embeded into VBOX using &lt;a href=&#34;https://www.gtkmm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gtkmm&lt;/a&gt; &lt;a href=&#34;http://plplot.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLplot&lt;/a&gt; &lt;a href=&#34;https://www.cairographics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cairo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The VBOX can perform angle of repose tests, direct shear tests, biaxial tests, and structural simulation tests, see download.&lt;/p&gt;
+&lt;p&gt;The desktop version of VBOX has been in development, and the preview version is shown in the image below:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-vbox-desktop-preview&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;VBOX desktop preview&#34; srcset=&#34;
+               /en/blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_c5703cd020f9dc52aed818d7b752ea3c.webp 400w,
+               /en/blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_d2366eec604f048c584798bf577dcef1.webp 760w,
+               /en/blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/vbox-overview/VBOX_GUI_hu46904227c3136ba383d07988f66aa529_132751_c5703cd020f9dc52aed818d7b752ea3c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      VBOX desktop preview
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;VBOX can be implemented &lt;code&gt;Angle of rest&lt;/code&gt; &lt;code&gt;Direct shear test&lt;/code&gt; &lt;code&gt;Biaxial test&lt;/code&gt; &lt;code&gt;Construction simulation&lt;/code&gt; ：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-vbox-overview&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;VBOX overview&#34; srcset=&#34;
+               /en/blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_68ccba829265d426c859e46df8cc6f0a.webp 400w,
+               /en/blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_1839d505a3206b3045947f47a6653167.webp 760w,
+               /en/blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/en/blog/vbox-overview/20171207-VBOX_hu598abf0155af5b03b95a76c6e5bb95da_629468_68ccba829265d426c859e46df8cc6f0a.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      VBOX overview
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;Translator: Chi Yu&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新闻 | ZDEM官网</title>
+    <link>https://geovbox.com/category/%E6%96%B0%E9%97%BB/</link>
+      <atom:link href="https://geovbox.com/category/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <description>新闻</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>新闻</title>
+      <link>https://geovbox.com/category/%E6%96%B0%E9%97%BB/</link>
+    </image>
+    
+    <item>
+      <title>CGU报告-离散元数值模拟在含油气盆地构造变形定量分析中的应用(2023-10-16)</title>
+      <link>https://geovbox.com/blog/20231015/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20231015/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;2023年中国地球科学联合学术年会&lt;br&gt;
+97专题：含油气盆地构造理论、技术与实践新进展&lt;br&gt;
+时  间：&lt;strong&gt;10月16日&lt;/strong&gt;&lt;br&gt;
+地  点：&lt;strong&gt;珠海 珠海国际会展中心 展览中心二层vip-1&lt;/strong&gt;&lt;br&gt;
+题  目：&lt;strong&gt;离散元数值模拟在含油气盆地构造变形定量分析中的应用:研究现状、应用实例、优势挑战&lt;/strong&gt;&lt;br&gt;
+报告人：&lt;em&gt;李长圣&lt;/em&gt;&lt;br&gt;
+作者：李长圣&lt;sup&gt;1*&lt;/sup&gt;，尹宏伟&lt;sup&gt;2&lt;/sup&gt;，徐雯峤&lt;sup&gt;2&lt;/sup&gt;，汪伟&lt;sup&gt;2&lt;/sup&gt;，吴珍云&lt;sup&gt;1&lt;/sup&gt;，张召&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;东华理工大学地球科学学院, 江西 南昌 330013&lt;/li&gt;
+&lt;li&gt;南京大学地球科学与工程学院, 江苏 南京 210023&lt;br&gt;
+*通讯作者E-mail: &lt;a href=&#34;mailto:lichangsheng@ecut.edu.cn&#34;&gt;lichangsheng@ecut.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**摘  要:**随着离散元理论和计算机技术的发展，离散元已经广泛应用到含油气盆地构造变形定量分析中。相较于传统的沙箱模拟实验，离散元可以更精确地控制实验的边界条件，定量地揭示构造变形过程中的应力应变时空演化特征，从多角度深化科研人员对构造变形机制的认识。前人基于离散元数值模拟方法在含油气盆地构造变形研究和油气资源勘探等方面，已经取得了大量的研究成果。然而，离散元在含油气盆地构造变形研究中也存在一些限制和不足。受制于计算机的计算能力，目前盆地构造变形研究主要采用二维离散元模拟。但是，盐构造的侧向运移、走滑断裂的三维演化等相关问题研究仍有赖于三维离散元模拟方法的应用。
+本文结合离散元在含油气盆地构造变形定量分析中的研究现状，展示了其在挤压构造、伸展构造和走滑断裂定量研究中的应用实例，并总结了其未来发展的优势和挑战。离散元将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于含油气盆地构造变形定量研究，在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力，是未来的含油气盆地构造变形定量研究的主要方法之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键词：数值模拟，沉积盆地，构造变形，定量分析，应力应变&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_12eafa58c8e414aa407c57eb84480b56.webp 400w,
+               /blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_e2e14384d22fa8168a77e79b49a9be9e.webp 760w,
+               /blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/1_huc0dbc133d4f957539d77b5b622119f69_59385_12eafa58c8e414aa407c57eb84480b56.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_75455bb4742b9899709a003e89dddac6.webp 400w,
+               /blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_745ea044bf5794c81bcb05fa9374acf4.webp 760w,
+               /blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/2_hu933c28982d951a8590568f9e1e8543df_12852_75455bb4742b9899709a003e89dddac6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_6dac295d5ea6fd8571a9f65f2a703174.webp 400w,
+               /blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_ce7e38611e0921495c3d0a0bfd6144c9.webp 760w,
+               /blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/6_hudd077ccbce36ed07593d0081be0325f1_157945_6dac295d5ea6fd8571a9f65f2a703174.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_9280d58988b820020aaee2c6e9c03243.webp 400w,
+               /blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_3dda30aecac9bfb870b31307ba1bb75a.webp 760w,
+               /blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_9280d58988b820020aaee2c6e9c03243.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_387cf3c917597af0b10638ef017c69be.webp 400w,
+               /blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_e62b37f362c58830376e0af915d9ad50.webp 760w,
+               /blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/12_hu4c421f33282f7ff76d72742995a35892_158849_387cf3c917597af0b10638ef017c69be.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_075b2b135a5524f5f741cd1008abd5be.webp 400w,
+               /blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_8e48730295d347f952f71a08091bf058.webp 760w,
+               /blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/13_hu50170b71cf0390771d561de491300ca7_169528_075b2b135a5524f5f741cd1008abd5be.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_0632278e6f149d1a3cea0de88c104d40.webp 400w,
+               /blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_c35564b88566ca0f451a4dad5bd21f29.webp 760w,
+               /blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_0632278e6f149d1a3cea0de88c104d40.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_872860aac475873da6004bfea0075d3a.webp 400w,
+               /blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_727be12cdf177f4ca326a4e985734c60.webp 760w,
+               /blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/24_hue905581096ace05ff644b14692749e0a_143698_872860aac475873da6004bfea0075d3a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_6cfcae78123258ba8abe0ddb9c52a971.webp 400w,
+               /blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_fd25a8237afd20301e0ccc478a6b9ebb.webp 760w,
+               /blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20231015/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_6cfcae78123258ba8abe0ddb9c52a971.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>会议报告-离散元数值模拟在沉积盆地构造变形定量分析中的应用-研究现状、应用实例、优势挑战(2023-04-16)</title>
+      <link>https://geovbox.com/blog/20230413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20230413/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;第六届全国矿田构造与深部找矿预测学术研讨会&lt;br&gt;
+（一）矿田构造理论、实验与技术方法&lt;br&gt;
+时  间：&lt;strong&gt;4 月16 日 11:55-12:15&lt;/strong&gt;&lt;br&gt;
+地  点：&lt;strong&gt;长沙 长沙华晨豪生大酒店 5 楼多功能厅5&lt;/strong&gt;&lt;br&gt;
+题  目：&lt;strong&gt;离散元数值模拟在沉积盆地构造变形定量分析中的应用:研究现状、应用实例、优势挑战&lt;/strong&gt;&lt;br&gt;
+报告人：&lt;em&gt;李长圣&lt;/em&gt; 东华理工大学&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;**摘  要:**随着离散元理论和计算机技术的发展，离散元已经广泛应用到沉积盆地构造变形定量分析中。相较于传统的沙箱模拟实验，离散元可以更精确地控制实验的边界条件，定量地揭示构造变形过程中的应力应变特征，从多角度深化科研人员对构造变形机制的认识。前人基于离散元数值模拟方法在沉积盆地构造变形研究和油气资源勘探等方面，已经取得了大量的研究成果。然而，离散元在沉积盆地构造变形研究中也存在一些限制和不足。受制于计算机的计算能力，目前盆地构造变形研究主要采用二维离散元模拟。但是，盐构造的侧向运移、走滑断裂的三维展布及其发育过程等相关问题研究仍有赖于三维离散元模拟方法的应用。&lt;br&gt;
+该报告将结合离散元在沉积盆地构造变形定量分析中的研究现状，讲解其在挤压构造、伸展构造和走滑断裂定量研究中的应用实例，并总结其未来发展的优势和挑战。离散元将颗粒集合体模型视为若干离散单元的集合，允许颗粒间产生大位移，特别适合用于沉积盆地构造变形定量研究，在构造变形、应力应变与裂缝预测定量研究中具有巨大潜力，是未来的沉积盆地构造变形定量研究的主要方法之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键词：数值模拟，沉积盆地，构造变形，定量分析，应力应变&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_b7d85c9656cce363a138c3cdc0b03071.webp 400w,
+               /blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_2dd5fd1ab2f6a38a91c5cc2c567b4deb.webp 760w,
+               /blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/1_hu2050b28964b2a674cabed7e99733ff5b_47816_b7d85c9656cce363a138c3cdc0b03071.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_75455bb4742b9899709a003e89dddac6.webp 400w,
+               /blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_745ea044bf5794c81bcb05fa9374acf4.webp 760w,
+               /blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/2_hu933c28982d951a8590568f9e1e8543df_12852_75455bb4742b9899709a003e89dddac6.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_6dac295d5ea6fd8571a9f65f2a703174.webp 400w,
+               /blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_ce7e38611e0921495c3d0a0bfd6144c9.webp 760w,
+               /blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/6_hudd077ccbce36ed07593d0081be0325f1_157945_6dac295d5ea6fd8571a9f65f2a703174.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_9280d58988b820020aaee2c6e9c03243.webp 400w,
+               /blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_3dda30aecac9bfb870b31307ba1bb75a.webp 760w,
+               /blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/11_hua3cb5390ef4395f1b94f1ee60e92df97_58738_9280d58988b820020aaee2c6e9c03243.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_387cf3c917597af0b10638ef017c69be.webp 400w,
+               /blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_e62b37f362c58830376e0af915d9ad50.webp 760w,
+               /blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/12_hu4c421f33282f7ff76d72742995a35892_158849_387cf3c917597af0b10638ef017c69be.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_075b2b135a5524f5f741cd1008abd5be.webp 400w,
+               /blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_8e48730295d347f952f71a08091bf058.webp 760w,
+               /blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/13_hu50170b71cf0390771d561de491300ca7_169528_075b2b135a5524f5f741cd1008abd5be.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_0632278e6f149d1a3cea0de88c104d40.webp 400w,
+               /blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_c35564b88566ca0f451a4dad5bd21f29.webp 760w,
+               /blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/23_hu415326ffcff13a07dbef11d7b7bd83b5_103777_0632278e6f149d1a3cea0de88c104d40.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_872860aac475873da6004bfea0075d3a.webp 400w,
+               /blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_727be12cdf177f4ca326a4e985734c60.webp 760w,
+               /blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/24_hue905581096ace05ff644b14692749e0a_143698_872860aac475873da6004bfea0075d3a.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_6cfcae78123258ba8abe0ddb9c52a971.webp 400w,
+               /blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_fd25a8237afd20301e0ccc478a6b9ebb.webp 760w,
+               /blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20230413/25_hu48fe4704dc0c6f54e524d6bb129b95c9_83990_6cfcae78123258ba8abe0ddb9c52a971.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZDEM初级视频教程上线了！</title>
+      <link>https://geovbox.com/blog/video-totorial-publish/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/video-totorial-publish/</guid>
+      <description>&lt;p&gt;经过近半个月（2020/02/18-2020/02/29）精心制作，今天ZDEM初级视频教程终于上线了！&lt;/p&gt;
+&lt;p&gt;该视频教程共约２个小时，针对零基础用户。相信学完该教程，您肯定可以用VBOX实现构造数值模拟。
+VBOX命令脚本参考了颗粒离散元数值模拟软件 &lt;em&gt;PFC4.0&lt;/em&gt; 的规范， PFC4.0的用户基本无需学习，可直接上手。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;视频教程发布在geovbox@哔哩哔哩，详见&lt;a href=&#34;https://www.bilibili.com/video/av91259173/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;离散元数值模拟软件ZDEM初级教程（DEM）&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;教程目录&#34;&gt;教程目录&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;离散元原理及VBOX简介（字幕：李长圣）&lt;/li&gt;
+&lt;li&gt;VBOX学习方法（字幕：李长圣）&lt;/li&gt;
+&lt;li&gt;十分钟入门VBOX（字幕：毕晨洁，徐雯峤）&lt;/li&gt;
+&lt;li&gt;自由落体和Paraview颜色配置 (字幕：次仁达瓦，李长圣）&lt;/li&gt;
+&lt;li&gt;linux命令行 （字幕：吴珍云）&lt;/li&gt;
+&lt;li&gt;一个示例学会VBOX （字幕：叶启洋）&lt;/li&gt;
+&lt;li&gt;VBOX的文件格式（字幕：徐雯峤，王莉）&lt;/li&gt;
+&lt;li&gt;生成jgp gif和dat文件解析 （字幕：冯彦杰）&lt;/li&gt;
+&lt;li&gt;用LSF提交计算任务（字幕：王福远）&lt;/li&gt;
+&lt;li&gt;用SGE提交计算任务 （字幕：徐雯峤）&lt;/li&gt;
+&lt;li&gt;错误排除（字幕：李长圣）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注：视频由李长圣录制并剪辑，字幕由　&lt;strong&gt;徐雯峤　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;吴珍云&lt;/a&gt;　冯彦杰　叶启洋　王福远　毕晨洁　王莉　次仁达瓦&lt;/strong&gt; 帮助校订，李长圣最终整理定稿。&lt;/p&gt;
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+&lt;p&gt;徐雯峤　&lt;a href=&#34;https://geovbox.com/about/wuzhenyun&#34;&gt;吴珍云&lt;/a&gt;　冯彦杰　叶启洋　王福远　毕晨洁　王莉　次仁达瓦&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019CGU报告:基底性质差异对东海陆架盆地构造特征和演化的影响</title>
+      <link>https://geovbox.com/blog/20191029/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20191029/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;第33专题 沉积盆地矿产资源综合勘察&lt;br&gt;
+地  点：北京 北京国际会议中心&lt;br&gt;
+时  间：2019年10月29日&lt;br&gt;
+题  目：基底性质差异对东海陆架盆地构造特征和演化的影响&lt;br&gt;
+报告人：&lt;strong&gt;李长圣 1&lt;/strong&gt;，余一欣 2，周心怀3 ，陈石 2&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;东华理工大学 地球科学学院&lt;/li&gt;
+&lt;li&gt;中国石油大学（北京）地球科学学院&lt;/li&gt;
+&lt;li&gt;中海石油（中国）有限公司上海分公司&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;东海陆架盆地位于东亚大陆边缘，自西向东可分为3大构造带，即西部坳陷带、中部隆起带和东部坳陷带(侯方辉,2014)。其垂向结构鲜明：西部坳陷带主要为箕状断陷结构，东断西超，盆地平均深度约为3000~4000 m，构造以半地堑为特征；东部坳陷带为对称多断层地堑式结构，盆地平均深度达7000~9000 m。本文选取西部坳陷带的丽水凹陷和东部坳陷带的西湖凹陷为主要研究对象。两个凹陷典型地震剖面显示两者构造特征存在明显差异性：丽水凹陷断裂发育整体呈不对称样式，凹陷内断裂主要向西倾斜；西湖凹陷则表现为双断式的对称地堑结构。为了进一步探讨引起东海陆架盆地东西段构造特征存在明显差异性的原因，本文选择使用构造模拟方法开展工作。&lt;/p&gt;
+&lt;p&gt;近二十年来，数值模拟及定量化迅速发展，使得伸展区断裂构造由单纯定性构造研究向定量分析的转变(李三忠等,2003)。为了研究东海陆架盆地东西部基底强度差异性对盆地东西部坳陷带构造特征的影响，设置了一组离散元数值模拟实验。颗粒细观参数见李长圣(2019)，左侧基底为刚性基底，随着拉张进行，速度不连续点（断点）会随蓝色基底一起移动；红色基底模拟韧性基底，有相互叠合的颗粒组成，青色基底固定不动，青色基底和蓝色基底与红色基底连接处为粘结点，随着右侧蓝色基底向右边移动，红色的韧性基底逐渐被拉长，模拟韧性基底的伸展作用。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1-数值模拟实验&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图1 数值模拟实验&#34; srcset=&#34;
+               /blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_a754a863e9203ed1bb12af39c39bce05.webp 400w,
+               /blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_1244883cc7100e607edf3ac5ee34252f.webp 760w,
+               /blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191029/1_hud4ee68778e23d3105d64bc1660e01707_870735_a754a863e9203ed1bb12af39c39bce05.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1 数值模拟实验
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;实验模拟结果表明，当基底设置为刚性基底时（见图1a），伸展作用下凹陷构造特征表现为不对称式半地堑特征，控凹断裂倾向向东，根部位于刚性基底速度不连续点处，导致沉积中心位于凹陷西侧，以沉积中心为界，凹陷东侧断裂发育数量明显多于西侧，主要断裂倾向向西（见图1b左侧凹陷）；当基底设置为韧性基底时（见图1a），伸展作用下凹陷构造特征表现为对称式地堑结构，双断式控凹断裂根部均位于韧性基底内部，凹陷内断裂以沉积中心为界，东西两侧倾向相反的断裂发育数量基本一致（见图1b左侧凹陷）。&lt;/p&gt;
+&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;
+&lt;p&gt;实验模拟结果与研究区剖面主要构造特征相似，表明受基底强度的影响，东海陆架盆地西部坳陷带（丽水凹陷）和东部坳陷带（西湖凹陷）构造演化存在明显的差异性，导致区域“东西分带”特征。&lt;/p&gt;
+&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
+&lt;p&gt;感谢 RICE 大学Julia K. Morgan教授提供的离散元软件RICEBAL (v. 5.4, 修改自Peter Cundall的TRUBAL v. 1.51) 。本文数值模拟基于课题组自主研发的离散元程序VBOX完成，更多构造模拟实例见www.geovbox.com。&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;侯方辉.2014.东海陆架盆地南部中生代地层分布及构造特征研究.博士学位论文.中国海洋大学.&lt;/li&gt;
+&lt;li&gt;李长圣.2019.基于离散元的褶皱冲断带构造变形定量分析与模拟.博士学位论文.南京大学.&lt;/li&gt;
+&lt;li&gt;李三忠,岳云福,高振平等. 2003. 伸展盆地区断裂构造特征与成因.华南地质与矿产, (02):1-8.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019CGU报告:我国东部茅东断裂带反转构造特征及控震机制探讨</title>
+      <link>https://geovbox.com/blog/20191028/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20191028/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;第27专题：区域地震构造及其地震危险性与地震地质灾害&lt;br&gt;
+地  点：北京 北京国际会议中心 第10会议室(三楼301)&lt;br&gt;
+时  间：&lt;strong&gt;2019年10月28日 14:55-15:10&lt;/strong&gt;&lt;br&gt;
+题  目：我国东部茅东断裂带反转构造特征及控震机制探讨：来自离散元数值模拟的启示&lt;br&gt;
+报告人：&lt;em&gt;吴珍云 ，尹宏伟，李长圣&lt;/em&gt; 东华理工大学 南京大学&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;摘  要：通过分析茅东断裂带地质构造和历史地震特征，结合离散元模拟实验，分析了挤压应力下断陷盆地构造反转及断裂活动特征，探讨了茅东断裂带作为断陷盆地在现今区域应力场作用下反转构造特性及正断层反转控震机制。结果表明：（1）挤压应力下，断陷盆地发生构造反转，促使盆地中先存正断层再活化以及浅部地层褶皱变形，但盆地中先存断层总体仍保持正断形态；&lt;strong&gt;（2）构造反转过程中，应力应变汇聚易优先发生在基底断层面上，并逐渐向沉积地层中传播，最终在浅表触发构造形变；&lt;/strong&gt;（3）茅东断裂带属于活动断裂群，以茅东断裂等控盆边界断裂（基底断裂）活动为主，沿着该类断裂，应力应变汇聚明显，具备中、大地震的发震构造条件；断陷内其他隐伏的次级先存断裂也存在活动可能性，且断块间地层在压扭应力场下存在应力应变汇聚，同样具备浅源小震的发震构造条件。
+&lt;strong&gt;关键词：断陷盆地；离散元模拟；茅东断裂带；构造反转；断裂活动性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我国东部受来自太平洋板块向西部欧亚大陆下俯冲和菲律宾板块向北西朝欧亚大陆下俯冲的联合作用的影响，现代构造应力场的主体特征表现为北东东-南西西向的挤压（图1a）。而受郯庐断裂带右旋走滑和东南沿海断裂带右旋走滑等新构造运动的影响，东部下扬子地块基本处于两者之间的压扭转换带区域（图1a），下扬子地块区域内现代构造应力场具有明显压扭特性，导致区域内断陷盆地中正反转构造发育（图1b）。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1-研究区区域位置图及历史地震分布图&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图1 研究区区域位置图及历史地震分布图&#34; srcset=&#34;
+               /blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_cf6ea5f4d33a4dbd1104df44a990a5a1.webp 400w,
+               /blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_5d05982c50954e0c3de0cb806b3043e2.webp 760w,
+               /blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/1_hua490984187447b2542c03a90fa28c80a_813641_cf6ea5f4d33a4dbd1104df44a990a5a1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1 研究区区域位置图及历史地震分布图
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;茅东断陷盆地&#34;&gt;茅东断陷盆地&lt;/h2&gt;
+&lt;p&gt;在断陷盆地内部（如直溪桥凹陷），分布有高角度倾角断裂，这些断裂整体具有正断层构造样式（图2a）。在凹陷西侧，断裂倾向SE（SEE）；凹陷东侧，断裂倾向NW（NWW）（图2a）。前人沿茅东断裂走向开展了较为详细的路线勘探工作，获得了具有代表性的茅东断陷盆地地表地质剖面（图2b至图2d）。这些地质剖面均表明沿茅东断裂，地层发生了不同程度的褶皱构造变形。此外，沿着茅东断裂，断陷盆地中部分第四纪沉积地层已遭受到了断裂的破坏（图2b）或者发生同构造变形（图2d），这些也表明了茅东断裂逆冲活动时间已经延续到了第四纪。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2-茅东断陷盆地勘探剖面图&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图2 茅东断陷盆地勘探剖面图&#34; srcset=&#34;
+               /blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_7c44cbd07007864c812b779cc34dfbd7.webp 400w,
+               /blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_558f3fbb819c394a0f6da60f35c1a823.webp 760w,
+               /blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/2_hu133f54f5df68ae03448f305c1f998081_266815_7c44cbd07007864c812b779cc34dfbd7.webp&#34;
+               width=&#34;666&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2 茅东断陷盆地勘探剖面图
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;模型设计&#34;&gt;模型设计&lt;/h2&gt;
+&lt;p&gt;本文离散元模拟实验初始模型见图5。模型中代表岩石颗粒的基本粒子有两种，其半径分别设置为40 m和60 m。所有粒子被随机地分布在封闭的方形箱子里，并允许它们在重力作用下沉积压实。在实验设计中，定义了盆地中的先存正断层（弱化断层），并允许断层上下盘能够自由的变形，以便观察挤压反转过程中，反转断层上下盘的变形样式。为了便于观察，粒子被不同颜色标记，其中红色代表先存正断层，灰色代表基底地层，蓝色、紫色和黄色代表沉积地层。模型左边界和底边界固定，右边界向左推移以产生挤压效应。
+本实验中实验模型参数设置参照了前人设计，其中基底岩石层的颗粒密度为2500 kg·m-3，盖层岩石层的颗粒密度为2200 kg·m-3。同时，设定各地层的摩擦系数为0.3，并且颗粒之间具有粘结作用力，先存弱化断层之间的摩擦系数为0，并且与任何颗粒之间均无粘结作用力。模型中所有颗粒的泊松比设定为0.2。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3-断陷盆地构造反转的离散元数值模拟实验模型设计图&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图3 断陷盆地构造反转的离散元数值模拟实验模型设计图&#34; srcset=&#34;
+               /blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_5df8783b644d945b50ff24c1c6480764.webp 400w,
+               /blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_34c39d65bea3a2f9758cebccebadd285.webp 760w,
+               /blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/3_hud931c9803817fa782604be598b0d9d22_275782_5df8783b644d945b50ff24c1c6480764.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;263&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3 断陷盆地构造反转的离散元数值模拟实验模型设计图
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;实验初始阶段，模型没有发生明显的构造形变（图4a1），但是通过模型应变分析分别可以看到模型中产生了体积应变和剪切应变，且主要沿先存基底断裂面分布，说明这个阶段挤压应力主要在先存基底断裂面上汇聚，而在沉积地层（盖层）中应力汇聚较小，以致基本无应变分布（图4a2至图4a3）。当挤压应力持续作用时（如挤压量达4%时），模型内部构造形变和应变分布依然在基底断裂面上，沉积地层（盖层）中只是开始在浅部地层中产生轻微体积应变（图4b）。直到挤压量达到6.5%时，模型内基底先存断裂开始反转活化并产生位移（断裂整体保持为正断型），应变开始由基底断裂面向沉积盖层中逐渐扩展，模型内地表地形发生轻微起伏（图4c），表明应力作用已传播到达地表，并引起地表轻微形变。&lt;/p&gt;
+&lt;h2 id=&#34;实验结果&#34;&gt;实验结果&lt;/h2&gt;
+&lt;p&gt;当挤压量持续增大时（8.5%-13%），模型内部凹陷程度开始增大，基底先存断裂反转位移量增加不明显，整体构造形态也几乎无明显变化（图4d至图4e）。在靠近挤压端一侧，隐伏先存基底断裂上端沉积地层（盖层）中，形成了一个三角应变区域（图4d2至图4d3），该区域内体积应变和剪切应变随挤压量增大逐渐增大，表明沿着基底先存断裂挤压应力在此区域内逐渐汇聚。此外，沿着左侧基底边界大断裂，应变也逐渐向浅部地层中扩展，断层反转位移量也开始逐渐增大。
+当挤压量持续增大到15.5%后，沿左侧基底边界大断裂，断层产生明显的位移，并开始发育反转断层相关褶皱（图4g1至图4i1）。在基底地垒断陷盆地内的先存断裂则由于挤压应力作用导致发生了一定程度的旋转、扭曲。在这个阶段，各基底先存断裂与沉积地层中的先存断裂一致活动，导致沉积地层（盖层）中体积应变和剪切应变仍然在持续增大。当模型挤压量达到20%后，在基底边界大断层上方沉积地层中则产生明显的拖曳褶皱构造形变，同时断陷内部盖层则总体呈褶皱样式，形成“上褶下断”和“上凸下凹”的构造形态。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_0e47586560379ae542e5dafa58dbbbb9.webp 400w,
+               /blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_53e7560bbca14aa2547e84b9c56d75ad.webp 760w,
+               /blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/4_hu246541f9f6762582562c8f73f261baff_996774_0e47586560379ae542e5dafa58dbbbb9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_cfa0725d97be60a9f72cbe30bf6dc19c.webp 400w,
+               /blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_db657927fa5d1a64e09360c61cd6dae5.webp 760w,
+               /blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/5_hudd91469d3b920780b4587c30b730ef91_1112201_cfa0725d97be60a9f72cbe30bf6dc19c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图4-基于离散元实验模拟的断陷盆地构造正反转演化图&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图4 基于离散元实验模拟的断陷盆地构造正反转演化图&#34; srcset=&#34;
+               /blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_594cb1323d00ad1f203961a46eaab80a.webp 400w,
+               /blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_1236d2358a0614bd9f6f6976ad16a7d1.webp 760w,
+               /blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20191028/6_hubfa532cc265826a453b8249614eaf7c8_1265024_594cb1323d00ad1f203961a46eaab80a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图4 基于离散元实验模拟的断陷盆地构造正反转演化图
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;研究结果对茅东断陷带的启示&#34;&gt;研究结果对茅东断陷带的启示&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;茅东断陷盆地具有正反转构造特征&lt;/li&gt;
+&lt;li&gt;正断层反转控制了该区域地震发生&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;致 谢  本文数值模拟实验是据美国Rice大学Julia Morgan 教授提供的RICEBAL离散元计算程序及后续应力应变分析代码开展。两位匿名审稿专家在论文评审中提供了具有建设性的修改意见。在此一并表示感谢&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;采用VBOX同样可以完成上述实验&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;吴珍云,尹宏伟,李长圣,等. 断陷盆地正反转构造实验模拟及对茅东断裂带的启示.&lt;strong&gt;南京大学学报（自然科学）&lt;/strong&gt;,2019,5(55):869-878.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第二届“构造地质学与地球动力学青年术论坛”报告</title>
+      <link>https://geovbox.com/blog/201903/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/201903/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;第十一专题：盆山构造与沉积耦合&lt;br&gt;
+地  点：南京大学仙林校区 朱共山楼（地科学院）一楼会议室 A125&lt;br&gt;
+时  间：&lt;strong&gt;2019年3月31日（周日） 10:45-11:00&lt;/strong&gt;&lt;br&gt;
+题  目：同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响&lt;br&gt;
+报告人：李长圣* 南京大学&lt;br&gt;
+&lt;a href=&#34;vbox%e6%a6%82%e8%a7%8820190326.pdf&#34;&gt;下载海报&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;离散元数值模拟是研究构造变形过程与变形机制的重要方法，尤其适合研究构造变形相关的地质问题。
+VBOX采用成熟的接触力学模型，配备有完善的软件手册与构造模拟实例，在计算速度、构造模拟方面远远优于其它离散元数值模拟软件（如&lt;a href=&#34;https://www.itascacg.com/software/pfc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PFC2D&lt;/a&gt;，&lt;a href=&#34;https://yade-dev.gitlab.io/trunk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YADE&lt;/a&gt;等）。并且，没有任何编程基础的科研人员，也可以在短时间内掌握VBOX。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完善的软件手册&lt;br&gt;
+&lt;a href=&#34;https://doc.geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doc.geovbox.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;适合构造模拟的接触力学模型&lt;br&gt;
+&lt;a href=&#34;http://pdfs.semanticscholar.org/9d92/6eda2b7a1e31b35c451c503bcd95dfe7c877.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardy et al, 2009&lt;/a&gt;; &lt;a href=&#34;http://scholarship.rice.edu/bitstream/1911/80855/1/jgrb51133.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morgan, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一天内即可完成相关计算&lt;/li&gt;
+&lt;li&gt;丰富的构造模拟&lt;a href=&#34;https://geovbox.com/gallery/&#34;&gt;实例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;登陆南京大学高性能计算中心 &lt;a href=&#34;http://hpcc.nju.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hpcc.nju.edu.cn&lt;/a&gt;，即可使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们将以 &lt;strong&gt;同构造沉积对库车坳陷盐构造变形演化及应力应变分布的影响&lt;/strong&gt; 为题参加2019年03月29-4月3号的第二届“构造地质学与地球动力学青年术论坛”。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_5238b34660f9b2129d8dffe9d4ef84a8.webp 400w,
+               /blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_7bf93a87f17044a73c65339406506fff.webp 760w,
+               /blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/201903/1_hu03d02d941ac920b480a80ded5f1247c0_506584_5238b34660f9b2129d8dffe9d4ef84a8.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_3b8e4788fbc95ad202bb70a70bad5669.webp 400w,
+               /blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_44cb1d7df1fd9bdf9d4ee0642c1f21a8.webp 760w,
+               /blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/201903/2_huaf65ece57ed75f3b997dbbaa3f5d56e6_488679_3b8e4788fbc95ad202bb70a70bad5669.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;Hardy S, McClay K, Anton Muñoz J. 2009. Deformation and fault activity in space and time in high-resolution numerical models of doubly vergent thrust wedges. Mar Petrol Geol, 26: 232-248.&lt;/li&gt;
+&lt;li&gt;Morgan J K. 2015. Effects of cohesion on the structural and mechanical evolution of fold and thrust belts and contractional wedges: Discrete element simulations. Journal of Geophysical Research: Solid Earth, 120: 3870-3896.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017年美国地球物理协会年会：离散元数值模拟与物理模拟对比</title>
+      <link>https://geovbox.com/blog/agu2017/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/agu2017/</guid>
+      <description>&lt;p&gt;下载：&lt;a href=&#34;Li2017_Poster_AGU.pdf&#34;&gt;海报&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;离散元有各种苛刻的假设，&lt;em&gt;它能否模拟构造？能否再现实验室中真实的物理事件？&lt;/em&gt; 是我们此次会议所关心的问题。
+团队携论文&amp;quot;离散元数值模拟与物理模拟对比&amp;quot;于2017年12月10-16日参加美国地球物理协会2017年年会&lt;/p&gt;
+&lt;p&gt;我们以 &lt;strong&gt;离散元数值模拟与物理模拟对比&lt;/strong&gt; 为题参加了美国地球物理协会AGU2017年年会。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017年中国地球科学联合学术年会：滑脱层强度对挤压构造的影响</title>
+      <link>https://geovbox.com/blog/cgu2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/cgu2017/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;地  点：北京&lt;br&gt;
+时  间：&lt;strong&gt;2017年&lt;/strong&gt;&lt;br&gt;
+题  目：滑脱层强度对挤压构造的影响:离散元数值模拟&lt;br&gt;
+下载：&lt;a href=&#34;%e6%9d%8e%e9%95%bf%e5%9c%a32017%e6%bb%91%e8%84%b1%e5%b1%82%e5%bc%ba%e5%ba%a6%e5%af%b9%e6%8c%a4%e5%8e%8b%e6%9e%84%e9%80%a0%e7%9a%84%e5%bd%b1%e5%93%8d-%e7%a6%bb%e6%95%a3%e5%85%83%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f-CGU%e6%b5%b7%e6%8a%a5.pdf&#34;&gt;海报&lt;/a&gt;
+&lt;a href=&#34;%e6%9d%8e%e9%95%bf%e5%9c%a32017%e6%bb%91%e8%84%b1%e5%b1%82%e5%bc%ba%e5%ba%a6%e5%af%b9%e6%8c%a4%e5%8e%8b%e6%9e%84%e9%80%a0%e7%9a%84%e5%bd%b1%e5%93%8d-%e7%a6%bb%e6%95%a3%e5%85%83%e6%95%b0%e5%80%bc%e6%a8%a1%e6%8b%9f-CGU%e8%ae%ba%e6%96%87.pdf&#34;&gt;论文&lt;/a&gt;
+&lt;a href=&#34;http://t.cn/EX34QrW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;知网链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;离散元（Discrete Element Method, DEM）数值模拟是研究构造变形过程与变形机制的重要方法，在一定程度上突破了物理模拟存在的流变学和比例化问题。与其他连续体数值模拟方法相比，DEM 采用颗粒相互作用来模拟系统的动力学机制，因此实验者可以对系统的运动演化进行模拟和观测。另外由于它允许颗粒间较大相对位移，可以更好地模拟高度形变，尤其适合研究构造变形相关的地质问题。&lt;/p&gt;
+&lt;p&gt;我们以 &lt;strong&gt;滑脱层强度对挤压构造的影响: 离散元数值模拟&lt;/strong&gt; 为题参加了2017年的中国地球科学联合学术年会。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-初始模型&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;初始模型&#34; srcset=&#34;
+               /blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_89fca63676fc6ee39ca87332154e4631.webp 400w,
+               /blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_961b95d51be442d9a9b05f744d5250f2.webp 760w,
+               /blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/cgu2017/init_hued064c685be7446d031387c5918acbd5_42486_89fca63676fc6ee39ca87332154e4631.webp&#34;
+               width=&#34;377&#34;
+               height=&#34;141&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      初始模型
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-挤压量10-km时构造变形及应变&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;挤压量10 km时，构造变形及应变&#34; srcset=&#34;
+               /blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_3d871713c2e8ab8e2be0513c4726a297.webp 400w,
+               /blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_7f40d036d901ec1fe57f38b299d8ad78.webp 760w,
+               /blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/cgu2017/overview_hu088544463abf9d592b940b634fd26125_284353_3d871713c2e8ab8e2be0513c4726a297.webp&#34;
+               width=&#34;312&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      挤压量10 km时，构造变形及应变
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>恭喜ZDEM官网上线</title>
+      <link>https://geovbox.com/blog/webpublish/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/webpublish/</guid>
+      <description>&lt;p&gt;经过几周的设计与备案，ZDEM的官网终于面世，该网站主要发布最新开发成果及计算实例，并逐渐完成软件及手册的编写发布。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

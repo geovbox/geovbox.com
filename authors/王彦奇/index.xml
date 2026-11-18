@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王彦奇 | ZDEM官网</title>
+    <link>https://geovbox.com/authors/%E7%8E%8B%E5%BD%A6%E5%A5%87/</link>
+      <atom:link href="https://geovbox.com/authors/%E7%8E%8B%E5%BD%A6%E5%A5%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>王彦奇</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>王彦奇</title>
+      <link>https://geovbox.com/authors/%E7%8E%8B%E5%BD%A6%E5%A5%87/</link>
+    </image>
+    
+    <item>
+      <title>基底滑脱层强度对川西南褶皱冲断带形成演化的影响-基于离散元模拟的认识</title>
+      <link>https://geovbox.com/blog/20240601/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20240601/</guid>
+      <description>&lt;p&gt;摘要：川西南褶皱冲断带（The southwestern Sichuan fold-thrust belt，简写SWSB）是一个具有两套滑脱层的双重滑脱体系，其滑脱层分别为深度约15-17 km的基底前寒武纪滑脱层和上部中三叠世滑脱层。在新生代川西南褶皱冲断带经历了前展式扩展运动。目前控制上述褶皱冲断作用的动力学机制以及两套滑脱层对川西南褶皱冲断带构造变形的控制机制仍然有待于深入研究。本论文设计了三个可对比的离散元数值模型。在这些模型中，浅部滑脱层均具有相同的参数，但对基底滑脱层设计了不同的机械强度和厚度，从而探讨不同的基底滑脱层强度对川西南褶皱冲断带形成演化的影响。模型I的特点是强摩擦基底滑脱层，表现为在两期变形中均表现为向前陆地区前展式逆冲。大部分变形和逆冲断层集中在活动的后壁附近，并伴随着叠瓦状构造和两个冲起构造的发展。对于模型左侧楔形体的几何参数，模型I表现出“楔高线性增加”、“楔宽和坡角阶梯式增加”的特点。模型II的基底滑脱层厚度为500 m且摩擦力适中。在该模型中，应力应变迅速传播到前陆地区，并且第二期挤压在上部滑脱层上形成了多个逆冲和反冲断层。第一期挤压中模型II的变形过程与模型I相似。然而在第二期挤压中，楔形体达到稳定状态，其几何形状保持不变，变形沿浅层滑脱层传播至模型的右侧。模型III的基底滑脱层厚度较大且摩擦力适中，其前陆地区逆冲断层的几何形状和活动性与其他模型明显不同。在这个模型的第二期挤压中，产生了两个额外的冲起构造。第一期挤压的前半段与前两个模型相似。在第一期挤压的后半段和第二期挤压中，楔形体处于稳定状态。值得注意的是，在缩短的第一阶段中所有模型都经历了从亚临界状态到超临界状态的转变，这表明变形正在沿基底滑脱层迅速向模型右侧推进。总体而言模型III更准确地反映了川西南褶皱冲断带的变形特征，表明其与该地区演化具有较强的相关性。这些模型有助于理解川西南褶皱冲断带的变形过程和形成机制，同时可为浅部滑脱层下油气勘探研究提供参考。 &lt;a href=&#34;#refer-wang2024&#34;&gt;(Wang et al.,2024)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-wang2024&#34;&gt;&lt;/div&gt;[Wang Y, Wang L, Ren R, Wei G, Chen Z,Su N and Zhang Y (2023), The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations. Front. Earth Sci. 11:1251417.](https://doi.org/10.3389/feart.2023.1251417)
+#### 题目
+&lt;p&gt;The influence of basal detachment strength on formation of the southwestern Sichuan fold-thrust belt: insights from discrete-element numerical simulations&lt;/p&gt;
+&lt;p&gt;Yanqi Wang, Lining Wang*, Rong Ren, Guoqi Wei, Zhuxin Chen, Nan Su and Yuqing Zhang&lt;/p&gt;
+&lt;p&gt;a. Research Institute of Petroleum Exploration and Development, Beijing, China&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction:&lt;/h4&gt;
+&lt;p&gt;The southwestern Sichuan fold-thrust belt (SWSB) is a duplex detachment system and features the basal Precambrian detachment at a depth of approximately 15–17 km and the upper Mid-Triassic detachment. Moreover, the SWSB undergoes forward-breaking propagation during the Cenozoic. To date, the mechanism and kinematic evolution governing the SWSB in this thrusting deformation as well as the way the two detachments control the structural deformation pattern of the SWSB remains unknown.&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods:&lt;/h4&gt;
+&lt;p&gt;In this work, three discrete-element numerical models with the same strong upper detachment but basal detachments with different mechanical strengths and thicknesses were designed to study the deformation of the SWSB.&lt;/p&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results:&lt;/h4&gt;
+&lt;p&gt;The results indicate that for the Model I with a strong frictional basal detachment with thickness of 500 m, most deformation and thrust faults concentrate near the mobile backwall. Model I exhibits characteristics such as linearly increasing wedge height and stepwise increasing wedge width and slope angle. For the Model II with a modest frictional basal detachment with thickness of 500 m, the strain and deformation propagate into the foreland quickly and multiple back-thrust and thrust faults form on the upper detachment in the second thrusting period. The first thrusting period in Model II, exhibits similarities with Model I. However, in the second period, the wedge reaches a stable state, and its geometry remains constant. In this stage, the deformation propagates along the shallow detachment into the right side of the model. The geometry and activity of thrust faults in the foreland differ significantly in the model III with a modest frictional basal detachment but a greater thickness. Two additional pop-up structures are generated in the second period in this model. The first half of the first thrusting period is similar to the first two models. In the second half of the first period and the second period, the wedge is in a stable state. In the first stage of the shortening, all models undergo a transition from a subcritical state to entering a supercritical state, which indicates that the deformation is progressing rapidly along the basal detachment towards the right side of the model.&lt;/p&gt;
+&lt;h4 id=&#34;discussion&#34;&gt;Discussion:&lt;/h4&gt;
+&lt;p&gt;The results of Model III are consistent with the deformation pattern of the SWSB. The study of the kinematics and interaction between two detachments could help hydrocarbon exploration beneath the upper detachment.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_a0ba0ff702f3910d6483e361e4c6480f.webp 400w,
+               /blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_6e98eafc96329191ac1fde34533086c5.webp 760w,
+               /blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20240601/fig1_hu0df1b578d521f28d11012a3c62571b3f_393840_a0ba0ff702f3910d6483e361e4c6480f.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;684&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; 模型I（基底滑脱层厚度为500 m，摩擦系数为0.3）的变形过程
+（A）-（C）图分别为模型I在缩短量（S）为20 km、31 km和35 km时的结果。T1-T6表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_5e39fad14725f7a38186719dc523dca5.webp 400w,
+               /blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_28886a2502d5ae422f5fcf7c10f6b0d7.webp 760w,
+               /blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20240601/fig2_hue66563cc477b9959d88c50c2174c2868_251382_5e39fad14725f7a38186719dc523dca5.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;718&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; 模型II（基底滑脱层厚度为500 m，摩擦系数为0.2）变形过程
+（A）-（C）图分别为模型II在缩短量（S）为20 km、31 km和35 km时的结果。T1-T6表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_c577765913cf358d96dbbf0234d729a4.webp 400w,
+               /blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_389c3abb43d961cf4ceca74e838e296e.webp 760w,
+               /blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20240601/fig3_hu5cef6a01717fced316c59e8ae71d1a54_379878_c577765913cf358d96dbbf0234d729a4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;664&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; 模型III（基底滑脱层厚度为1,000 m，摩擦系数为0.2）的变形过程（A）-（C）图分别为模型III在缩短量（S）为20 km、31 km和35 km时的结果。T1-T8表示按形成顺序编号的逆冲断层 &lt;/h5&gt;&lt;/center&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_f101027be25203722639cca622e50299.webp 400w,
+               /blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_8a36b5352eb6197f4d219dc6251cc67b.webp 760w,
+               /blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20240601/fig4_hu30491a7245a47c4137b579ffe51100ad_112600_f101027be25203722639cca622e50299.webp&#34;
+               width=&#34;800px&#34;
+               height=&#34;496&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;center&gt;&lt;h5&gt; 模型I、II和III挤压过程中定量化分析图（A）、（D）和（G）分别为模型I、II和III的楔形体高度随缩短量的变化图；（B）、（E）和（H）分别为模型I、II和III的楔形体宽度随缩短量的变化图；（C）、（F）和（I）分别为模型I、II和III的坡角随缩短量的变化图 &lt;/h5&gt;&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

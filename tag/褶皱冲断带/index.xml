@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>褶皱冲断带 | ZDEM官网</title>
+    <link>https://geovbox.com/tag/%E8%A4%B6%E7%9A%B1%E5%86%B2%E6%96%AD%E5%B8%A6/</link>
+      <atom:link href="https://geovbox.com/tag/%E8%A4%B6%E7%9A%B1%E5%86%B2%E6%96%AD%E5%B8%A6/index.xml" rel="self" type="application/rss+xml" />
+    <description>褶皱冲断带</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geovbox.com/media/icon_hua235b20c26de23a006d4e436991121ab_912_512x512_fill_lanczos_center_3.png</url>
+      <title>褶皱冲断带</title>
+      <link>https://geovbox.com/tag/%E8%A4%B6%E7%9A%B1%E5%86%B2%E6%96%AD%E5%B8%A6/</link>
+    </image>
+    
+    <item>
+      <title>四川盆地威远背斜诱发地震的构造控制机理(Tectonics)</title>
+      <link>https://geovbox.com/blog/20250409/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20250409/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本文VBOX(ZDEM)实验脚本下载：&lt;/strong&gt;
+The code for our DEM experiments can be obtained from Open Science Framework &lt;a href=&#34;https://osf.io/9hn74/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文研究了四川盆地威远背斜地区的构造对诱发地震的控制作用。通过地震解释、离散元数值模拟（DEM）和三维建模，探讨了威远背斜的结构与力学演化及其与水力压裂（HF）诱发地震的关系。研究发现，威远背斜的形成与基底卷入构造楔体密切相关，该结构由深部前冲断层和反向逆冲断层（BT）组成。在沉积盖层中，发育了密集的小位移逆冲断层，连接了志留系页岩滑脱层和寒武系滑脱层，促进了流体压力的向下扩散。研究结果表明，威远区块的诱发地震主要受控于两类构造：一类是与基底卷入构造楔相关的反向逆冲断层，其引发了2019年威远M  5.4地震等M&amp;gt;4的中强地震；另一类是沉积盖层中的页岩滑脱层，其与密集的逆冲断层共同作用，导致了M&amp;lt;4的小型地震。离散元模拟揭示了该区域基底卷入构造的形成过程及其对地震活动的控制机制，而三维结构模型进一步验证了地震与断层结构的空间关联性。这些发现为理解挤压环境下水力压裂诱发地震的机制提供了新视角，并对四川盆地及其他类似地质背景区域的页岩气开发中的地震风险评估具有重要启示。研究强调了识别基底断层结构和滑脱层分布对预防诱发地震的关键作用 &lt;a href=&#34;#refer-Ma&amp;amp;Wang2025&#34;&gt;(Ma &amp;amp; Wang, 2025)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-Ma&amp;Wang2025&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Ma, H., &amp;amp; Wang, M. (2025). Structural control of induced seismicity in the Weiyuan anticline, southwestern Sichuan foreland thrust belt, China. Tectonics, 44, e2024TC008617. &lt;a href=&#34;https://doi.org/10.1029/2024TC008617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2024TC008617&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;Structural Control of Induced Seismicity in the Weiyuan Anticline, Southwestern Sichuan Foreland Thrust Belt, China&lt;br&gt;
+四川盆地威远背斜诱发地震的构造控制机理&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;Haoran Ma, Maomao Wang&lt;/p&gt;
+&lt;p&gt;Institute of Tectonics and Geophysics, College of Oceanography, Hohai University, Nanjing, China&lt;/p&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;Over the past decade, the development of shale gas in the southwestern Sichuan foreland thrust belt, China, has led to a significant increase in induced seismicity, including one of the world&amp;rsquo;s largest hydraulic fracturing (HF)‐related induced earthquake (ML 5.4), occurring in the Weiyuan anticline. Here, we investigated the structural and mechanical evolution of the Weiyuan anticline and its relationship with HF‐induced earthquakes using seismic interpretation, the discrete‐element method (DEM), and three‐dimensional structural modeling. Interpretation of the seismic reflection profiles revealed a basement‐involved wedge structure and two west‐dipping multi‐bending thrust ramps in the basement. East of the Weiyuan anticline, extensive small‐ displacement thrust faults developed between the Cambrian and Silurian shale detachments in the sedimentary cover. DEM simulation showed that the structural wedge formed by the underlying blind thrust ramp and back thrust (BT) controlled the Weiyuan anticline formation. With increased shortening, the fault slip continued to propagate east of the Weiyuan anticline along the Cambrian detachment, leading to the development of
+extensive thrust faults. 3‐D structural modeling showed that M &amp;gt; 4 induced earthquakes were primarily located on a BT in the structural wedge, while M &amp;lt; 4 events were distributed along the hydro‐fractured Silurian shale and Cambrian detachment. Densely developed thrust faults in the sedimentary cover connect the overpressured Silurian shale to the Cambrian detachment, promoting the downward diffusion of fluid pressure and favoring micro‐small M &amp;lt; 4 induced seismic events. This study provides new insights into the seismic hazard assessment of HF development in fold‐and‐thrust belts.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_2a59903f096d20c9d59583fa075358ee.webp 400w,
+               /blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_419772da573ef495303ea9c8f5414984.webp 760w,
+               /blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure1_huc2f095d956ac3e73b8db308a21e408b0_1509860_2a59903f096d20c9d59583fa075358ee.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 1. Topography map of the Longmen Shan and Sichuan Basin with major faults and cities. The red line indicates the location of seismic reflection profile PQ-92 in Fig. 5. The white pentagrams represent the MS 5.4 Weiyuan, MS 6.0 Luxian, MS 6.0 and 5.3 Changning respectively. The seismicity records from 1970 to 2014, and 2014 to 2020 are distinguished with grey and yellow circles, respectively. The earthquake data were obtained from the China Earthquake Networks Center, http://www.ceic.ac.cn/history in Chinese. 
+ &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_9ee2da63c0652964b8549b278cfff7b0.webp 400w,
+               /blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_e71bb18d7f0da8a52e53d01e22ae42c2.webp 760w,
+               /blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure5_huc2f095d956ac3e73b8db308a21e408b0_2338025_9ee2da63c0652964b8549b278cfff7b0.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;642&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 5. (a) Structural interpretation of seismic reflection profile PQ-92 across the region of the Weiyuan to Dengjingguan anticlines, with wells K7 and WH101 constraining the horizons, are shown. (b) Restoration results of deformed horizons from Weiyuan to Dengjingguan anticlines. The shortening of the base of the Jurassic layer in a representative structural profile is 2.5 km. The Cenozoic sedimentary strata within this area in the profile are absent. The profile is shown at 2X vertical exaggeration. BT: back thrust; PCD: pre-Cambrian detachment; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_011109828394052fcde16a8dc7989739.webp 400w,
+               /blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_d3e2ee83195a933217c15251a90ef9fc.webp 760w,
+               /blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure6_hu25d744f1b96eede93eb4b16e0082b6b6_789074_011109828394052fcde16a8dc7989739.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;666&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 6. Schematic representation of the experimental setup. (a) The initial model setup contained homogeneous mechanical properties. (b) The contractional wedge model setup contained two-level  basal detachments and three detachments in sedimentary cover, the wedge point occurs within the basement. (c) The shallow thrust ramp merged with an east-dipping detachment fault at the wedge point. BT: back thrust; PCD: pre-Cambrian detachment.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_e84958987d99ce4d802178b8163eeebb.webp 400w,
+               /blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_931e0c6e5091cd6e68dd20c7a62be3f9.webp 760w,
+               /blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure7_huc2f095d956ac3e73b8db308a21e408b0_1231821_e84958987d99ce4d802178b8163eeebb.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 7. Progressive evolution observed in homogeneous model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). F1–F5 denote thrust faults in the order of their formation. DTR: deep thrust ramp.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_782a0f031b03ad7dce3f78c445130c51.webp 400w,
+               /blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_be31fff8ac280e4fb345139a3e491659.webp 760w,
+               /blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure8_huc2f095d956ac3e73b8db308a21e408b0_1430401_782a0f031b03ad7dce3f78c445130c51.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 8. Progressive evolution observed in contractional wedge model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). BT: back thrust; FT: fore thrust; STR: shallow thrust ramp; DTR: deep thrust ramp; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_269ddff8ab5282f7c559b25850a8fdfa.webp 400w,
+               /blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_4b14001958f31d07afbcfcf171db921a.webp 760w,
+               /blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure10_huc2f095d956ac3e73b8db308a21e408b0_1483052_269ddff8ab5282f7c559b25850a8fdfa.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 10. Progressive evolution observed in the partitioned slipping wedge model, with distortional strains superimposed on the colored strata. (a)–(d) The results of the model at total shortenings of 7 km (a), 10 km (b), 13 km (c), and 16 km (d). BT: back thrust; PCD: pre-Cambrian detachment; STR: shallow thrust ramp; DTR: deep thrust ramp; D1: Middle Triassic detachment; D2: Lower Silurian detachment; D3: Mid-Upper Cambrian detachment.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_7fa3f11bf73871bfdcb601cd2a67229d.webp 400w,
+               /blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_df695b665a1adfef3fe56307d3b2572e.webp 760w,
+               /blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20250409/Figure11_huc2f095d956ac3e73b8db308a21e408b0_4116793_7fa3f11bf73871bfdcb601cd2a67229d.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;464&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 11. Comparison between the structural cross-section of the Weiyuan to Kongtan anticlines and the result of the partitioned slipping wedge model. (a) Interpreted seismic profile in Figure 5. (b, c) The result of the partitioned slipping model when the shortening amount is 16 km, graph with distortional strains superimposed on the colored strata (b), graph only with distortional strains (c). BT: back thrust; PCD: pre-Cambrian detachment; D2: lower Silurian detachment; D3: mid-upper Cambrian detachment.&lt;/h5&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;Combined with structural interpretation, DEM simulations, and 3-D modeling, this study revealed the structure, kinematics, and mechanical evolution of a preexisting basement-involved structural wedge beneath the Weiyuan anticline and multiple detachments of the sedimentary cover in the southwestern Sichuan foreland fold-and-thrust belt, China, and discussed their influences on induced seismicity. Based on our study results, the following conclusions were drawn:
+(1)The Weiyuan anticline is formed by a preexisting basement-involved contractional wedge consisting of a basal thrust ramp and a back thrust fault. East of the Weiyuan limb, the fault slip continued to propagate along the Cambrian detachment, contributing to the development of extensive low-displacement thrusts that cut through the Silurian shale detachment.
+(2) The earthquakes induced in the Weiyuan block were primarily controlled by preexisting compressional basement-involved thrust structures and multi-level detachments in the sedimentary cover. The largest induced earthquake (2019 ML 5.2 event), along with other M &amp;gt; 4 earthquakes, occurred on BT within the basement-involved wedge structure.
+(3) In the sedimentary cover, induced earthquakes (M &amp;lt; 4) primarily occurred between the Silurian shale and the middle–upper Cambrian shale detachments. Densely developed thrust faults connect the high-pore-pressure Silurian shale with Cambrian shale detachment, promoting the downward diffusion of pore pressure, which enhances the occurrence of induced earthquakes.&lt;/p&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;We thank Editor‐in‐Chief Taylor Schildgen, Associate Editor Judith Hubbard, reviewer Andreas Plesch, and one anonymous reviewer for their comments and suggestions.This research was supported by the National Natural Science Foundation of China (42172232 and 41702202) and National Key R&amp;amp;D Program of China (2021YFC3000604). Numerical simulations were performed on the discrete element modeling software VBOX (&lt;a href=&#34;https://www.geovbox.com/en%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com/en)&lt;/a&gt;. The authors thank Prof. Julia Morgan from Rice University for generously sharing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. The numerical simulation of this study is performed on the computing facilities in the High-Performance Computing Center (HPCC) of Nanjing University.&lt;/p&gt;
+&lt;h3 id=&#34;data-availability-statement&#34;&gt;Data Availability Statement&lt;/h3&gt;
+&lt;p&gt;We used VBOX version 2.1 ( &lt;a href=&#34;#refer-Li2021&#34;&gt;Li et al., 2021&lt;/a&gt; ; &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) for the discrete-element method (DEM) numerical simulations. The web site &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt; provides manual and tutorial, examples, and references for VBOX version 2.1. The code for our DEM experiments can be obtained from Open Science Framework (&lt;a href=&#34;https://osf.io/9hn74/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/)&lt;/a&gt;. The relocated seismicity data used in this study is provided by &lt;a href=&#34;#refer-Zi2023&#34;&gt;Zi et al. (2023)&lt;/a&gt;. The seismic reflection data, drilling wells, and structural maps were provided courtesy of the Southwest Oil and Gas Field Company, PetroChina. They cannot be released to the public. 3D models after time to depth conversion, including Middle-Upper Cambrian detachment, Lower Silurian detachment, and main faults, can also be obtained from Open Science Framework (&lt;a href=&#34;https://osf.io/9hn74/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/9hn74/)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-Li2021&#34;&gt;&lt;/div&gt;
+Li, C., Yin, H., Wu, C., Zhang, Y., Zhang, J., Wu, Z., et al. (2021). Calibration of the Discrete Element Method and Modeling of Shortening Experiments . Frontiers in Earth Science, 9(May),1–12. 
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3389/feart.2021.636512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3389/feart.2021.636512&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;refer-Zi2023&#34;&gt;&lt;/div&gt;
+Zi, J., Yang, H., Su, J., &amp; Chen, L. (2023). Structural constraints of induced earthquakes in the Weiyuan Shale Gas Field revealed by high-resolution body-wave tomography and earthquake relocation [Dataset]. Tectonophysics, 864(June), 230007. 
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.tecto.2023.230007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.tecto.2023.230007&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识(Tectonics)</title>
+      <link>https://geovbox.com/blog/20221110/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://geovbox.com/blog/20221110/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本文VBOX(ZDEM)实验脚本下载：&lt;/strong&gt;
+The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/tz2qg;&lt;/a&gt; &amp;gt; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/pa9sy)&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文研究了位于青藏高原东缘的龙门山褶皱冲断带及其毗邻的川西前陆盆地的构造变形与地表过程的相互作用。利用离散元数值模拟的方法，研究了不同力学性质的滑脱层以及同构造侵蚀/沉积过程对龙门山和川西前陆盆地构造演化的影响。模拟结果显示：晚新生代的两期地表过程显著地影响着龙门山内陆及前陆地区的逆冲序列与应变局部化。在缺少地表过程的影响下，褶皱冲断带以“前展式”向前传播，而在有地表过程中则以“乱序式”（out-of-sequence）的逆冲方式。作者推断晚新生代以来，从四川盆地向西至青藏高原的大规模侵蚀作用传播的影响下，龙门山内陆演变为次临界状态。构造活动性后撤至高原的边缘，导致了龙门山的快速隆升并抑制了大量缩短变形传播至前陆盆地。前陆冲断带沿浅部滑脱层的稳定滑移导致前缘龙泉断层的形成和生长。这些结果解释了为何龙门山内陆冲断带和川西前陆冲断带现今同时处于地震活动状态的原因。该研究对活跃地表过程作用下的褶皱冲断带地震潜在活动性的研究提供了重要的启示&lt;a href=&#34;#refer-wang2022&#34;&gt;(Wang et al.,2022)&lt;/a&gt;。&lt;/p&gt;
+&lt;div id=&#34;refer-wang2022&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Wang, M., Wang, M., Feng, W., Yan, B., &amp;amp; Jia, D. (2022). Influence of surface processes on strain localization and seismic activity in the Longmen Shan fold-and-thrust belt: Insights from discrete-element modeling. &lt;strong&gt;Tectonics&lt;/strong&gt;, 41, e2022TC007515. &lt;a href=&#34;https://doi.org/10.1029/2022TC007515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2022TC007515&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;题目&#34;&gt;题目&lt;/h4&gt;
+&lt;p&gt;Influence of Surface Processes on Strain Localization and Seismic Activity in the Longmen Shan Fold-and-Thrust Belt: Insights From Discrete-Element Modeling&lt;br&gt;
+地表过程对龙门山褶皱冲断带应变分布及地震活动的影响：基于离散元模拟的认识&lt;/p&gt;
+&lt;h4 id=&#34;作者&#34;&gt;作者&lt;/h4&gt;
+&lt;p&gt;Maomao Wang&lt;sup&gt;1&lt;/sup&gt;,Ming Wang&lt;sup&gt;1&lt;/sup&gt;,Wang Feng&lt;sup&gt;1&lt;/sup&gt;,Bing Yan&lt;sup&gt;1&lt;/sup&gt;,Dong Jia&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Institute of Tectonics and Geophysics, College of Oceanography, Hohai University, Nanjing, China&lt;/li&gt;
+&lt;li&gt;School of Earth Sciences and Engineering, Nanjing University, Nanjing, China&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;We investigated interactions between structural deformation and surface processes in the Longmen Shan fold-and-thrust belt and the adjacent western Sichuan foreland basin (WSFB) in the eastern margin of the Tibetan Plateau. The discrete-element modeling (DEM) method was used to study the influences of the various mechanical properties of the detachments and syn-tectonic erosion/deposition on the structural evolution of the Longmen Shan and WSFB. DEM simulations demonstrated two stages of surface processes during the Late Cenozoic profoundly influenced thrusting sequences and strain localization in the hinterland and foreland portions of the Longmen Shan. Models indicate that the fold-and-thrust belt lacking surface processes propagate in a forward-breaking manner, whereas those with surface processes develop following an out-of-sequence thrusting pattern. We infer that large-scale erosion propagation from the Sichuan Basin westward to the Tibetan Plateau since Late Cenozoic caused the Longmen Shan hinterland to reach a subcritical wedge state. Tectonic activity retreats to the edge of Plateau, enhancing the rapid uplift of the Longmen Shan and inhibiting the propagation of substantial shortening deformation to the foreland basin. The foreland thrust belt slides stably along the shallow detachment, causing the initiation and growth of the Longquan fault in the leading front. These results explain why both the Longmen Shan hinterland and the western Sichuan foreland thrust belts are currently in a state of simultaneous seismic activity. Our findings offer important implications regarding the seismic potentials of other fold-and-thrust belts that interact with dynamic surface processes.&lt;/p&gt;
+&lt;h5&gt; &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_b5759661a5141cdb2475d33b2cb74d12.webp 400w,
+               /blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_a61fc24d396ba38300abd0e5b4220c99.webp 760w,
+               /blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0001-m_hu6e47567c19fe7e019acef287476481c2_1909815_b5759661a5141cdb2475d33b2cb74d12.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 1. Geological map of the eastern Tibetan Plateau showing the focal mechanisms of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. The red lines represent surface ruptures of the 2008 Wenchuan earthquake ([Liu-Zeng et al., 2009](#refer-Liu-Zeng2009); [Xu et al., 2009](#refer-Xu2009)). The gray rectangles represent the age of previous published low-temperature thermochronology data, from ([E. Wang et al., 2012](#refer-Wang2012) )&lt;sup&gt;[1]&lt;/sup&gt; and ([Richardson et al., 2008](#refer-Richardson2008))&lt;sup&gt;[2]&lt;/sup&gt;. The brown lines represent the structural profiles in the study area, where profile (a–c) is shown in Figures 5a–5c, respectively. LQF: Longquan Fault; PGT: Pengguan Thrust; RFBT: Range Front Blind Thrust; WLF, Wulong Thrust; WLT: Wenchuan–Maowen Fault; XPT: Xiongpo Thrust; YBT: Yingxiu–Beichuan Thrust.
+ &lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_16dcc8e7c9d52de647a887b2d9ac3926.webp 400w,
+               /blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_7fabd3ea757f0c53607bdef83c1d7041.webp 760w,
+               /blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0006-m_hudc9d6188a4897d745c394d359f80ff8a_193460_16dcc8e7c9d52de647a887b2d9ac3926.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;247&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt; Figure 6. (a) Representative structural profile a (see location in Figure 1) in the central segment of the Longmen Shan fold-and-thrust belt (Jia et al., 2010). (b) Restoration results of deformed horizons in foreland region of structural profile (a) The shortening of the base of Jurassic layer in foreland region is 13.3 km. The Cenozoic sedimentary strata within hinterland of the Longmen Shan in this profile are absent.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_ef86a1c06c29e41584673cdce958a3b4.webp 400w,
+               /blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_f8437e00100ec09ba465ace4fd0caab0.webp 760w,
+               /blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0008-m_hu9e51719c821a31c8b0a478752f3ca8c6_384658_ef86a1c06c29e41584673cdce958a3b4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;545&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 8. Schematic representation of the experimental setup. (a) The initial model setup contained two-level detachments with differential mechanical strengths. (b) When simulating the surface processes in the first stage of Model I-2, the eroded materials from the hinterland were deposited sequentially in the foreland. c) When simulating the surface processes in the second stage of Model I-2, surface erosion occurred throughout the wedge, and materials were transported from the system. The stages of b and c of Model I-2 are not to scale.
+&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_72d211fccc940f1c28c3b321c21a70fa.webp 400w,
+               /blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_f98470a5d84eb615a040f6e637fc6aec.webp 760w,
+               /blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0009-m_hu52f33272bef0373b7ce3abc384379469_1018390_72d211fccc940f1c28c3b321c21a70fa.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 9. The progressive evolution observed in Model I-1 (conducted with five stages and no surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-1 at total shortenings of 10 km (a), 15 km (b), 24 km (c), 30 km (d), or 35 km (e). T1–T7 denote thrust faults in the order of their formation. RFBT, Range Front blind thrust.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_0458118cd182f8b58c16e7c03f53edb4.webp 400w,
+               /blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_1e22ad9b02f235cee772725ac0e9917b.webp 760w,
+               /blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0010-m_hueb618714f7a1bb1123e4798edf35ac39_1065171_0458118cd182f8b58c16e7c03f53edb4.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 10. The progressive evolution observed in Model I-2 (conducted with five stages and surface processes), with distortional strains superimposed on the colored strata. (a)–(e) The results of Model I-2 at total shortenings of 15 km (a), 19 km (b), 31 km (c), 33 km (d), or 35 km (e). T1–T5 denote thrust faults in the order of their formation.&lt;/h5&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_da6e7b84e784a14c761dad50ba3dd2b6.webp 400w,
+               /blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_6bfcbef29aba5d8ac44c72c725b96a24.webp 760w,
+               /blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://geovbox.com/blog/20221110/tect21806-fig-0014-m_hubf866b07b778be6ad58892992afab537_713374_da6e7b84e784a14c761dad50ba3dd2b6.webp&#34;
+               width=&#34;600px&#34;
+               height=&#34;489&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h5&gt;Figure 14. Comparison between the structural cross-section of the central Longmen Shan thrust belt and the results of Model I-2 (simulated with surface processes). (a) Structural profiles of the central Longmen Shan (modified from Jia et al., 2010) and the locations of the 2008 Mw 7.9 Wenchuan earthquake, the 2013 Mw 6.6 Lushan earthquake, and the 2020 Ms 5.1 Qingbaijiang earthquake. (b, c) Comparison of the structural profile and range front structure in Model I-2. (d, e) Comparison of the structural profile and foreland thrust belt in Model I-2. LQF, Longquan Fault. The location of (e) is shown in structural profile a1 in Figure 1.&lt;/h5&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;Based on DEM simulations, we reveal the interaction between thrusting propagation and surface processes, and its influence on modern seismicity in the Longmen Shan fold-and-thrust belt and its adjacent WSFB. Based on our study results, we obtain the following conclusions:&lt;/p&gt;
+&lt;p&gt;DEM simulations without surface processes indicated that the fold-and-thrust belt developed in an in-sequence thrusting manner. In contrast, DEM simulations with surface processes revealed that the Longmen Shan fold-and-thrust belt developed in an out-of-sequence manner during the late Cenozoic. Starting at ∼30–20 Ma, rapid denudation processes occurred in the Longmen Shan hinterland, and the YBT and PGT Faults continued to be active. From ∼10 Ma to the present, large-scale propagation of denudation occurred from the Sichuan Basin toward the Tibetan Plateau, and tectonic activity retreated to the hinterland of Longmen Shan. Surface processes were relatively quiescent between these two stages, structural shortening propagated forward through the RFBT, and formed the Longquan Fault in the Sichuan basin.&lt;/p&gt;
+&lt;p&gt;Instrumental and historical earthquakes indicate that the frontal faults in the WSFB and the imbricate faults in the Longmen Shan hinterland region are simultaneously seismically active. We interpret that the activity of the Coulomb wedge of the Longmen Shan is related to the latest stage of surface process. Since ∼10 Ma, large and widespread propagation of erosion from the Sichuan Basin toward the eastern Tibet Plateau caused the Longmen Shan hinterland to enter a subcritical state. The reactivation of reverse faults in the hinterland enhanced the rapid uplift of the Longmen Shan and inhibited most of its slip lateral propagation to the foreland basin. The WSFB is currently in a critical state, with wedge slides occurring steadily along the shallow detachment, with the occurrence of frequent, small-moderate earthquakes in the frontal thrust.&lt;/p&gt;
+&lt;p&gt;The distribution of Mesozoic salt lakes in the interior of the Sichuan Basin influenced the location, rate, and structural style of thrust slip that propagated from the Longmen Shan hinterland to the foreland basin. Our simulations indicate that the front blind thrust of Longmen Shan range gradually connects the basal detachment and shallow detachment in foreland, and its position is controlled by the western boundary of the salt-lake. Results of comparative experiments show that fault slips from the hinterland of Longmen Shan entered the southwestern Sichuan basin extensively to form several thrust fault-related folds above shallow detachment. However, slip in the northern Longmen Shan was confined to the range front and did not propagate into the northwest Sichuan basin. This suggests that the structural variability along the strike in the Longmen Shan can be explained from the perspective of the internal factors of the Sichuan basin.&lt;/p&gt;
+&lt;h4 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h4&gt;
+&lt;p&gt;This research was supported by the National Key R&amp;amp;D Program of China (2021YFC3000604) and the National Natural Science Foundation of China (42172232, 41702202, and 41927802). Numerical simulations were performed on the discrete element modeling software VBOX (&lt;a href=&#34;https://www.geovbox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.geovbox.com&lt;/a&gt;). The authors thank Julia Morgan (Rice University) for generously sharing her discrete element code (RICEBAL v5.4) and post-processing scripts and algorithms, which have been used to process and display the model outputs presented in our modeling. The authors thank Dr. Chang-Sheng Li (East China University of Technology) for his suggestions in the numerical simulations. The numerical simulation of this study is performed on the computing facilities in the High-Performance Computing Center (HPCC) of Nanjing University. The authors thank Jonny Wu and Sharadha Sathiakumar for their constructive reviews.&lt;/p&gt;
+&lt;h3 id=&#34;data-availability-statement&#34;&gt;Data Availability Statement&lt;/h3&gt;
+&lt;p&gt;The authors used VBOX version 2.1 (C. Li et al., 2021; &lt;a href=&#34;https://geovbox.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://geovbox.com/en/&lt;/a&gt;) for the discrete-element method (DEM) numerical simulations. Numerical simulations were conducted at the High-Performance Computing Center (HPCC), Nanjing University. The code for our DEM experiments can be obtained from Open Science Framework (Model I-1, no surface processes, &lt;a href=&#34;https://osf.io/tz2qg;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/tz2qg;&lt;/a&gt; Model I-2, with surface processes, &lt;a href=&#34;https://osf.io/pa9sy%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/pa9sy)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;div id=&#34;refer-Li2019&#34;&gt;&lt;/div&gt;
+李长圣, 2019. 基于离散元的褶皱冲断带构造变形定量分析与模拟. 博士论文. 南京: 南京大学.
+&lt;div id=&#34;refer-Liu-Zeng2008&#34;&gt;&lt;/div&gt;
+Liu-Zeng, J., Zhang, Z., Wen, L., Tapponnier, P., Sun, J., Xing, X., et al. (2009). Co-seismic ruptures of the 12 May 2008, Ms 8.0 Wenchuan earthquake, Sichuan: East–west crustal shortening on oblique, parallel thrusts along the eastern edge of Tibet. Earth and Planetary Science Letters, 286, 355–370. https://doi.org/10.1016/j.epsl.2009.07.017
+&lt;div id=&#34;refer-Xu2009&#34;&gt;&lt;/div&gt;
+Xu, X., Wen, X., Yu, G., Chen, G., Klinger, Y., Hubbard, J., &amp; Shaw, J. (2009). Coseismic reverse- and oblique-slip surface faulting generated by the 2008 Mw 7.9 Wenchuan earthquake, China. Geology, 37, 515–518. https://doi.org/10.1130/G25462A.1
+&lt;div id=&#34;refer-Wang2012&#34;&gt;&lt;/div&gt;
+Wang, E., Kirby, E., Furlong, K. P., Van Soest, M., Xu, G., Shi, X., et al. (2012). Two-phase growth of high topography in eastern Tibet during the Cenozoic. Nature Geoscience, 5, 640–645. https://doi.org/10.1038/ngeo1538
+&lt;div id=&#34;refer-Richardson2008&#34;&gt;&lt;/div&gt;
+Richardson, N. J., Densmore, A. L., Seward, D., Fowler, A., Wipf, M., Ellis, M. A., et al. (2008). Extraordinary denudation in the Sichuan Basin: Insights from low-temperature thermochronology adjacent to the eastern margin of the Tibetan Plateau. Journal of Geophysical Research, 113, B04409. https://doi.org/10.1029/2006JB004739
+</description>
+    </item>
+    
+  </channel>
+</rss>
