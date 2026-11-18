@@ -50,12 +50,36 @@ subtitle = ""
 +++
 
 {{% row %}}
-<h3 class="text-left"><i class="fa fa-video"></i> 离散元数值模拟软件初级教程</h3>
+<h3 class="text-left"><i class="fa fa-video"></i> 离散元数值模拟软件ZDEM初级教程</h3>
 <p>2020年02月<br/>主讲人：李长圣 <br/>该视频教程共约２个小时，针对ZDEM和VBOX零基础用户。学习完该教程，用户可以实现构造数值模拟。</p>
 <div class="text-left">
 	<a href="https://www.bilibili.com/video/BV1qq4y177Ni/" class="btn btn-primary" role="button" style="color: white;">宣传片</a>
 	<a href="https://www.bilibili.com/video/av91259173/" class="btn btn-primary" role="button" style="color: white;">视频教程</a>
 	<a href="/blog/video-totorial-publish/" class="btn btn-default" role="button">详细介绍</a>
+</div>
+{{%/ row %}}
+
+---
+
+{{% row %}}
+<h3 class="text-left"><i class="fa fa-video"></i> 离散元数值模拟软件ZDEM中级教程</h3>
+<p>2026年11月<br/>主讲人：李长圣 <br/>该视频教程持续更新中... <br/> 针对学习完ZDEM初级教程的用户，讲解如何使用DeepSeek Harness给ZDEM安排计算任务</p>
+<div class="text-left">
+	<a href="https://www.bilibili.com/video/BV1azsB64Ev2/?vd_source=29bf33a93683922845a30efdb9e06bc8" class="btn btn-primary" role="button" style="color: white;">第一节 DSH中提交计算</a>
+  <a href="https://www.bilibili.com/video/BV1azsB64Ev2/?p=2&share_source=copy_web&vd_source=a6427384848e8aaa4034a801f47d4fb2" class="btn btn-primary" role="button" style="color: white;">第二节 DSH-SLOP安装与配置</a>
+  <a href="https://www.bilibili.com/video/BV1azsB64Ev2/?p=3&share_source=copy_web&vd_source=a6427384848e8aaa4034a801f47d4fb2" class="btn btn-primary" role="button" style="color: white;">第三节 给ZDEM安排计算任务并制作PPT</a>
+</div>
+{{%/ row %}}
+
+---
+
+{{% row %}}
+<h3 class="text-left"><i class="fa fa-video"></i> 基于离散元的构造变形数值模拟定量分析方法 </h3>
+<p>2026年11月<br/>主讲人：李长圣 <br/>中国地质大学(武汉)第377期资源学术论坛邀请报告<br/>第一节 应用；<br/>第二节 软件；<br/>第三节 DeepSeek Harness中使用ZDEM。</p>
+<div class="text-left">
+	<a href="https://www.bilibili.com/video/BV1VNWf67EJr/" class="btn btn-primary" role="button" style="color: white;">第一节 应用</a>
+  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&spm_id_from=333.788.videopod.episodes&p=2" class="btn btn-primary" role="button" style="color: white;">第二节 软件</a>
+  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&p=3&spm_id_from=333.788.videopod.episodes/" class="btn btn-primary" role="button" style="color: white;">第三节 DeepSeek Harness中使用ZDEM。</a>
 </div>
 {{%/ row %}}
 
@@ -72,18 +96,6 @@ subtitle = ""
 </div>
 {{%/ row %}}
 
-
----
-
-{{% row %}}
-<h3 class="text-left"><i class="fa fa-video"></i> 基于离散元的构造变形数值模拟定量分析方法 </h3>
-<p>2026年11月<br/>主讲人：李长圣 <br/>中国地质大学(武汉)第377期资源学术论坛邀请报告<br/>第一节 应用；<br/>第二节 软件；<br/>第三节 DeepSeek Harness中使用ZDEM。</p>
-<div class="text-left">
-	<a href="https://www.bilibili.com/video/BV1VNWf67EJr/" class="btn btn-primary" role="button" style="color: white;">第一节 应用</a>
-  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&spm_id_from=333.788.videopod.episodes&p=2" class="btn btn-primary" role="button" style="color: white;">第二节 软件</a>
-  <a href="https://www.bilibili.com/video/BV1VNWf67EJr/?vd_source=29bf33a93683922845a30efdb9e06bc8&p=3&spm_id_from=333.788.videopod.episodes/" class="btn btn-primary" role="button" style="color: white;">第三节 DeepSeek Harness中使用ZDEM。</a>
-</div>
-{{%/ row %}}
 
 ---
 
